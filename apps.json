@@ -2,96 +2,115 @@
   {
     "app_url": "https://apps.apple.com/app/id6447305870",
     "app_name": "Keyword Tracker: ASO Widgets",
-    "app_description": "App Ranking Optimization"
+    "app_description": "App Ranking Optimization",
+    "image_url": "https://pmstani.github.io/img/apps/asowidgets.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6449843611",
     "app_name": "Bible Tab",
-    "app_description": "Christian Browser Extension"
+    "app_description": "Christian Browser Extension",
+    "image_url": "https://pmstani.github.io/img/apps/bibletab.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id1506363398",
     "app_name": "Calcular, mental maths",
-    "app_description": "Mental Maths Done Right"
+    "app_description": "Mental Maths Done Right",
+    "image_url": "https://pmstani.github.io/img/apps/calcular.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id1660211486",
     "app_name": "Chatbot Activate AI",
-    "app_description": "AI Chat Bot and Friend"
+    "app_description": "AI Chat Bot and Friend",
+    "image_url": "https://pmstani.github.io/img/apps/activate.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6476564299",
     "app_name": "Clean Genie - Photo Cleaner",
-    "app_description": "Optimize Phone Storage & Space"
+    "app_description": "Optimize Phone Storage & Space",
+    "image_url": "https://pmstani.github.io/img/apps/cleangenie.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6449745240",
     "app_name": "Dyslexia",
-    "app_description": "Dyslexic Reading Extension"
+    "app_description": "Dyslexic Reading Extension",
+    "image_url": "https://pmstani.github.io/img/apps/dyslexia.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6479872912",
     "app_name": "Fight IQ",
-    "app_description": "AI Training For Combat Sports"
+    "app_description": "AI Training For Combat Sports",
+    "image_url": "https://pmstani.github.io/img/apps/fightiq.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6449024584",
     "app_name": "Get Archive",
-    "app_description": "A Time Capsule for Web Pages"
+    "app_description": "A Time Capsule for Web Pages",
+    "image_url": "https://pmstani.github.io/img/apps/getarchive.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id982443770",
     "app_name": "Karate",
-    "app_description": "Train for your Karate Black Belt"
+    "app_description": "Train for your Karate Black Belt",
+    "image_url": "https://pmstani.github.io/img/apps/karate.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6477295569",
     "app_name": "Make It Dark Mode",
-    "app_description": "Night Reading Theme for Safari"
+    "app_description": "Night Reading Theme for Safari",
+    "image_url": "https://pmstani.github.io/img/apps/makeitdark.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id1672621191",
     "app_name": "Mental Health by HappySteps",
-    "app_description": "Your Daily Stress Tracker"
+    "app_description": "Your Daily Stress Tracker",
+    "image_url": "https://pmstani.github.io/img/apps/happysteps.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6449968950",
     "app_name": "Motivation Quotes Affirmations",
-    "app_description": "Inspiration in Every New Tab"
+    "app_description": "Inspiration in Every New Tab",
+    "image_url": "https://pmstani.github.io/img/apps/motivation.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6478925381",
     "app_name": "NumZap: Reflex Training Tap",
-    "app_description": "Reaction Game for F1 Pilots"
+    "app_description": "Reaction Game for F1 Pilots",
+    "image_url": "https://pmstani.github.io/img/apps/numzap.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6450424843",
     "app_name": "Positive Affirmations: For You",
-    "app_description": "Daily Quotes & Motivation"
+    "app_description": "Daily Quotes & Motivation",
+    "image_url": "https://pmstani.github.io/img/apps/positiveaffirmations.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6502348556",
     "app_name": "Presbyopia",
-    "app_description": "Extension for Farsighted Users"
+    "app_description": "Extension for Farsighted Users",
+    "image_url": "https://pmstani.github.io/img/apps/presbyopia.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6449831325",
     "app_name": "Quran Tab",
-    "app_description": "Safari Extension for Muslims"
+    "app_description": "Safari Extension for Muslims",
+    "image_url": "https://pmstani.github.io/img/apps/qurantab.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6472327977",
     "app_name": "Snapmark. Screenshot: Bookmark",
-    "app_description": "Capture & Save Links for Later"
+    "app_description": "Capture & Save Links for Later",
+    "image_url": "https://pmstani.github.io/img/apps/snapmark.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id1640448571",
     "app_name": "Tech News Pro",
-    "app_description": "Hacker News Curated Stories"
+    "app_description": "Hacker News Curated Stories",
+    "image_url": "https://pmstani.github.io/img/apps/technews.png"
   },
   {
     "app_url": "https://apps.apple.com/app/id6451105330",
     "app_name": "Wave & Surf reports by Kooks",
-    "app_description": "Best Surfing Forecast"
+    "app_description": "Best Surfing Forecast",
+    "image_url": "https://pmstani.github.io/img/apps/kooks.png"
   }
 ]
