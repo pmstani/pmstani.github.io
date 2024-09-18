@@ -124,5 +124,11 @@
     "app_name": "Wave & Surf reports by Kooks",
     "app_description": "Best Surfing Forecast",
     "image_url": "https://pmstani.github.io/img/apps/kooks.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6695754679",
+    "app_name": "Read Easier",
+    "app_description": "Atkinson Hyperlegible Font for Safari",
+    "image_url": "https://pmstani.github.io/img/apps/readeasier.png"
   }
 ]
