@@ -15,15 +15,197 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
 
 ## 📱 My apps
 
-| <a href="https://apps.apple.com/app/id6447305870" title="Keyword Tracker: ASO Widgets"><img src="/img/apps/asowidgets.png" width="128" height="128"><br />ASO Widgets</a> | <a href="https://apps.apple.com/app/id6449843611" title="Bible Tab"><img src="/img/apps/bibletab.png" width="128" height="128"><br />Bible Tab</a> | <a href="https://apps.apple.com/app/id1506363398" title="Calcular, mental maths"><img src="/img/apps/calcular.png" width="128" height="128"><br />Calcular, mental maths</a> 
-| <a href="https://apps.apple.com/app/id1660211486" title="Chatbot Activate AI"><img src="/img/apps/activate.png" width="128" height="128"><br />Chatbot Activate AI</a> | <a href="https://apps.apple.com/app/id6476564299" title="Clean Genie - Photo Cleaner"><img src="/img/apps/cleangenie.png" width="128" height="128"><br />Clean Genie - Photo Cleaner</a> | <a href="https://apps.apple.com/app/id6449745240" title="Dyslexia"><img src="/img/apps/dyslexia.png" width="128" height="128"><br />Dyslexia</a> 
-| <a href="https://apps.apple.com/app/id6479872912" title="Fight IQ"><img src="/img/apps/fightiq.png" width="128" height="128"><br />Fight IQ</a> | <a href="https://apps.apple.com/app/id6449024584" title="Get Archive"><img src="/img/apps/getarchive.png" width="128" height="128"><br />Get Archive</a> | <a href="https://apps.apple.com/app/id982443770" title="Karate"><img src="/img/apps/karate.png" width="128" height="128"><br />Karate</a>
-| <a href="https://apps.apple.com/app/id6477295569" title="Make It Dark Mode"><img src="/img/apps/makeitdark.png" width="128" height="128"><br />Make It Dark Mode</a> | <a href="https://apps.apple.com/app/id1672621191" title="Mental Health by HappySteps"><img src="/img/apps/happysteps.png" width="128" height="128"><br />Mental Health by HappySteps</a> | <a href="https://apps.apple.com/app/id6449968950" title="Motivation Quotes Affirmations"><img src="/img/apps/motivation.png" width="128" height="128"><br />Motivation Quotes Affirmations</a> 
-| <a href="https://apps.apple.com/app/id6478925381" title="NumZap: Reflex Training Tap"><img src="/img/apps/numzap.png" width="128" height="128"><br />NumZap: Reflex Training Tap</a> | <a href="https://apps.apple.com/app/id6450424843" title="Positive Affirmations: For You"><img src="/img/apps/positiveaffirmations.png" width="128" height="128"><br />Positive Affirmations: For You</a> | <a href="https://apps.apple.com/app/id6502348556" title="Presbyopia"><img src="/img/apps/presbyopia.png" width="128" height="128"><br />Presbyopia</a> 
-| <a href="https://apps.apple.com/app/id6449831325" title="Quran Tab"><img src="/img/apps/qurantab.png" width="128" height="128"><br />Quran Tab</a> | <a href="https://apps.apple.com/app/id6472327977" title="Snapmark. Screenshot: Bookmark"><img src="/img/apps/snapmark.png" width="128" height="128"><br />Snapmark. Screenshot: Bookmark</a> | <a href="https://apps.apple.com/app/id1640448571" title="Tech News Pro"><img src="/img/apps/technews.png" width="128" height="128"><br />Tech News Pro</a> 
-| <a href="https://apps.apple.com/app/id6451105330" title="Wave & Surf reports by Kooks"><img src="/img/apps/kooks.png" width="128" height="128"><br />Wave & Surf reports by Kooks</a> | <a href="https://apps.apple.com/app/id6502996295" title="Local Weather - YaWa"><img src="/img/apps/yawa.png" width="128" height="128"><br />Local Weather - YaWa</a> | <a href="https://apps.apple.com/app/id6670213166" title="web2screen Safari Screenshot"><img src="/img/apps/web2screen.png" width="128" height="128"><br />Web2Screen Safari Screenshot</a>
-| <a href="https://apps.apple.com/app/id6695754679" title="Read Easier"><img src="/img/apps/readeasier.png" width="128" height="128"><br />Read Easier</a> | <a href="https://apps.apple.com/app/6739941712" title="Lotus"><img src="/img/apps/lotus.png" width="128" height="128"><br />Lotus</a> | <a href="https://apps.apple.com/app/id6742454059" title="Extension AI"><img src="/img/apps/extensionai.png" width="128" height="128"><br />Extension AI</a>
+<div class="app-grid">
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6447305870" title="Keyword Tracker: ASO Widgets">
+      <img src="/img/apps/asowidgets.png" alt="ASO Widgets">
+      <span>ASO Widgets</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6449843611" title="Bible Tab">
+      <img src="/img/apps/bibletab.png" alt="Bible Tab">
+      <span>Bible Tab</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id1506363398" title="Calcular, mental maths">
+      <img src="/img/apps/calcular.png" alt="Calcular">
+      <span>Calcular, mental maths</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id1660211486" title="Chatbot Activate AI">
+      <img src="/img/apps/activate.png" alt="Chatbot Activate AI">
+      <span>Chatbot Activate AI</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6476564299" title="Clean Genie - Photo Cleaner">
+      <img src="/img/apps/cleangenie.png" alt="Clean Genie">
+      <span>Clean Genie - Photo Cleaner</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6449745240" title="Dyslexia">
+      <img src="/img/apps/dyslexia.png" alt="Dyslexia">
+      <span>Dyslexia</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6479872912" title="Fight IQ">
+      <img src="/img/apps/fightiq.png" alt="Fight IQ">
+      <span>Fight IQ</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6449024584" title="Get Archive">
+      <img src="/img/apps/getarchive.png" alt="Get Archive">
+      <span>Get Archive</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id982443770" title="Karate">
+      <img src="/img/apps/karate.png" alt="Karate">
+      <span>Karate</span>
+    </a>
+  </div>
+  <!-- Continue with the rest of your apps in the same format -->
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6477295569" title="Make It Dark Mode">
+      <img src="/img/apps/makeitdark.png" alt="Make It Dark Mode">
+      <span>Make It Dark Mode</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id1672621191" title="Mental Health by HappySteps">
+      <img src="/img/apps/happysteps.png" alt="Mental Health by HappySteps">
+      <span>Mental Health by HappySteps</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6449968950" title="Motivation Quotes Affirmations">
+      <img src="/img/apps/motivation.png" alt="Motivation Quotes Affirmations">
+      <span>Motivation Quotes Affirmations</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6478925381" title="NumZap: Reflex Training Tap">
+      <img src="/img/apps/numzap.png" alt="NumZap">
+      <span>NumZap: Reflex Training Tap</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6450424843" title="Positive Affirmations: For You">
+      <img src="/img/apps/positiveaffirmations.png" alt="Positive Affirmations">
+      <span>Positive Affirmations: For You</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6502348556" title="Presbyopia">
+      <img src="/img/apps/presbyopia.png" alt="Presbyopia">
+      <span>Presbyopia</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6449831325" title="Quran Tab">
+      <img src="/img/apps/qurantab.png" alt="Quran Tab">
+      <span>Quran Tab</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6472327977" title="Snapmark. Screenshot: Bookmark">
+      <img src="/img/apps/snapmark.png" alt="Snapmark">
+      <span>Snapmark. Screenshot: Bookmark</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id1640448571" title="Tech News Pro">
+      <img src="/img/apps/technews.png" alt="Tech News Pro">
+      <span>Tech News Pro</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6451105330" title="Wave & Surf reports by Kooks">
+      <img src="/img/apps/kooks.png" alt="Wave & Surf reports by Kooks">
+      <span>Wave & Surf reports by Kooks</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6502996295" title="Local Weather - YaWa">
+      <img src="/img/apps/yawa.png" alt="Local Weather - YaWa">
+      <span>Local Weather - YaWa</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6670213166" title="web2screen Safari Screenshot">
+      <img src="/img/apps/web2screen.png" alt="Web2Screen Safari Screenshot">
+      <span>Web2Screen Safari Screenshot</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6695754679" title="Read Easier">
+      <img src="/img/apps/readeasier.png" alt="Read Easier">
+      <span>Read Easier</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/6739941712" title="Lotus">
+      <img src="/img/apps/lotus.png" alt="Lotus">
+      <span>Lotus</span>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6742454059" title="Extension AI">
+      <img src="/img/apps/extensionai.png" alt="Extension AI">
+      <span>Extension AI</span>
+    </a>
+  </div>
+</div>
 
+<style>
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+
+.app-item {
+  text-align: center;
+}
+
+.app-item a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+}
+
+.app-item img {
+  width: 100%;
+  max-width: 128px;
+  height: auto;
+  border-radius: 22px;
+  margin-bottom: 8px;
+}
+
+.app-item span {
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+@media (max-width: 600px) {
+  .app-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 15px;
+  }
+  
+  .app-item span {
+    font-size: 12px;
+  }
+}
+</style>
 
 ## 🕵️ Privacy policy {#privacy}
 
