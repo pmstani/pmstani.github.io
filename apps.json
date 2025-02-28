@@ -1,5 +1,11 @@
 [
   {
+    "app_url": "https://apps.apple.com/app/6742564706",
+    "app_name": "Tinitus AI",
+    "app_description": "Relief for your Tinnitus",
+    "image_url": "https://pmstani.github.io/img/apps/tinnitusai.png"
+  },
+  {
     "app_url": "https://apps.apple.com/app/6742454059",
     "app_name": "Extension AI",
     "app_description": "AI extension for Safari",
