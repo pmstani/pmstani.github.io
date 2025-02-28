@@ -18,7 +18,7 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
 <div class="app-grid">
   <div class="app-item">
     <a href="https://apps.apple.com/app/id6742564706" title="Tinnitus AI: relief for your ears">
-      <img src="/img/apps/tinitusai.png" alt="Tinnitus AI">
+      <img src="/img/apps/tinnitusai.png" alt="Tinnitus AI">
       <span>Tinnitus AI</span>
     </a>
   </div>
