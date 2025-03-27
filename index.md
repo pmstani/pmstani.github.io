@@ -173,6 +173,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Prompt Wizard - AI assistant</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6743857642" title="DeepL-ator">
+      <img src="/img/apps/deeplator.png" alt="DeepL Safari Extension">
+      <span>DeepL Safari Extension</span>
+    </a>
+  </div>
 </div>
 
 <style>

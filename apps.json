@@ -155,4 +155,11 @@
     "app_description": "Atkinson Hyperlegible Font for Safari",
     "image_url": "https://pmstani.github.io/img/apps/readeasier.png"
   }
+  ,
+  {
+    "app_url": "https://apps.apple.com/app/6743857642",
+    "app_name": "DeepLator - translate web pages",
+    "app_description": "DeepL Safari Extension",
+    "image_url": "https://pmstani.github.io/img/apps/deeplator.png"
+  }
 ]
