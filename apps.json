@@ -162,4 +162,11 @@
     "app_description": "DeepL Safari Extension",
     "image_url": "https://pmstani.github.io/img/apps/deeplator.png"
   }
+  ,
+  {
+    "app_url": "https://apps.apple.com/app/6744677120",
+    "app_name": "Mythos",
+    "app_description": "Your Artchetype Quiz",
+    "image_url": "https://pmstani.github.io/img/apps/mythos.png"
+  }
 ]
