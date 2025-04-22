@@ -185,6 +185,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Mythos: Your Archetype Quiz</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6744918989" title="Email Finder">
+      <img src="/img/apps/emailfinder.png" alt="Email Finder">
+      <span>Email Finder</span>
+    </a>
+  </div>
 </div>
 
 <style>

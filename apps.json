@@ -168,5 +168,11 @@
     "app_name": "Mythos",
     "app_description": "Your Artchetype Quiz",
     "image_url": "https://pmstani.github.io/img/apps/mythos.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6744918989",
+    "app_name": "Email Finder",
+    "app_description": "Extact emails from any Webpage",
+    "image_url": "https://pmstani.github.io/img/apps/emailfinder.png"
   }
 ]
