@@ -174,5 +174,11 @@
     "app_name": "Email Finder",
     "app_description": "Extact emails from any Webpage",
     "image_url": "https://pmstani.github.io/img/apps/emailfinder.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6744963492",
+    "app_name": "Image Downloader",
+    "app_description": "Bulk Download Images from any Webpage",
+    "image_url": "https://pmstani.github.io/img/apps/imagedownloader.png"
   }
 ]
