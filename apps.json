@@ -180,5 +180,11 @@
     "app_name": "Image Downloader",
     "app_description": "Bulk Download Images from any Webpage",
     "image_url": "https://pmstani.github.io/img/apps/imagedownloader.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6745128463",
+    "app_name": "Website Downloader",
+    "app_description": "Download any Website to disk",
+    "image_url": "https://pmstani.github.io/img/apps/websitedownloader.png"
   }
 ]
