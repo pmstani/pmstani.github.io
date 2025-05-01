@@ -186,5 +186,11 @@
     "app_name": "Website Downloader",
     "app_description": "Download any Website to disk",
     "image_url": "https://pmstani.github.io/img/apps/websitedownloader.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6745339436",
+    "app_name": "Food Scanner for Safari",
+    "app_description": "Your Online Grocery Nutrition Assistant",
+    "image_url": "https://pmstani.github.io/img/apps/nutrigrade.png"
   }
 ]
