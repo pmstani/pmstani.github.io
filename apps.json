@@ -198,5 +198,11 @@
     "app_name": "Format JSON for Safari",
     "app_description": "JSON beautifer extension",
     "image_url": "https://pmstani.github.io/img/apps/formatJSON.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6745545491",
+    "app_name": "PDF Compressor - ThinPDF",
+    "app_description": "PDF Compressor - ThinPDF",
+    "image_url": "https://pmstani.github.io/img/apps/PDFCompressor.png"
   }
 ]

@@ -215,6 +215,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Format JSON for Safari</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6745545491" title="PDF Compressor - ThinPDF">
+      <img src="/img/apps/PDFCompressor.png" alt="PDF Compressor - ThinPDF">
+      <span>PDF Compressor - ThinPDF</span>
+    </a>
+  </div>
 </div>
 
 <style>
