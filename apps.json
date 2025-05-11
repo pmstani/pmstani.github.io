@@ -204,5 +204,11 @@
     "app_name": "PDF Compressor - ThinPDF",
     "app_description": "PDF Compressor - ThinPDF",
     "image_url": "https://pmstani.github.io/img/apps/PDFCompressor.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6745729726",
+    "app_name": "Auto Clicker",
+    "app_description": "Automate Mouse Clicks",
+    "image_url": "https://pmstani.github.io/img/apps/autoclicker.png"
   }
 ]

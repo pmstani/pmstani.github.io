@@ -221,6 +221,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>PDF Compressor - ThinPDF</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6745729726" title="Auto Clicker">
+      <img src="/img/apps/autoclicker.png" alt="Auto Clicker">
+      <span>Auto Clicker</span>
+    </a>
+  </div>
 </div>
 
 <style>
