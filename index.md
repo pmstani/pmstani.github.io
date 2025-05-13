@@ -227,6 +227,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Auto Clicker</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6745818454" title="Sticky Notes for Safari">
+      <img src="/img/apps/stickynotes.png" alt="Sticky Notes for Safari">
+      <span>Sticky Notes for Safari</span>
+    </a>
+  </div>
 </div>
 
 <style>
