@@ -216,5 +216,11 @@
     "app_name": "Sticky Notes for Safari",
     "app_description": "Annotate the web",
     "image_url": "https://pmstani.github.io/img/apps/stickynotes.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6746355735",
+    "app_name": "HTML to Markdown",
+    "app_description": "Markdown the web",
+    "image_url": "https://pmstani.github.io/img/apps/hmk.png"
   }
 ]
