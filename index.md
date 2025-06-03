@@ -239,6 +239,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>HTML to Markdown</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6746725511" title="Web Inspector for Safari">
+      <img src="/img/apps/webinspector.png" alt="Web Inspector for Safari">
+      <span>Web Inspector for Safari</span>
+    </a>
+  </div>
 </div>
 
 <style>

@@ -222,5 +222,11 @@
     "app_name": "HTML to Markdown",
     "app_description": "Markdown the web",
     "image_url": "https://pmstani.github.io/img/apps/hmk.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6746725511",
+    "app_name": "Web Inspector for Safari",
+    "app_description": "Inspect the web",
+    "image_url": "https://pmstani.github.io/img/apps/webinspector.png"
   }
 ]
