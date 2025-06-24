@@ -228,5 +228,11 @@
     "app_name": "Web Inspector for Safari",
     "app_description": "Inspect the web",
     "image_url": "https://pmstani.github.io/img/apps/webinspector.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6747714089",
+    "app_name": "Survivalist",
+    "app_description": "Prepare for anything",
+    "image_url": "https://pmstani.github.io/img/apps/survivalist.png"
   }
 ]
