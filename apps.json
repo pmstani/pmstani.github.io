@@ -234,5 +234,11 @@
     "app_name": "Survivalist",
     "app_description": "Prepare for anything",
     "image_url": "https://pmstani.github.io/img/apps/survivalist.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6749315635",
+    "app_name": "Auto Refresh++ for Safari",
+    "app_description": "Refresh your tabs",
+    "image_url": "https://pmstani.github.io/img/apps/autorefresh.png"
   }
 ]

@@ -251,6 +251,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Survivalist</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6749315635" title="Auto Refresh">
+      <img src="/img/apps/autorefresh.png" alt="Auto Refresh">
+      <span>Auto Refresh</span>
+    </a>
+  </div>
 </div>
 
 <style>
