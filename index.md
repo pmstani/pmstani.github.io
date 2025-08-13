@@ -257,6 +257,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Auto Refresh</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6749905497" title="Agenda & Planning">
+      <img src="/img/apps/agenda.png" alt="Agenda & Planning">
+      <span>My Agenda & Planning</span>
+    </a>
+  </div>
 </div>
 
 <style>

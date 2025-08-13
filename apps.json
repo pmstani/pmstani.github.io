@@ -240,5 +240,11 @@
     "app_name": "Auto Refresh++ for Safari",
     "app_description": "Refresh your tabs",
     "image_url": "https://pmstani.github.io/img/apps/autorefresh.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6749905497",
+    "app_name": "My Agenda & Planning",
+    "app_description": "Plan your future",
+    "image_url": "https://pmstani.github.io/img/apps/agenda.png"
   }
 ]
