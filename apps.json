@@ -246,5 +246,11 @@
     "app_name": "My Agenda & Planning",
     "app_description": "Plan your future",
     "image_url": "https://pmstani.github.io/img/apps/agenda.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6751629480",
+    "app_name": "Glide Browser",
+    "app_description": "Glide the web",
+    "image_url": "https://pmstani.github.io/img/apps/glide.png"
   }
 ]

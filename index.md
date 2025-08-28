@@ -263,6 +263,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>My Agenda & Planning</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6751629480" title="Glide Browser">
+      <img src="/img/apps/glide.png" alt="Glide Browser">
+      <span>Glide Browser</span>
+    </a>
+  </div>
 </div>
 
 <style>
