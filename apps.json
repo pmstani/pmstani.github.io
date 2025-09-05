@@ -252,5 +252,11 @@
     "app_name": "Glide Browser",
     "app_description": "Glide the web",
     "image_url": "https://pmstani.github.io/img/apps/glide.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6752015089",
+    "app_name": "Link Gopher",
+    "app_description": "Extract links from web pages",
+    "image_url": "https://pmstani.github.io/img/apps/linkgopher.png"
   }
 ]
