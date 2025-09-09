@@ -275,6 +275,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Link Gopher</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6752299586" title="Plain Paste">
+      <img src="/img/apps/plainpaste.png" alt="Plain Paste">
+      <span>Plain Paste</span>
+    </a>
+  </div>
 </div>
 
 <style>

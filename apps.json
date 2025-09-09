@@ -258,5 +258,11 @@
     "app_name": "Link Gopher",
     "app_description": "Extract links from web pages",
     "image_url": "https://pmstani.github.io/img/apps/linkgopher.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6752299586",
+    "app_name": "Plain Paste",
+    "app_description": "Strip clipboard formatting",
+    "image_url": "https://pmstani.github.io/img/apps/plainpaste.png"
   }
 ]
