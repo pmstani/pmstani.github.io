@@ -281,6 +281,12 @@ Hi, I'm Pierre, an independant iOS app developper since 2007. I make apps for fu
       <span>Plain Paste</span>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6752769090" title="Redirect Google Maps Links to Apple Maps">
+      <img src="/img/apps/redirect.png" alt="Redirect Google Maps Links to Apple Maps">
+      <span>Redirect Google Map for Safari</span>
+    </a>
+  </div>
 </div>
 
 <style>

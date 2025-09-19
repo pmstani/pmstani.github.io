@@ -264,5 +264,11 @@
     "app_name": "Plain Paste",
     "app_description": "Strip clipboard formatting",
     "image_url": "https://pmstani.github.io/img/apps/plainpaste.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6752769090",
+    "app_name": "Redirect Google Map for Safari",
+    "app_description": "Send links to Apple Maps",
+    "image_url": "https://pmstani.github.io/img/apps/redirect.png"
   }
 ]
