@@ -270,5 +270,11 @@
     "app_name": "Redirect Google Map for Safari",
     "app_description": "Send links to Apple Maps",
     "image_url": "https://pmstani.github.io/img/apps/redirect.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6753070777",
+    "app_name": "Ultra Wide for Insta",
+    "app_description": "Shoot Cinematic Videos",
+    "image_url": "https://pmstani.github.io/img/apps/ultrawide.png"
   }
 ]
