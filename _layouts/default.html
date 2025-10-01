@@ -5,32 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include favicon.html %}
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-
-    {% include favicon.html %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    {% include google-analytics.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>Our apps</h1>
-      </header>
-      <section>
+    <header>
+      <div class="container">
+        <h1>Our Apps</h1>
+        <p class="tagline">Crafting beautiful, functional apps that make a difference</p>
+      </div>
+    </header>
 
-      {{ content }}
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
 
-      </section>
-      <footer>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    {% include google-analytics.html %}
-    {% endif %}
+
   </body>
 </html>
