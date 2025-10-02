@@ -276,5 +276,11 @@
     "app_name": "Ultra Wide for Insta",
     "app_description": "Shoot Cinematic Videos",
     "image_url": "https://pmstani.github.io/img/apps/ultrawide.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6753338058",
+    "app_name": "Copy On Select",
+    "app_description": "Smart Clipboard",
+    "image_url": "https://pmstani.github.io/img/apps/copyonselect.png"
   }
 ]

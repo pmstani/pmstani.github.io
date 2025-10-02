@@ -285,6 +285,12 @@ layout: default
       <div class="app-name">Ultra Wide for Insta</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6753338058" title="Copy On Select for Safari">
+      <img src="/img/apps/copyonselect.png" alt="Copy On Select for Safari">
+      <div class="app-name">Copy On Select</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
