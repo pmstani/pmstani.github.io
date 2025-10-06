@@ -291,6 +291,12 @@ layout: default
       <div class="app-name">Copy On Select</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6753670481" title="Auto Scroll Web for Safari">
+      <img src="/img/apps/autoscroll.png" alt="Auto Scroll Web for Safari">
+      <div class="app-name">Auto Scroll</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

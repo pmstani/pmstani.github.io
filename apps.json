@@ -282,5 +282,11 @@
     "app_name": "Copy On Select",
     "app_description": "Smart Clipboard",
     "image_url": "https://pmstani.github.io/img/apps/copyonselect.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6753670481",
+    "app_name": "Auto scroll Web",
+    "app_description": "Hands-free scrolling",
+    "image_url": "https://pmstani.github.io/img/apps/autoscroll.png"
   }
 ]
