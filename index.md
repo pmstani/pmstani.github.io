@@ -297,6 +297,12 @@ layout: default
       <div class="app-name">Auto Scroll</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6753717096" title="Site Slurpr">
+      <img src="/img/apps/siteslurper.png" alt="Site Slurpr">
+      <div class="app-name">Site Slurpr</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

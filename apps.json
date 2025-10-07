@@ -288,5 +288,11 @@
     "app_name": "Auto scroll Web",
     "app_description": "Hands-free scrolling",
     "image_url": "https://pmstani.github.io/img/apps/autoscroll.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6753717096",
+    "app_name": "Site Slurpr",
+    "app_description": "Download Entire Websites",
+    "image_url": "https://pmstani.github.io/img/apps/siteslurper.png"
   }
 ]
