@@ -303,6 +303,12 @@ layout: default
       <div class="app-name">Site Slurpr</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6753870080" title="Tidy Downloads">
+      <img src="/img/apps/tidydownloads.png" alt="Tidy Downloads">
+      <div class="app-name">Tidy Downloads</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
