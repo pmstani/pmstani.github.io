@@ -300,5 +300,11 @@
     "app_name": "Tidy Downloads",
     "app_description": "Organize Your Downloads Folder",
     "image_url": "https://pmstani.github.io/img/apps/tidydownloads.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6753981213",
+    "app_name": "PDIFF",
+    "app_description": "Compare PDFs",
+    "image_url": "https://pmstani.github.io/img/apps/pdiff.png"
   }
 ]

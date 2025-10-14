@@ -309,6 +309,12 @@ layout: default
       <div class="app-name">Tidy Downloads</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6753981213" title="PDIFF">
+      <img src="/img/apps/pdiff.png" alt="PDIFF">
+      <div class="app-name">PDIFF: Compare PDFs</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
