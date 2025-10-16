@@ -315,6 +315,12 @@ layout: default
       <div class="app-name">PDIFF: Compare PDFs</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6754074843" title="Day Progress">
+      <img src="/img/apps/dayprogress.png" alt="Day Progress">
+      <div class="app-name">Day Progress</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

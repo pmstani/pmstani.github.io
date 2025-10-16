@@ -306,5 +306,11 @@
     "app_name": "PDIFF",
     "app_description": "Compare PDFs",
     "image_url": "https://pmstani.github.io/img/apps/pdiff.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6754074843",
+    "app_name": "Day Progress",
+    "app_description": "Dynamic Time Block Widgets",
+    "image_url": "https://pmstani.github.io/img/apps/dayprogress.png"
   }
 ]
