@@ -321,6 +321,12 @@ layout: default
       <div class="app-name">Day Progress</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6754277013" title="Audit++">
+      <img src="/img/apps/audit.png" alt="Audit++">
+      <div class="app-name">Audit++</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
