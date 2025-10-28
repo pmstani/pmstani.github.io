@@ -327,6 +327,12 @@ layout: default
       <div class="app-name">Audit++</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6754595518" title="Transcribe">
+      <img src="/img/apps/transcribe.png" alt="Transcribe">
+      <div class="app-name">Transcribe</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
