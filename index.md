@@ -333,6 +333,12 @@ layout: default
       <div class="app-name">Transcribe</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6754921131" title="New">
+      <img src="/img/apps/new.png" alt="New">
+      <div class="app-name">New</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

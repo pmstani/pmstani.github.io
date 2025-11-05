@@ -324,5 +324,11 @@
     "app_name": "Transcribe",
     "app_description": "AI Speech To Text",
     "image_url": "https://pmstani.github.io/img/apps/transcribe.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6754921131",
+    "app_name": "New",
+    "app_description": "New 😉",
+    "image_url": "https://pmstani.github.io/img/apps/new.png"
   }
 ]
