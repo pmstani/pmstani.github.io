@@ -345,6 +345,12 @@ layout: default
       <div class="app-name">Save As PDF</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755035031" title="Color Palette">
+      <img src="/img/apps/colorpalette.png" alt="Color Palette">
+      <div class="app-name">Color Palette</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
