@@ -339,6 +339,12 @@ layout: default
       <div class="app-name">New</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755031687" title="Save as PDF">
+      <img src="/img/apps/saveaspdf.png" alt="Save as PDF">
+      <div class="app-name">Save As PDF</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

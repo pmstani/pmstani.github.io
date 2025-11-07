@@ -330,5 +330,11 @@
     "app_name": "New",
     "app_description": "New 😉",
     "image_url": "https://pmstani.github.io/img/apps/new.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755031687",
+    "app_name": "Save as PDF",
+    "app_description": "Save a webpage as PDF",
+    "image_url": "https://pmstani.github.io/img/apps/saveaspdf.png"
   }
 ]
