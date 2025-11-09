@@ -351,6 +351,12 @@ layout: default
       <div class="app-name">Color Palette</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755081048" title="Toomy">
+      <img src="/img/apps/toomy.png" alt="Toomy">
+      <div class="app-name">Toomy</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

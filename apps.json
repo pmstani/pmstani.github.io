@@ -342,5 +342,11 @@
     "app_name": "Color Palette",
     "app_description": "Extract a color palette from any webpage",
     "image_url": "https://pmstani.github.io/img/apps/colorpalette.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755081048",
+    "app_name": "Toomy",
+    "app_description": "Tooth Brush Music Timer",
+    "image_url": "https://pmstani.github.io/img/apps/toomy.png"
   }
 ]
