@@ -357,6 +357,12 @@ layout: default
       <div class="app-name">Toomy</div>
     </a>
   </div>
+   <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755114398" title="Convert">
+      <img src="/img/apps/convert.png" alt="Convert">
+      <div class="app-name">Convert</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

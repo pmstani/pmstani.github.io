@@ -348,5 +348,11 @@
     "app_name": "Toomy",
     "app_description": "Tooth Brush Music Timer",
     "image_url": "https://pmstani.github.io/img/apps/toomy.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755114398",
+    "app_name": "Convert",
+    "app_description": "Convert Currency for Safari",
+    "image_url": "https://pmstani.github.io/img/apps/convert.png"
   }
 ]
