@@ -363,6 +363,12 @@ layout: default
       <div class="app-name">Convert</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755143135" title="SEO for Safari">
+      <img src="/img/apps/seo.png" alt="SEO for Safari">
+      <div class="app-name">SEO for Safari</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

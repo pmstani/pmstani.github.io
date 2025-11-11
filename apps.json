@@ -354,5 +354,11 @@
     "app_name": "Convert",
     "app_description": "Convert Currency for Safari",
     "image_url": "https://pmstani.github.io/img/apps/convert.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755143135",
+    "app_name": "SEO for Safari",
+    "app_description": "Optimize on-page SEO",
+    "image_url": "https://pmstani.github.io/img/apps/seo.png"
   }
 ]
