@@ -172,9 +172,9 @@ layout: default
     </a>
   </div>
   <div class="app-item">
-    <a href="https://apps.apple.com/app/id6743857642" title="DeepL-ator">
-      <img src="/img/apps/deeplator.png" alt="DeepL Safari Extension">
-      <div class="app-name">DeepL Safari Extension</div>
+    <a href="https://apps.apple.com/app/id6743857642" title="Translator">
+      <img src="/img/apps/deeplator.png" alt="Translator Safari Extension">
+      <div class="app-name">Translator Safari Extension</div>
     </a>
   </div>
   <div class="app-item">
