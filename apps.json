@@ -360,5 +360,11 @@
     "app_name": "SEO for Safari",
     "app_description": "Optimize on-page SEO",
     "image_url": "https://pmstani.github.io/img/apps/seo.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755357779",
+    "app_name": "Tiny Temple",
+    "app_description": "Micro mental health rituals",
+    "image_url": "https://pmstani.github.io/img/apps/tinytemple.png"
   }
 ]

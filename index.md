@@ -369,6 +369,12 @@ layout: default
       <div class="app-name">SEO for Safari</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755357779" title="Tiny Temple">
+      <img src="/img/apps/tinytemple.png" alt="Tiny Temple">
+      <div class="app-name">Tiny Temple</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
