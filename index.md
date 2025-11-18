@@ -381,6 +381,12 @@ layout: default
       <div class="app-name">Is it Down?</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id67554327453" title="Pocket Mirror">
+      <img src="/img/apps/pocketmirror.png" alt="Pocket Mirror">
+      <div class="app-name">Pocket Mirror</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

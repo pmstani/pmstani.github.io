@@ -372,5 +372,11 @@
     "app_name": "Is it down",
     "app_description": "For Everyone Or Just Me?",
     "image_url": "https://pmstani.github.io/img/apps/isitdown.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/67554327453",
+    "app_name": "Pocket Mirror",
+    "app_description": "Pocket Mirror For Your Lock Screen",
+    "image_url": "https://pmstani.github.io/img/apps/pocketmirror.png"
   }
 ]
