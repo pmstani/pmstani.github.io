@@ -375,6 +375,12 @@ layout: default
       <div class="app-name">Tiny Temple</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755422163" title="Is it Down">
+      <img src="/img/apps/isitdown.png" alt="Is it Down">
+      <div class="app-name">Is it Down?</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

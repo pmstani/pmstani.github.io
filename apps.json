@@ -366,5 +366,11 @@
     "app_name": "Tiny Temple",
     "app_description": "Micro mental health rituals",
     "image_url": "https://pmstani.github.io/img/apps/tinytemple.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755422163",
+    "app_name": "Is it down",
+    "app_description": "For Everyone Or Just Me?",
+    "image_url": "https://pmstani.github.io/img/apps/isitdown.png"
   }
 ]
