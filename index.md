@@ -382,9 +382,15 @@ layout: default
     </a>
   </div>
   <div class="app-item">
-    <a href="https://apps.apple.com/app/id67554327453" title="Pocket Mirror">
-      <img src="/img/apps/pocketmirror.png" alt="Pocket Mirror">
-      <div class="app-name">Pocket Mirror</div>
+    <a href="https://apps.apple.com/app/id67554327453" title="AI Mirror">
+      <img src="/img/apps/pocketmirror.png" alt="AI Mirror">
+      <div class="app-name">AI Mirror</div>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755485648" title="Built With">
+      <img src="/img/apps/builtwith.png" alt="Built With">
+      <div class="app-name">Built With</div>
     </a>
   </div>
 </div>
