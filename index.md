@@ -425,6 +425,6 @@ To the maximum extent permitted by applicable law, we exclude all representation
 You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.
 
 ### Face Data
-Face Data is not retained, stored or shared with any third party.
+Face Data is not retained or stored, nor is it shared with any third party.
 
 Adapted from the automattic.com privacy policy under a Creative Commons Sharealike license.
