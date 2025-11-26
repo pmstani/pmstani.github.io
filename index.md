@@ -393,6 +393,12 @@ layout: default
       <div class="app-name">Built With</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6755734272" title="RSS Reader">
+      <img src="/img/apps/rssreader.png" alt="RSS Reader">
+      <div class="app-name">RSS Reader</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

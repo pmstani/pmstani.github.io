@@ -384,5 +384,11 @@
     "app_name": "Built With",
     "app_description": "What's This Website Built With?",
     "image_url": "https://pmstani.github.io/img/apps/builtwith.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6755734272",
+    "app_name": "RSS Reader",
+    "app_description": "Feed reader in Safari",
+    "image_url": "https://pmstani.github.io/img/apps/rssreader.png"
   }
 ]
