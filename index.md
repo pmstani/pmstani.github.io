@@ -382,7 +382,7 @@ layout: default
     </a>
   </div>
   <div class="app-item">
-    <a href="https://apps.apple.com/app/id67554327453" title="AI Mirror">
+    <a href="https://apps.apple.com/app/id6755432745" title="AI Mirror">
       <img src="/img/apps/pocketmirror.png" alt="AI Mirror">
       <div class="app-name">AI Mirror</div>
     </a>
