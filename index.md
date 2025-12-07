@@ -399,6 +399,12 @@ layout: default
       <div class="app-name">RSS Reader</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6756227214" title="Photo to PDF">
+      <img src="/img/apps/photo2pdf.png" alt="Photo to PDF">
+      <div class="app-name">Photo to PDF</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

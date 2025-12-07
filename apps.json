@@ -390,5 +390,11 @@
     "app_name": "RSS Reader",
     "app_description": "Feed reader in Safari",
     "image_url": "https://pmstani.github.io/img/apps/rssreader.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6756227214",
+    "app_name": "Photo to PDF",
+    "app_description": "Convert Photos to PDF",
+    "image_url": "https://pmstani.github.io/img/apps/photo2pdf.png"
   }
 ]
