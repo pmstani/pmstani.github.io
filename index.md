@@ -405,6 +405,12 @@ layout: default
       <div class="app-name">Photo to PDF</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6757187147" title="The Done List">
+      <img src="/img/apps/thedonelist.png" alt="The Done List">
+      <div class="app-name">The Done List</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
