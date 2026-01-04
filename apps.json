@@ -402,5 +402,11 @@
     "app_name": "The Done List",
     "app_description": "Your Daily Scrapbook",
     "image_url": "https://pmstani.github.io/img/apps/thedonelist.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6757352016",
+    "app_name": "Safe",
+    "app_description": "Home Insurance Inventory",
+    "image_url": "https://pmstani.github.io/img/apps/safe.png"
   }
 ]

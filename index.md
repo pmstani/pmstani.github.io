@@ -411,6 +411,12 @@ layout: default
       <div class="app-name">The Done List</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6757352016" title="Safe">
+      <img src="/img/apps/thedonelist.png" alt="Safe">
+      <div class="app-name">Safe</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
