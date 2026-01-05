@@ -413,7 +413,7 @@ layout: default
   </div>
   <div class="app-item">
     <a href="https://apps.apple.com/app/id6757352016" title="Safe">
-      <img src="/img/apps/thedonelist.png" alt="Safe">
+      <img src="/img/apps/safe.png" alt="Safe">
       <div class="app-name">Safe</div>
     </a>
   </div>
