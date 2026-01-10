@@ -408,5 +408,11 @@
     "app_name": "Safe",
     "app_description": "Home Insurance Inventory",
     "image_url": "https://pmstani.github.io/img/apps/safe.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6757352016",
+    "app_name": "Command Palette",
+    "app_description": "Arc-like Command Palette For Safari",
+    "image_url": "https://pmstani.github.io/img/apps/safe.png"
   }
 ]

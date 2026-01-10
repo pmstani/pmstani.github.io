@@ -417,6 +417,12 @@ layout: default
       <div class="app-name">Safe</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6757637961" title="Command Palette">
+      <img src="/img/apps/commandpalette.png" alt="Command Palette">
+      <div class="app-name">Command Palette</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
