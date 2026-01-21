@@ -423,6 +423,12 @@ layout: default
       <div class="app-name">Command Palette</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758082345" title="Universal Data Viewer">
+      <img src="/img/apps/udv.png" alt="Universal Data Viewer">
+      <div class="app-name">Universal Data Viewer</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

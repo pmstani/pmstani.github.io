@@ -414,5 +414,11 @@
     "app_name": "Command Palette",
     "app_description": "Arc-like Command Palette For Safari",
     "image_url": "https://pmstani.github.io/img/apps/safe.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6758082345",
+    "app_name": "Universal Data Viewer",
+    "app_description": "View markdown, json, xml and much more",
+    "image_url": "https://pmstani.github.io/img/apps/udv.png"
   }
 ]
