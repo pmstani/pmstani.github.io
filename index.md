@@ -430,6 +430,12 @@ layout: default
     </a>
   </div>
   <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758159313" title="Equipt">
+      <img src="/img/apps/equipt.png" alt="Equipt">
+      <div class="app-name">Equipt</div>
+    </a>
+  </div>
+  <div class="app-item">
     <a href="https://apps.apple.com/app/id6758384372" title="Sidebar for Instagram">
       <img src="/img/apps/sidebar.png" alt="Sidebar for Instagram">
       <div class="app-name">Sidebar for Instagram</div>
