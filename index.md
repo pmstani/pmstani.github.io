@@ -429,6 +429,18 @@ layout: default
       <div class="app-name">Universal Data Viewer</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758384372" title="Sidebar for Instagram">
+      <img src="/img/apps/sidebar.png" alt="Sidebar for Instagram">
+      <div class="app-name">Sidebar for Instagram</div>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758379988" title="Allow Copy for Safari">
+      <img src="/img/apps/allow.png" alt="Universal Data Viewer">
+      <div class="app-name">Allow Copy for Safari</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

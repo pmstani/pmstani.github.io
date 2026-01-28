@@ -420,5 +420,17 @@
     "app_name": "Universal Data Viewer",
     "app_description": "View markdown, json, xml and much more",
     "image_url": "https://pmstani.github.io/img/apps/udv.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6758384372",
+    "app_name": "Sidebar for Instagram",
+    "app_description": "Desktop app for Instagram",
+    "image_url": "https://pmstani.github.io/img/apps/sidebar.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6758379988",
+    "app_name": "Allow Copy for Safari",
+    "app_description": "Enable copy/paste on any website",
+    "image_url": "https://pmstani.github.io/img/apps/allow.png"
   }
 ]
