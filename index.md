@@ -447,6 +447,18 @@ layout: default
       <div class="app-name">Allow Copy for Safari</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758572590" title="Flash card Boat">
+      <img src="/img/apps/flashcardboat.png" alt="Flash card Boat">
+      <div class="app-name">Flash card Boat</div>
+    </a>
+  </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758606333" title="CueVoice">
+      <img src="/img/apps/cuevoice.png" alt="CueVoice">
+      <div class="app-name">CueVoice</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}

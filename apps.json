@@ -438,5 +438,17 @@
     "app_name": "Allow Copy for Safari",
     "app_description": "Enable copy/paste on any website",
     "image_url": "https://pmstani.github.io/img/apps/allow.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6758572590",
+    "app_name": "Flash card Boat",
+    "app_description": "Flash cards pour le permis bateau",
+    "image_url": "https://pmstani.github.io/img/apps/flashcardboat.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6758606333",
+    "app_name": "CueVoice",
+    "app_description": "Voice activated teleprompter",
+    "image_url": "https://pmstani.github.io/img/apps/cuevoice.png"
   }
 ]
