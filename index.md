@@ -459,6 +459,12 @@ layout: default
       <div class="app-name">CueVoice</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6758934811" title="Health Export">
+      <img src="/img/apps/healthexport.png" alt="Health Export">
+      <div class="app-name">Health Export</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
