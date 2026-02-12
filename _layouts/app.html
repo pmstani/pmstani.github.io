@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  {% if page.app_css %}<link rel="stylesheet" href="{{ page.app_css | relative_url }}">{% endif %}
+  {% include favicon.html %}
+  {% include google-analytics.html %}
+</head>
+<body>
+{{ content }}
+</body>
+</html>
