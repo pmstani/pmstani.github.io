@@ -456,5 +456,11 @@
     "app_name": "Health Export",
     "app_description": "Export Your Health Data",
     "image_url": "https://pmstani.github.io/img/apps/healthexport.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6759188575",
+    "app_name": "PanicVault",
+    "app_description": "Native Password Manager",
+    "image_url": "https://pmstani.github.io/img/apps/panicvault.png"
   }
 ]
