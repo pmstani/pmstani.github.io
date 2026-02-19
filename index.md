@@ -465,6 +465,12 @@ layout: default
       <div class="app-name">Health Export</div>
     </a>
   </div>
+  <div class="app-item">
+    <a href="https://apps.apple.com/app/id6759188575" title="PanicVault">
+      <img src="/img/apps/panicvault.png" alt="PanicVault">
+      <div class="app-name">PanicVault</div>
+    </a>
+  </div>
 </div>
 
 ## 🕵️ Privacy policy {#privacy}
