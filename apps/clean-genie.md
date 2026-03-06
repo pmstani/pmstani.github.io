@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Clean Genie - iPhone Storage Optimizer & Duplicate Photo Cleaner"
-description: "Free up iPhone storage by removing duplicate photos and large files. Clean Genie's smart cleanup keeps your device fast and organized. Download free."
+description: "Free up iPhone storage by removing duplicate photos and large files. Clean Genie's smart cleanup keeps your device fast and organized. Available on the App Store."
 app_slug: "clean-genie"
 permalink: /apps/clean-genie/
 ---

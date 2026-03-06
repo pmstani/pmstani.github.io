@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Tidy Downloads - Automatic Downloads Folder Organizer for Mac"
-description: "Automatically sort your messy Downloads folder into categorized subfolders. Custom rules and scheduled cleanup keep files organized. Download free on macOS."
+description: "Automatically sort your messy Downloads folder into categorized subfolders. Custom rules and scheduled cleanup keep files organized. Available on the App Store."
 app_slug: "tidy-downloads"
 permalink: /apps/tidy-downloads/
 ---

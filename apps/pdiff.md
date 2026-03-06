@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "PDIFF - Visual PDF Comparison & Diff Tool for Mac"
-description: "Compare two PDFs side by side with visual difference highlighting. Spot text and layout changes instantly. Essential for document review. Download free."
+description: "Compare two PDFs side by side with visual difference highlighting. Spot text and layout changes instantly. Essential for document review. Available on the App Store."
 app_slug: "pdiff"
 permalink: /apps/pdiff/
 ---

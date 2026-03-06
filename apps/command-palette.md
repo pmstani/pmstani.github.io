@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Command Palette - Arc-Style Keyboard Navigation for Safari on Mac"
-description: "Navigate Safari with a keyboard-driven command palette. Search tabs, bookmarks, and history instantly like Arc browser. Download free on macOS."
+description: "Navigate Safari with a keyboard-driven command palette. Search tabs, bookmarks, and history instantly like Arc browser. Available on the App Store."
 app_slug: "command-palette"
 permalink: /apps/command-palette/
 ---

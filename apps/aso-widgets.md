@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "ASO Widgets - App Store Optimization & Keyword Tracking for iPhone"
-description: "Track your App Store keyword rankings with home screen widgets. ASO Widgets gives indie developers real-time ASO metrics. Download free on iOS."
+description: "Track your App Store keyword rankings with home screen widgets. ASO Widgets gives indie developers real-time ASO metrics. Available on the App Store."
 app_slug: "aso-widgets"
 permalink: /apps/aso-widgets/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Fight IQ - AI Combat Sports Training & MMA Workout App for iPhone"
-description: "Train smarter with AI-powered combat sports coaching. Fight IQ offers personalized MMA, boxing, and martial arts training plans. Download free on iOS."
+description: "Train smarter with AI-powered combat sports coaching. Fight IQ offers personalized MMA, boxing, and martial arts training plans. Available on the App Store."
 app_slug: "fight-iq"
 permalink: /apps/fight-iq/
 ---

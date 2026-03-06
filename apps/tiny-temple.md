@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Tiny Temple - Micro Meditation & Breathing Exercises for iPhone"
-description: "Build a self-care practice in just minutes a day. Tiny Temple offers micro meditations, breathing exercises, and gratitude prompts. Download free on iOS."
+description: "Build a self-care practice in just minutes a day. Tiny Temple offers micro meditations, breathing exercises, and gratitude prompts. Available on the App Store."
 app_slug: "tiny-temple"
 permalink: /apps/tiny-temple/
 ---

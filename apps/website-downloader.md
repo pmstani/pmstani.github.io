@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Website Downloader - Save Complete Web Pages Offline on Mac"
-description: "Download entire web pages with HTML, CSS, and images for offline access. Archive important content with this Safari extension. Download free on macOS."
+description: "Download entire web pages with HTML, CSS, and images for offline access. Archive important content with this Safari extension. Available on the App Store."
 app_slug: "website-downloader"
 permalink: /apps/website-downloader/
 ---

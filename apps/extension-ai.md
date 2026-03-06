@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Extension AI - AI Assistant Safari Extension for Mac"
-description: "Summarize articles, translate content, and get AI assistance on any webpage directly in Safari. No app switching needed. Download free on macOS."
+description: "Summarize articles, translate content, and get AI assistance on any webpage directly in Safari. No app switching needed. Available on the App Store."
 app_slug: "extension-ai"
 permalink: /apps/extension-ai/
 ---

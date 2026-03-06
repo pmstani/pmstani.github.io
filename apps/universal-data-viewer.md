@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Universal Data Viewer - Markdown, JSON, XML Viewer for Safari on Mac"
-description: "Render Markdown, JSON, XML, CSV, and more in Safari with syntax highlighting and navigation. View structured data beautifully. Download free on macOS."
+description: "Render Markdown, JSON, XML, CSV, and more in Safari with syntax highlighting and navigation. View structured data beautifully. Available on the App Store."
 app_slug: "universal-data-viewer"
 permalink: /apps/universal-data-viewer/
 ---

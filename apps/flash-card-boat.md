@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Flash card Boat - Boating License Exam Prep App for iPhone"
-description: "Prepare for your boating license exam with comprehensive flashcards. Spaced repetition learning for navigation rules and maritime safety. Download free."
+description: "Prepare for your boating license exam with comprehensive flashcards. Spaced repetition learning for navigation rules and maritime safety. Available on the App Store."
 app_slug: "flash-card-boat"
 permalink: /apps/flash-card-boat/
 ---

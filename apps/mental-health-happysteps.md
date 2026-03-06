@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Mental Health by HappySteps - Mood & Stress Tracker for iPhone"
-description: "Track your mood and stress patterns daily. HappySteps offers guided exercises and emotional health insights to build better habits. Download free on iOS."
+description: "Track your mood and stress patterns daily. HappySteps offers guided exercises and emotional health insights to build better habits. Available on the App Store."
 app_slug: "mental-health-happysteps"
 permalink: /apps/mental-health-happysteps/
 ---

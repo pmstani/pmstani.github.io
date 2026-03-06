@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Translator Safari Extension - Instant Web Page Translation for Mac"
-description: "Translate entire web pages or selected text instantly in Safari. Support for dozens of languages with automatic detection. Download free on macOS."
+description: "Translate entire web pages or selected text instantly in Safari. Support for dozens of languages with automatic detection. Available on the App Store."
 app_slug: "translator-safari-extension"
 permalink: /apps/translator-safari-extension/
 ---

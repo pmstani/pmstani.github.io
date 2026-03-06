@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Web Inspector for Safari - Developer Tools Extension for Mac"
-description: "Inspect HTML, debug CSS, monitor network requests, and access the JavaScript console directly in Safari. Essential developer tools. Download free on macOS."
+description: "Inspect HTML, debug CSS, monitor network requests, and access the JavaScript console directly in Safari. Essential developer tools. Available on the App Store."
 app_slug: "web-inspector"
 permalink: /apps/web-inspector/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "SEO for Safari - On-Page SEO Analysis Extension for Mac"
-description: "Analyze on-page SEO in real time. Check meta tags, headings, keywords, and technical factors for any website in Safari. Download free on macOS."
+description: "Analyze on-page SEO in real time. Check meta tags, headings, keywords, and technical factors for any website in Safari. Available on the App Store."
 app_slug: "seo-for-safari"
 permalink: /apps/seo-for-safari/
 ---

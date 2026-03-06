@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "New - Instant Document & Note Creation App for Mac"
-description: "Create new documents, notes, and files instantly with a minimalist, distraction-free interface. The fastest way to start writing. Download free on macOS."
+description: "Create new documents, notes, and files instantly with a minimalist, distraction-free interface. The fastest way to start writing. Available on the App Store."
 app_slug: "new"
 permalink: /apps/new/
 ---

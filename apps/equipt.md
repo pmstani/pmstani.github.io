@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Equipt - Equipment & Gear Tracking App for iPhone"
-description: "Track your equipment, warranties, and maintenance schedules. Log gear with photos and keep everything organized with Equipt. Download free on iOS."
+description: "Track your equipment, warranties, and maintenance schedules. Log gear with photos and keep everything organized with Equipt. Available on the App Store."
 app_slug: "equipt"
 permalink: /apps/equipt/
 ---

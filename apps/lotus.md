@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Lotus - Interactive & Gamified Meditation App for iPhone"
-description: "Make meditation enjoyable with interactive sessions and gamified progress. Lotus keeps beginners and experienced meditators engaged. Download free on iOS."
+description: "Make meditation enjoyable with interactive sessions and gamified progress. Lotus keeps beginners and experienced meditators engaged. Available on the App Store."
 app_slug: "lotus"
 permalink: /apps/lotus/
 ---

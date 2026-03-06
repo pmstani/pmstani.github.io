@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Transcribe - AI Speech to Text & Voice Transcription for iPhone"
-description: "Convert speech to text with fast, accurate AI transcription. Support for multiple languages. Perfect for meetings and lectures. Download free on iOS."
+description: "Convert speech to text with fast, accurate AI transcription. Support for multiple languages. Perfect for meetings and lectures. Available on the App Store."
 app_slug: "transcribe"
 permalink: /apps/transcribe/
 ---

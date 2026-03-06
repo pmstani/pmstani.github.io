@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Dyslexia - Safari Extension for Dyslexic-Friendly Web Reading on Mac"
-description: "Make any website easier to read with dyslexia-friendly fonts and spacing. This Safari extension applies OpenDyslexic font instantly. Download free on macOS."
+description: "Make any website easier to read with dyslexia-friendly fonts and spacing. This Safari extension applies OpenDyslexic font instantly. Available on the App Store."
 app_slug: "dyslexia"
 permalink: /apps/dyslexia/
 ---

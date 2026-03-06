@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Mythos - Psychological Archetype Quiz & Personality App for iPhone"
-description: "Discover your psychological archetype through mythology-based quizzes rooted in Jungian psychology. Explore your inner self with Mythos. Download free on iOS."
+description: "Discover your psychological archetype through mythology-based quizzes rooted in Jungian psychology. Explore your inner self with Mythos. Available on the App Store."
 app_slug: "mythos"
 permalink: /apps/mythos/
 ---

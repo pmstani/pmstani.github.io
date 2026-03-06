@@ -8,11 +8,11 @@
   id: "6742564706"
   icon: "tinnitusai.png"
   tagline: "Relief for your Tinnitus"
-  description: "Tinnitus AI uses advanced sound therapy and artificial intelligence to provide personalized relief for tinnitus sufferers. Whether you experience ringing, buzzing, or humming, this app tailors soothing soundscapes to mask and reduce your symptoms."
+  description: "Tinnitus AI uses artificial intelligence to create personalized audio environments for tinnitus treatment. Based on recent research about sound therapy, the app tailors soothing soundscapes to help mask and reduce symptoms like ringing, buzzing, or humming."
   features:
     - "AI-powered personalized sound therapy"
+    - "Audio environments based on recent research"
     - "Customizable soundscapes and frequencies"
-    - "Track your tinnitus patterns over time"
     - "Background audio support for all-day relief"
   category: "health-wellness"
   platforms: ["iOS"]
@@ -22,13 +22,13 @@
   slug: "aso-widgets"
   id: "6447305870"
   icon: "asowidgets.png"
-  tagline: "App Ranking Optimization"
-  description: "ASO Widgets helps app developers track keyword rankings and App Store optimization metrics right from their home screen. Monitor your app's performance with beautiful, real-time widgets designed for indie developers and marketing professionals."
+  tagline: "Track App Keyword Rankings"
+  description: "ASO Widgets lets app developers track keyword rankings with hourly updates and multi-geography tracking directly from home screen widgets. Monitor your app's App Store performance at a glance without opening an app."
   features:
     - "Home screen widgets for keyword tracking"
-    - "Real-time App Store ranking data"
+    - "Hourly ranking updates"
+    - "Multi-geography tracking support"
     - "Multiple widget sizes and configurations"
-    - "Track competitors and market trends"
   category: "developer-tools"
   platforms: ["iOS"]
   keywords: ["ASO", "app store optimization", "keyword tracking", "app marketing", "developer tools"]
@@ -37,13 +37,13 @@
   slug: "bible-tab"
   id: "6449843611"
   icon: "bibletab.png"
-  tagline: "Christian Browser Extension"
-  description: "Bible Tab transforms every new Safari tab into an inspiring Bible verse. Perfect for Christians who want daily scripture inspiration woven into their browsing routine, featuring beautiful backgrounds and curated verses."
+  tagline: "Bible Verses on Every New Tab"
+  description: "Bible Tab is a Safari extension that displays random biblical verses with beautiful backgrounds on every new tab. Perfect for Christians who want daily scripture inspiration woven into their browsing routine."
   features:
-    - "Daily Bible verses on every new tab"
+    - "Random Bible verses on every new tab"
     - "Beautiful background imagery"
     - "Bookmark your favorite verses"
-    - "Multiple Bible translations available"
+    - "Curated collection of inspiring scripture"
   category: "education"
   platforms: ["macOS"]
   keywords: ["Bible", "scripture", "Christian", "Safari extension", "daily verse"]
@@ -53,11 +53,11 @@
   id: "1506363398"
   icon: "calcular.png"
   tagline: "Mental Maths Done Right"
-  description: "Calcular is a mental math training app that helps you sharpen your arithmetic skills through fun and progressive exercises. Ideal for students, professionals, and anyone looking to improve their mental calculation speed and accuracy."
+  description: "Calcular is a mental math practice app that uses voice recognition to deliver audio math problems and evaluate your spoken responses. Sharpen your arithmetic skills hands-free through interactive spoken exercises."
   features:
+    - "Voice recognition for spoken answers"
+    - "Audio-delivered math problems"
     - "Progressive difficulty levels"
-    - "Timed mental math challenges"
-    - "Track your improvement over time"
     - "Multiple operation types: addition, subtraction, multiplication, division"
   category: "education"
   platforms: ["iOS"]
@@ -67,12 +67,12 @@
   slug: "chatbot-activate-ai"
   id: "1660211486"
   icon: "activate.png"
-  tagline: "AI Chat Bot and Friend"
-  description: "Chatbot Activate AI brings the power of artificial intelligence to your fingertips with a conversational AI assistant. Chat naturally, get answers to your questions, and explore creative ideas with an always-available AI companion."
+  tagline: "AI Chat Companion"
+  description: "Chatbot Activate AI is an AI chat companion powered by cutting-edge artificial intelligence, providing instant replies on countless topics. Chat naturally, get answers to your questions, and explore creative ideas with an always-available AI companion."
   features:
-    - "Natural language conversation"
+    - "Instant AI-powered replies"
+    - "Conversations on countless topics"
     - "Creative writing assistance"
-    - "Question answering and research help"
     - "Conversation history and bookmarks"
   category: "productivity"
   platforms: ["iOS"]
@@ -82,13 +82,13 @@
   slug: "clean-genie"
   id: "6476564299"
   icon: "cleangenie.png"
-  tagline: "Optimize Phone Storage & Space"
-  description: "Clean Genie helps you reclaim storage space by identifying and removing duplicate photos, large files, and unnecessary clutter from your device. Keep your iPhone organized and running smoothly with intelligent cleanup suggestions."
+  tagline: "Swipe to Declutter Your Photos"
+  description: "Clean Genie is a swipe-based photo library cleaner that helps you declutter your photos with bulk deletion and customizable sorting. Quickly swipe through your library to keep or discard photos and reclaim storage space."
   features:
-    - "Detect and remove duplicate photos"
-    - "Identify large files taking up space"
-    - "Smart cleanup recommendations"
-    - "Storage usage analytics"
+    - "Swipe-based photo review interface"
+    - "Bulk photo deletion"
+    - "Customizable sorting options"
+    - "Quick decluttering workflow"
   category: "utilities"
   platforms: ["iOS"]
   keywords: ["phone cleaner", "storage optimizer", "duplicate photos", "free up space", "iOS cleaner"]
@@ -98,10 +98,10 @@
   id: "6449745240"
   icon: "dyslexia.png"
   tagline: "Dyslexic Reading Extension"
-  description: "Dyslexia is a Safari extension that transforms web text to be more readable for people with dyslexia. It applies proven typographic adjustments including letter spacing, font weight, and OpenDyslexic font to make online reading accessible and comfortable."
+  description: "Dyslexia is a Safari extension that transforms webpages into a dyslexia-friendly format by applying the OpenDyslexic font and enhanced visual contrast. It makes online reading accessible and comfortable for people with dyslexia."
   features:
-    - "Apply dyslexia-friendly fonts to any webpage"
-    - "Adjustable letter and word spacing"
+    - "Apply OpenDyslexic font to any webpage"
+    - "Enhanced visual contrast for readability"
     - "Customizable text formatting options"
     - "One-click activation from Safari toolbar"
   category: "safari-extensions"
@@ -113,12 +113,12 @@
   id: "6479872912"
   icon: "fightiq.png"
   tagline: "AI Training For Combat Sports"
-  description: "Fight IQ is an AI-powered training companion for combat sports enthusiasts. Whether you practice boxing, MMA, or martial arts, get personalized training plans, technique analysis, and fight knowledge to elevate your skills."
+  description: "Fight IQ is a combat sports companion that documents your sparring sessions and provides AI coaching for martial arts training analysis. Whether you practice boxing, MMA, or martial arts, get personalized insights to elevate your skills."
   features:
-    - "AI-generated training programs"
+    - "Document and log sparring sessions"
+    - "AI-powered coaching and analysis"
+    - "Martial arts training insights"
     - "Combat sports technique library"
-    - "Personalized workout plans"
-    - "Fight IQ quizzes and knowledge tests"
   category: "education"
   platforms: ["iOS"]
   keywords: ["combat sports", "MMA training", "boxing", "martial arts", "fight training"]
@@ -128,42 +128,42 @@
   id: "6449024584"
   icon: "getarchive.png"
   tagline: "A Time Capsule for Web Pages"
-  description: "Get Archive lets you access cached and archived versions of any webpage through the Wayback Machine and other web archives. Perfect for researchers, journalists, and anyone who needs to retrieve deleted or changed web content."
+  description: "Get Archive is a Safari extension that leverages Archive.today to create permanent, unalterable snapshots of any web page. Perfect for researchers, journalists, and anyone who needs to preserve web content exactly as it appeared."
   features:
-    - "Access Wayback Machine archives instantly"
-    - "View historical versions of any webpage"
+    - "Create permanent snapshots via Archive.today"
+    - "Unalterable web page preservation"
     - "Safari extension for quick access"
-    - "Multiple archive source support"
+    - "Archive any page with one click"
   category: "productivity"
   platforms: ["macOS"]
-  keywords: ["web archive", "Wayback Machine", "cached pages", "internet archive", "web history"]
+  keywords: ["web archive", "Archive.today", "cached pages", "internet archive", "web history"]
 
 - name: "Karate"
   slug: "karate"
   id: "982443770"
   icon: "karate.png"
   tagline: "Train for your Karate Black Belt"
-  description: "Karate is a comprehensive martial arts training app that guides you through kata, techniques, and belt progressions. From white belt to black belt, follow structured lessons and video demonstrations to master traditional karate."
+  description: "Karate is a Shotokan karate rank advancement app featuring official regulations, coaching videos, and comprehensive technique documentation from a certified instructor. Follow structured lessons from white belt to black belt."
   features:
-    - "Complete kata reference library"
+    - "Official Shotokan rank advancement regulations"
+    - "Coaching videos from certified instructor"
+    - "Comprehensive technique documentation"
     - "Belt progression tracking"
-    - "Step-by-step technique breakdowns"
-    - "Training schedule and reminders"
   category: "education"
   platforms: ["iOS"]
-  keywords: ["karate", "martial arts", "kata", "black belt", "karate training"]
+  keywords: ["karate", "martial arts", "Shotokan", "black belt", "karate training"]
 
 - name: "Make It Dark Mode"
   slug: "make-it-dark-mode"
   id: "6477295569"
   icon: "makeitdark.png"
   tagline: "Night Reading Theme for Safari"
-  description: "Make It Dark Mode is a Safari extension that applies a dark theme to any website, reducing eye strain during nighttime browsing. Customize darkness levels and accent colors for a comfortable reading experience across the web."
+  description: "Make It Dark Mode is a Safari extension that transforms websites into dark themes with one click for comfortable night reading. Reduce eye strain during nighttime browsing with instant dark mode on any website."
   features:
-    - "Instant dark mode on any website"
-    - "Customizable darkness and contrast levels"
+    - "One-click dark mode on any website"
+    - "Comfortable night reading experience"
     - "Per-site preferences and whitelist"
-    - "Automatic scheduling based on time of day"
+    - "Customizable darkness and contrast levels"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["dark mode", "night mode", "Safari extension", "eye strain", "dark theme"]
@@ -172,13 +172,13 @@
   slug: "mental-health-happysteps"
   id: "1672621191"
   icon: "happysteps.png"
-  tagline: "Your Daily Stress Tracker"
-  description: "Mental Health by HappySteps is a mood and stress tracking app that helps you understand your emotional patterns. Log your daily feelings, identify triggers, and build healthier mental health habits with guided exercises and insights."
+  tagline: "Track & Predict Your Happiness"
+  description: "Mental Health by HappySteps lets you track daily happiness levels, predict future happiness, and correlate your wellbeing with weather and health data. Understand your emotional patterns and build healthier mental health habits."
   features:
-    - "Daily mood and stress logging"
-    - "Emotional pattern analysis"
-    - "Guided breathing and relaxation exercises"
-    - "Weekly and monthly mental health reports"
+    - "Daily happiness level tracking"
+    - "Happiness prediction based on trends"
+    - "Weather and health data correlation"
+    - "Weekly and monthly wellbeing reports"
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["mental health", "mood tracker", "stress management", "wellness", "emotional health"]
@@ -188,11 +188,11 @@
   id: "6449968950"
   icon: "motivation.png"
   tagline: "Inspiration in Every New Tab"
-  description: "Motivation Quotes Affirmations delivers daily motivational quotes and positive affirmations directly to your Safari new tab page. Start every browsing session with inspiration and build a positive mindset throughout your day."
+  description: "Motivation Quotes Affirmations is a Safari extension that displays motivational quotes from a collection of over 500,000 entries, with random backgrounds on each new tab. Start every browsing session with fresh inspiration."
   features:
-    - "Fresh motivational quotes on every new tab"
-    - "Curated collection of inspiring quotes"
-    - "Beautiful backgrounds and typography"
+    - "Over 500,000 motivational quotes"
+    - "Random backgrounds on every new tab"
+    - "Fresh inspiration with each browsing session"
     - "Save and share your favorite quotes"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -203,11 +203,11 @@
   id: "6478925381"
   icon: "numzap.png"
   tagline: "Reaction Game for F1 Pilots"
-  description: "NumZap is a fast-paced reflex training game that tests and improves your reaction time. Tap numbers in sequence as quickly as possible, competing against your own records and climbing the leaderboards. Perfect for gamers and athletes."
+  description: "NumZap is a fast-paced reaction game that tests your reflexes by challenging you to tap numbered sequences before time expires. Compete against your own records and sharpen your reaction speed with this addictive number-tapping game."
   features:
     - "Fast-paced number tapping gameplay"
+    - "Tap numbered sequences before time runs out"
     - "Reaction time measurement and tracking"
-    - "Multiple difficulty modes"
     - "Personal best tracking and leaderboards"
   category: "entertainment"
   platforms: ["iOS"]
@@ -218,12 +218,12 @@
   id: "6450424843"
   icon: "positiveaffirmations.png"
   tagline: "Daily Quotes & Motivation"
-  description: "Positive Affirmations delivers uplifting daily affirmations to boost your confidence and mental well-being. Customize your affirmation categories, set reminders, and build a habit of positive self-talk for a happier, more mindful life."
+  description: "Positive Affirmations is a customizable affirmation app with 20+ categories, widgets, and thousands of personalized quotes. Set reminders, browse categories, and build a habit of positive self-talk for a happier, more mindful life."
   features:
-    - "Curated daily positive affirmations"
-    - "Customizable affirmation categories"
-    - "Reminder notifications throughout the day"
-    - "Save and favorite your top affirmations"
+    - "20+ affirmation categories"
+    - "Home screen widgets"
+    - "Thousands of personalized quotes"
+    - "Customizable reminder notifications"
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["positive affirmations", "daily motivation", "self-care", "mindfulness", "mental wellness"]
@@ -233,11 +233,11 @@
   id: "6502348556"
   icon: "presbyopia.png"
   tagline: "Extension for Farsighted Users"
-  description: "Presbyopia is a Safari extension designed for farsighted users who struggle to read small web text. Instantly enlarge text on any website with customizable zoom levels and font adjustments for comfortable reading without glasses."
+  description: "Presbyopia is an accessibility tool featuring adjustable fonts and the Luciole font, designed for comfortable reading with visual impairments. Instantly enhance text readability on any website for farsighted users."
   features:
-    - "Adjustable text zoom for any website"
-    - "Custom font size preferences"
-    - "Per-site zoom settings"
+    - "Adjustable font sizes for any website"
+    - "Luciole font optimized for visual impairments"
+    - "Custom readability settings"
     - "Quick toggle from Safari toolbar"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -248,12 +248,12 @@
   id: "6449831325"
   icon: "qurantab.png"
   tagline: "Safari Extension for Muslims"
-  description: "Quran Tab displays a Quran verse on every new Safari tab, providing daily spiritual reminders for Muslim users. Features beautiful Arabic calligraphy and English translations to keep you connected to your faith throughout the day."
+  description: "Quran Tab is a Safari extension that displays random Quranic verses with English translations on every new tab. With offline functionality, it provides daily spiritual reminders for Muslim users throughout their browsing."
   features:
-    - "Quran verses on every new tab"
-    - "Arabic text with English translation"
-    - "Beautiful calligraphy and backgrounds"
-    - "Bookmark and share favorite verses"
+    - "Random Quran verses on every new tab"
+    - "English translations included"
+    - "Offline functionality"
+    - "Beautiful presentation and backgrounds"
   category: "education"
   platforms: ["macOS"]
   keywords: ["Quran", "Islam", "daily verse", "Safari extension", "Muslim"]
@@ -262,12 +262,12 @@
   slug: "snapmark"
   id: "6472327977"
   icon: "snapmark.png"
-  tagline: "Capture & Save Links for Later"
-  description: "Snapmark combines screenshots with bookmarking, letting you capture visual snapshots of web pages and save them for later. Perfect for research, shopping comparisons, and keeping a visual record of web content that matters to you."
+  tagline: "Visual Bookmarks from Screenshots"
+  description: "Snapmark converts Safari screenshots into smart bookmarks for curated visual organization of web content. Create a visual library of your favorite pages, perfect for research, shopping comparisons, and content curation."
   features:
-    - "Screenshot and bookmark web pages in one tap"
+    - "Convert screenshots into smart bookmarks"
     - "Visual bookmark library"
-    - "Organize with folders and tags"
+    - "Curated web content organization"
     - "Quick share and export options"
   category: "productivity"
   platforms: ["iOS", "macOS"]
@@ -278,12 +278,12 @@
   id: "1640448571"
   icon: "technews.png"
   tagline: "Hacker News Curated Stories"
-  description: "Tech News Pro delivers curated technology news from Hacker News and other top sources in a clean, distraction-free reader. Stay up to date with the latest in tech, startups, and programming without the noise."
+  description: "Tech News Pro aggregates technology and startup news curated by the Hacker News community. Stay up to date with the latest in tech with search and favorites features in a clean, distraction-free reader."
   features:
     - "Curated Hacker News stories"
+    - "Search and favorites functionality"
     - "Clean, distraction-free reading experience"
-    - "Save articles for offline reading"
-    - "Customizable news categories"
+    - "Technology and startup news aggregation"
   category: "productivity"
   platforms: ["iOS"]
   keywords: ["tech news", "Hacker News", "technology", "startup news", "programming news"]
@@ -293,11 +293,11 @@
   id: "6451105330"
   icon: "kooks.png"
   tagline: "Best Surfing Forecast"
-  description: "Wave & Surf reports by Kooks provides real-time surf forecasts, wave conditions, and tide charts for surfers worldwide. Check swell data, wind conditions, and surf spot reports before heading to the beach."
+  description: "Wave & Surf by Kooks provides a worldwide surf spot database with wave forecasts, swell data, and personalized spot tracking. Check conditions before heading to the beach and track your favorite surf spots."
   features:
-    - "Real-time wave and surf conditions"
-    - "Tide charts and swell forecasts"
-    - "Surf spot directory worldwide"
+    - "Worldwide surf spot database"
+    - "Wave forecasts and swell data"
+    - "Personalized spot tracking"
     - "Multi-day surf forecasts"
   category: "health-wellness"
   platforms: ["iOS"]
@@ -308,12 +308,12 @@
   id: "6502996295"
   icon: "yawa.png"
   tagline: "Yet Another Weather App"
-  description: "Local Weather - YaWa provides hyperlocal weather forecasts with a clean, intuitive interface. Get accurate temperature, precipitation, wind, and humidity data for your exact location with beautiful weather visualizations."
+  description: "Local Weather - YaWa is a weather app that groups similar forecasts together and lets you hide nighttime hours for a cleaner view. Get the weather information you need with a simplified, intuitive interface."
   features:
-    - "Hyperlocal weather forecasts"
-    - "Hourly and daily weather predictions"
-    - "Beautiful weather visualizations"
-    - "Severe weather alerts"
+    - "Groups similar forecast periods together"
+    - "Hide nighttime hours for cleaner view"
+    - "Simplified weather presentation"
+    - "Intuitive, clean interface"
   category: "utilities"
   platforms: ["iOS"]
   keywords: ["weather app", "local weather", "forecast", "temperature", "weather alerts"]
@@ -323,11 +323,11 @@
   id: "6670213166"
   icon: "web2screen.png"
   tagline: "Full Web Page Screen Capture"
-  description: "web2screen is a Safari extension that captures full-page screenshots of any website, including content below the fold. Export high-resolution images perfect for design references, documentation, and sharing entire web pages."
+  description: "web2screen is a Safari extension that captures full-page screenshots of webpages in high-quality PNG format. Export high-resolution images perfect for design references, documentation, and sharing entire web pages."
   features:
     - "Full-page website screenshots"
-    - "High-resolution image export"
-    - "Capture visible area or entire page"
+    - "High-quality PNG format export"
+    - "Capture entire page content"
     - "One-click capture from Safari toolbar"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -338,11 +338,11 @@
   id: "6695754679"
   icon: "readeasier.png"
   tagline: "Atkinson Hyperlegible Font for Safari"
-  description: "Read Easier applies the Atkinson Hyperlegible font to any website through Safari, making web content significantly more readable. Designed for people with low vision, this extension improves character distinction and reading comfort."
+  description: "Read Easier is a Safari extension that replaces web fonts with the Atkinson Hyperlegible font for improved readability, along with custom zoom options. Designed for people with low vision, it improves character distinction and reading comfort."
   features:
     - "Apply Atkinson Hyperlegible font to any site"
+    - "Custom zoom for improved readability"
     - "Improved character distinction for low vision"
-    - "Customizable font size and spacing"
     - "Quick toggle on/off from toolbar"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -353,12 +353,12 @@
   id: "6739941712"
   icon: "lotus.png"
   tagline: "Non-boring meditation"
-  description: "Lotus offers a fresh approach to meditation that keeps you engaged and motivated. With interactive sessions, gamified progress tracking, and diverse meditation styles, it makes mindfulness practice enjoyable for beginners and experienced meditators alike."
+  description: "Lotus is an AI-powered meditation app that creates customized sessions tailored to your mood and goals. With daily cards, journaling, and progress tracking, it keeps you engaged and motivated on your mindfulness journey."
   features:
-    - "Interactive guided meditation sessions"
-    - "Gamified progress and streaks"
-    - "Multiple meditation styles and durations"
-    - "Calming ambient soundscapes"
+    - "AI-generated customized meditation sessions"
+    - "Mood and goal-based personalization"
+    - "Daily cards and journaling"
+    - "Progress tracking and streaks"
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["meditation", "mindfulness", "relaxation", "guided meditation", "wellness"]
@@ -367,13 +367,13 @@
   slug: "extension-ai"
   id: "6742454059"
   icon: "extensionai.png"
-  tagline: "AI extension for Safari"
-  description: "Extension AI brings artificial intelligence directly into your Safari browsing experience. Summarize articles, translate content, generate text, and get AI-powered assistance on any webpage without switching apps."
+  tagline: "ChatGPT in Safari"
+  description: "Extension AI is a Safari extension that brings ChatGPT capabilities directly into your browser for text analysis, summarization, and translation in 11 languages. Get AI-powered assistance on any webpage without switching apps."
   features:
-    - "AI-powered text summarization"
-    - "In-page content translation"
-    - "Text generation and rewriting"
-    - "Context-aware AI assistance"
+    - "ChatGPT-powered text analysis"
+    - "Content summarization"
+    - "Translation in 11 languages"
+    - "In-browser AI assistance"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["AI extension", "Safari AI", "text summarization", "AI assistant", "browser AI"]
@@ -382,13 +382,13 @@
   slug: "prompt-wizard"
   id: "6743671589"
   icon: "promptwizard.png"
-  tagline: "Safari Extension for AI prompting"
-  description: "Prompt Wizard is a Safari extension that helps you craft better prompts for AI tools like ChatGPT and Claude. Access a library of proven prompt templates and customize them directly in your browser for more effective AI interactions."
+  tagline: "250+ AI Prompt Templates"
+  description: "Prompt Wizard provides a library of 250+ prompt templates across 13 categories for creative and professional workflows, with Safari integration. Craft better prompts for AI tools and streamline your AI interactions."
   features:
-    - "Library of curated AI prompt templates"
-    - "One-click prompt insertion"
+    - "250+ curated AI prompt templates"
+    - "13 categories for varied workflows"
+    - "Safari integration for quick access"
     - "Custom prompt creation and saving"
-    - "Works with ChatGPT, Claude, and more"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["AI prompts", "ChatGPT", "prompt engineering", "Safari extension", "AI tools"]
@@ -397,43 +397,43 @@
   slug: "translator-safari-extension"
   id: "6743857642"
   icon: "deeplator.png"
-  tagline: "Translator Safari Extension"
-  description: "Translator Safari Extension provides instant translation of web pages and selected text right within Safari. Support for dozens of languages makes it easy to read foreign websites and understand content in any language."
+  tagline: "DeepL Translation in Safari"
+  description: "Translator Safari Extension translates selected text using DeepL with support for 30+ languages and a memory function. Get high-quality translations of web content directly within Safari without leaving the page."
   features:
-    - "Translate entire web pages instantly"
+    - "DeepL-powered translation"
+    - "Support for 30+ languages"
+    - "Translation memory function"
     - "Select and translate specific text passages"
-    - "Support for dozens of languages"
-    - "Automatic language detection"
   category: "safari-extensions"
   platforms: ["macOS"]
-  keywords: ["translator", "web translation", "Safari extension", "language translation", "multilingual"]
+  keywords: ["translator", "DeepL", "Safari extension", "language translation", "multilingual"]
 
 - name: "Mythos"
   slug: "mythos"
   id: "6744677120"
   icon: "mythos.png"
   tagline: "Your Archetype Quiz"
-  description: "Mythos helps you discover your psychological archetype through engaging quizzes rooted in mythology and Jungian psychology. Explore ancient archetypes, understand your personality patterns, and unlock insights about your inner self."
+  description: "Mythos is a personality quiz that identifies five archetypes, with daily cards and 500+ journaling prompts for personal growth. Explore your personality patterns and unlock insights about your inner self through engaging quizzes."
   features:
-    - "Psychological archetype quizzes"
-    - "Detailed archetype profiles and descriptions"
-    - "Mythology-based personality insights"
+    - "Personality quiz identifying five archetypes"
+    - "500+ journaling prompts"
+    - "Daily cards for personal growth"
     - "Shareable results and comparisons"
   category: "education"
   platforms: ["iOS"]
-  keywords: ["archetype quiz", "personality test", "mythology", "Jung", "self-discovery"]
+  keywords: ["archetype quiz", "personality test", "mythology", "journaling", "self-discovery"]
 
 - name: "Email Finder"
   slug: "email-finder"
   id: "6744918989"
   icon: "emailfinder.png"
   tagline: "Extract emails from any Webpage"
-  description: "Email Finder is a Safari extension that scans any web page and extracts all email addresses found in the content. Perfect for sales professionals, recruiters, and marketers who need to quickly gather contact information from websites."
+  description: "Email Finder is a Safari extension that scans webpages for email addresses with quick copy and CSV export functionality. All processing happens locally on your device for privacy and speed."
   features:
-    - "Extract all email addresses from any webpage"
-    - "One-click copy to clipboard"
-    - "Export emails as a list"
-    - "Filter and deduplicate results"
+    - "Scan webpages for email addresses"
+    - "Quick copy to clipboard"
+    - "CSV export for bulk use"
+    - "Local on-device processing"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["email finder", "email extractor", "lead generation", "Safari extension", "contact finder"]
@@ -443,12 +443,12 @@
   id: "6744963492"
   icon: "imagedownloader.png"
   tagline: "Bulk Download Images from any Webpage"
-  description: "Image Downloader is a Safari extension that lets you bulk download all images from any webpage with a single click. Filter by size, format, and resolution to quickly save the images you need for projects, research, or inspiration."
+  description: "Image Downloader is a Safari extension that detects and downloads images from any webpage, with bulk download as a ZIP file. Supports JPEG, PNG, and GIF formats for easy batch saving of web images."
   features:
-    - "Bulk download all images from a webpage"
-    - "Filter by image size and format"
+    - "Detect and download images from any page"
+    - "Bulk download as ZIP file"
+    - "Supports JPEG, PNG, and GIF formats"
     - "Preview images before downloading"
-    - "Save to custom folders"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["image downloader", "bulk download", "save images", "Safari extension", "image saver"]
@@ -458,11 +458,11 @@
   id: "6745128463"
   icon: "websitedownloader.png"
   tagline: "Download any Website to disk"
-  description: "Website Downloader saves complete web pages to your local disk, preserving HTML, CSS, images, and assets for offline access. Ideal for archiving, offline reading, and backing up important web content."
+  description: "Website Downloader is a Safari extension that captures and saves full web page content including HTML, CSS, JavaScript, and images as a zip archive. Ideal for archiving, offline reading, and backing up important web content."
   features:
-    - "Download complete web pages for offline access"
-    - "Preserve HTML, CSS, and images"
-    - "Save entire site structures"
+    - "Save complete web pages as zip archives"
+    - "Preserve HTML, CSS, JS, and images"
+    - "Full page content capture"
     - "Quick download from Safari toolbar"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -473,12 +473,12 @@
   id: "6745339436"
   icon: "nutrigrade.png"
   tagline: "Your Online Grocery Nutrition Assistant"
-  description: "Food Scanner for Safari is an extension that analyzes nutritional information on grocery and food websites. Get instant nutrition grades, ingredient alerts, and healthier alternatives while shopping for food online."
+  description: "Food Scanner for Safari analyzes the nutritional quality of products on grocery websites, providing health grades based on nutritional values and additives. Make informed decisions while shopping for food online."
   features:
-    - "Nutritional analysis of food products online"
-    - "Instant nutrition grade scoring"
-    - "Ingredient alerts and warnings"
-    - "Healthier alternative suggestions"
+    - "Nutritional quality analysis on grocery sites"
+    - "Health grades based on nutritional values"
+    - "Additive detection and alerts"
+    - "Works on popular grocery websites"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["food scanner", "nutrition", "grocery", "health food", "Safari extension"]
@@ -488,12 +488,12 @@
   id: "6745445528"
   icon: "formatJSON.png"
   tagline: "JSON beautifier extension"
-  description: "Format JSON for Safari automatically detects and beautifies JSON data displayed in your browser. Developers and API testers can instantly view formatted, syntax-highlighted JSON with collapsible sections and search functionality."
+  description: "Format JSON for Safari automatically detects and formats raw JSON content in your browser with pretty printing, validation, search, and theme options. Essential for developers and API testers working with JSON data."
   features:
     - "Auto-detect and format JSON in browser"
-    - "Syntax highlighting with color coding"
-    - "Collapsible sections for nested data"
-    - "Search and filter JSON content"
+    - "Pretty printing and validation"
+    - "Search functionality within JSON"
+    - "Customizable theme options"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["JSON formatter", "JSON viewer", "developer tools", "Safari extension", "API debugging"]
@@ -503,12 +503,12 @@
   id: "6745545491"
   icon: "PDFCompressor.png"
   tagline: "Compress PDFs easily"
-  description: "PDF Compressor - ThinPDF reduces the file size of your PDF documents while maintaining quality. Perfect for emailing large documents, uploading to websites, or saving storage space on your device."
+  description: "PDF Compressor - ThinPDF reduces PDF file sizes without compromising quality using intelligent image optimization, downsampling, and recompression. Perfect for emailing large documents, uploading to websites, or saving storage space."
   features:
-    - "Compress PDFs with minimal quality loss"
+    - "Intelligent image optimization"
+    - "Downsampling and recompression"
+    - "Quality preservation during compression"
     - "Multiple compression levels"
-    - "Batch processing support"
-    - "Preview before and after compression"
   category: "utilities"
   platforms: ["macOS"]
   keywords: ["PDF compressor", "reduce PDF size", "file compression", "ThinPDF", "document tools"]
@@ -533,12 +533,12 @@
   id: "6745818454"
   icon: "stickynotes.png"
   tagline: "Annotate the web"
-  description: "Sticky Notes for Safari lets you place virtual sticky notes on any webpage. Add reminders, annotations, and comments that persist across browsing sessions, making it easy to annotate research, leave yourself notes, and organize your web workflow."
+  description: "Sticky Notes for Safari lets you create and manage sticky notes directly on the websites you visit. Notes stay attached to pages with customizable colors and export options, making it easy to annotate your web workflow."
   features:
     - "Place sticky notes on any webpage"
-    - "Notes persist across browser sessions"
-    - "Customizable note colors and sizes"
-    - "Organize and search all your web notes"
+    - "Notes stay attached to specific pages"
+    - "Customizable note colors"
+    - "Export notes for external use"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["sticky notes", "web annotations", "Safari extension", "note taking", "web notes"]
@@ -548,12 +548,12 @@
   id: "6746355735"
   icon: "hmk.png"
   tagline: "Markdown the web"
-  description: "HTML to Markdown is a Safari extension that converts any web page or selected HTML content into clean Markdown format. Perfect for bloggers, developers, and writers who need to quickly convert web content for use in Markdown-based tools."
+  description: "HTML to Markdown is a Safari extension that converts webpages to Markdown format with full-page or selection options, live preview, clipboard export, and sharing. Perfect for bloggers, developers, and writers working with Markdown-based tools."
   features:
-    - "Convert entire pages to Markdown"
-    - "Select and convert specific content"
+    - "Convert full pages or selections to Markdown"
+    - "Live preview of Markdown output"
+    - "Clipboard export and sharing"
     - "Clean, well-formatted Markdown output"
-    - "One-click copy to clipboard"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["HTML to Markdown", "Markdown converter", "Safari extension", "content conversion", "web to Markdown"]
@@ -563,12 +563,12 @@
   id: "6746725511"
   icon: "webinspector.png"
   tagline: "Inspect the web"
-  description: "Web Inspector for Safari provides developer tools to inspect, debug, and analyze web page elements directly in Safari. View HTML structure, CSS styles, network requests, and JavaScript console output without leaving your browser."
+  description: "Web Inspector for Safari provides live DOM inspection, HTML source viewing, and JavaScript execution for web developers directly in Safari. Inspect, debug, and analyze web page elements without leaving your browser."
   features:
-    - "Inspect HTML elements and DOM structure"
-    - "View and edit CSS styles live"
-    - "Network request monitoring"
-    - "JavaScript console access"
+    - "Live DOM inspection"
+    - "HTML source viewing"
+    - "JavaScript execution console"
+    - "Inspect and debug page elements"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["web inspector", "developer tools", "Safari extension", "CSS debugger", "HTML inspector"]
@@ -578,11 +578,11 @@
   id: "6747714089"
   icon: "survivalist.png"
   tagline: "Prepare for anything"
-  description: "Survivalist is your comprehensive guide to emergency preparedness and survival skills. Learn essential techniques for wilderness survival, disaster preparation, and self-sufficiency with detailed guides and checklists."
+  description: "Survivalist is an all-in-one preparedness companion featuring survival guides, emergency checklists, customizable kits, and offline access. Be ready for any situation with detailed guides and organized preparation tools."
   features:
-    - "Comprehensive survival skill guides"
+    - "Comprehensive survival guides"
     - "Emergency preparedness checklists"
-    - "Wilderness survival techniques"
+    - "Customizable emergency kits"
     - "Offline access to all content"
   category: "education"
   platforms: ["iOS"]
@@ -593,12 +593,12 @@
   id: "6749315635"
   icon: "autorefresh.png"
   tagline: "Refresh your tabs"
-  description: "Auto Refresh is a Safari extension that automatically reloads web pages at customizable intervals. Perfect for monitoring live scores, auction sites, stock tickers, or any page that needs periodic refreshing."
+  description: "Auto Refresh is a Safari extension enabling automatic webpage refreshing with custom intervals and visual countdown timers. Perfect for monitoring live scores, auction sites, stock tickers, or any page that needs periodic refreshing."
   features:
     - "Auto-refresh pages at custom intervals"
+    - "Visual countdown timer"
     - "Per-tab refresh settings"
     - "Pause and resume refreshing"
-    - "Visual countdown timer"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["auto refresh", "page reload", "Safari extension", "tab refresh", "auto reload"]
@@ -607,12 +607,12 @@
   slug: "my-agenda-planning"
   id: "6749905497"
   icon: "agenda.png"
-  tagline: "Plan your future"
-  description: "My Agenda & Planning is a clean, intuitive planner that helps you organize your daily tasks, appointments, and goals. Stay on top of your schedule with a beautifully designed agenda view and smart planning features."
+  tagline: "Tasks & Wellness Insights"
+  description: "My Agenda & Planning combines task management with personal wellness insights to help you build better habits and achieve your goals. Stay on top of your schedule while tracking your overall wellbeing."
   features:
-    - "Daily, weekly, and monthly agenda views"
     - "Task management with priorities"
-    - "Calendar integration"
+    - "Personal wellness insights"
+    - "Habit building tools"
     - "Goal setting and tracking"
   category: "productivity"
   platforms: ["iOS"]
@@ -622,28 +622,28 @@
   slug: "glide-browser"
   id: "6751629480"
   icon: "glide.png"
-  tagline: "Glide the web"
-  description: "Glide Browser offers a smooth, gesture-driven browsing experience designed for one-handed use. Navigate the web effortlessly with intuitive swipe gestures, tab management, and a minimalist interface focused on content."
+  tagline: "Hands-free Gesture Browser"
+  description: "Glide Browser is a browser with gesture controls for hands-free navigation by tilting your device. Browse the web effortlessly with intuitive device-tilting gestures and a minimalist interface focused on content."
   features:
-    - "Gesture-driven web navigation"
-    - "One-handed browsing optimized"
+    - "Device tilting gesture navigation"
+    - "Hands-free browsing experience"
     - "Minimalist, content-focused interface"
-    - "Smart tab management"
+    - "Intuitive gesture controls"
   category: "productivity"
   platforms: ["iOS"]
-  keywords: ["web browser", "gesture browser", "mobile browser", "fast browser", "minimal browser"]
+  keywords: ["web browser", "gesture browser", "mobile browser", "hands-free browser", "minimal browser"]
 
 - name: "Link Gopher"
   slug: "link-gopher"
   id: "6752015089"
   icon: "linkgopher.png"
   tagline: "Extract links from web pages"
-  description: "Link Gopher is a Safari extension that extracts all hyperlinks from any web page and presents them in a clean, organized list. Filter, sort, and export links for research, SEO analysis, or content auditing."
+  description: "Link Gopher is a Safari extension that instantly extracts and organizes all links from any webpage. Perfect for research and content curation, it presents links in a clean, organized list for easy export."
   features:
     - "Extract all links from any webpage"
-    - "Filter links by domain or pattern"
+    - "Organize links for research and curation"
     - "Export links as CSV or text"
-    - "Detect broken and duplicate links"
+    - "Filter links by domain or pattern"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["link extractor", "URL finder", "Safari extension", "SEO tool", "web scraping"]
@@ -653,11 +653,11 @@
   id: "6752299586"
   icon: "plainpaste.png"
   tagline: "Strip clipboard formatting"
-  description: "Plain Paste strips all formatting from your clipboard content, letting you paste clean, unformatted text anywhere. No more fighting with unwanted fonts, colors, and styles when copying text between applications."
+  description: "Plain Paste ensures pasted text is always clean and free of formatting from websites, documents, or emails. No more fighting with unwanted fonts, colors, and styles when copying text between applications."
   features:
     - "Strip formatting from clipboard instantly"
     - "Paste as plain text everywhere"
-    - "Keyboard shortcut activation"
+    - "Works with websites, documents, and emails"
     - "Menu bar quick access"
   category: "productivity"
   platforms: ["macOS"]
@@ -668,11 +668,11 @@
   id: "6753070777"
   icon: "ultrawide.png"
   tagline: "Shoot Cinematic Videos"
-  description: "Ultra Wide for Insta lets you shoot cinematic ultra-wide aspect ratio videos optimized for Instagram and other social platforms. Create professional-looking content with letterbox effects and widescreen formats directly from your iPhone."
+  description: "Ultra Wide for Insta captures cinematic videos for Instagram posts, reels, and stories with a Hollywood-style ultra-wide format. Create professional-looking content with widescreen aspect ratios directly from your iPhone."
   features:
-    - "Ultra-wide aspect ratio video recording"
-    - "Cinematic letterbox effects"
-    - "Multiple aspect ratio presets"
+    - "Cinematic ultra-wide video recording"
+    - "Optimized for Instagram posts, reels, and stories"
+    - "Hollywood-style ultra-wide format"
     - "Direct share to Instagram and social media"
   category: "entertainment"
   platforms: ["iOS"]
@@ -682,13 +682,13 @@
   slug: "copy-on-select"
   id: "6753338058"
   icon: "copyonselect.png"
-  tagline: "Smart Clipboard"
-  description: "Copy On Select is a Safari extension that automatically copies text to your clipboard the moment you select it, just like in a terminal. No more right-clicking or pressing Cmd+C -- simply highlight text and it is copied."
+  tagline: "Auto-Copy Selected Text"
+  description: "Copy On Select is a Safari extension that automatically copies selected text to your clipboard, streamlining the text copying workflow. Simply highlight text and it is copied -- no need for right-clicking or pressing Cmd+C."
   features:
     - "Automatically copy text when selected"
-    - "Terminal-style select-to-copy behavior"
+    - "Streamlined text copying workflow"
     - "Toggle on/off per website"
-    - "Clipboard history support"
+    - "No extra steps needed to copy"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["copy on select", "auto copy", "clipboard", "Safari extension", "text selection"]
@@ -698,11 +698,11 @@
   id: "6753670481"
   icon: "autoscroll.png"
   tagline: "Hands-free scrolling"
-  description: "Auto Scroll is a Safari extension that automatically scrolls web pages at a customizable speed. Perfect for reading long articles, following recipes, or browsing hands-free while multitasking."
+  description: "Auto Scroll is a Safari extension that intelligently scrolls pages for hands-free reading of news, articles, and websites. Perfect for reading long articles, following recipes, or browsing while multitasking."
   features:
-    - "Automatic page scrolling at adjustable speeds"
-    - "Pause and resume with one click"
-    - "Customizable scroll speed"
+    - "Intelligent automatic page scrolling"
+    - "Hands-free reading experience"
+    - "Adjustable scroll speed"
     - "Keyboard shortcut controls"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -713,12 +713,12 @@
   id: "6753717096"
   icon: "siteslurper.png"
   tagline: "Download Entire Websites"
-  description: "Site Slurpr is a Safari extension that downloads entire websites for offline viewing, preserving the full structure, pages, and assets. Ideal for archiving, offline research, and backing up web content before it disappears."
+  description: "Site Slurpr downloads entire websites for offline viewing, providing a seamless browsing experience without an internet connection. Ideal for archiving, offline research, and preserving web content."
   features:
-    - "Download complete websites"
+    - "Download complete websites for offline use"
+    - "Seamless offline browsing experience"
     - "Preserve site structure and navigation"
-    - "Offline browsing of downloaded sites"
-    - "Selective page downloading"
+    - "No internet connection required to browse"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["website downloader", "site scraper", "offline browsing", "Safari extension", "web archiver"]
@@ -728,12 +728,12 @@
   id: "6753870080"
   icon: "tidydownloads.png"
   tagline: "Organize Your Downloads Folder"
-  description: "Tidy Downloads automatically organizes your messy Downloads folder by sorting files into categorized subfolders. Set custom rules to keep your downloads tidy and find files faster without manual cleanup."
+  description: "Tidy Downloads automates file organization via customizable rules for a perfectly structured workspace. Set custom rules to sort files by type and keep your downloads tidy without manual cleanup."
   features:
-    - "Automatic file sorting by type"
-    - "Custom organization rules"
-    - "Scheduled cleanup tasks"
+    - "Automated file organization"
+    - "Customizable sorting rules"
     - "Smart file categorization"
+    - "Perfectly structured workspace"
   category: "productivity"
   platforms: ["macOS"]
   keywords: ["downloads organizer", "file manager", "folder cleanup", "file sorting", "macOS utility"]
@@ -743,11 +743,11 @@
   id: "6753981213"
   icon: "pdiff.png"
   tagline: "Compare PDFs"
-  description: "PDIFF lets you visually compare two PDF documents side by side, highlighting differences in text, layout, and images. Essential for lawyers, editors, and professionals who need to review document revisions quickly and accurately."
+  description: "PDIFF is an advanced PDF comparison tool for legal, business, and research professionals. It identifies subtle changes between documents with line-level precision, making it essential for reviewing document revisions."
   features:
-    - "Side-by-side PDF comparison"
-    - "Visual difference highlighting"
-    - "Text and layout change detection"
+    - "Line-level PDF comparison precision"
+    - "Identifies subtle document changes"
+    - "Designed for legal and business professionals"
     - "Export comparison reports"
   category: "productivity"
   platforms: ["macOS"]
@@ -758,12 +758,12 @@
   id: "6754074843"
   icon: "dayprogress.png"
   tagline: "Dynamic Time Block Widgets"
-  description: "Day Progress shows you how much of your day, week, month, and year has elapsed with beautiful progress bar widgets. Stay mindful of passing time and make the most of every day with visual time tracking on your home screen."
+  description: "Day Progress lets you define time blocks for work, meals, relaxation, and watch your progress via elegant, customizable widgets. Stay mindful of your schedule and make the most of every day."
   features:
-    - "Day, week, month, and year progress bars"
+    - "Define custom time blocks"
+    - "Elegant, customizable progress widgets"
+    - "Track work, meals, and relaxation"
     - "Home screen and lock screen widgets"
-    - "Customizable widget styles"
-    - "Time-awareness motivation"
   category: "productivity"
   platforms: ["iOS"]
   keywords: ["day progress", "time tracking", "widgets", "productivity", "time awareness"]
@@ -772,26 +772,26 @@
   slug: "audit-plus-plus"
   id: "6754277013"
   icon: "audit.png"
-  tagline: "Professional Site Audit"
-  description: "Audit++ is a Safari extension that performs comprehensive website audits covering SEO, performance, accessibility, and security. Get actionable insights and detailed reports to improve any website's quality and search ranking."
+  tagline: "Professional Inspections & Reports"
+  description: "Audit++ is a comprehensive inspection app for professionals who demand precision, efficiency, and powerful reporting. Conduct thorough audits and generate detailed reports with this all-in-one inspection tool."
   features:
-    - "Comprehensive SEO audit"
-    - "Performance and speed analysis"
-    - "Accessibility compliance checks"
-    - "Detailed audit reports with recommendations"
+    - "Comprehensive inspection workflows"
+    - "Powerful reporting capabilities"
+    - "Precision-focused audit tools"
+    - "Efficient professional inspections"
   category: "safari-extensions"
   platforms: ["macOS"]
-  keywords: ["website audit", "SEO audit", "site analysis", "Safari extension", "web performance"]
+  keywords: ["inspection app", "audit tool", "professional reporting", "site audit", "quality inspection"]
 
 - name: "Transcribe"
   slug: "transcribe"
   id: "6754595518"
   icon: "transcribe.png"
   tagline: "AI Speech To Text"
-  description: "Transcribe converts speech to text using advanced AI, delivering fast and accurate transcriptions of meetings, lectures, interviews, and voice memos. Support for multiple languages makes it a versatile dictation and transcription tool."
+  description: "Transcribe provides AI-powered speech-to-text with industry-leading accuracy for transcription. Convert meetings, lectures, interviews, and voice memos into text quickly and accurately."
   features:
     - "AI-powered speech-to-text conversion"
-    - "Multi-language support"
+    - "Industry-leading transcription accuracy"
     - "Real-time transcription"
     - "Export transcripts in multiple formats"
   category: "productivity"
@@ -802,28 +802,28 @@
   slug: "new"
   id: "6754921131"
   icon: "new.png"
-  tagline: "Quick note creation"
-  description: "New is a minimalist app designed to instantly create new documents, notes, and files with a single tap. Cut through the clutter and start writing immediately with the fastest way to capture your thoughts and ideas."
+  tagline: "Quick Google Docs Creation"
+  description: "New is the fastest way to create Google documents right from your browser without navigating through menus. Cut through the clutter and start a new Google Doc, Sheet, or Slide instantly."
   features:
-    - "Instant new document creation"
-    - "Multiple file format support"
-    - "Minimalist, distraction-free interface"
-    - "Quick share and export"
+    - "Instant Google document creation"
+    - "No menu navigation required"
+    - "Create Docs, Sheets, and Slides"
+    - "Quick access from Safari toolbar"
   category: "productivity"
   platforms: ["macOS"]
-  keywords: ["quick notes", "new document", "minimalist", "note taking", "productivity"]
+  keywords: ["Google Docs", "new document", "quick create", "productivity", "browser shortcut"]
 
 - name: "Save as PDF"
   slug: "save-as-pdf"
   id: "6755031687"
   icon: "saveaspdf.png"
   tagline: "Save a webpage as PDF"
-  description: "Save as PDF is a Safari extension that converts any web page into a well-formatted PDF document with a single click. Preserve layouts, images, and text for offline reading, archiving, or sharing web content as professional documents."
+  description: "Save as PDF converts any webpage into a PDF document directly from Safari for offline access, sharing, or archiving. Preserve layouts, images, and text with a single click."
   features:
     - "One-click webpage to PDF conversion"
+    - "Offline access to saved content"
+    - "Share and archive web pages"
     - "Preserve original page layout and images"
-    - "Customizable PDF settings"
-    - "Quick save to Files or share"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["save as PDF", "web to PDF", "Safari extension", "PDF converter", "page saver"]
@@ -832,12 +832,12 @@
   slug: "color-palette"
   id: "6755035031"
   icon: "colorpalette.png"
-  tagline: "Extract a color palette from any webpage"
-  description: "Color Palette is a Safari extension that extracts the complete color scheme from any website. Designers and developers can instantly identify hex codes, RGB values, and build color palettes from their favorite sites for inspiration."
+  tagline: "Extract Colors from any Webpage"
+  description: "Color Palette is a Safari extension that extracts and copies colors from any website in Safari. Designers and developers can instantly identify and capture color values from their favorite sites for inspiration."
   features:
     - "Extract colors from any webpage"
+    - "Copy color values instantly"
     - "View hex, RGB, and HSL values"
-    - "Export color palettes"
     - "Save and organize color collections"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -848,12 +848,12 @@
   id: "6755081048"
   icon: "toomy.png"
   tagline: "Tooth Brush Music Timer"
-  description: "Toomy makes tooth brushing fun for kids and adults by playing music for the recommended two-minute brushing time. Choose from different songs and sounds to make dental hygiene an enjoyable daily habit."
+  description: "Toomy is a musical tooth brushing timer that makes dental care fun with guided technique for kids and adults. Choose from different songs and sounds to make dental hygiene an enjoyable daily habit."
   features:
-    - "Two-minute brushing timer with music"
+    - "Musical brushing timer"
+    - "Guided brushing technique"
+    - "Fun for kids and adults"
     - "Multiple song and sound options"
-    - "Fun animations and visual feedback"
-    - "Brushing streak tracking"
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["toothbrush timer", "dental hygiene", "kids health", "brushing timer", "oral care"]
@@ -862,13 +862,13 @@
   slug: "convert"
   id: "6755114398"
   icon: "convert.png"
-  tagline: "Convert Currency for Safari"
-  description: "Convert is a Safari extension that automatically detects and converts currencies on web pages to your preferred currency. Shop internationally with confidence by seeing prices in your local currency as you browse."
+  tagline: "Currency Converter for Safari"
+  description: "Convert lets you check exchange rates while browsing with access to over 200 currencies directly in Safari. Shop internationally with confidence by seeing prices in your preferred currency."
   features:
-    - "Automatic currency detection on web pages"
-    - "Real-time exchange rate conversion"
-    - "Support for 150+ currencies"
-    - "Inline price conversion while browsing"
+    - "Access to over 200 currencies"
+    - "Check exchange rates while browsing"
+    - "Real-time currency conversion"
+    - "In-browser price checking"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["currency converter", "exchange rate", "Safari extension", "money converter", "international shopping"]
@@ -877,12 +877,12 @@
   slug: "seo-for-safari"
   id: "6755143135"
   icon: "seo.png"
-  tagline: "Optimize on-page SEO"
-  description: "SEO for Safari is an extension that analyzes the on-page SEO of any website in real time. Check meta tags, headings, keywords, and technical SEO factors to optimize your content and improve search engine rankings."
+  tagline: "Instant SEO Insights"
+  description: "SEO for Safari lets you analyze and optimize web pages directly in Safari with instant SEO insights and comprehensive scoring. Check meta tags, headings, keywords, and technical SEO factors to improve search rankings."
   features:
-    - "Real-time on-page SEO analysis"
+    - "Instant SEO insights and scoring"
     - "Meta tag and heading inspection"
-    - "Keyword density analysis"
+    - "Comprehensive page analysis"
     - "Technical SEO recommendations"
   category: "safari-extensions"
   platforms: ["macOS"]
@@ -893,12 +893,12 @@
   id: "6755357779"
   icon: "tinytemple.png"
   tagline: "Micro mental health rituals"
-  description: "Tiny Temple delivers bite-sized mental health rituals that fit into your busiest days. Quick breathing exercises, micro-meditations, and gratitude prompts help you build a sustainable self-care practice in just minutes a day."
+  description: "Tiny Temple transforms overwhelming moments into micro-healing opportunities with 11 beautifully crafted rituals. Quick, accessible self-care practices that fit into even the busiest days."
   features:
-    - "Micro meditation sessions under 5 minutes"
-    - "Guided breathing exercises"
-    - "Daily gratitude prompts"
-    - "Streak tracking and reminders"
+    - "11 beautifully crafted rituals"
+    - "Micro-healing for overwhelming moments"
+    - "Quick, accessible self-care"
+    - "Designed for busy schedules"
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["micro meditation", "mental health", "breathing exercises", "self-care", "mindfulness"]
@@ -908,12 +908,12 @@
   id: "6755422163"
   icon: "isitdown.png"
   tagline: "For Everyone Or Just Me?"
-  description: "Is it Down is a Safari extension that instantly checks whether a website is down for everyone or just you. Quickly diagnose connectivity issues and determine if the problem is on your end or with the website's servers."
+  description: "Is it Down performs real-time reachability checks from multiple worldwide locations to determine if a website outage is universal or just affecting you. Quickly diagnose connectivity issues from within Safari."
   features:
-    - "Instant website status checking"
+    - "Real-time reachability checks"
+    - "Multiple worldwide server locations"
+    - "Determine if outage is universal or local"
     - "Check from Safari toolbar"
-    - "Multiple server location checks"
-    - "Status history and uptime monitoring"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["website status", "downtime checker", "is it down", "Safari extension", "server status"]
@@ -923,27 +923,27 @@
   id: "6755432745"
   icon: "pocketmirror.png"
   tagline: "Pocket Mirror For Your Lock Screen"
-  description: "AI Mirror transforms your iPhone into a convenient pocket mirror with AI-enhanced features. Use it for quick appearance checks with smart lighting adjustment, skin analysis, and beauty tips powered by artificial intelligence."
+  description: "AI Mirror transforms your iPhone into an intelligent beauty companion with on-device skin analysis and a pocket mirror with lock screen access. Get quick appearance checks and AI-powered beauty insights anytime."
   features:
-    - "Instant mirror with front camera"
-    - "AI-powered lighting adjustment"
-    - "Lock screen widget for quick access"
-    - "Zoom and freeze frame features"
+    - "On-device skin analysis"
+    - "Pocket mirror with lock screen widget"
+    - "AI-powered beauty insights"
+    - "Quick appearance checks anytime"
   category: "health-wellness"
   platforms: ["iOS"]
-  keywords: ["pocket mirror", "AI mirror", "beauty app", "selfie mirror", "lock screen widget"]
+  keywords: ["pocket mirror", "AI mirror", "beauty app", "skin analysis", "lock screen widget"]
 
 - name: "Built With"
   slug: "built-with"
   id: "6755485648"
   icon: "builtwith.png"
   tagline: "What's This Website Built With?"
-  description: "Built With is a Safari extension that reveals the technologies behind any website. Instantly identify the CMS, frameworks, analytics tools, hosting provider, and other technologies powering the sites you visit."
+  description: "Built With is a Safari extension that instantly reveals the technologies behind any website, identifying 80+ frameworks, libraries, and tools. Discover the tech stack powering the sites you visit with a single click."
   features:
-    - "Detect website technology stack"
-    - "Identify CMS, frameworks, and libraries"
-    - "View analytics and tracking tools"
-    - "Hosting and server information"
+    - "Identify 80+ frameworks, libraries, and tools"
+    - "Instant technology detection"
+    - "Comprehensive tech stack analysis"
+    - "One-click technology reveal"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["technology detection", "website analysis", "tech stack", "Safari extension", "web technologies"]
@@ -953,12 +953,12 @@
   id: "6755734272"
   icon: "rssreader.png"
   tagline: "Feed reader in Safari"
-  description: "RSS Reader is a Safari extension that brings RSS feed reading directly into your browser. Subscribe to your favorite blogs, news sites, and podcasts, and read all your feeds in a clean, distraction-free interface within Safari."
+  description: "RSS Reader brings RSS and Atom feeds directly to Safari for chronological, algorithm-free reading of blogs and news. Subscribe to your favorite sites and read all your feeds in a clean, distraction-free interface."
   features:
-    - "Subscribe to RSS feeds in Safari"
-    - "Clean, distraction-free reading"
-    - "Auto-discover RSS feeds on websites"
-    - "Organize feeds into categories"
+    - "RSS and Atom feed support"
+    - "Chronological, algorithm-free reading"
+    - "Clean, distraction-free interface"
+    - "Subscribe to blogs and news sites"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["RSS reader", "feed reader", "Safari extension", "news reader", "blog reader"]
@@ -968,12 +968,12 @@
   id: "6756227214"
   icon: "photo2pdf.png"
   tagline: "Convert Photos to PDF"
-  description: "Photo to PDF converts your photos and images into professional PDF documents quickly and easily. Combine multiple images, adjust page layout, and create multi-page PDFs perfect for scanning documents, receipts, and portfolios."
+  description: "Photo to PDF is the fastest way to convert photos into high-quality PDF documents with multiple paper sizes and quality settings. Combine multiple images and create professional multi-page PDFs."
   features:
-    - "Convert photos to PDF instantly"
+    - "Fast photo to PDF conversion"
+    - "Multiple paper sizes available"
+    - "Adjustable quality settings"
     - "Combine multiple images into one PDF"
-    - "Adjustable page layout and orientation"
-    - "Share and export PDF documents"
   category: "productivity"
   platforms: ["iOS"]
   keywords: ["photo to PDF", "image converter", "PDF creator", "document scanner", "image to PDF"]
@@ -983,12 +983,12 @@
   id: "6757187147"
   icon: "thedonelist.png"
   tagline: "Your Daily Scrapbook"
-  description: "The Done List flips traditional to-do lists by focusing on what you have accomplished. Log your daily achievements, build a scrapbook of progress, and celebrate your productivity rather than stressing over what is left undone."
+  description: "The Done List flips traditional task management by celebrating daily accomplishments through text, photos, or drawings. Log what you have achieved and build a scrapbook of progress rather than stressing over what is left undone."
   features:
-    - "Log daily accomplishments"
+    - "Log accomplishments via text, photos, or drawings"
     - "Visual daily achievement scrapbook"
+    - "Celebrate wins and progress"
     - "Weekly and monthly progress reviews"
-    - "Celebrate wins with streak tracking"
   category: "productivity"
   platforms: ["iOS"]
   keywords: ["done list", "achievement tracker", "productivity", "daily log", "accomplishment journal"]
@@ -997,28 +997,28 @@
   slug: "safe"
   id: "6757352016"
   icon: "safe.png"
-  tagline: "Home Insurance Inventory"
-  description: "Safe helps you create a comprehensive home insurance inventory by cataloging your possessions with photos, descriptions, and estimated values. Be prepared for insurance claims with organized documentation of everything you own."
+  tagline: "Home Inventory Manager"
+  description: "Safe is a home inventory app to document, organize, and protect your belongings with barcode scanning and PDF export. Be prepared for insurance claims with organized documentation of everything you own."
   features:
-    - "Catalog possessions with photos"
-    - "Track item values and purchase dates"
+    - "Document and organize belongings"
+    - "Barcode scanning for items"
+    - "PDF export for insurance"
     - "Organize by room or category"
-    - "Export inventory reports for insurance"
   category: "utilities"
   platforms: ["iOS"]
-  keywords: ["home inventory", "insurance inventory", "asset tracking", "home catalog", "insurance claims"]
+  keywords: ["home inventory", "insurance inventory", "asset tracking", "barcode scanning", "insurance claims"]
 
 - name: "Command Palette"
   slug: "command-palette"
   id: "6757637961"
   icon: "commandpalette.png"
   tagline: "Arc-like Command Palette For Safari"
-  description: "Command Palette brings an Arc browser-style command palette to Safari. Quickly search tabs, bookmarks, history, and perform browser actions using a fast keyboard-driven interface without touching the mouse."
+  description: "Command Palette brings Arc browser-style navigation to Safari -- press Cmd+K to search open tabs, history, and the web from one unified panel. Navigate your browser with a fast, keyboard-driven interface."
   features:
-    - "Keyboard-driven browser navigation"
-    - "Search tabs, bookmarks, and history"
-    - "Quick browser actions and commands"
-    - "Customizable keyboard shortcuts"
+    - "Cmd+K to open unified search panel"
+    - "Search open tabs, history, and the web"
+    - "Arc browser-style navigation"
+    - "Keyboard-driven browser commands"
   category: "safari-extensions"
   platforms: ["macOS"]
   keywords: ["command palette", "keyboard navigation", "Safari extension", "browser shortcuts", "Arc browser"]
@@ -1027,11 +1027,11 @@
   slug: "universal-data-viewer"
   id: "6758082345"
   icon: "udv.png"
-  tagline: "View markdown, json, xml and much more"
-  description: "Universal Data Viewer is a Safari extension that renders structured data files beautifully in your browser. View Markdown, JSON, XML, CSV, and other data formats with proper formatting, syntax highlighting, and navigation."
+  tagline: "View JSON, XML, YAML, CSV and more"
+  description: "Universal Data Viewer is an essential tool for developers and analysts, supporting JSON, XML, YAML, CSV, TOML, and other data file formats. View and navigate structured data files beautifully in your browser."
   features:
-    - "Render Markdown, JSON, XML, CSV in browser"
-    - "Syntax highlighting for code files"
+    - "Support for JSON, XML, YAML, CSV, TOML"
+    - "Syntax highlighting for data files"
     - "Collapsible sections for structured data"
     - "Search and navigate large files"
   category: "safari-extensions"
@@ -1042,40 +1042,40 @@
   slug: "equipt"
   id: "6758159313"
   icon: "equipt.png"
-  tagline: "Equipment & Asset Log"
-  description: "Equipt helps you track and manage your equipment, gear, and physical assets. Log purchase dates, warranty info, maintenance schedules, and condition for all your tools, electronics, and professional equipment."
+  tagline: "Asset Management for Businesses"
+  description: "Equipt is a complete asset management solution for small businesses and contractors with barcode scanning, maintenance logging, and depreciation tracking. Keep all your equipment organized and accounted for."
   features:
-    - "Equipment and asset catalog"
-    - "Warranty and purchase tracking"
-    - "Maintenance schedule reminders"
-    - "Photo documentation for each item"
+    - "Barcode scanning for assets"
+    - "Maintenance logging and scheduling"
+    - "Depreciation tracking"
+    - "Complete equipment catalog"
   category: "utilities"
   platforms: ["iOS"]
-  keywords: ["equipment tracker", "asset management", "inventory", "gear log", "maintenance tracker"]
+  keywords: ["equipment tracker", "asset management", "inventory", "barcode scanning", "maintenance tracker"]
 
 - name: "Sidebar for Instagram"
   slug: "sidebar-for-instagram"
   id: "6758384372"
   icon: "sidebar.png"
-  tagline: "Desktop app for Instagram"
-  description: "Sidebar for Instagram brings the Instagram experience to your Mac desktop as a convenient sidebar. Browse your feed, view stories, and interact with posts in a native macOS sidebar without opening a browser tab."
+  tagline: "Instagram in your Menu Bar"
+  description: "Sidebar for Instagram brings Instagram to your Mac as a sleek floating panel in the menu bar for feed and messages without opening a browser. Browse your feed, view stories, and interact with posts natively on macOS."
   features:
-    - "Instagram feed in a macOS sidebar"
-    - "Browse stories and reels"
-    - "Direct message support"
+    - "Floating menu bar panel"
+    - "Browse feed and messages"
+    - "No browser tab required"
     - "Native macOS look and feel"
   category: "entertainment"
   platforms: ["macOS"]
-  keywords: ["Instagram", "social media", "macOS sidebar", "desktop Instagram", "Instagram client"]
+  keywords: ["Instagram", "social media", "macOS sidebar", "desktop Instagram", "menu bar app"]
 
 - name: "Allow Copy for Safari"
   slug: "allow-copy"
   id: "6758379988"
   icon: "allow.png"
   tagline: "Enable copy/paste on any website"
-  description: "Allow Copy for Safari removes copy-paste restrictions on websites that disable text selection. Regain your ability to copy text from any webpage, bypassing JavaScript-based copy protection and right-click blocking."
+  description: "Allow Copy for Safari restores freedom to copy and select text on websites that restrict those actions. Bypass JavaScript-based copy protection and right-click blocking to regain your ability to copy text from any webpage."
   features:
-    - "Remove copy-paste restrictions on websites"
+    - "Restore copy and select on restricted sites"
     - "Bypass text selection blocking"
     - "Re-enable right-click context menus"
     - "Toggle per-site or globally"
@@ -1088,12 +1088,12 @@
   id: "6758572590"
   icon: "flashcardboat.png"
   tagline: "Flash cards for boating license"
-  description: "Flash card Boat helps you prepare for your boating license exam with comprehensive flashcard sets covering navigation rules, safety regulations, and maritime knowledge. Study efficiently with spaced repetition learning."
+  description: "Flash card Boat is a French boating license exam prep app with 400+ flashcards covering maritime navigation using spaced repetition. Study efficiently and track your progress toward passing the exam."
   features:
-    - "Comprehensive boating exam flashcards"
+    - "400+ maritime flashcards"
     - "Spaced repetition learning system"
+    - "French boating license exam prep"
     - "Track your study progress"
-    - "Practice test mode"
   category: "education"
   platforms: ["iOS"]
   keywords: ["boating license", "flashcards", "maritime exam", "boat test", "navigation rules"]
@@ -1103,12 +1103,12 @@
   id: "6758606333"
   icon: "cuevoice.png"
   tagline: "Voice activated teleprompter"
-  description: "CueVoice is a voice-activated teleprompter that scrolls your script automatically as you speak. Perfect for content creators, presenters, and public speakers who need hands-free script reading that follows their natural speaking pace."
+  description: "CueVoice is an intelligent teleprompter that uses on-device speech recognition to automatically scroll scripts based on your speaking pace. Perfect for content creators, presenters, and public speakers who need hands-free script reading."
   features:
-    - "Voice-activated auto-scrolling"
-    - "Adjustable scroll speed and text size"
+    - "On-device speech recognition"
+    - "Auto-scroll based on speaking pace"
+    - "Adjustable text size and display"
     - "Import scripts from text files"
-    - "Mirror mode for professional teleprompting"
   category: "productivity"
   platforms: ["iOS"]
   keywords: ["teleprompter", "voice activated", "script reader", "public speaking", "content creation"]
@@ -1117,29 +1117,29 @@
   slug: "health-export"
   id: "6758934811"
   icon: "healthexport.png"
-  tagline: "Export Your Health Data"
-  description: "Health Export lets you export your Apple Health data in various formats including CSV, JSON, and PDF. Back up your health metrics, share data with healthcare providers, and analyze your health trends with your own tools."
+  tagline: "Health Data for AI Assistants"
+  description: "Health Export reads your Apple HealthKit data and formats it into clean, structured reports for pasting into ChatGPT, Claude, or any AI assistant. Analyze your health trends with the power of AI."
   features:
-    - "Export Apple Health data to CSV, JSON, PDF"
-    - "Select specific health metrics to export"
-    - "Custom date range filtering"
-    - "Share reports with healthcare providers"
+    - "Read Apple HealthKit data"
+    - "Format data for AI assistants"
+    - "Clean, structured health reports"
+    - "Compatible with ChatGPT, Claude, and more"
   category: "utilities"
   platforms: ["iOS"]
-  keywords: ["health export", "Apple Health", "health data", "medical records", "health backup"]
+  keywords: ["health export", "Apple Health", "health data", "AI health analysis", "health backup"]
 
 - name: "PanicVault"
   slug: "panicvault"
   id: "6759188575"
   icon: "panicvault.png"
-  tagline: "Native Password Manager"
-  description: "PanicVault is a native password manager built for iOS and macOS that securely stores your passwords, credentials, and sensitive information. With end-to-end encryption and biometric authentication, your data stays safe and accessible only to you."
+  tagline: "KeePass Password Manager"
+  description: "PanicVault is a secure, offline-first password manager that reads and writes KeePass (.kdbx) format with no subscription required. Sync optionally via cloud services while keeping your data under your control."
   features:
-    - "End-to-end encrypted password storage"
+    - "KeePass (.kdbx) format support"
+    - "Offline-first with no subscription"
+    - "Optional cloud sync"
     - "Biometric authentication (Face ID / Touch ID)"
-    - "Auto-fill passwords in Safari and apps"
-    - "Secure notes and credential sharing"
-    - "Cross-device sync via iCloud"
+    - "Cross-device compatibility"
   category: "utilities"
   platforms: ["iOS", "macOS"]
-  keywords: ["password manager", "secure vault", "credential manager", "password storage", "encryption"]
+  keywords: ["password manager", "KeePass", "credential manager", "password storage", "encryption"]

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Bible Tab - Daily Scripture in Every New Safari Tab on Mac"
-description: "Transform every new Safari tab into an inspiring Bible verse. Bible Tab brings daily scripture with beautiful backgrounds to your Mac. Download free."
+description: "Transform every new Safari tab into an inspiring Bible verse. Bible Tab brings daily scripture with beautiful backgrounds to your Mac. Available on the App Store."
 app_slug: "bible-tab"
 permalink: /apps/bible-tab/
 ---

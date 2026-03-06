@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Plain Paste - Strip Clipboard Formatting Tool for Mac"
-description: "Paste clean, unformatted text everywhere. Plain Paste strips fonts, colors, and styles from your clipboard instantly. Download free on macOS."
+description: "Paste clean, unformatted text everywhere. Plain Paste strips fonts, colors, and styles from your clipboard instantly. Available on the App Store."
 app_slug: "plain-paste"
 permalink: /apps/plain-paste/
 ---

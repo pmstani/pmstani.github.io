@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "AI Mirror - Smart Pocket Mirror & Lock Screen Widget for iPhone"
-description: "Use your iPhone as a pocket mirror with AI-enhanced lighting and a lock screen widget for quick access. Smart features powered by AI. Download free on iOS."
+description: "Use your iPhone as a pocket mirror with AI-enhanced lighting and a lock screen widget for quick access. Smart features powered by AI. Available on the App Store."
 app_slug: "ai-mirror"
 permalink: /apps/ai-mirror/
 ---

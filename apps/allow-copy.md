@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Allow Copy for Safari - Enable Copy & Paste on Any Website for Mac"
-description: "Remove copy-paste restrictions on websites that block text selection. Re-enable right-click and copying in Safari. Download free on macOS."
+description: "Remove copy-paste restrictions on websites that block text selection. Re-enable right-click and copying in Safari. Available on the App Store."
 app_slug: "allow-copy"
 permalink: /apps/allow-copy/
 ---

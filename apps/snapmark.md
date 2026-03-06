@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Snapmark - Visual Bookmarks & Web Page Screenshots for iOS & Mac"
-description: "Capture visual snapshots of web pages and save them as bookmarks. Organize research with screenshots and links in one place. Download free."
+description: "Capture visual snapshots of web pages and save them as bookmarks. Organize research with screenshots and links in one place. Available on the App Store."
 app_slug: "snapmark"
 permalink: /apps/snapmark/
 ---

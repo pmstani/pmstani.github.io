@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Health Export - Export Apple Health Data to CSV, JSON & PDF on iPhone"
-description: "Export your Apple Health data in CSV, JSON, and PDF formats. Back up health metrics, share with doctors, and analyze your data. Download free on iOS."
+description: "Export your Apple Health data in CSV, JSON, and PDF formats. Back up health metrics, share with doctors, and analyze your data. Available on the App Store."
 app_slug: "health-export"
 permalink: /apps/health-export/
 ---

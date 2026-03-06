@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Audit++ - Professional Website SEO & Performance Audit for Mac"
-description: "Run comprehensive SEO, performance, accessibility, and security audits on any website from Safari. Get actionable reports. Download free on macOS."
+description: "Run comprehensive SEO, performance, accessibility, and security audits on any website from Safari. Get actionable reports. Available on the App Store."
 app_slug: "audit-plus-plus"
 permalink: /apps/audit-plus-plus/
 ---

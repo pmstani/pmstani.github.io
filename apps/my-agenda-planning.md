@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "My Agenda & Planning - Daily Planner & Task Manager for iPhone"
-description: "Organize your daily tasks, appointments, and goals with a beautifully designed agenda. Smart planning features keep you on schedule. Download free on iOS."
+description: "Organize your daily tasks, appointments, and goals with a beautifully designed agenda. Smart planning features keep you on schedule. Available on the App Store."
 app_slug: "my-agenda-planning"
 permalink: /apps/my-agenda-planning/
 ---

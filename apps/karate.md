@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Karate - Belt Progression & Kata Training App for iPhone"
-description: "Train for your karate black belt with structured kata lessons and belt progression tracking. Master traditional karate techniques. Download free on iOS."
+description: "Train for your karate black belt with structured kata lessons and belt progression tracking. Master traditional karate techniques. Available on the App Store."
 app_slug: "karate"
 permalink: /apps/karate/
 ---
