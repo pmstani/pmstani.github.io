@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Auto Refresh - Automatic Page Reload Safari Extension for Mac"
-description: "Automatically reload web pages at custom intervals. Monitor live scores, auctions, and stock tickers without manual refreshing. Download free on macOS."
+description: "Automatically reload web pages at custom intervals. Monitor live scores, auctions, and stock tickers without manual refreshing. Available on the App Store."
 app_slug: "auto-refresh"
 permalink: /apps/auto-refresh/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "PanicVault - Native Password Manager for iPhone & Mac"
-description: "Securely store passwords with end-to-end encryption and biometric auth. Native iOS and macOS password manager with iCloud sync. Download free."
+description: "Securely store passwords with end-to-end encryption and biometric auth. Native iOS and macOS password manager with iCloud sync. Available on the App Store."
 app_slug: "panicvault"
 permalink: /apps/panicvault/
 ---

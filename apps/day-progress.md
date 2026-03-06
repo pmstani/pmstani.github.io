@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Day Progress - Time Awareness Widgets & Progress Bars for iPhone"
-description: "See how much of your day, week, month, and year has elapsed with beautiful progress bar widgets. Stay mindful of time on your home screen. Download free."
+description: "See how much of your day, week, month, and year has elapsed with beautiful progress bar widgets. Stay mindful of time on your home screen. Available on the App Store."
 app_slug: "day-progress"
 permalink: /apps/day-progress/
 ---

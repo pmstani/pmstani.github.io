@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Motivation Quotes Affirmations - Inspiring Safari New Tab Extension"
-description: "Start every browsing session with motivational quotes and affirmations. Beautiful new tab inspiration for Safari on Mac. Download free on macOS."
+description: "Start every browsing session with motivational quotes and affirmations. Beautiful new tab inspiration for Safari on Mac. Available on the App Store."
 app_slug: "motivation-quotes"
 permalink: /apps/motivation-quotes/
 ---

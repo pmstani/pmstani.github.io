@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "NumZap - Reaction Time & Reflex Training Game for iPhone"
-description: "Test and improve your reaction time with fast-paced number tapping gameplay. NumZap tracks your personal bests and ranks. Download free on iOS."
+description: "Test and improve your reaction time with fast-paced number tapping gameplay. NumZap tracks your personal bests and ranks. Available on the App Store."
 app_slug: "numzap"
 permalink: /apps/numzap/
 ---

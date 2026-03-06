@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Photo to PDF - Convert Images to PDF Documents on iPhone"
-description: "Convert photos to PDF instantly. Combine multiple images into one document with adjustable layouts. Perfect for scanning and sharing. Download free on iOS."
+description: "Convert photos to PDF instantly. Combine multiple images into one document with adjustable layouts. Perfect for scanning and sharing. Available on the App Store."
 app_slug: "photo-to-pdf"
 permalink: /apps/photo-to-pdf/
 ---

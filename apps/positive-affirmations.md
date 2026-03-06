@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Positive Affirmations - Daily Motivation & Self-Care App for iPhone"
-description: "Boost confidence and mental wellness with curated daily affirmations. Set reminders and customize your self-care practice. Download free on iOS."
+description: "Boost confidence and mental wellness with curated daily affirmations. Set reminders and customize your self-care practice. Available on the App Store."
 app_slug: "positive-affirmations"
 permalink: /apps/positive-affirmations/
 ---

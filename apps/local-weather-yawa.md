@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Local Weather YaWa - Hyperlocal Forecast & Weather App for iPhone"
-description: "Get accurate hyperlocal weather forecasts with beautiful visualizations. YaWa delivers temperature, wind, and alerts for your exact location. Download free."
+description: "Get accurate hyperlocal weather forecasts with beautiful visualizations. YaWa delivers temperature, wind, and alerts for your exact location. Available on the App Store."
 app_slug: "local-weather-yawa"
 permalink: /apps/local-weather-yawa/
 ---

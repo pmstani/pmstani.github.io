@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "The Done List - Achievement Tracker & Daily Scrapbook for iPhone"
-description: "Focus on what you accomplished instead of what's left undone. Log daily achievements and build a visual scrapbook of progress. Download free on iOS."
+description: "Focus on what you accomplished instead of what's left undone. Log daily achievements and build a visual scrapbook of progress. Available on the App Store."
 app_slug: "the-done-list"
 permalink: /apps/the-done-list/
 ---

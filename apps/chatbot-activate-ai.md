@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Chatbot Activate AI - AI Chat Assistant & Companion for iPhone"
-description: "Chat with an intelligent AI assistant for answers, ideas, and creative writing help. Chatbot Activate AI is your always-available companion. Download free."
+description: "Chat with an intelligent AI assistant for answers, ideas, and creative writing help. Chatbot Activate AI is your always-available companion. Available on the App Store."
 app_slug: "chatbot-activate-ai"
 permalink: /apps/chatbot-activate-ai/
 ---

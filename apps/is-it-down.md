@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Is it Down - Website Status Checker Safari Extension for Mac"
-description: "Instantly check if a website is down for everyone or just you. Diagnose connectivity issues from Safari with one click. Download free on macOS."
+description: "Instantly check if a website is down for everyone or just you. Diagnose connectivity issues from Safari with one click. Available on the App Store."
 app_slug: "is-it-down"
 permalink: /apps/is-it-down/
 ---

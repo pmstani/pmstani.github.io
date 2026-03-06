@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "RSS Reader - Feed Reader Safari Extension for Mac"
-description: "Subscribe to RSS feeds and read blogs and news directly in Safari. Auto-discover feeds, organize by category, and read distraction-free. Download free."
+description: "Subscribe to RSS feeds and read blogs and news directly in Safari. Auto-discover feeds, organize by category, and read distraction-free. Available on the App Store."
 app_slug: "rss-reader"
 permalink: /apps/rss-reader/
 ---

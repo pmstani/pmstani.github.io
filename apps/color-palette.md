@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Color Palette - Extract Website Colors Safari Extension for Mac"
-description: "Extract the complete color scheme from any website. View hex, RGB, and HSL values. Build and save color palettes for design projects. Download free."
+description: "Extract the complete color scheme from any website. View hex, RGB, and HSL values. Build and save color palettes for design projects. Available on the App Store."
 app_slug: "color-palette"
 permalink: /apps/color-palette/
 ---

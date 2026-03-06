@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Format JSON for Safari - JSON Beautifier & Viewer for Mac"
-description: "Auto-detect and beautify JSON data in Safari with syntax highlighting and collapsible sections. Essential for API debugging. Download free on macOS."
+description: "Auto-detect and beautify JSON data in Safari with syntax highlighting and collapsible sections. Essential for API debugging. Available on the App Store."
 app_slug: "format-json"
 permalink: /apps/format-json/
 ---

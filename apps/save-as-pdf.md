@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Save as PDF - Convert Web Pages to PDF in Safari on Mac"
-description: "Convert any webpage to a well-formatted PDF with one click. Preserve layouts and images for offline reading and sharing. Download free on macOS."
+description: "Convert any webpage to a well-formatted PDF with one click. Preserve layouts and images for offline reading and sharing. Available on the App Store."
 app_slug: "save-as-pdf"
 permalink: /apps/save-as-pdf/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Sticky Notes for Safari - Annotate Web Pages on Mac"
-description: "Place virtual sticky notes on any webpage that persist across sessions. Annotate research, leave reminders, and organize your web workflow. Download free."
+description: "Place virtual sticky notes on any webpage that persist across sessions. Annotate research, leave reminders, and organize your web workflow. Available on the App Store."
 app_slug: "sticky-notes"
 permalink: /apps/sticky-notes/
 ---

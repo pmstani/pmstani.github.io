@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Sidebar for Instagram - Desktop Instagram Client for Mac"
-description: "Browse Instagram in a native macOS sidebar. View your feed, stories, reels, and DMs without opening a browser tab. Download free on macOS."
+description: "Browse Instagram in a native macOS sidebar. View your feed, stories, reels, and DMs without opening a browser tab. Available on the App Store."
 app_slug: "sidebar-for-instagram"
 permalink: /apps/sidebar-for-instagram/
 ---

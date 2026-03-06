@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Auto Scroll - Hands-Free Page Scrolling Safari Extension for Mac"
-description: "Automatically scroll web pages at adjustable speeds for hands-free reading. Perfect for long articles and recipes. Safari extension. Download free on macOS."
+description: "Automatically scroll web pages at adjustable speeds for hands-free reading. Perfect for long articles and recipes. Safari extension. Available on the App Store."
 app_slug: "auto-scroll"
 permalink: /apps/auto-scroll/
 ---

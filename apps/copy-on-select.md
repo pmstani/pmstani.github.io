@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Copy On Select - Auto Copy Text Safari Extension for Mac"
-description: "Automatically copy text to clipboard when you select it, just like in a terminal. No more Cmd+C needed. Safari extension for macOS. Download free."
+description: "Automatically copy text to clipboard when you select it, just like in a terminal. No more Cmd+C needed. Safari extension for macOS. Available on the App Store."
 app_slug: "copy-on-select"
 permalink: /apps/copy-on-select/
 ---

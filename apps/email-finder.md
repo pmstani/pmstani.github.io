@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Email Finder - Extract Email Addresses from Web Pages on Mac"
-description: "Scan any webpage and extract all email addresses instantly. Email Finder is a Safari extension for sales, recruiting, and marketing. Download free on macOS."
+description: "Scan any webpage and extract all email addresses instantly. Email Finder is a Safari extension for sales, recruiting, and marketing. Available on the App Store."
 app_slug: "email-finder"
 permalink: /apps/email-finder/
 ---

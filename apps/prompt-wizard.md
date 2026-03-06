@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Prompt Wizard - AI Prompt Templates Safari Extension for Mac"
-description: "Craft better prompts for ChatGPT and Claude with curated templates. Prompt Wizard inserts proven prompts directly in Safari. Download free on macOS."
+description: "Craft better prompts for ChatGPT and Claude with curated templates. Prompt Wizard inserts proven prompts directly in Safari. Available on the App Store."
 app_slug: "prompt-wizard"
 permalink: /apps/prompt-wizard/
 ---

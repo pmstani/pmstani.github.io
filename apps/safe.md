@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Safe - Home Insurance Inventory & Asset Catalog for iPhone"
-description: "Catalog your possessions with photos and values for insurance claims. Be prepared with organized documentation of everything you own. Download free on iOS."
+description: "Catalog your possessions with photos and values for insurance claims. Be prepared with organized documentation of everything you own. Available on the App Store."
 app_slug: "safe"
 permalink: /apps/safe/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Get Archive - Access Wayback Machine & Web Page History on Mac"
-description: "Retrieve cached and archived versions of any webpage instantly. Get Archive connects to the Wayback Machine right from Safari. Download free on macOS."
+description: "Retrieve cached and archived versions of any webpage instantly. Get Archive connects to the Wayback Machine right from Safari. Available on the App Store."
 app_slug: "get-archive"
 permalink: /apps/get-archive/
 ---

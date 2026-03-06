@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Ultra Wide for Insta - Cinematic Widescreen Video for iPhone"
-description: "Shoot cinematic ultra-wide aspect ratio videos for Instagram and social media. Letterbox effects and widescreen presets on iPhone. Download free on iOS."
+description: "Shoot cinematic ultra-wide aspect ratio videos for Instagram and social media. Letterbox effects and widescreen presets on iPhone. Available on the App Store."
 app_slug: "ultra-wide-insta"
 permalink: /apps/ultra-wide-insta/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Calcular - Mental Math Training & Brain Exercise App for iPhone"
-description: "Sharpen your arithmetic skills with progressive mental math exercises. Calcular tracks your improvement with timed challenges. Download free on iOS."
+description: "Sharpen your arithmetic skills with progressive mental math exercises. Calcular tracks your improvement with timed challenges. Available on the App Store."
 app_slug: "calcular"
 permalink: /apps/calcular/
 ---

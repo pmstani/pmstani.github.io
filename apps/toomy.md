@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Toomy - Musical Toothbrush Timer for Kids & Adults on iPhone"
-description: "Make tooth brushing fun with a two-minute music timer. Choose songs and sounds to build healthy dental hygiene habits. Download free on iOS."
+description: "Make tooth brushing fun with a two-minute music timer. Choose songs and sounds to build healthy dental hygiene habits. Available on the App Store."
 app_slug: "toomy"
 permalink: /apps/toomy/
 ---

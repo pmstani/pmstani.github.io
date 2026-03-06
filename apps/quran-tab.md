@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Quran Tab - Daily Quran Verses in Every New Safari Tab on Mac"
-description: "Display beautiful Quran verses with Arabic calligraphy and English translation on every new Safari tab. Stay connected to your faith. Download free."
+description: "Display beautiful Quran verses with Arabic calligraphy and English translation on every new Safari tab. Stay connected to your faith. Available on the App Store."
 app_slug: "quran-tab"
 permalink: /apps/quran-tab/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Convert - Automatic Currency Converter Safari Extension for Mac"
-description: "Automatically detect and convert prices to your currency while browsing. Real-time exchange rates for 150+ currencies in Safari. Download free on macOS."
+description: "Automatically detect and convert prices to your currency while browsing. Real-time exchange rates for 150+ currencies in Safari. Available on the App Store."
 app_slug: "convert"
 permalink: /apps/convert/
 ---

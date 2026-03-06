@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Auto Clicker - Automate Mouse Clicks Safari Extension for Mac"
-description: "Automate repetitive clicking tasks on web pages with custom intervals and targets. Auto Clicker saves time on tedious browser tasks. Download free on macOS."
+description: "Automate repetitive clicking tasks on web pages with custom intervals and targets. Auto Clicker saves time on tedious browser tasks. Available on the App Store."
 app_slug: "auto-clicker"
 permalink: /apps/auto-clicker/
 ---

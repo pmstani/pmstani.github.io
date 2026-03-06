@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Site Slurpr - Download Entire Websites for Offline Browsing on Mac"
-description: "Download complete websites with full structure and navigation for offline viewing. Archive sites before they disappear. Download free on macOS."
+description: "Download complete websites with full structure and navigation for offline viewing. Archive sites before they disappear. Available on the App Store."
 app_slug: "site-slurpr"
 permalink: /apps/site-slurpr/
 ---

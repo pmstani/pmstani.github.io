@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "PDF Compressor ThinPDF - Reduce PDF File Size on Mac"
-description: "Compress PDFs while maintaining quality. ThinPDF reduces file sizes for easy emailing and uploading. Batch processing supported. Download free on macOS."
+description: "Compress PDFs while maintaining quality. ThinPDF reduces file sizes for easy emailing and uploading. Batch processing supported. Available on the App Store."
 app_slug: "pdf-compressor"
 permalink: /apps/pdf-compressor/
 ---

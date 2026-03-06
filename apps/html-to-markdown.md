@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "HTML to Markdown - Web Content Converter Safari Extension for Mac"
-description: "Convert any webpage or HTML content to clean Markdown format with one click. Perfect for bloggers and developers. Download free on macOS."
+description: "Convert any webpage or HTML content to clean Markdown format with one click. Perfect for bloggers and developers. Available on the App Store."
 app_slug: "html-to-markdown"
 permalink: /apps/html-to-markdown/
 ---

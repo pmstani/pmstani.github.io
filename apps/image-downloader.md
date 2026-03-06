@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Image Downloader - Bulk Save Images from Web Pages on Mac"
-description: "Download all images from any webpage with one click. Filter by size and format, preview before saving. Safari extension for macOS. Download free."
+description: "Download all images from any webpage with one click. Filter by size and format, preview before saving. Safari extension for macOS. Available on the App Store."
 app_slug: "image-downloader"
 permalink: /apps/image-downloader/
 ---

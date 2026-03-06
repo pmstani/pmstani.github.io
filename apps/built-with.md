@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Built With - Website Technology Detector Safari Extension for Mac"
-description: "Reveal the technologies behind any website. Identify CMS, frameworks, analytics, and hosting with one click in Safari. Download free on macOS."
+description: "Reveal the technologies behind any website. Identify CMS, frameworks, analytics, and hosting with one click in Safari. Available on the App Store."
 app_slug: "built-with"
 permalink: /apps/built-with/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Tech News Pro - Curated Hacker News & Tech Stories for iPhone"
-description: "Stay updated with curated tech news from Hacker News in a clean, distraction-free reader. Save articles for offline reading. Download free on iOS."
+description: "Stay updated with curated tech news from Hacker News in a clean, distraction-free reader. Save articles for offline reading. Available on the App Store."
 app_slug: "tech-news-pro"
 permalink: /apps/tech-news-pro/
 ---

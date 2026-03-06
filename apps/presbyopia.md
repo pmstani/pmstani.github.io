@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Presbyopia - Text Zoom Safari Extension for Farsighted Users on Mac"
-description: "Enlarge web text instantly for comfortable reading without glasses. Presbyopia is a Safari extension built for farsighted users. Download free on macOS."
+description: "Enlarge web text instantly for comfortable reading without glasses. Presbyopia is a Safari extension built for farsighted users. Available on the App Store."
 app_slug: "presbyopia"
 permalink: /apps/presbyopia/
 ---

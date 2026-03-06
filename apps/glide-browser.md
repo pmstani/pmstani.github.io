@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Glide Browser - Gesture-Driven Web Browser for iPhone"
-description: "Browse the web with intuitive swipe gestures optimized for one-handed use. Glide Browser offers a minimal, content-focused experience. Download free on iOS."
+description: "Browse the web with intuitive swipe gestures optimized for one-handed use. Glide Browser offers a minimal, content-focused experience. Available on the App Store."
 app_slug: "glide-browser"
 permalink: /apps/glide-browser/
 ---

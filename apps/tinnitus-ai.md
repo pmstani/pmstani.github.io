@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Tinnitus AI - Sound Therapy & Tinnitus Relief App for iPhone"
-description: "Get personalized tinnitus relief with AI-powered sound therapy. Tinnitus AI creates custom soundscapes to mask ringing and buzzing. Download free on iOS."
+description: "Get personalized tinnitus relief with AI-powered sound therapy. Tinnitus AI creates custom soundscapes to mask ringing and buzzing. Available on the App Store."
 app_slug: "tinnitus-ai"
 permalink: /apps/tinnitus-ai/
 ---

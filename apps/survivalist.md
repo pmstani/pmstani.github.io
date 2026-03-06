@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Survivalist - Emergency Preparedness & Survival Guide App for iPhone"
-description: "Learn essential survival skills, emergency preparedness, and wilderness techniques with comprehensive offline guides and checklists. Download free on iOS."
+description: "Learn essential survival skills, emergency preparedness, and wilderness techniques with comprehensive offline guides and checklists. Available on the App Store."
 app_slug: "survivalist"
 permalink: /apps/survivalist/
 ---

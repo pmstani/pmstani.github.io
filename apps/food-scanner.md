@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Food Scanner for Safari - Online Grocery Nutrition Analyzer for Mac"
-description: "Analyze nutritional info while shopping for groceries online. Get instant nutrition grades and healthier alternatives in Safari. Download free on macOS."
+description: "Analyze nutritional info while shopping for groceries online. Get instant nutrition grades and healthier alternatives in Safari. Available on the App Store."
 app_slug: "food-scanner"
 permalink: /apps/food-scanner/
 ---

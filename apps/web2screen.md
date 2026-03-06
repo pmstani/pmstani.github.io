@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "web2screen - Full Page Screenshot Safari Extension for Mac"
-description: "Capture full-page website screenshots including content below the fold. Export high-resolution images from Safari with one click. Download free on macOS."
+description: "Capture full-page website screenshots including content below the fold. Export high-resolution images from Safari with one click. Available on the App Store."
 app_slug: "web2screen"
 permalink: /apps/web2screen/
 ---

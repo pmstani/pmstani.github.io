@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Wave & Surf by Kooks - Surf Forecast & Wave Reports for iPhone"
-description: "Check real-time surf conditions, wave forecasts, and tide charts before you hit the beach. Surf reports for spots worldwide. Download free on iOS."
+description: "Check real-time surf conditions, wave forecasts, and tide charts before you hit the beach. Surf reports for spots worldwide. Available on the App Store."
 app_slug: "wave-surf-kooks"
 permalink: /apps/wave-surf-kooks/
 ---

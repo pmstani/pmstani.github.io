@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Read Easier - Atkinson Hyperlegible Font Safari Extension for Mac"
-description: "Apply the Atkinson Hyperlegible font to any website for improved readability. Designed for low vision users on Safari. Download free on macOS."
+description: "Apply the Atkinson Hyperlegible font to any website for improved readability. Designed for low vision users on Safari. Available on the App Store."
 app_slug: "read-easier"
 permalink: /apps/read-easier/
 ---

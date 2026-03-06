@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "Make It Dark Mode - Night Theme Safari Extension for Mac"
-description: "Apply dark mode to any website in Safari. Reduce eye strain with customizable dark themes and automatic scheduling. Download free on macOS."
+description: "Apply dark mode to any website in Safari. Reduce eye strain with customizable dark themes and automatic scheduling. Available on the App Store."
 app_slug: "make-it-dark-mode"
 permalink: /apps/make-it-dark-mode/
 ---

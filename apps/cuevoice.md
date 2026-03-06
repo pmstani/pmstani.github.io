@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: "CueVoice - Voice Activated Teleprompter App for iPhone"
-description: "Read scripts hands-free with a teleprompter that scrolls as you speak. Voice-activated auto-scrolling for presenters and creators. Download free on iOS."
+description: "Read scripts hands-free with a teleprompter that scrolls as you speak. Voice-activated auto-scrolling for presenters and creators. Available on the App Store."
 app_slug: "cuevoice"
 permalink: /apps/cuevoice/
 ---
