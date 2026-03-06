@@ -13,11 +13,7 @@
   <body>
     <header>
       <div class="container">
-        <a href="{{ '/' | relative_url }}" class="site-title">
-          {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">{% endif %}
-          <h1>{{ site.title }}</h1>
-        </a>
-        <p class="tagline">{{ site.description }}</p>
+        <a href="{{ '/' | relative_url }}" class="back-link">&larr; Home</a>
       </div>
     </header>
 
@@ -27,9 +23,19 @@
       </div>
     </main>
 
-    <footer>
+    <footer class="site-footer">
       <div class="container">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+        <div class="footer-content">
+          <div class="footer-links">
+            <a href="{{ '/' | relative_url }}#privacy">Privacy Policy</a>
+            <a href="mailto:ps.applecontact@gmail.com">Contact</a>
+            <a href="{{ '/' | relative_url }}#apps">Apps</a>
+          </div>
+          <div class="footer-info">
+            <div class="footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div>
+            <div class="footer-tagline">Made with passion</div>
+          </div>
+        </div>
       </div>
     </footer>
   </body>
