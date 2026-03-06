@@ -1,0 +1,214 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% include favicon.html %}
+  {% include google-analytics.html %}
+</head>
+<body>
+
+  <!-- ====================================================================
+       Hero Section
+       ==================================================================== -->
+  <section class="hero">
+    <div class="hero-orb hero-orb--1"></div>
+    <div class="hero-orb hero-orb--2"></div>
+    <div class="hero-orb hero-orb--3"></div>
+
+    <div class="hero-content">
+      <img src="{{ '/img/SiteIcon.svg' | relative_url }}" alt="{{ site.title }}" class="hero-logo">
+      <h1 class="hero-title">
+        Crafting apps that<br>
+        <span class="hero-title-accent">make a difference</span>
+      </h1>
+      <p class="hero-subtitle">
+        Independent iOS &amp; macOS developer since 2007 &mdash; {{ site.data.apps | size }}+ apps on the App Store
+      </p>
+      <div class="hero-buttons">
+        <a href="#apps" class="btn btn-primary">Browse Apps</a>
+        <a href="mailto:ps.applecontact@gmail.com" class="btn btn-secondary">Contact Me</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====================================================================
+       Stats Bar
+       ==================================================================== -->
+  <section class="stats-bar">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item">
+          <div class="stat-number">{{ site.data.apps | size }}+</div>
+          <div class="stat-label">Apps</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">2007</div>
+          <div class="stat-label">Since</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">{% assign safari_count = 0 %}{% for app in site.data.apps %}{% if app.category == "safari-extensions" %}{% assign safari_count = safari_count | plus: 1 %}{% endif %}{% endfor %}{{ safari_count }}</div>
+          <div class="stat-label">Safari Extensions</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">2</div>
+          <div class="stat-label">Platforms</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====================================================================
+       App Grid Section
+       ==================================================================== -->
+  <section class="apps-section section" id="apps">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Apps</h2>
+        <p class="section-subtitle">
+          A growing collection of carefully crafted iOS &amp; macOS applications, from Safari extensions to productivity tools and beyond.
+        </p>
+      </div>
+
+      <!-- Category Filter Pills -->
+      <div class="category-filters" role="tablist" aria-label="Filter apps by category">
+        <button class="category-pill active" data-category="all" role="tab" aria-selected="true">All</button>
+        <button class="category-pill" data-category="safari-extensions" role="tab" aria-selected="false">Safari Extensions</button>
+        <button class="category-pill" data-category="productivity" role="tab" aria-selected="false">Productivity</button>
+        <button class="category-pill" data-category="health-wellness" role="tab" aria-selected="false">Health &amp; Wellness</button>
+        <button class="category-pill" data-category="education" role="tab" aria-selected="false">Education</button>
+        <button class="category-pill" data-category="developer-tools" role="tab" aria-selected="false">Developer Tools</button>
+        <button class="category-pill" data-category="entertainment" role="tab" aria-selected="false">Entertainment</button>
+        <button class="category-pill" data-category="utilities" role="tab" aria-selected="false">Utilities</button>
+        <button class="category-pill" data-category="social-media" role="tab" aria-selected="false">Social Media</button>
+      </div>
+
+      <!-- App Cards Grid -->
+      <div class="app-grid">
+        {% for app in site.data.apps %}
+        <div class="app-card" data-category="{{ app.category }}">
+          <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" title="{{ app.name }}">
+            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-card-icon" loading="lazy" width="72" height="72">
+            <div class="app-card-name">{{ app.name }}</div>
+            <div class="app-card-tagline">{{ app.tagline }}</div>
+            <span class="app-card-category">{{ app.category | replace: '-', ' ' }}</span>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ====================================================================
+       Privacy Section
+       ==================================================================== -->
+  <section class="privacy-section" id="privacy">
+    <div class="container">
+      <div class="privacy-content">
+        <h2>Privacy Policy</h2>
+        <p class="privacy-intro">
+          Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below.
+        </p>
+        <p>If you have questions about deleting or correcting your personal data please contact our support team.</p>
+
+        <h3>Gathering of Personally-Identifying Information</h3>
+        <p>Our apps does not gather personally identifying information.</p>
+
+        <h3>Protection of Certain Personally-Identifying Information</h3>
+        <p>No Personally-Identifying Information is transmitted to external locations when using our apps.</p>
+
+        <h3>Cookies</h3>
+        <p>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Our apps website identify and track visitors, their usage of our apps website, and their website access preferences. If our apps website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our apps's websites.</p>
+
+        <h3>Business Transfers</h3>
+        <p>If our apps, or substantially all of its assets, were acquired, or in the unlikely event that our apps goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of our apps may continue to use your personal information as set forth in this policy.</p>
+
+        <h3>Privacy Policy Changes</h3>
+        <p>Although most changes are likely to be minor, our apps may change its Privacy Policy from time to time, and in our apps's sole discretion. Our apps encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+
+        <h3>Limited Warranties</h3>
+        <p>We do not warrant the completeness or accuracy of the information published on this website; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.</p>
+        <p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to this website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill).</p>
+
+        <h3>Indemnity</h3>
+        <p>You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.</p>
+
+        <h3>Face Data</h3>
+        <p>Face Data is not retained or stored, nor is it shared with any third party.</p>
+
+        <p><em>Adapted from the automattic.com privacy policy under a Creative Commons Sharealike license.</em></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====================================================================
+       Footer
+       ==================================================================== -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="#privacy">Privacy Policy</a>
+          <a href="mailto:ps.applecontact@gmail.com">Contact</a>
+          <a href="#apps">Apps</a>
+        </div>
+        <div class="footer-info">
+          <div class="footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div>
+          <div class="footer-tagline">Made with passion</div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ====================================================================
+       Category Filter Script
+       ==================================================================== -->
+  <script>
+  (function() {
+    'use strict';
+
+    var pills = document.querySelectorAll('.category-pill');
+    var cards = document.querySelectorAll('.app-card');
+
+    pills.forEach(function(pill) {
+      pill.addEventListener('click', function() {
+        var category = this.getAttribute('data-category');
+
+        // Update active pill
+        pills.forEach(function(p) {
+          p.classList.remove('active');
+          p.setAttribute('aria-selected', 'false');
+        });
+        this.classList.add('active');
+        this.setAttribute('aria-selected', 'true');
+
+        // Filter cards
+        cards.forEach(function(card) {
+          if (category === 'all' || card.getAttribute('data-category') === category) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+      });
+    });
+  })();
+  </script>
+
+</body>
+</html>
