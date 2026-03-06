@@ -1,0 +1,118 @@
+{% assign app = nil %}
+{% for a in site.data.apps %}
+  {% if a.slug == page.app_slug %}
+    {% assign app = a %}
+  {% endif %}
+{% endfor %}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  {% if app %}<meta property="og:image" content="{{ site.url }}/img/apps/{{ app.icon }}">{% endif %}
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  {% if app %}<meta name="twitter:image" content="{{ site.url }}/img/apps/{{ app.icon }}">{% endif %}
+
+  <!-- JSON-LD Structured Data -->
+  {% if app %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "{{ app.name }}",
+    "description": "{{ app.description | strip_newlines }}",
+    "applicationCategory": "{{ app.category }}",
+    "operatingSystem": "{{ app.platforms | join: ', ' }}",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "image": "{{ site.url }}/img/apps/{{ app.icon }}",
+    "url": "https://apps.apple.com/app/id{{ app.id }}",
+    "author": {
+      "@type": "Person",
+      "name": "Pierre Stanislas"
+    }
+  }
+  </script>
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% include favicon.html %}
+  {% include google-analytics.html %}
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="back-link">&larr; Back to all apps</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      {% if app %}
+      <div class="app-detail">
+        <div class="app-detail-header">
+          <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-detail-icon">
+          <div class="app-detail-info">
+            <h1>{{ app.name }}</h1>
+            <p class="app-detail-tagline">{{ app.tagline }}</p>
+            <div class="app-detail-platforms">
+              {% for platform in app.platforms %}
+              <span class="platform-badge">{{ platform }}</span>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        <div class="app-detail-description">
+          <p>{{ app.description }}</p>
+        </div>
+
+        {% if app.features %}
+        <div class="app-detail-features">
+          <h2>Key Features</h2>
+          <ul>
+            {% for feature in app.features %}
+            <li>{{ feature }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+
+        <div class="app-detail-download">
+          <a href="https://apps.apple.com/app/id{{ app.id }}" class="app-store-button" target="_blank" rel="noopener noreferrer">
+            Download on the App Store
+          </a>
+        </div>
+      </div>
+      {% else %}
+      <p>App not found.</p>
+      {% endif %}
+
+      {{ content }}
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
