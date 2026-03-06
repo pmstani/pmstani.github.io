@@ -6,3 +6,8 @@ _site
 .bundles_cache
 Gemfile.lock
 vendor
+
+# Claude
+.claude/
+.claude-work/
+CLAUDE.md
