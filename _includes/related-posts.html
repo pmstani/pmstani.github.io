@@ -1,0 +1,15 @@
+{% if include.posts %}
+<div class="related-posts">
+  <h3>Related Articles</h3>
+  <ul>
+    {% for post_slug in include.posts %}
+      {% for post in site.posts %}
+        {% assign post_title_slug = post.title | slugify %}
+        {% if post.slug == post_slug or post_title_slug == post_slug or post.url contains post_slug %}
+        <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

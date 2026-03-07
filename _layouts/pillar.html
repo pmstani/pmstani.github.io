@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "{{ page.title | escape }}",
+    "description": "{{ page.description | escape }}",
+    "url": "{{ page.url | absolute_url }}",
+    "author": {
+      "@type": "Person",
+      "name": "Pierre Stanislas"
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% include favicon.html %}
+  {% include google-analytics.html %}
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav class="blog-nav">
+        <a href="{{ '/' | relative_url }}" class="blog-nav-logo">Pierre Stanislas</a>
+        <div class="blog-nav-links">
+          <a href="{{ '/' | relative_url }}#apps">Apps</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a href="mailto:ps.applecontact@gmail.com">Contact</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      {% include breadcrumbs.html %}
+
+      <div class="pillar-page">
+        <header class="pillar-header">
+          <h1>{{ page.title }}</h1>
+          {% if page.description %}
+          <p class="pillar-description">{{ page.description }}</p>
+          {% endif %}
+        </header>
+
+        <div class="pillar-content">
+          {{ content }}
+        </div>
+
+        {% assign silo_posts = site.posts | where: "silo", page.silo %}
+        {% if silo_posts.size > 0 %}
+        <div class="pillar-articles">
+          <h2>All Articles</h2>
+          <div class="pillar-articles-grid">
+            {% for post in silo_posts %}
+            <a href="{{ post.url | relative_url }}" class="pillar-article-card">
+              <span class="pillar-article-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.description | truncate: 120 }}</p>
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+
+        {% if page.related_apps %}
+        <div class="pillar-apps">
+          <h2>Featured Apps</h2>
+          <div class="related-apps-grid">
+            {% for slug in page.related_apps %}
+              {% for app in site.data.apps %}
+                {% if app.slug == slug %}
+                <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" class="related-app-card">
+                  <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" width="60" height="60" loading="lazy">
+                  <div class="related-app-info">
+                    <div class="related-app-name">{{ app.name }}</div>
+                    <div class="related-app-tagline">{{ app.tagline }}</div>
+                  </div>
+                  <span class="related-app-badge">View App</span>
+                </a>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="{{ '/' | relative_url }}#privacy">Privacy Policy</a>
+          <a href="mailto:ps.applecontact@gmail.com">Contact</a>
+          <a href="{{ '/' | relative_url }}#apps">Apps</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </div>
+        <div class="footer-info">
+          <div class="footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div>
+          <div class="footer-tagline">Made with passion</div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

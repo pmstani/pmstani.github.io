@@ -41,7 +41,7 @@ layout: null
       </p>
       <div class="hero-buttons">
         <a href="#apps" class="btn btn-primary">Browse Apps</a>
-        <a href="mailto:ps.applecontact@gmail.com" class="btn btn-secondary">Contact Me</a>
+        <a href="{{ '/blog/' | relative_url }}" class="btn btn-secondary">Read the Blog</a>
       </div>
     </div>
   </section>
@@ -165,6 +165,7 @@ layout: null
           <a href="#privacy">Privacy Policy</a>
           <a href="mailto:ps.applecontact@gmail.com">Contact</a>
           <a href="#apps">Apps</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
         </div>
         <div class="footer-info">
           <div class="footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div>
