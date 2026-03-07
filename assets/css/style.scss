@@ -1618,11 +1618,12 @@ footer p {
 .blog-cta-button {
   display: inline-block;
   margin-top: var(--space-sm);
-  padding: 0.4rem 1rem;
+  padding: 0.5rem 1.4rem;
   background: var(--gradient-accent);
   color: #fff;
-  font-size: 0.8125rem;
-  font-weight: 600;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
   border-radius: var(--radius-full);
   text-decoration: none;
   transition: all 0.3s ease;
