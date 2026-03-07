@@ -22,12 +22,9 @@ plugins:
   - jekyll-seo-tag
 
 # =============================================================================
-# Collections (if needed for app pages in future)
+# Blog Settings
 # =============================================================================
-# collections:
-#   apps:
-#     output: true
-#     permalink: /apps/:path/
+permalink: /blog/:categories/:title/
 
 # =============================================================================
 # Defaults
@@ -38,6 +35,12 @@ defaults:
       type: "pages"
     values:
       layout: "app-page"
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Pierre Stanislas"
 
 # =============================================================================
 # Exclude from processing
