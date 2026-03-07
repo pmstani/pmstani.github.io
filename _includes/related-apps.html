@@ -1,0 +1,21 @@
+{% if include.app_slugs %}
+<div class="related-apps">
+  <h3>Try {% if include.app_slugs.size == 1 %}This App{% else %}These Apps{% endif %}</h3>
+  <div class="related-apps-grid">
+    {% for slug in include.app_slugs %}
+      {% for app in site.data.apps %}
+        {% if app.slug == slug %}
+        <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" class="related-app-card">
+          <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" width="60" height="60" loading="lazy">
+          <div class="related-app-info">
+            <div class="related-app-name">{{ app.name }}</div>
+            <div class="related-app-tagline">{{ app.tagline }}</div>
+          </div>
+          <span class="related-app-badge">View App</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
