@@ -109,6 +109,28 @@
       <div class="app-detail-seo-content">
         {{ content }}
       </div>
+
+      {% if app %}
+      {% assign app_related_posts = "" | split: "" %}
+      {% for post in site.posts %}
+        {% if post.related_apps contains app.slug %}
+          {% assign app_related_posts = app_related_posts | push: post %}
+        {% endif %}
+      {% endfor %}
+      {% if app_related_posts.size > 0 %}
+      <div class="related-posts" style="max-width: 800px; margin: 0 auto;">
+        <h3>Related Articles</h3>
+        <div class="related-posts-grid">
+          {% for post in app_related_posts limit: 3 %}
+          <a href="{{ post.url | relative_url }}" class="related-post-card">
+            <span class="related-post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="related-post-title">{{ post.title }}</span>
+          </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+      {% endif %}
     </div>
   </main>
 
@@ -119,6 +141,7 @@
           <a href="{{ '/' | relative_url }}#privacy">Privacy Policy</a>
           <a href="mailto:ps.applecontact@gmail.com">Contact</a>
           <a href="{{ '/' | relative_url }}#apps">Apps</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
         </div>
         <div class="footer-info">
           <div class="footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div>

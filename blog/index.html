@@ -1,0 +1,72 @@
+---
+layout: blog-index
+title: "Blog - Tips, Guides & Tutorials"
+description: "Explore guides, tips, and tutorials about Safari extensions, iPhone productivity, health & wellness apps, and more from an independent iOS developer."
+---
+
+<div class="blog-hero">
+  <h1>Tips, Guides &amp; <span class="blog-hero-accent">Tutorials</span></h1>
+  <p>Practical advice on getting the most from your iPhone and Mac — from Safari extensions to productivity workflows, health apps, and developer tools.</p>
+</div>
+
+<div class="silo-grid">
+  {% assign safari_posts = site.posts | where: "silo", "safari-extensions" %}
+  <a href="{{ '/blog/safari-extensions/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x1F310;</span>
+    <h3>Safari Extensions</h3>
+    <p>Dark mode, translation, image downloading, accessibility tools, and more for Safari on iPhone and Mac.</p>
+    <span class="silo-card-count">{{ safari_posts.size }} articles</span>
+  </a>
+
+  {% assign productivity_posts = site.posts | where: "silo", "productivity" %}
+  <a href="{{ '/blog/productivity/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x26A1;</span>
+    <h3>Productivity</h3>
+    <p>File management, transcription, PDF tools, planning apps, and workflow automation tips.</p>
+    <span class="silo-card-count">{{ productivity_posts.size }} articles</span>
+  </a>
+
+  {% assign health_posts = site.posts | where: "silo", "health-wellness" %}
+  <a href="{{ '/blog/health-wellness/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x1F33F;</span>
+    <h3>Health &amp; Wellness</h3>
+    <p>Meditation, mental health tracking, tinnitus relief, affirmations, and fitness training.</p>
+    <span class="silo-card-count">{{ health_posts.size }} articles</span>
+  </a>
+
+  {% assign privacy_posts = site.posts | where: "silo", "digital-privacy-security" %}
+  <a href="{{ '/blog/digital-privacy-security/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x1F512;</span>
+    <h3>Digital Privacy &amp; Security</h3>
+    <p>Password management, photo cleanup, PDF compression, home inventory, and data protection.</p>
+    <span class="silo-card-count">{{ privacy_posts.size }} articles</span>
+  </a>
+
+  {% assign education_posts = site.posts | where: "silo", "education-learning" %}
+  <a href="{{ '/blog/education-learning/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x1F4DA;</span>
+    <h3>Education &amp; Learning</h3>
+    <p>Martial arts training, mental math, flashcards, survival skills, and self-improvement.</p>
+    <span class="silo-card-count">{{ education_posts.size }} articles</span>
+  </a>
+
+  {% assign dev_posts = site.posts | where: "silo", "developer-tools" %}
+  <a href="{{ '/blog/developer-tools/' | relative_url }}" class="silo-card">
+    <span class="silo-card-icon">&#x1F6E0;</span>
+    <h3>Developer &amp; Tech Tools</h3>
+    <p>App Store optimization, web inspection, SEO analysis, RSS feeds, and tech news curation.</p>
+    <span class="silo-card-count">{{ dev_posts.size }} articles</span>
+  </a>
+</div>
+
+<div class="blog-latest">
+  <h2>Latest Articles</h2>
+  <div class="blog-latest-list">
+    {% for post in site.posts limit: 20 %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+</div>
