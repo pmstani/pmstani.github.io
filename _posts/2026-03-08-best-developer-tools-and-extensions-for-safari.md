@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [developer-tools, web-inspector, json, seo]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web-inspector-for-safari, format-json-for-safari, built-with, html-to-markdown, link-gopher, seo-for-safari]
+related_apps: [web-inspector, format-json, built-with, html-to-markdown, link-gopher, seo-for-safari]
 ---
 
 ## Safari's Developer Tooling Problem (and How Extensions Solve It)

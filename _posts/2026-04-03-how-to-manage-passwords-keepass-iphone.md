@@ -232,9 +232,9 @@ Password management is the foundation, but a complete security posture includes 
 
 - **Encrypted document storage** with [Safe](/apps/safe/) for passports, tax returns, and other sensitive files
 - **Data hygiene** with [Clean Genie](/apps/clean-genie/) to reduce your exposure surface by eliminating duplicate and unnecessary photos
-- **Secure document handling** with [ThinPDF](/apps/pdf-compressor-thinpdf/) for local-only PDF compression
-- **Asset documentation** with [Equipt](/apps/equipt/) for insurance-ready home inventory -- see our guide on [creating a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/)
-- **Surveillance reduction** with [YAWA](/apps/local-weather-yawa/) for ad-free, tracking-free weather -- covered in our guide on [checking weather without ads or tracking](/blog/how-to-check-weather-without-ads-tracking/)
+- **Secure document handling** with [ThinPDF](/apps/pdf-compressor/) for local-only PDF compression
+- **Asset documentation** with [Equipt](/apps/equipt/) for insurance-ready home inventory -- see our guide on [creating a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/)
+- **Surveillance reduction** with [YAWA](/apps/local-weather-yawa/) for ad-free, tracking-free weather -- covered in our guide on [checking weather without ads or tracking](/blog/digital-privacy-security/how-to-check-weather-without-ads-tracking/)
 
 ## Common Mistakes to Avoid
 

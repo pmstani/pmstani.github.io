@@ -6,10 +6,10 @@ silo: health-wellness
 related_apps:
   - tinnitus-ai
   - lotus
-  - mental-health-by-happysteps
+  - mental-health-happysteps
   - positive-affirmations
   - tiny-temple
-  - wave-surf-reports-by-kooks
+  - wave-surf-kooks
   - health-export
   - toomy
 permalink: /blog/health-wellness/

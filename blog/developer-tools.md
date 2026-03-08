@@ -7,8 +7,8 @@ related_apps:
   - aso-widgets
   - tech-news-pro
   - rss-reader
-  - web-inspector-for-safari
-  - format-json-for-safari
+  - web-inspector
+  - format-json
   - seo-for-safari
   - link-gopher
   - built-with

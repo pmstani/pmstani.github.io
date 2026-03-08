@@ -24,8 +24,7 @@ But real-world HTML is not a clean mapping exercise. Consider what a typical blo
 <div class="entry-content">
   <p><span style="font-size: 18px; color: #333;">Welcome to our
   <strong>comprehensive guide</strong></span> on deploying
-  <a href="/deploy" class="internal-link" data-tracking="cta-1"
-  onclick="trackClick('deploy-link')">microservices</a>.</p>
+  microservices.</p>
 
   <div class="wp-block-image aligncenter">
     <figure>
@@ -460,6 +459,6 @@ After converting any batch of HTML to Markdown, verify:
 
 ## Related Workflows
 
-HTML-to-Markdown conversion fits within a broader developer content workflow. Understanding the HTML structure before converting it is much easier with proper [inspection and debugging tools for Safari](/blog/best-ways-inspect-debug-websites-safari/), which let you identify the content-bearing elements and skip the layout wrappers. Once your content is in Markdown and published, [on-page SEO analysis](/blog/practical-guide-on-page-seo-analysis/) helps ensure the published pages perform well in search rankings. And the content sources you discover through your [tech news reading system](/blog/how-to-keep-up-tech-news-hacker-news-rss/) are often the pages most worth converting and archiving for permanent reference.
+HTML-to-Markdown conversion fits within a broader developer content workflow. Understanding the HTML structure before converting it is much easier with proper [inspection and debugging tools for Safari](/blog/developer-tools/best-ways-inspect-debug-websites-safari/), which let you identify the content-bearing elements and skip the layout wrappers. Once your content is in Markdown and published, [on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/) helps ensure the published pages perform well in search rankings. And the content sources you discover through your [tech news reading system](/blog/developer-tools/how-to-keep-up-tech-news-hacker-news-rss/) are often the pages most worth converting and archiving for permanent reference.
 
 For developers who maintain websites alongside apps, the [HTML to Markdown](/apps/html-to-markdown/) workflow also connects to documentation for App Store listings — clean Markdown is the easiest format for drafting app descriptions and changelogs before pasting them into App Store Connect.

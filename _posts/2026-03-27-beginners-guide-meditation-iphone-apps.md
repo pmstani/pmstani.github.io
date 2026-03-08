@@ -179,7 +179,7 @@ Starting your day with a brief meditation followed by positive affirmations crea
 
 ### Meditation + Mood Tracking
 
-Tracking your mood before and after meditation sessions gives you direct feedback on the practice's impact. Over weeks, this data builds a personal evidence base that reinforces the habit. [Mental Health by HappySteps](/apps/mental-health-by-happysteps/) makes this easy with quick check-ins. Our guide on [tracking your mood to improve mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains the approach in detail.
+Tracking your mood before and after meditation sessions gives you direct feedback on the practice's impact. Over weeks, this data builds a personal evidence base that reinforces the habit. [Mental Health by HappySteps](/apps/mental-health-happysteps/) makes this easy with quick check-ins. Our guide on [tracking your mood to improve mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains the approach in detail.
 
 ### Meditation + Physical Activity
 
@@ -221,7 +221,7 @@ For most people, yes. However, individuals with a history of trauma or certain p
 No. Sit however is comfortable. A chair with your feet flat on the floor works perfectly. The lotus position is a cultural tradition, not a neurological requirement.
 
 **How do I know if it is working?**
-Track your mood, sleep quality, and stress reactivity over 4-8 weeks. The changes are often subtle enough that you do not notice them in the moment but obvious when you compare your current state to your baseline. A mood tracking app like [HappySteps](/apps/mental-health-by-happysteps/) can make this comparison objective.
+Track your mood, sleep quality, and stress reactivity over 4-8 weeks. The changes are often subtle enough that you do not notice them in the moment but obvious when you compare your current state to your baseline. A mood tracking app like [HappySteps](/apps/mental-health-happysteps/) can make this comparison objective.
 
 **What if I hate it?**
 Try a different technique. People who dislike breath-focused meditation often respond well to body scanning or loving-kindness practice. Try at least three different approaches before concluding that meditation is not for you.

@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mood-tracker, mental-health, wellness, emotional-health]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [mental-health-by-happysteps]
+related_apps: [mental-health-happysteps]
 ---
 
 # How to Track Your Mood and Improve Mental Health with Apps
@@ -60,9 +60,9 @@ This increased emotional awareness is itself valuable. Research by James Penneba
 
 ### Choosing Your Tool
 
-[Mental Health by HappySteps](/apps/mental-health-by-happysteps/) is designed to make mood tracking sustainable rather than burdensome. The app prompts regular check-ins throughout the day, asks you to rate your mood on a simple scale, and lets you note contextual factors -- what you were doing, who you were with, and any relevant circumstances.
+[Mental Health by HappySteps](/apps/mental-health-happysteps/) is designed to make mood tracking sustainable rather than burdensome. The app prompts regular check-ins throughout the day, asks you to rate your mood on a simple scale, and lets you note contextual factors -- what you were doing, who you were with, and any relevant circumstances.
 
-{% include blog-cta.html app_slug="mental-health-by-happysteps" %}
+{% include blog-cta.html app_slug="mental-health-happysteps" %}
 
 The key design principle: friction kills tracking habits. Any app that requires more than 30 seconds per entry will get abandoned within two weeks. The best mood trackers balance richness of data capture against the effort required to log each entry.
 
@@ -172,7 +172,7 @@ Apps like [Lotus](/apps/lotus/) and [Tiny Temple](/apps/tiny-temple/) make it ea
 
 ### Mood Tracking + Affirmations
 
-Log your mood after your morning affirmation practice, then again in the afternoon and evening. Over several weeks, [HappySteps](/apps/mental-health-by-happysteps/) data will show whether affirmations produce detectable mood improvements. [Positive Affirmations](/apps/positive-affirmations/) delivers daily prompts that pair naturally with this tracking approach. The research behind affirmations is covered in our guide on [the science behind positive self-talk](/blog/health-wellness/daily-affirmations-science-behind-positive-self-talk/).
+Log your mood after your morning affirmation practice, then again in the afternoon and evening. Over several weeks, [HappySteps](/apps/mental-health-happysteps/) data will show whether affirmations produce detectable mood improvements. [Positive Affirmations](/apps/positive-affirmations/) delivers daily prompts that pair naturally with this tracking approach. The research behind affirmations is covered in our guide on [the science behind positive self-talk](/blog/health-wellness/daily-affirmations-science-behind-positive-self-talk/).
 
 ### Mood Tracking + Health Data Analysis
 
@@ -189,7 +189,7 @@ Our guide on [exporting and analyzing Apple Health data](/blog/health-wellness/e
 
 Mood data is among the most sensitive personal information you can generate. It creates a longitudinal record of your emotional vulnerabilities, triggers, and mental health status. Before choosing a tracking app, consider:
 
-- **Where is data stored?** Local device storage is more private than cloud storage. [Mental Health by HappySteps](/apps/mental-health-by-happysteps/) keeps data on your device.
+- **Where is data stored?** Local device storage is more private than cloud storage. [Mental Health by HappySteps](/apps/mental-health-happysteps/) keeps data on your device.
 - **Who can access it?** Review the app's privacy policy and data sharing practices.
 - **Can you export or delete your data?** You should own your mood data and be able to remove it from any service at any time.
 - **Is the app ad-supported?** Ad-supported apps may use your data for targeting, which means your emotional states could be used to influence what you see online.
@@ -226,6 +226,6 @@ This is actually informative. Consistently flat mood tracking (what clinicians c
 
 You do not need to wait for a mental health crisis to start tracking. The best time to establish a baseline is when things are going reasonably well. That way, when challenges arise -- and they will -- you have historical data to compare against, patterns you already understand, and evidence-based strategies already in place.
 
-Open [Mental Health by HappySteps](/apps/mental-health-by-happysteps/), log your first check-in, and commit to tracking for two weeks. What your data reveals about your emotional life will almost certainly surprise you.
+Open [Mental Health by HappySteps](/apps/mental-health-happysteps/), log your first check-in, and commit to tracking for two weeks. What your data reveals about your emotional life will almost certainly surprise you.
 
 For more evidence-based wellness tools, explore our roundup of the [best mental health and wellness apps for iPhone in 2026](/blog/health-wellness/best-mental-health-wellness-apps-iphone-2026/).

@@ -120,7 +120,7 @@ For checking whether a page is still available through public web archives, see 
 
 ### Emergency and Survival Information
 
-This category deserves special emphasis. First aid procedures, emergency contact numbers, offline maps, survival guides, and local emergency protocols should be available without internet dependence. These are exactly the situations where internet access is most likely to fail. Our [emergency preparedness guide](/blog/safari-extensions/emergency-preparedness-essential-survival-skills/) covers this topic in depth.
+This category deserves special emphasis. First aid procedures, emergency contact numbers, offline maps, survival guides, and local emergency protocols should be available without internet dependence. These are exactly the situations where internet access is most likely to fail. Our [emergency preparedness guide](/blog/education-learning/emergency-preparedness-essential-survival-skills/) covers this topic in depth.
 
 ## Configuration Strategies for Different Site Types
 
@@ -196,7 +196,7 @@ Each method has its place. Website downloading is the right tool when you need m
 
 Downloaded websites retain their original styling, which may not be ideal for extended offline reading sessions. Consider pairing your offline library with [Make It Dark Mode](/apps/make-it-dark-mode/), which works with locally saved HTML files to reduce eye strain during long reading sessions. See our [dark mode guide](/blog/safari-extensions/how-to-enable-dark-mode-on-every-website-in-safari/) for setup instructions.
 
-For converting downloaded HTML content into a cleaner, more portable format, [HTML to Markdown](/apps/html-to-markdown/) converts web pages into Markdown files that are lightweight, readable in any text editor, and easy to annotate. See our [HTML to Markdown guide](/blog/safari-extensions/how-to-convert-html-to-markdown-documentation/).
+For converting downloaded HTML content into a cleaner, more portable format, [HTML to Markdown](/apps/html-to-markdown/) converts web pages into Markdown files that are lightweight, readable in any text editor, and easy to annotate. See our [HTML to Markdown guide](/blog/developer-tools/how-to-convert-html-to-markdown-documentation/).
 
 For a complete overview of Safari extensions across every category, browse the [best Safari extensions for iPhone and Mac in 2026](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/) roundup.
 

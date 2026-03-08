@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [pdf, compression, file-size, documents]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [pdf-compressor-thinpdf]
+related_apps: [pdf-compressor]
 ---
 
 A single scanned page at 300 DPI weighs roughly 3 to 8 MB depending on the content. A 20-page scanned contract hits 60 to 160 MB. A photo-heavy annual report can exceed 200 MB. Meanwhile, Gmail caps attachments at 25 MB, Outlook at 20 MB, and most web upload forms top out at 10 to 50 MB. The math does not work — and that mismatch between how documents are created and how they need to be shared is why PDF compression is one of the most commonly searched-for technical tasks on the internet.
@@ -69,7 +69,7 @@ The visible quality loss depends entirely on the compression level chosen and th
 
 The privacy argument for local compression is straightforward: when you upload a PDF to an online compression service, you are transmitting the document to a third-party server. Even services that claim to delete files after processing have had breaches, policy changes, and employee access incidents. If your document contains financial data, medical records, legal contracts, personal identification, or confidential business information, uploading it to a server you do not control is an unnecessary risk.
 
-[ThinPDF](/apps/pdf-compressor-thinpdf/) compresses PDF files entirely on-device. The document never leaves your iPhone or iPad — no upload, no cloud processing, no third-party access.
+[ThinPDF](/apps/pdf-compressor/) compresses PDF files entirely on-device. The document never leaves your iPhone or iPad — no upload, no cloud processing, no third-party access.
 
 ### Step 1: Select Your PDF
 
@@ -91,7 +91,7 @@ Before saving, review the compressed document to verify that the quality meets y
 
 Save the compressed file back to your preferred location or share it directly through the iOS share sheet — email, Messages, AirDrop, Slack, or any other app. The smaller file size means faster uploads, no bounced emails, and less bandwidth consumption for recipients.
 
-{% include blog-cta.html app_slug="pdf-compressor-thinpdf" %}
+{% include blog-cta.html app_slug="pdf-compressor" %}
 
 ## Practical Scenarios and Recommended Settings
 
@@ -103,7 +103,7 @@ Different situations call for different compression approaches. Here are the mos
 
 ### Insurance and Legal Documentation
 
-**Target:** Readable and complete, with privacy maintained. Scanned insurance policies, claims documentation, and legal filings often need to be emailed to agents, adjusters, or attorneys. Medium compression preserves all detail while keeping files manageable. Always compress locally for these sensitive documents. If you are assembling a home inventory for insurance purposes, our guide on [how to create a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/) explains how to document your belongings systematically.
+**Target:** Readable and complete, with privacy maintained. Scanned insurance policies, claims documentation, and legal filings often need to be emailed to agents, adjusters, or attorneys. Medium compression preserves all detail while keeping files manageable. Always compress locally for these sensitive documents. If you are assembling a home inventory for insurance purposes, our guide on [how to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/) explains how to document your belongings systematically.
 
 ### Academic Submissions
 
@@ -167,11 +167,11 @@ Prevention is always more efficient than remediation. These practices produce sm
 
 PDF compression is often part of a larger document workflow. If you regularly work with PDFs on your iPhone, you might also find these guides useful:
 
-- [How to compare PDF documents side by side](/blog/how-to-compare-pdf-documents-side-by-side/) covers tools for reviewing document revisions, which is especially useful before compressing and archiving a final version.
-- [How to convert photos to PDF on iPhone](/blog/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/) explains how to create clean PDFs from photos and scans, including tips for keeping the output size manageable from the start.
-- [How to save any web page as a PDF in Safari](/blog/how-to-save-any-web-page-as-a-pdf-in-safari/) is useful for archiving web content as PDFs — and those PDFs often benefit from compression before long-term storage.
+- [How to compare PDF documents side by side](/blog/productivity/how-to-compare-pdf-documents-side-by-side/) covers tools for reviewing document revisions, which is especially useful before compressing and archiving a final version.
+- [How to convert photos to PDF on iPhone](/blog/productivity/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/) explains how to create clean PDFs from photos and scans, including tips for keeping the output size manageable from the start.
+- [How to save any web page as a PDF in Safari](/blog/safari-extensions/how-to-save-any-web-page-as-a-pdf-in-safari/) is useful for archiving web content as PDFs — and those PDFs often benefit from compression before long-term storage.
 
-For a broader look at protecting your documents and digital privacy on Apple devices, see our complete [best privacy and security apps for iPhone and Mac](/blog/best-privacy-security-apps-iphone-mac/) roundup. And if you are looking to manage passwords for all the services you share documents through, our guide on [managing passwords securely with KeePass](/blog/how-to-manage-passwords-keepass-iphone/) covers the foundation of keeping your credentials organized and encrypted.
+For a broader look at protecting your documents and digital privacy on Apple devices, see our complete [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) roundup. And if you are looking to manage passwords for all the services you share documents through, our guide on [managing passwords securely with KeePass](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/) covers the foundation of keeping your credentials organized and encrypted.
 
 ## Things Most Guides Do Not Tell You
 

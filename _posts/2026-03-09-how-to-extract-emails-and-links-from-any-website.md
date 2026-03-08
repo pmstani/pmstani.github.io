@@ -88,7 +88,7 @@ Link extraction is the foundation of several critical SEO tasks:
 
 **Internal link auditing.** Search engines crawl websites by following links. Pages with few internal links pointing to them are harder for search engines to discover and tend to rank poorly. Extracting all internal links from key pages reveals whether your most important content is adequately linked. The ideal internal link structure resembles a pyramid — the homepage links to category pages, category pages link to individual content pages, and strategic cross-links connect related content.
 
-**Broken link detection.** Extract all links from a page, then check each URL for HTTP status codes. Any link returning a 404 (Not Found), 410 (Gone), or 5xx (Server Error) is broken. Broken links degrade user experience and waste crawl budget. For a deeper dive into on-page SEO analysis, see our [practical guide to on-page SEO analysis](/blog/safari-extensions/practical-guide-on-page-seo-analysis/).
+**Broken link detection.** Extract all links from a page, then check each URL for HTTP status codes. Any link returning a 404 (Not Found), 410 (Gone), or 5xx (Server Error) is broken. Broken links degrade user experience and waste crawl budget. For a deeper dive into on-page SEO analysis, see our [practical guide to on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/).
 
 **Outbound link auditing.** Every external link from your site is an implicit endorsement. Regularly extract and review outbound links to ensure you are not linking to sites that have become irrelevant, spammy, or malicious since you first linked to them.
 
@@ -151,7 +151,7 @@ Data extraction rarely stands alone. These related tools extend what you can do 
 
 - **[SEO for Safari](/apps/seo-for-safari/)** adds comprehensive on-page SEO analysis beyond link structure — see the full [developer tools roundup](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/).
 - **[Built With](/apps/built-with/)** identifies the technology stack of websites you are analyzing, useful for filtering prospects by platform.
-- **[HTML to Markdown](/apps/html-to-markdown/)** converts extracted web content into portable Markdown format for documentation — explored further in our [HTML to Markdown conversion guide](/blog/safari-extensions/how-to-convert-html-to-markdown-documentation/).
+- **[HTML to Markdown](/apps/html-to-markdown/)** converts extracted web content into portable Markdown format for documentation — explored further in our [HTML to Markdown conversion guide](/blog/developer-tools/how-to-convert-html-to-markdown-documentation/).
 - **[Save as PDF](/apps/save-as-pdf/)** preserves entire pages as archival documents alongside your extracted data — see our [PDF saving guide](/blog/safari-extensions/how-to-save-any-web-page-as-a-pdf-in-safari/).
 
 For a comprehensive overview of Safari extensions across every category, browse the [best Safari extensions for iPhone and Mac in 2026](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/) guide.
@@ -162,7 +162,7 @@ For a comprehensive overview of Safari extensions across every category, browse 
 Yes, if the extension parses the rendered DOM rather than just the raw HTML source. Modern extensions that run after page load can access dynamically generated content, but addresses loaded via AJAX calls after the initial render may require scrolling or interaction before they appear in the DOM.
 
 **How do I extract emails from a PDF embedded on a web page?**
-Browser-based extraction tools typically cannot parse PDF content. Download the PDF first, then use a dedicated PDF text extraction tool. Our [PDF comparison guide](/blog/safari-extensions/how-to-compare-pdf-documents-side-by-side/) covers tools that work with PDF content.
+Browser-based extraction tools typically cannot parse PDF content. Download the PDF first, then use a dedicated PDF text extraction tool. Our [PDF comparison guide](/blog/productivity/how-to-compare-pdf-documents-side-by-side/) covers tools that work with PDF content.
 
 **Will extracting links from a competitor's site alert them?**
 Standard page visits generate normal server logs, but they are indistinguishable from regular browsing traffic. Extracting links from a single page load is undetectable. Rapidly crawling hundreds of pages, however, creates a noticeable access pattern.

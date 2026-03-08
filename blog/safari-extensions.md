@@ -8,7 +8,7 @@ related_apps:
   - translator-safari-extension
   - image-downloader
   - dyslexia
-  - web-inspector-for-safari
+  - web-inspector
   - extension-ai
 permalink: /blog/safari-extensions/
 ---

@@ -157,13 +157,13 @@ Certain categories of property require more than a photo and a receipt:
 
 A home inventory is one component of a comprehensive preparedness strategy. Other elements worth addressing:
 
-- **Digital security.** Protecting your passwords and accounts ensures that identity theft does not compound the damage from a physical loss. Our guide on [how to manage passwords securely with KeePass on iPhone](/blog/how-to-manage-passwords-keepass-iphone/) covers keeping your credentials encrypted and organized.
-- **Photo library management.** A clean, organized photo library makes it easier to find and reference documentation photos. If your camera roll is cluttered with duplicates, our guide on [how to free up iPhone storage by removing duplicate photos](/blog/how-to-free-up-iphone-storage-removing-duplicate-photos/) will help you clean house.
-- **Document management.** Compressing scanned insurance documents, receipts, and appraisals ensures they do not overwhelm your storage or exceed email attachment limits. See [how to compress PDF files without losing quality](/blog/how-to-compress-pdf-files-without-losing-quality/) for practical techniques.
-- **Emergency preparedness.** Beyond property protection, having essential survival skills and supplies matters. Our guide on [emergency preparedness and essential survival skills](/blog/emergency-preparedness-essential-survival-skills/) covers the physical readiness side of the equation.
-- **Business equipment.** If you run a business from home or manage equipment for work, the same principles apply at a larger scale. Our guide on [best equipment and asset tracking apps for small business](/blog/best-equipment-asset-tracking-apps-small-business/) covers business-specific workflows including depreciation tracking.
+- **Digital security.** Protecting your passwords and accounts ensures that identity theft does not compound the damage from a physical loss. Our guide on [how to manage passwords securely with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/) covers keeping your credentials encrypted and organized.
+- **Photo library management.** A clean, organized photo library makes it easier to find and reference documentation photos. If your camera roll is cluttered with duplicates, our guide on [how to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/) will help you clean house.
+- **Document management.** Compressing scanned insurance documents, receipts, and appraisals ensures they do not overwhelm your storage or exceed email attachment limits. See [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/) for practical techniques.
+- **Emergency preparedness.** Beyond property protection, having essential survival skills and supplies matters. Our guide on [emergency preparedness and essential survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) covers the physical readiness side of the equation.
+- **Business equipment.** If you run a business from home or manage equipment for work, the same principles apply at a larger scale. Our guide on [best equipment and asset tracking apps for small business](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/) covers business-specific workflows including depreciation tracking.
 
-For a complete view of tools that protect your digital and physical assets, see our [best privacy and security apps for iPhone and Mac](/blog/best-privacy-security-apps-iphone-mac/) roundup.
+For a complete view of tools that protect your digital and physical assets, see our [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) roundup.
 
 ## Things Most Guides Do Not Tell You
 

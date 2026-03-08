@@ -105,7 +105,7 @@ Set the volume so that your tinnitus is still faintly audible above or alongside
 
 Short-term masking provides immediate relief, but lasting habituation requires time. The neural pathways driving tinnitus perception took months or years to form, and they do not rewire overnight. Clinical studies consistently show that meaningful habituation takes 3-6 months of consistent daily use, with full effects sometimes not evident for 12-18 months.
 
-Track your progress using a journal or mood tracking app like [Mental Health by HappySteps](/apps/mental-health-by-happysteps/) to log tinnitus severity ratings over time. Gradual improvement can be hard to notice day to day but becomes obvious when you compare your ratings from three months ago to today. Our guide on [tracking your mood to improve mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains how to set up effective self-monitoring.
+Track your progress using a journal or mood tracking app like [Mental Health by HappySteps](/apps/mental-health-happysteps/) to log tinnitus severity ratings over time. Gradual improvement can be hard to notice day to day but becomes obvious when you compare your ratings from three months ago to today. Our guide on [tracking your mood to improve mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains how to set up effective self-monitoring.
 
 ### Address the Stress-Tinnitus Cycle
 

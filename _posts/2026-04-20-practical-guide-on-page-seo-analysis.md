@@ -378,10 +378,10 @@ Rather than manually checking each element on every page, build a systematic wor
 
 2. **Extract and audit links periodically.** [Link Gopher](/apps/link-gopher/) makes link extraction a one-click operation. Run it monthly on your most important pages to verify internal linking is healthy.
 
-3. **Monitor rankings for your target keywords.** On-page optimization is an input; rankings are the output. Without tracking, you cannot measure impact. For app developers, the same principle applies to [App Store keyword rankings](/blog/how-to-track-app-store-keyword-rankings-real-time/).
+3. **Monitor rankings for your target keywords.** On-page optimization is an input; rankings are the output. Without tracking, you cannot measure impact. For app developers, the same principle applies to [App Store keyword rankings](/blog/developer-tools/how-to-track-app-store-keyword-rankings-real-time/).
 
-4. **Stay current with algorithm changes.** Google makes thousands of updates per year. Following SEO news through [an efficient tech news reading system](/blog/how-to-keep-up-tech-news-hacker-news-rss/) helps you distinguish real algorithm shifts from noise.
+4. **Stay current with algorithm changes.** Google makes thousands of updates per year. Following SEO news through [an efficient tech news reading system](/blog/developer-tools/how-to-keep-up-tech-news-hacker-news-rss/) helps you distinguish real algorithm shifts from noise.
 
-5. **Inspect well-ranking pages technically.** When a competitor consistently outranks you, [inspect their page with developer tools](/blog/best-ways-inspect-debug-websites-safari/) to understand their technical implementation — heading structure, schema markup, image optimization, and loading performance.
+5. **Inspect well-ranking pages technically.** When a competitor consistently outranks you, [inspect their page with developer tools](/blog/developer-tools/best-ways-inspect-debug-websites-safari/) to understand their technical implementation — heading structure, schema markup, image optimization, and loading performance.
 
 On-page SEO is not a one-time checklist. It is an ongoing practice of analysis, optimization, measurement, and iteration. The developers and content creators who treat it as a regular discipline — auditing pages quarterly, tracking rankings monthly, and staying current with search engine developments — are the ones who build sustainable organic traffic over time.
