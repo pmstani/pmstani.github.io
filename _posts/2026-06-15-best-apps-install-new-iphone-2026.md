@@ -60,7 +60,7 @@ Weather is one of the most common reasons people check their phone. A quick fore
 
 For a new iPhone setup, replacing the default weather solution with a privacy-respecting alternative is a small choice with large cumulative impact. You check the weather multiple times daily. Over a year, that adds up to thousands of location data transmissions that privacy-invasive weather apps share with advertising networks. Stopping that leak at the source eliminates one of the most prolific sources of personal data exposure on a typical iPhone.
 
-See our weather app comparison: [how to check weather without ads or tracking](/blog/productivity/how-to-check-weather-without-ads-tracking/).
+See our weather app comparison: [how to check weather without ads or tracking](/blog/digital-privacy-security/how-to-check-weather-without-ads-tracking/).
 
 ## Health Data Portability: Owning Your Own Medical Data
 
@@ -80,7 +80,7 @@ A new iPhone has maximum storage capacity, and it feels like enough. It will not
 
 The duplicate photo problem is particularly insidious. Multiple messaging apps save copies of shared images. Screenshots of the same content get taken multiple times. Photos edited in different apps create duplicates. Over a year, these duplicates can consume several gigabytes without any visible indicator.
 
-Read the cleanup guide: [how to free up iPhone storage by removing duplicate photos](/blog/productivity/how-to-free-up-iphone-storage-removing-duplicate-photos/).
+Read the cleanup guide: [how to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/).
 
 ## Secure Data Storage: Establishing Good Habits Early
 
