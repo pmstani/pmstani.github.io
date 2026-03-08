@@ -48,7 +48,7 @@ The irony is acute. Weather forecasting does not require precise GPS coordinates
 
 The privacy advantage is not just theoretical. By eliminating ad networks and tracking SDKs, the app also loads faster, uses less battery (ad rendering and tracker network requests consume measurable power), and presents a cleaner interface without banner ads and interstitials competing with the actual weather data.
 
-Read our full weather app comparison: [how to check weather without ads or tracking](/blog/productivity/how-to-check-weather-without-ads-tracking/).
+Read our full weather app comparison: [how to check weather without ads or tracking](/blog/digital-privacy-security/how-to-check-weather-without-ads-tracking/).
 
 ### The Hidden Cost of "Free" Weather Apps
 
@@ -62,7 +62,7 @@ More importantly, the photos, files, and browsing data on your device represent 
 
 [Clean Genie](/apps/clean-genie/) helps manage this footprint by identifying duplicate photos, unnecessary cached data, and large files that you may have forgotten about. The duplicate photo detection is particularly relevant for privacy: many users have multiple copies of sensitive images (IDs, documents, screenshots of private conversations) scattered across their photo library without realizing it.
 
-Read more: [how to free up iPhone storage by removing duplicate photos](/blog/productivity/how-to-free-up-iphone-storage-removing-duplicate-photos/).
+Read more: [how to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/).
 
 ### Privacy-Focused Cleanup Habits
 

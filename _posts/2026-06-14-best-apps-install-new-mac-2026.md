@@ -106,7 +106,7 @@ PDFs accumulate on every Mac, and many of them are larger than they need to be. 
 
 [PDF Compressor (ThinPDF)](/apps/pdf-compressor/) reduces PDF file sizes while preserving visual quality. The compression runs entirely on your Mac — no uploading documents to web-based compression services. For a new Mac, establishing the habit of compressing PDFs before sharing them saves storage, reduces email bounces, and improves the recipient's experience.
 
-Read the complete guide: [how to compress PDF files without losing quality](/blog/productivity/how-to-compress-pdf-files-without-losing-quality/).
+Read the complete guide: [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/).
 
 ## The Setup Timeline
 
