@@ -84,7 +84,7 @@ Not all health data is relevant to every appointment. Bringing 200 pages of step
 - **Activity level.** Physical activity is a first-line intervention for depression and anxiety. Objective data shows whether current activity levels are therapeutically sufficient.
 - **Mood tracking data.** If you use a mood tracking app, bring the trend.
 
-[HappySteps (Mental Health)](/apps/mental-health-by-happysteps/) provides mood tracking, mental health check-ins, and wellness assessments that complement the physiological data from Apple Health. Combining subjective mood data with objective health metrics gives your mental health provider a more complete picture than either alone.
+[HappySteps (Mental Health)](/apps/mental-health-happysteps/) provides mood tracking, mental health check-ins, and wellness assessments that complement the physiological data from Apple Health. Combining subjective mood data with objective health metrics gives your mental health provider a more complete picture than either alone.
 
 ### Sleep Specialist Appointment
 

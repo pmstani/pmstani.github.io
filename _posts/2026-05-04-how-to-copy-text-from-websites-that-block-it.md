@@ -148,7 +148,7 @@ This removes CSS-based selection blocking and clears the event handlers for righ
 
 Extensions provide the most reliable and user-friendly approach because they can comprehensively address all copy-blocking techniques automatically, without requiring technical knowledge or manual steps each time.
 
-[Allow Copy for Safari](/apps/allow-copy-for-safari/) removes copy restrictions across websites with a single toggle. It intercepts and neutralizes the JavaScript event listeners and CSS properties that prevent text selection and copying, restoring normal browser behavior.
+[Allow Copy for Safari](/apps/allow-copy/) removes copy restrictions across websites with a single toggle. It intercepts and neutralizes the JavaScript event listeners and CSS properties that prevent text selection and copying, restoring normal browser behavior.
 
 {% include blog-cta.html app_slug="allow-copy-for-safari" %}
 

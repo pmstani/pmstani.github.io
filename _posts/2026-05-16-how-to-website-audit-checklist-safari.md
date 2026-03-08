@@ -21,11 +21,11 @@ This guide is a systematic checklist you can follow from top to bottom, running 
 Install these extensions from the Mac App Store before beginning your first audit. Each one handles a specific category of checks:
 
 - **[SEO for Safari](/apps/seo-for-safari/)** — On-page SEO analysis including meta tags, headings, word count, and keyword density.
-- **[Web Inspector for Safari](/apps/web-inspector-for-safari/)** — DOM inspection, CSS debugging, and source code analysis.
+- **[Web Inspector for Safari](/apps/web-inspector/)** — DOM inspection, CSS debugging, and source code analysis.
 - **[Built With](/apps/built-with/)** — Technology stack identification.
 - **[Link Gopher](/apps/link-gopher/)** — Link extraction and broken link detection.
 - **[Audit++](/apps/audit-plus-plus/)** — Performance and accessibility auditing.
-- **[Format JSON for Safari](/apps/format-json-for-safari/)** — JSON formatting for API response and structured data inspection.
+- **[Format JSON for Safari](/apps/format-json/)** — JSON formatting for API response and structured data inspection.
 
 Enable all extensions in Safari > Settings > Extensions. You are now ready to audit any site you visit.
 
@@ -86,7 +86,7 @@ SEO issues are the most common reason for website audits. These checks cover the
 - The canonical URL matches the page's actual URL (unless intentionally consolidating duplicate content).
 - Paginated content uses proper canonical handling — either self-referencing canonicals with `rel="prev"/"next"` or canonical to the first page, depending on your SEO strategy.
 
-**How to check:** View the page source via [Web Inspector for Safari](/apps/web-inspector-for-safari/) and search for `canonical` in the `<head>` section.
+**How to check:** View the page source via [Web Inspector for Safari](/apps/web-inspector/) and search for `canonical` in the `<head>` section.
 
 {% include blog-cta.html app_slug="seo-for-safari" %}
 
@@ -151,7 +151,7 @@ Web accessibility is not optional — it is a legal requirement in many jurisdic
 - ARIA labels are used correctly on elements that lack visible text labels (icon buttons, decorative links, form inputs without visible labels).
 - Dynamic content changes are announced to screen readers via ARIA live regions.
 
-**How to check:** Use [Web Inspector for Safari](/apps/web-inspector-for-safari/) to examine the DOM structure. Look for semantic elements and verify ARIA attributes.
+**How to check:** Use [Web Inspector for Safari](/apps/web-inspector/) to examine the DOM structure. Look for semantic elements and verify ARIA attributes.
 
 {% include blog-cta.html app_slug="audit-plus-plus" %}
 
@@ -212,7 +212,7 @@ Structured data (Schema.org markup) enables rich snippets in search results — 
 - No schema errors or warnings.
 - Schema data matches visible page content (Google penalizes mismatched structured data).
 
-**How to check:** View the page source to find `<script type="application/ld+json">` blocks or microdata attributes. Use [Format JSON for Safari](/apps/format-json-for-safari/) to format and validate the JSON-LD structured data, making it readable and easy to check for errors.
+**How to check:** View the page source to find `<script type="application/ld+json">` blocks or microdata attributes. Use [Format JSON for Safari](/apps/format-json/) to format and validate the JSON-LD structured data, making it readable and easy to check for errors.
 
 ### 6.2 Open Graph and Twitter Cards
 
@@ -221,7 +221,7 @@ Structured data (Schema.org markup) enables rich snippets in search results — 
 - Twitter Card meta tags are present (`twitter:card`, `twitter:title`, `twitter:description`, `twitter:image`).
 - Social share images are the correct dimensions (1200x630 for OG, 1200x628 for Twitter).
 
-For a deeper dive into on-page SEO analysis techniques, see the [practical guide to on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/) and the roundup of [best developer tools and extensions for Safari](/blog/developer-tools/best-developer-tools-and-extensions-for-safari/).
+For a deeper dive into on-page SEO analysis techniques, see the [practical guide to on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/) and the roundup of [best developer tools and extensions for Safari](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/).
 
 ## The 30-Minute Quick Audit Checklist
 
