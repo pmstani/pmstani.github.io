@@ -112,7 +112,7 @@ Every photo on your iPhone carries EXIF metadata: GPS coordinates, timestamp, de
 
 If your device is compromised — through theft, a backup breach, or unauthorized access to your iCloud account — every duplicate photo is an additional data point that an attacker can extract. Minimizing the number of photos on your device to only the ones you actually want reduces your exposure surface.
 
-This principle extends beyond photos. For a broader approach to protecting your digital life on Apple devices, our roundup of the [best privacy and security apps for iPhone and Mac](/blog/best-privacy-security-apps-iphone-mac/) covers tools that address passwords, documents, tracking, and more.
+This principle extends beyond photos. For a broader approach to protecting your digital life on Apple devices, our roundup of the [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) covers tools that address passwords, documents, tracking, and more.
 
 ## Common Mistakes When Cleaning Up Photos
 
@@ -152,11 +152,11 @@ Prevention is more effective than periodic cleanup. These settings and habits si
 
 ## Beyond Photos: Other Ways to Reclaim Storage
 
-If storage pressure persists after a thorough photo cleanup, there are several other areas worth investigating. Large PDF documents and scanned files can quietly consume gigabytes — our guide on [how to compress PDF files without losing quality](/blog/how-to-compress-pdf-files-without-losing-quality/) covers how to shrink those files locally without uploading them to a third-party server.
+If storage pressure persists after a thorough photo cleanup, there are several other areas worth investigating. Large PDF documents and scanned files can quietly consume gigabytes — our guide on [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/) covers how to shrink those files locally without uploading them to a third-party server.
 
-If you are also trying to organize physical belongings and want your photo library to serve double duty as documentation, consider building a [home inventory for insurance purposes](/blog/how-to-create-home-inventory-insurance/). A clean, well-organized photo library makes it far easier to find and reference the documentation photos you actually need.
+If you are also trying to organize physical belongings and want your photo library to serve double duty as documentation, consider building a [home inventory for insurance purposes](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/). A clean, well-organized photo library makes it far easier to find and reference the documentation photos you actually need.
 
-For anyone who takes a lot of photos specifically for converting to documents — receipts, whiteboards, handwritten notes — knowing [how to convert photos to PDF on iPhone](/blog/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/) can help you move those images out of your camera roll and into a more structured document format.
+For anyone who takes a lot of photos specifically for converting to documents — receipts, whiteboards, handwritten notes — knowing [how to convert photos to PDF on iPhone](/blog/productivity/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/) can help you move those images out of your camera roll and into a more structured document format.
 
 ## Things Most Guides Do Not Tell You
 

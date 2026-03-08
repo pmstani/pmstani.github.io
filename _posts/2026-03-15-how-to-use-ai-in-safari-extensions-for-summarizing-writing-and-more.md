@@ -185,7 +185,7 @@ Extension AI and Prompt Wizard complement each other in a structured workflow:
 
 **Daily use:** Summarize technical documentation and Stack Overflow threads. Use Q&A to get explanations of unfamiliar code patterns. Generate boilerplate code and test cases. Rewrite commit messages and PR descriptions for clarity.
 
-**Complementary tools:** The full [developer tools for Safari](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/) suite, plus [HTML to Markdown](/apps/html-to-markdown/) for converting documentation to portable format (see our [HTML to Markdown guide](/blog/safari-extensions/how-to-convert-html-to-markdown-documentation/)).
+**Complementary tools:** The full [developer tools for Safari](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/) suite, plus [HTML to Markdown](/apps/html-to-markdown/) for converting documentation to portable format (see our [HTML to Markdown guide](/blog/developer-tools/how-to-convert-html-to-markdown-documentation/)).
 
 ### Content Creators and Marketers
 

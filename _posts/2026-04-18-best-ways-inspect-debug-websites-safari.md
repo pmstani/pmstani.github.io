@@ -7,7 +7,7 @@ categories: [developer-tools]
 tags: [web-inspector, debugging, css, html, safari]
 silo: developer-tools
 pillar: developer-tools
-related_apps: [web-inspector-for-safari, format-json-for-safari, built-with]
+related_apps: [web-inspector, format-json, built-with]
 ---
 
 Safari handles over 1 billion active users worldwide across macOS, iOS, and iPadOS. Every one of those browsers runs WebKit — including third-party browsers on iOS, which are required to use WebKit under Apple's platform rules. For web developers, this makes Safari a non-negotiable testing target, and its developer tools are the primary means of diagnosing the rendering differences, CSS quirks, and JavaScript issues that distinguish WebKit from Blink and Gecko.
@@ -116,7 +116,7 @@ This approach works well in a desk setup but fails for the common scenario of ne
 
 ### On-Device Inspection with Web Inspector for Safari
 
-[Web Inspector for Safari](/apps/web-inspector-for-safari/) brings element inspection directly to iPhone and iPad, eliminating the Mac dependency. The extension operates inside Safari itself, overlaying inspection controls on any page you visit.
+[Web Inspector for Safari](/apps/web-inspector/) brings element inspection directly to iPhone and iPad, eliminating the Mac dependency. The extension operates inside Safari itself, overlaying inspection controls on any page you visit.
 
 **Element inspection.** Tap any element to view its HTML tag, attributes, CSS styles, computed properties, and box model. This is the same workflow as right-clicking "Inspect Element" on desktop, translated to a touch interface.
 
@@ -131,7 +131,7 @@ This approach works well in a desk setup but fails for the common scenario of ne
 - Investigating CSS issues that only manifest on WebKit mobile (position: sticky bugs, viewport unit inconsistencies, safe-area-inset behavior)
 - Quick inspection of competitor sites while browsing
 
-{% include blog-cta.html app_slug="web-inspector-for-safari" %}
+{% include blog-cta.html app_slug="web-inspector" %}
 
 ## Working with JSON in Safari
 
@@ -151,7 +151,7 @@ That is a relatively simple response. Production API responses routinely exceed 
 
 ### Format JSON for Safari
 
-[Format JSON for Safari](/apps/format-json-for-safari/) detects JSON responses and automatically renders them with:
+[Format JSON for Safari](/apps/format-json/) detects JSON responses and automatically renders them with:
 
 - **Proper indentation.** Nested objects and arrays are visually indented, making the hierarchy immediately clear.
 - **Syntax highlighting.** Strings, numbers, booleans, null values, and keys are color-coded. Spotting a `null` where you expected a string becomes trivial.
@@ -161,7 +161,7 @@ That is a relatively simple response. Production API responses routinely exceed 
 
 This turns JSON debugging from a manual parsing exercise into a visual navigation experience.
 
-{% include blog-cta.html app_slug="format-json-for-safari" %}
+{% include blog-cta.html app_slug="format-json" %}
 
 ## Technology Detection: Understanding What You're Looking At
 
@@ -363,6 +363,6 @@ A practical approach for cross-browser development with Safari as a target:
 4. **Check Built With on reference sites** when making architectural decisions
 5. **Run Safari Technology Preview** alongside stable Safari for forward-compatibility testing
 
-For developers who maintain their own sites, the debugging skills from this workflow feed directly into [on-page SEO analysis](/blog/practical-guide-on-page-seo-analysis/) — many SEO issues (missing meta tags, broken heading hierarchies, unoptimized images) are quickly diagnosed through element inspection. And when converting web content to other formats, understanding the HTML structure through inspection makes [HTML to Markdown conversion](/blog/how-to-convert-html-to-markdown-documentation/) more predictable.
+For developers who maintain their own sites, the debugging skills from this workflow feed directly into [on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/) — many SEO issues (missing meta tags, broken heading hierarchies, unoptimized images) are quickly diagnosed through element inspection. And when converting web content to other formats, understanding the HTML structure through inspection makes [HTML to Markdown conversion](/blog/developer-tools/how-to-convert-html-to-markdown-documentation/) more predictable.
 
-For more Safari extension recommendations beyond debugging, our roundup of [the best developer tools and extensions for Safari](/blog/best-developer-tools-and-extensions-for-safari/) covers the broader landscape, and [extracting emails and links from websites](/blog/how-to-extract-emails-and-links-from-any-website/) demonstrates practical data extraction techniques using browser extensions.
+For more Safari extension recommendations beyond debugging, our roundup of [the best developer tools and extensions for Safari](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/) covers the broader landscape, and [extracting emails and links from websites](/blog/safari-extensions/how-to-extract-emails-and-links-from-any-website/) demonstrates practical data extraction techniques using browser extensions.

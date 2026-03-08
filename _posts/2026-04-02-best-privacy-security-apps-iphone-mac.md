@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [panicvault, safe, clean-genie, pdf-compressor-thinpdf, equipt, local-weather-yawa]
+related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa]
 ---
 
 # Best Privacy and Security Apps for iPhone and Mac
@@ -53,7 +53,7 @@ KeePass takes a different approach. Your encrypted vault is a `.kdbx` file that 
 
 [PanicVault](/apps/panicvault/) is a KeePass-compatible password manager built for iPhone. It stores your encrypted vault locally, supports AutoFill integration with iOS, unlocks with Face ID, and generates cryptographically strong passwords for every account.
 
-For a detailed setup guide covering vault creation, password generation best practices, and AutoFill configuration, read our complete walkthrough on [how to manage passwords securely with KeePass on iPhone](/blog/how-to-manage-passwords-keepass-iphone/).
+For a detailed setup guide covering vault creation, password generation best practices, and AutoFill configuration, read our complete walkthrough on [how to manage passwords securely with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/).
 
 {% include blog-cta.html app_slug="panicvault" %}
 
@@ -87,7 +87,7 @@ Most people store digital copies of their most sensitive documents -- passports,
 
 **Financial documents:** Tax returns, bank statements, investment account details, cryptocurrency recovery phrases (paper backup in a physical safe is also essential for crypto).
 
-**Insurance documents:** Policies, coverage details, claim history. Pair this with an asset inventory for insurance purposes -- our guide on [how to create a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/) covers the process.
+**Insurance documents:** Policies, coverage details, claim history. Pair this with an asset inventory for insurance purposes -- our guide on [how to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/) covers the process.
 
 **Medical records:** Vaccination records, prescription histories, surgical reports, advance directives. These are protected by HIPAA in clinical settings but not when stored on personal devices.
 
@@ -107,7 +107,7 @@ Every file on your device is a file that could be accessed if your device is com
 
 {% include blog-cta.html app_slug="clean-genie" %}
 
-Beyond security, decluttering your photo library makes legitimate photos easier to find and reduces iCloud storage costs. For a step-by-step walkthrough, read our guide on [how to free up iPhone storage by removing duplicate photos](/blog/how-to-free-up-iphone-storage-removing-duplicate-photos/).
+Beyond security, decluttering your photo library makes legitimate photos easier to find and reduces iCloud storage costs. For a step-by-step walkthrough, read our guide on [how to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/).
 
 ### The Hygiene Habit
 
@@ -127,11 +127,11 @@ When you compress a PDF containing your tax return, medical records, or a signed
 
 ### The Tool
 
-[ThinPDF](/apps/pdf-compressor-thinpdf/) compresses PDF files entirely on your device. The file never leaves your phone or Mac. This is the only approach that is compatible with genuine document security.
+[ThinPDF](/apps/pdf-compressor/) compresses PDF files entirely on your device. The file never leaves your phone or Mac. This is the only approach that is compatible with genuine document security.
 
-{% include blog-cta.html app_slug="pdf-compressor-thinpdf" %}
+{% include blog-cta.html app_slug="pdf-compressor" %}
 
-For the full compression workflow including quality optimization techniques, see our guide on [how to compress PDF files without losing quality](/blog/how-to-compress-pdf-files-without-losing-quality/).
+For the full compression workflow including quality optimization techniques, see our guide on [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/).
 
 ### When Local Processing Matters Most
 
@@ -156,8 +156,8 @@ The Insurance Information Institute estimates that the average American househol
 {% include blog-cta.html app_slug="equipt" %}
 
 We cover the practical applications of asset documentation in detail:
-- [How to create a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/) -- room-by-room approach with documentation best practices
-- [Best equipment and asset tracking apps for small business](/blog/best-equipment-asset-tracking-apps-small-business/) -- extending inventory tracking to professional contexts
+- [How to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/) -- room-by-room approach with documentation best practices
+- [Best equipment and asset tracking apps for small business](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/) -- extending inventory tracking to professional contexts
 
 ### Inventory Priority Order
 
@@ -188,7 +188,7 @@ AccuWeather was caught in 2017 sending user location data to a monetization firm
 
 {% include blog-cta.html app_slug="local-weather-yawa" %}
 
-Replacing a data-harvesting weather app with a privacy-respecting alternative is one of the highest-impact, lowest-effort privacy improvements you can make. For more on this, read our guide on [how to check the weather without ads or tracking](/blog/how-to-check-weather-without-ads-tracking/).
+Replacing a data-harvesting weather app with a privacy-respecting alternative is one of the highest-impact, lowest-effort privacy improvements you can make. For more on this, read our guide on [how to check the weather without ads or tracking](/blog/digital-privacy-security/how-to-check-weather-without-ads-tracking/).
 
 ### Broader Surveillance Reduction Steps
 
@@ -204,7 +204,7 @@ Beyond your weather app, conduct an audit of all apps with location access:
 If you are starting from zero, do not try to implement everything at once. Security fatigue leads to abandonment. Instead, follow this priority order:
 
 ### Week 1: Passwords
-Set up [PanicVault](/apps/panicvault/) and secure your email, banking, and cloud storage accounts with unique passwords and 2FA. This single step eliminates the most common attack vector. See our guide on [managing passwords with KeePass on iPhone](/blog/how-to-manage-passwords-keepass-iphone/) for the detailed walkthrough.
+Set up [PanicVault](/apps/panicvault/) and secure your email, banking, and cloud storage accounts with unique passwords and 2FA. This single step eliminates the most common attack vector. See our guide on [managing passwords with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/) for the detailed walkthrough.
 
 ### Week 2: Document Security
 Move your most sensitive documents into [Safe](/apps/safe/). Delete copies from email attachments, photo library, and general cloud storage.
@@ -217,7 +217,7 @@ Replace your weather app with [YAWA](/apps/local-weather-yawa/). Audit location 
 
 ### Ongoing
 - Document your possessions with [Equipt](/apps/equipt/)
-- Use [ThinPDF](/apps/pdf-compressor-thinpdf/) for document compression instead of online services
+- Use [ThinPDF](/apps/pdf-compressor/) for document compression instead of online services
 - Export and back up your health data securely using [Health Export](/apps/health-export/) -- see our guide on [exporting Apple Health data](/blog/health-wellness/export-analyze-apple-health-data/)
 
 ## Things Most Security Guides Don't Mention
@@ -241,7 +241,7 @@ Replace your weather app with [YAWA](/apps/local-weather-yawa/). Audit location 
 | Authentication | Password reuse, breaches | [PanicVault](/apps/panicvault/) | Local-only KeePass vault with AutoFill |
 | Data at rest | Exposed sensitive documents | [Safe](/apps/safe/) | Encrypted on-device file storage |
 | Data hygiene | Excess exposure surface | [Clean Genie](/apps/clean-genie/) | Duplicate and screenshot cleanup |
-| Data in transit | Cloud-processed documents | [ThinPDF](/apps/pdf-compressor-thinpdf/) | Local-only PDF compression |
+| Data in transit | Cloud-processed documents | [ThinPDF](/apps/pdf-compressor/) | Local-only PDF compression |
 | Asset documentation | Unproven insurance claims | [Equipt](/apps/equipt/) | Photo-based inventory with serial numbers |
 | Surveillance reduction | Location tracking, ad targeting | [YAWA](/apps/local-weather-yawa/) | Ad-free, tracking-free weather |
 

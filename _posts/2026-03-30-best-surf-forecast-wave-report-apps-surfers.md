@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [surfing, waves, forecast, ocean, outdoor]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [wave-surf-reports-by-kooks]
+related_apps: [wave-surf-kooks]
 ---
 
 # Best Surf Forecast and Wave Report Apps for Surfers
@@ -111,7 +111,7 @@ Your forecast app should integrate tide data so you can cross-reference tide sta
 
 ## Using Forecast Apps Effectively
 
-[Wave Surf Reports by Kooks](/apps/wave-surf-reports-by-kooks/) aggregates this data -- swell height, period, direction, wind, and tides -- into a coherent forecast for thousands of breaks worldwide. The app's value lies not just in data access but in presentation: it translates raw model output into actionable surf-specific information that tells you whether conditions at your break are worth the drive.
+[Wave Surf Reports by Kooks](/apps/wave-surf-kooks/) aggregates this data -- swell height, period, direction, wind, and tides -- into a coherent forecast for thousands of breaks worldwide. The app's value lies not just in data access but in presentation: it translates raw model output into actionable surf-specific information that tells you whether conditions at your break are worth the drive.
 
 Key features that matter:
 
@@ -121,7 +121,7 @@ Key features that matter:
 - **Community reports** from other surfers providing real-time ground truth that supplements model predictions
 - **Spot alerts** that notify you when conditions at your favorite breaks meet your custom criteria
 
-{% include blog-cta.html app_slug="wave-surf-reports-by-kooks" %}
+{% include blog-cta.html app_slug="wave-surf-kooks" %}
 
 ### Five Tips for Getting More from Your Forecast App
 
@@ -155,7 +155,7 @@ The mechanisms are multiple and synergistic:
 
 ### Integrating Surfing Into a Broader Wellness Routine
 
-**Track the mood effect.** Log your emotional state before and after surf sessions using a mood tracking app like [Mental Health by HappySteps](/apps/mental-health-by-happysteps/). Most surfers find that even a mediocre session produces a measurable mood boost lasting several hours. Our guide on [mood tracking for mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains how to set up this kind of before-after tracking.
+**Track the mood effect.** Log your emotional state before and after surf sessions using a mood tracking app like [Mental Health by HappySteps](/apps/mental-health-happysteps/). Most surfers find that even a mediocre session produces a measurable mood boost lasting several hours. Our guide on [mood tracking for mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains how to set up this kind of before-after tracking.
 
 **Monitor physiological impact.** Use [Health Export](/apps/health-export/) to analyze how regular surfing affects your resting heart rate, sleep quality, and HRV over months. The data often shows cardiovascular improvements that are invisible on the scale but clear in the heart rate trends. Our guide on [exporting Apple Health data](/blog/health-wellness/export-analyze-apple-health-data/) covers how to do this.
 
@@ -191,7 +191,7 @@ Surf for a year and pay attention. Seriously. Cross-reference the observed condi
 
 ## The Ocean Is Waiting
 
-A reliable forecast app does not make you a better surfer. It makes you a more efficient one -- ensuring that the limited time you have for surfing is spent in conditions where the activity delivers its maximum physical, mental, and emotional benefits. [Wave Surf Reports by Kooks](/apps/wave-surf-reports-by-kooks/) puts the data you need into a format you can act on.
+A reliable forecast app does not make you a better surfer. It makes you a more efficient one -- ensuring that the limited time you have for surfing is spent in conditions where the activity delivers its maximum physical, mental, and emotional benefits. [Wave Surf Reports by Kooks](/apps/wave-surf-kooks/) puts the data you need into a format you can act on.
 
 Check tonight's forecast. Set an alarm. Get in the water.
 

@@ -62,7 +62,7 @@ James Clear popularized the concept of habit stacking in *Atomic Habits*: attach
 
 **Pair with dedicated study.** Bible Tab is not a replacement for deep scripture study — it is a complement. The passive exposure creates familiarity with a wide range of verses, and that familiarity makes dedicated study sessions more productive because you are encountering passages you have already been primed on.
 
-For a deeper exploration of integrating daily Bible reading into your routine, see our [guide to reading the Bible and Quran daily with Safari new tab extensions](/blog/safari-extensions/how-to-read-bible-quran-daily-safari-new-tab-extensions/).
+For a deeper exploration of integrating daily Bible reading into your routine, see our [guide to reading the Bible and Quran daily with Safari new tab extensions](/blog/education-learning/how-to-read-bible-quran-daily-safari-new-tab-extensions/).
 
 ## Quran Tab: Quranic Wisdom Throughout Your Day
 
@@ -115,7 +115,7 @@ The extension includes both motivational quotes (from external sources) and posi
 - **Anyone navigating personal development** — career transitions, fitness goals, creative projects, or recovery journeys benefit from regular reinforcement of core values and intentions.
 - **Remote workers** who lack the social reinforcement and motivational cues of a shared physical workspace.
 
-For a deeper dive into the science behind positive self-talk and affirmation practice, see our article on [the science behind daily affirmations and positive self-talk](/blog/safari-extensions/daily-affirmations-science-behind-positive-self-talk/).
+For a deeper dive into the science behind positive self-talk and affirmation practice, see our article on [the science behind daily affirmations and positive self-talk](/blog/health-wellness/daily-affirmations-science-behind-positive-self-talk/).
 
 ## Choosing Between the Three Extensions
 

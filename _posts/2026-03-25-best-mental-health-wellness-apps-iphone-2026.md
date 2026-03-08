@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mental-health, wellness, iphone, best-of, 2026]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [tinnitus-ai, lotus, mental-health-by-happysteps, positive-affirmations, tiny-temple, wave-surf-reports-by-kooks, toomy, health-export]
+related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export]
 ---
 
 # Best Mental Health and Wellness Apps for iPhone in 2026
@@ -127,9 +127,9 @@ Mood tracking -- the practice of logging your emotional state alongside contextu
 
 ### The Tool
 
-[Mental Health by HappySteps](/apps/mental-health-by-happysteps/) makes mood tracking frictionless. The app prompts regular check-ins throughout the day, asking you to rate your mood and note contextual factors. Over weeks and months, it builds a visual map of your emotional patterns -- revealing which activities, people, times of day, and habits most influence how you feel.
+[Mental Health by HappySteps](/apps/mental-health-happysteps/) makes mood tracking frictionless. The app prompts regular check-ins throughout the day, asking you to rate your mood and note contextual factors. Over weeks and months, it builds a visual map of your emotional patterns -- revealing which activities, people, times of day, and habits most influence how you feel.
 
-{% include blog-cta.html app_slug="mental-health-by-happysteps" %}
+{% include blog-cta.html app_slug="mental-health-happysteps" %}
 
 The real value emerges after two to four weeks of consistent tracking. Most users report at least one significant surprise -- a correlation they never would have identified without data. Maybe Sunday evenings consistently produce anxiety spikes (anticipation of Monday), or maybe skipping breakfast predicts afternoon mood crashes with startling reliability.
 
@@ -149,7 +149,7 @@ Surfing is a particularly potent example. It combines high-intensity interval tr
 
 ### The Tool
 
-[Wave Surf Reports by Kooks](/apps/wave-surf-reports-by-kooks/) provides accurate surf forecasts and real-time wave conditions so you can plan sessions around conditions that match your skill level and schedule. The app pulls data from oceanic buoys, weather stations, and satellite imagery, combining swell height, period, direction, wind conditions, and tide charts into a clear, actionable forecast.
+[Wave Surf Reports by Kooks](/apps/wave-surf-kooks/) provides accurate surf forecasts and real-time wave conditions so you can plan sessions around conditions that match your skill level and schedule. The app pulls data from oceanic buoys, weather stations, and satellite imagery, combining swell height, period, direction, wind conditions, and tide charts into a clear, actionable forecast.
 
 Whether you surf or not, the underlying principle applies: planning outdoor physical activity around optimal conditions dramatically increases the likelihood that you actually do it. And consistency is where the mental health benefits accumulate.
 
@@ -206,10 +206,10 @@ The most effective approach to digital wellness is not picking one app but build
 ### The Morning Foundation (10-15 minutes)
 1. **Meditate** for 5-10 minutes using [Lotus](/apps/lotus/) or [Tiny Temple](/apps/tiny-temple/)
 2. **Review affirmations** with [Positive Affirmations](/apps/positive-affirmations/) to set an intentional mindset
-3. **Log your morning mood** with [HappySteps](/apps/mental-health-by-happysteps/) to establish a baseline for the day
+3. **Log your morning mood** with [HappySteps](/apps/mental-health-happysteps/) to establish a baseline for the day
 
 ### The Active Day
-4. **Check conditions** for outdoor activity using [Wave Surf Reports](/apps/wave-surf-reports-by-kooks/) or your preferred activity planner
+4. **Check conditions** for outdoor activity using [Wave Surf Reports](/apps/wave-surf-kooks/) or your preferred activity planner
 5. **Midday check-in** with your mood tracker to catch stress patterns before they escalate
 6. **Use sound therapy** with [Tinnitus AI](/apps/tinnitus-ai/) if tinnitus is affecting your concentration
 

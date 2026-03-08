@@ -38,7 +38,7 @@ The American Society of Mechanical Engineers estimates that preventive maintenan
 
 ### Insurance Claim Shortfalls
 
-If a workshop fire, vehicle accident, or natural disaster destroys business equipment, insurance coverage depends on documentation. The same dynamics that affect homeowners — as covered in our guide on [creating a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/) — apply to business property. Documented assets get reimbursed at full replacement cost. Undocumented assets get estimated conservatively or denied entirely.
+If a workshop fire, vehicle accident, or natural disaster destroys business equipment, insurance coverage depends on documentation. The same dynamics that affect homeowners — as covered in our guide on [creating a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/) — apply to business property. Documented assets get reimbursed at full replacement cost. Undocumented assets get estimated conservatively or denied entirely.
 
 ## The Five Pillars of Effective Equipment Tracking
 
@@ -220,13 +220,13 @@ Equipment tracking does not exist in isolation. Here are the connections that ma
 
 **Accounting and tax preparation.** Export your asset list with purchase dates, prices, and depreciation schedules at year-end. Your accountant will appreciate having clean data rather than a shoebox of receipts.
 
-**Insurance.** Your equipment tracking system doubles as insurance documentation. For guidance on building a comprehensive property inventory (personal and business), see our guide on [how to create a home inventory for insurance](/blog/how-to-create-home-inventory-insurance/) — the principles are identical.
+**Insurance.** Your equipment tracking system doubles as insurance documentation. For guidance on building a comprehensive property inventory (personal and business), see our guide on [how to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/) — the principles are identical.
 
-**Document management.** Equipment manuals, warranty certificates, and maintenance records are often PDFs that can be large and unwieldy. Compressing these documents keeps them portable and shareable — see [how to compress PDF files without losing quality](/blog/how-to-compress-pdf-files-without-losing-quality/).
+**Document management.** Equipment manuals, warranty certificates, and maintenance records are often PDFs that can be large and unwieldy. Compressing these documents keeps them portable and shareable — see [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/).
 
-**Security.** Your asset tracking system contains sensitive business information — equipment values, locations, serial numbers. Protecting access to this data matters, and starts with strong credentials. Our guide on [managing passwords securely with KeePass](/blog/how-to-manage-passwords-keepass-iphone/) covers keeping your business accounts locked down.
+**Security.** Your asset tracking system contains sensitive business information — equipment values, locations, serial numbers. Protecting access to this data matters, and starts with strong credentials. Our guide on [managing passwords securely with KeePass](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/) covers keeping your business accounts locked down.
 
-For a comprehensive look at tools that protect both digital and physical business assets, see our [best privacy and security apps for iPhone and Mac](/blog/best-privacy-security-apps-iphone-mac/) roundup.
+For a comprehensive look at tools that protect both digital and physical business assets, see our [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) roundup.
 
 ## Things Most Guides Do Not Tell You
 

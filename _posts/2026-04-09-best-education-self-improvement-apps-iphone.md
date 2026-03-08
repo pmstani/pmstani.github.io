@@ -48,7 +48,7 @@ Traditional karate is uniquely suited to solo practice because a significant por
 
 **Karate** provides structured lessons progressing from fundamental stances and strikes through advanced kata and combinations. The curriculum follows the traditional pedagogical approach: master the basics before layering complexity. This mirrors how karate has been taught for centuries and is supported by motor learning research showing that blocked practice (repeating one skill) builds initial competence, while random practice (mixing skills) develops adaptability.
 
-For a detailed breakdown of setting up a home training space, structuring sessions, and progressing through the curriculum, read our guide on [how to train martial arts at home with karate, MMA, and boxing apps](/blog/how-to-train-martial-arts-home-karate-mma-boxing/).
+For a detailed breakdown of setting up a home training space, structuring sessions, and progressing through the curriculum, read our guide on [how to train martial arts at home with karate, MMA, and boxing apps](/blog/education-learning/how-to-train-martial-arts-home-karate-mma-boxing/).
 
 ### Combat Sports: MMA and Boxing
 
@@ -70,7 +70,7 @@ One of the most persistent myths about mental math is that some people are natur
 
 The same applies to adults. A 2020 study in *Cognitive Research: Principles and Implications* found that adults who practiced mental arithmetic for just 15 minutes daily showed measurable improvements in speed and accuracy within two weeks, with gains continuing for at least six months of sustained practice.
 
-[Calcular](/apps/calcular/) is a mental math training app that drills the four operations — addition, subtraction, multiplication, and division — through timed challenges that adapt to your skill level. It tracks performance over time, making improvement visible and reinforcing the habit loop. Learn techniques for faster calculation and how to build a consistent practice in our article on [how to improve mental math skills with brain training apps](/blog/how-to-improve-mental-math-brain-training-apps/).
+[Calcular](/apps/calcular/) is a mental math training app that drills the four operations — addition, subtraction, multiplication, and division — through timed challenges that adapt to your skill level. It tracks performance over time, making improvement visible and reinforcing the habit loop. Learn techniques for faster calculation and how to build a consistent practice in our article on [how to improve mental math skills with brain training apps](/blog/education-learning/how-to-improve-mental-math-brain-training-apps/).
 
 {% include blog-cta.html app_slug="calcular" %}
 
@@ -90,7 +90,7 @@ Research from organizational psychologist Tasha Eurich, author of *Insight*, fou
 
 [Mythos](/apps/mythos/) takes the archetypal approach to personality exploration, using scenarios rooted in mythological themes rather than clinical questionnaires. It maps your responses to archetypal patterns drawn from Greek, Norse, Celtic, Egyptian, Hindu, and other mythological traditions.
 
-Explore this approach in depth in our article on [discovering your archetype through personality tests and mythology](/blog/discover-archetype-personality-tests-mythology/).
+Explore this approach in depth in our article on [discovering your archetype through personality tests and mythology](/blog/education-learning/discover-archetype-personality-tests-mythology/).
 
 {% include blog-cta.html app_slug="mythos" %}
 
@@ -112,7 +112,7 @@ Flashcard-based study combines the two highest-rated techniques: active recall (
 
 [Flash Card Boat](/apps/flash-card-boat/) is designed specifically for boating license exam preparation, covering navigation rules, safety procedures, equipment requirements, and maritime law. The boating license exam is a knowledge-heavy test where the material — buoy colors, right-of-way rules, equipment checklists, distress signal protocols — is precisely the type of factual information that responds best to flashcard-based study.
 
-See our full guide on [how to prepare for the boating license exam with flashcards](/blog/how-to-prepare-boating-license-exam-flashcards/) for a two-week study schedule and exam-day strategies.
+See our full guide on [how to prepare for the boating license exam with flashcards](/blog/education-learning/how-to-prepare-boating-license-exam-flashcards/) for a two-week study schedule and exam-day strategies.
 
 {% include blog-cta.html app_slug="flash-card-boat" %}
 
@@ -128,7 +128,7 @@ Survival instructors worldwide teach a consistent framework: shelter first (expo
 
 [Survivalist](/apps/survivalist/) is a comprehensive reference and training app that covers all five priorities in detail, with practical instructions organized by scenario type — urban emergencies, wilderness survival, natural disasters, and power outages.
 
-Learn what to focus on first and how to build an emergency kit in our guide on [emergency preparedness and essential survival skills everyone should know](/blog/emergency-preparedness-essential-survival-skills/).
+Learn what to focus on first and how to build an emergency kit in our guide on [emergency preparedness and essential survival skills everyone should know](/blog/education-learning/emergency-preparedness-essential-survival-skills/).
 
 {% include blog-cta.html app_slug="survivalist" %}
 
@@ -147,7 +147,7 @@ Bible Tab and Quran Tab take a fundamentally different approach by embedding scr
 
 This leverages what behavioral psychologist BJ Fogg calls "anchoring" — attaching a new behavior to an existing one. Because you do not need to remember to open an app or carve out dedicated time, the habit sustains itself through your existing browsing behavior.
 
-For a detailed guide on setup, deepening your practice, and the behavioral science behind this approach, read our article on [how to read the Bible or Quran daily with Safari new tab extensions](/blog/how-to-read-bible-quran-daily-safari-new-tab-extensions/). For more on Safari extensions that enhance your browsing experience, see our [roundup of the best Safari extensions for iPhone and Mac](/blog/best-safari-extensions-iphone-mac-2026/).
+For a detailed guide on setup, deepening your practice, and the behavioral science behind this approach, read our article on [how to read the Bible or Quran daily with Safari new tab extensions](/blog/education-learning/how-to-read-bible-quran-daily-safari-new-tab-extensions/). For more on Safari extensions that enhance your browsing experience, see our [roundup of the best Safari extensions for iPhone and Mac](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/).
 
 {% include blog-cta.html app_slug="bible-tab" %}
 
@@ -210,4 +210,4 @@ For mental math, most people notice faster calculation within 2-3 weeks. For mar
 **Do I need any special equipment?**
 Mental math, exam prep, personality exploration, and scripture reading require nothing beyond your iPhone. Martial arts training benefits from a clear 8x8-foot space and optionally a mirror. Survival skills practice may require basic outdoor gear depending on what you are practicing.
 
-For more on building productive daily routines, explore our guides on [the done list method for tracking accomplishments](/blog/the-done-list-method-why-tracking-accomplishments-beats-to-do-lists/) and the [best planning and agenda apps for daily scheduling](/blog/best-planning-and-agenda-apps-for-daily-scheduling/). And for tools that support broader wellness alongside self-improvement, see our [roundup of the best mental health and wellness apps](/blog/best-mental-health-wellness-apps-iphone-2026/).
+For more on building productive daily routines, explore our guides on [the done list method for tracking accomplishments](/blog/productivity/the-done-list-method-why-tracking-accomplishments-beats-to-do-lists/) and the [best planning and agenda apps for daily scheduling](/blog/productivity/best-planning-and-agenda-apps-for-daily-scheduling/). And for tools that support broader wellness alongside self-improvement, see our [roundup of the best mental health and wellness apps](/blog/health-wellness/best-mental-health-wellness-apps-iphone-2026/).

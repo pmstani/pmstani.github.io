@@ -7,7 +7,7 @@ related_apps:
   - panicvault
   - safe
   - clean-genie
-  - pdf-compressor-thinpdf
+  - pdf-compressor
   - equipt
   - local-weather-yawa
 permalink: /blog/digital-privacy-security/

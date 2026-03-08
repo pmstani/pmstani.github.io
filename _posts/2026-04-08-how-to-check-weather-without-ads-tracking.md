@@ -129,13 +129,13 @@ Switching to a private weather app is one component of a broader strategy for re
 
 Reducing this exposure is not about paranoia. It is about making informed decisions about the tradeoffs you accept. A weather app that provides the same forecast without selling your location data is not a compromise — it is a strictly better option.
 
-For a systematic approach to building a privacy-respecting app stack on your Apple devices, our [best privacy and security apps for iPhone and Mac](/blog/best-privacy-security-apps-iphone-mac/) roundup covers tools across multiple categories — from password management to document security to storage optimization.
+For a systematic approach to building a privacy-respecting app stack on your Apple devices, our [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) roundup covers tools across multiple categories — from password management to document security to storage optimization.
 
 Other guides in this series that contribute to a lower-surveillance digital life:
 
-- [How to manage passwords securely with KeePass on iPhone](/blog/how-to-manage-passwords-keepass-iphone/) — keeping credentials encrypted and off third-party servers
-- [How to free up iPhone storage by removing duplicate photos](/blog/how-to-free-up-iphone-storage-removing-duplicate-photos/) — cleaning up a photo library that contains location metadata in every image
-- [How to compress PDF files without losing quality](/blog/how-to-compress-pdf-files-without-losing-quality/) — compressing sensitive documents locally instead of uploading them to online tools
+- [How to manage passwords securely with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/) — keeping credentials encrypted and off third-party servers
+- [How to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/) — cleaning up a photo library that contains location metadata in every image
+- [How to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/) — compressing sensitive documents locally instead of uploading them to online tools
 
 ## Things Most Guides Do Not Tell You
 

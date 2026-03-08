@@ -187,7 +187,7 @@ Objective health data becomes dramatically more valuable when cross-referenced w
 
 ### Mood + Health Data
 
-Export your Apple Health data and compare it against mood logs from [Mental Health by HappySteps](/apps/mental-health-by-happysteps/). This combination reveals which objective health factors most strongly predict your subjective well-being.
+Export your Apple Health data and compare it against mood logs from [Mental Health by HappySteps](/apps/mental-health-happysteps/). This combination reveals which objective health factors most strongly predict your subjective well-being.
 
 Common findings:
 - HRV strongly correlates with next-day mood for many people
