@@ -60,9 +60,67 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 </div>
 
 <div class="blog-latest">
-  <h2>Latest Articles</h2>
+  <h2>All Articles</h2>
+
+  <h3 class="blog-section-heading">Safari Extensions</h3>
   <div class="blog-latest-list">
-    {% for post in site.posts limit: 20 %}
+    {% assign safari_all = site.posts | where: "silo", "safari-extensions" %}
+    {% for post in safari_all %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 class="blog-section-heading">Productivity</h3>
+  <div class="blog-latest-list">
+    {% assign prod_all = site.posts | where: "silo", "productivity" %}
+    {% for post in prod_all %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 class="blog-section-heading">Health &amp; Wellness</h3>
+  <div class="blog-latest-list">
+    {% assign health_all = site.posts | where: "silo", "health-wellness" %}
+    {% for post in health_all %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 class="blog-section-heading">Digital Privacy &amp; Security</h3>
+  <div class="blog-latest-list">
+    {% assign privacy_all = site.posts | where: "silo", "digital-privacy-security" %}
+    {% for post in privacy_all %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 class="blog-section-heading">Education &amp; Learning</h3>
+  <div class="blog-latest-list">
+    {% assign edu_all = site.posts | where: "silo", "education-learning" %}
+    {% for post in edu_all %}
+    <a href="{{ post.url | relative_url }}" class="blog-latest-item">
+      <h3>{{ post.title }}</h3>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    {% endfor %}
+  </div>
+
+  <h3 class="blog-section-heading">Developer &amp; Tech Tools</h3>
+  <div class="blog-latest-list">
+    {% assign dev_all = site.posts | where: "silo", "developer-tools" %}
+    {% for post in dev_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
