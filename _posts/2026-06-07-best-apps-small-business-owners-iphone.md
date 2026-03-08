@@ -120,6 +120,12 @@ Start with [The Done List](/apps/the-done-list/). The psychological benefit of t
 
 Start with [Transcribe](/apps/transcribe/). The investment in transcription pays for itself the first time you can send a client a verbatim summary of what was discussed rather than relying on notes scribbled during the meeting. The searchable text archive also becomes a valuable business asset over time, capturing institutional knowledge that would otherwise disappear.
 
+### If You Need to Digitize Physical Documents Frequently
+
+The combination of [Photo to PDF](/apps/photo-to-pdf/) and [PDF Compressor (ThinPDF)](/apps/pdf-compressor/) creates a complete digitization pipeline. Photograph the document, convert it to a properly formatted PDF, compress it for sharing, and file it. This workflow handles receipts for expense reports, signed agreements that need to be returned via email, whiteboard notes from strategy sessions, and any other physical document that needs to enter your digital system.
+
 ### The Long View
 
 Running a small business is a long game. The apps that matter most are not the ones that promise to revolutionize your workflow in a day. They are the ones that reduce daily friction by a few minutes, compound those savings over months and years, and free your attention for the strategic decisions that actually grow the business. File management, document handling, asset tracking, and meeting records are not exciting. They are essential, and handling them efficiently is what separates businesses that scale from businesses that stall.
+
+The most successful small business owners share a common trait: they build systems. Not complicated systems. Simple, repeatable processes that handle routine tasks so consistently that those tasks stop consuming mental energy. The apps in this guide are building blocks for those systems. Choose the ones that address your biggest pain points, build them into your daily operations, and then stop thinking about them. The best operational tool is one that works so reliably you forget it exists.

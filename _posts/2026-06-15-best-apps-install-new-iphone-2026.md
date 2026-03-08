@@ -120,3 +120,11 @@ Your home screen is not an app launcher. It is an environmental design tool that
 Design your home screen for the person you want to be, not the person your phone's defaults would make you. The apps that support your goals go on the home screen. The apps that distract from your goals go in the App Library. This simple architectural choice, made once during initial setup, pays dividends for as long as you own the phone.
 
 The apps in this guide represent a starting point for an intentionally designed iPhone experience. They address daily planning, psychological well-being, privacy, health, security, and maintenance. What they do not include — and what you will need to add based on your specific situation — is the professional tooling, creative applications, and domain-specific software that your work and interests require. Add those deliberately, one at a time, as genuine needs arise.
+
+## The One-App-Per-Week Rule
+
+Resist the urge to install 30 apps on day one. Each new app requires learning, configuration, and habit formation. Installing everything at once means nothing gets properly integrated into your routine. The one-app-per-week rule gives each tool time to become habitual before adding the next.
+
+Week 1: planning and task tracking. Week 2: affirmations and mindfulness. Week 3: weather and health. Week 4: security and storage. By the end of the first month, each tool is genuinely embedded in your daily life rather than sitting unused on a home screen page you never visit.
+
+The best iPhone setup is not the one with the most apps. It is the one where every app earns its place by reducing friction, supporting a positive habit, or protecting something important. The apps that pass this test stay. The ones that do not get deleted. Your home screen should feel intentional, not cluttered — a reflection of your priorities, not a collection of impulse downloads.
