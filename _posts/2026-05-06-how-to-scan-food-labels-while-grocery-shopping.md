@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [nutrition, food-labels, grocery, health]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [food-scanner-for-safari]
+related_apps: [food-scanner]
 ---
 
 ## The 8-Second Decision That Shapes Your Diet
@@ -121,7 +121,7 @@ Reading every label in a grocery store is impractical. A full grocery trip invol
 
 [Food Scanner for Safari](/apps/food-scanner/) provides quick nutritional analysis that helps you evaluate food products more efficiently. Rather than decoding labels manually, you can get instant breakdowns of key nutritional information.
 
-{% include blog-cta.html app_slug="food-scanner-for-safari" %}
+{% include blog-cta.html app_slug="food-scanner" %}
 
 ### Building a Scanning Workflow
 

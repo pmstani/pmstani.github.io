@@ -7,7 +7,7 @@ categories: [developer-tools]
 tags: [website-audit, seo, performance, accessibility]
 silo: developer-tools
 pillar: developer-tools
-related_apps: [seo-for-safari, web-inspector-for-safari, built-with, link-gopher, audit-plus-plus, format-json-for-safari]
+related_apps: [seo-for-safari, web-inspector, built-with, link-gopher, audit-plus-plus, format-json]
 ---
 
 A comprehensive website audit typically involves installing Chrome, downloading DevTools extensions, setting up Node.js-based crawlers, configuring Lighthouse CI, and juggling a half-dozen different tools — each with its own interface, output format, and learning curve. For agency professionals running audits across dozens of client sites, that toolchain overhead is unavoidable. But for developers, small business owners, freelancers, and marketers who need to audit a site quickly and thoroughly, that setup cost is a barrier that often means audits simply do not get done.

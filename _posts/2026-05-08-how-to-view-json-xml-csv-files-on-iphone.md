@@ -7,7 +7,7 @@ categories: [developer-tools]
 tags: [json, xml, csv, data-viewer, developer]
 silo: developer-tools
 pillar: developer-tools
-related_apps: [universal-data-viewer, format-json-for-safari]
+related_apps: [universal-data-viewer, format-json]
 ---
 
 ## The Problem with Structured Data on Apple Devices
@@ -129,7 +129,7 @@ When you open a JSON file URL in Safari (from an API endpoint, file server, or l
 
 [Format JSON for Safari](/apps/format-json/) automatically detects JSON content in Safari and applies syntax highlighting, proper indentation, and collapsible tree navigation. When you hit an API endpoint that returns JSON, or open a .json file in Safari, the extension transforms the unreadable text wall into a navigable, color-coded document.
 
-{% include blog-cta.html app_slug="format-json-for-safari" %}
+{% include blog-cta.html app_slug="format-json" %}
 
 ### How It Works
 

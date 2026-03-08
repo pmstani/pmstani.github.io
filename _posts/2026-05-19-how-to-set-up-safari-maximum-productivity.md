@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari, setup, productivity, browser-optimization]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [command-palette, make-it-dark-mode, auto-scroll, plain-paste, sticky-notes-for-safari, rss-reader]
+related_apps: [command-palette, make-it-dark-mode, auto-scroll, plain-paste, sticky-notes, rss-reader]
 ---
 
 Safari is the default browser on every Mac, iPhone, and iPad. It is also the most underutilized. According to StatCounter, Safari holds 18.6% of the global desktop browser market and over 27% on mobile, yet most users interact with it at a surface level — typing URLs, clicking links, and opening new tabs. The deep productivity features that Apple has built into Safari over the past several years go largely unused: Tab Groups, Profiles, extension APIs, the Start Page system, keyboard shortcuts, and iCloud sync architecture.

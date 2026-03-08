@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [notes, bookmarks, clipboard, productivity]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [sticky-notes-for-safari, snapmark, copy-on-select, allow-copy-for-safari, plain-paste]
+related_apps: [sticky-notes, snapmark, copy-on-select, allow-copy, plain-paste]
 ---
 
 ## The Browser Productivity Gap Nobody Talks About

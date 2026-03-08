@@ -7,7 +7,7 @@ categories: [education]
 tags: [college, students, study, university, apps]
 silo: education-learning
 pillar: education-learning
-related_apps: [extension-ai, save-as-pdf, sticky-notes-for-safari, translator-safari-extension, calcular, the-done-list, my-agenda-planning]
+related_apps: [extension-ai, save-as-pdf, sticky-notes, translator-safari-extension, calcular, the-done-list, my-agenda-planning]
 ---
 
 ## The Modern Student's Toolkit Is Broken
