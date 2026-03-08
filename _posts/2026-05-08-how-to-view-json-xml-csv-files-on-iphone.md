@@ -127,7 +127,7 @@ macOS Quick Look (select a file and press Space) and iOS file preview provide ba
 
 When you open a JSON file URL in Safari (from an API endpoint, file server, or local file), Safari renders it as plain text. This is where browser extensions provide significant value.
 
-[Format JSON for Safari](/apps/format-json-for-safari/) automatically detects JSON content in Safari and applies syntax highlighting, proper indentation, and collapsible tree navigation. When you hit an API endpoint that returns JSON, or open a .json file in Safari, the extension transforms the unreadable text wall into a navigable, color-coded document.
+[Format JSON for Safari](/apps/format-json/) automatically detects JSON content in Safari and applies syntax highlighting, proper indentation, and collapsible tree navigation. When you hit an API endpoint that returns JSON, or open a .json file in Safari, the extension transforms the unreadable text wall into a navigable, color-coded document.
 
 {% include blog-cta.html app_slug="format-json-for-safari" %}
 
@@ -192,7 +192,7 @@ When structured data is embedded within a web page rather than served as a stand
 
 This is useful for inspecting the data flowing into web applications, but it only works for network requests. It does not help with local files or standalone data documents.
 
-For more detailed developer tools workflows, see our guide on the [best developer tools and extensions for Safari](/blog/developer-tools/best-developer-tools-and-extensions-for-safari/).
+For more detailed developer tools workflows, see our guide on the [best developer tools and extensions for Safari](/blog/safari-extensions/best-developer-tools-and-extensions-for-safari/).
 
 ## Working with Large Data Files
 

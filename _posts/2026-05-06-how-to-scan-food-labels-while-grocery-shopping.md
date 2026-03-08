@@ -119,7 +119,7 @@ The front of the package is marketing. The Nutrition Facts panel is regulation. 
 
 Reading every label in a grocery store is impractical. A full grocery trip involving 30-50 products would add 30 minutes or more if you read every label thoroughly. Technology can compress this process.
 
-[Food Scanner for Safari](/apps/food-scanner-for-safari/) provides quick nutritional analysis that helps you evaluate food products more efficiently. Rather than decoding labels manually, you can get instant breakdowns of key nutritional information.
+[Food Scanner for Safari](/apps/food-scanner/) provides quick nutritional analysis that helps you evaluate food products more efficiently. Rather than decoding labels manually, you can get instant breakdowns of key nutritional information.
 
 {% include blog-cta.html app_slug="food-scanner-for-safari" %}
 

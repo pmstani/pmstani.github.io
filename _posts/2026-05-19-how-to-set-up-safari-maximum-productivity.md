@@ -121,7 +121,7 @@ Safari extensions are the customization layer that transforms Safari from a gene
 
 **[Plain Paste](/apps/plain-paste/)** — Strips formatting from pasted text. Every time you copy from a web page and paste into an email, document, or form, you carry over font sizes, colors, styles, and spacing that you then have to manually clean up. Plain Paste ensures that pasted text always matches the destination's formatting. This sounds minor until you realize you paste text 20-50 times per day.
 
-**[Sticky Notes for Safari](/apps/sticky-notes-for-safari/)** — Adds persistent notes to any web page. Leave yourself reminders, annotations, or to-do items directly on the pages where they are relevant. The notes reappear when you revisit the page. For research workflows, this replaces the habit of keeping a separate document of notes alongside browser tabs.
+**[Sticky Notes for Safari](/apps/sticky-notes/)** — Adds persistent notes to any web page. Leave yourself reminders, annotations, or to-do items directly on the pages where they are relevant. The notes reappear when you revisit the page. For research workflows, this replaces the habit of keeping a separate document of notes alongside browser tabs.
 
 **[RSS Reader](/apps/rss-reader/)** — Provides RSS feed reading directly in Safari. Instead of checking 15 different websites for updates, subscribe to their RSS feeds and check one unified feed. This is the productivity win that RSS has always promised — centralized content consumption without the algorithmic manipulation of social media feeds. Follow blogs, news sources, changelogs, and publication feeds without visiting each site individually.
 
