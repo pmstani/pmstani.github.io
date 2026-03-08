@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [anxiety, mental-health, calm, wellness, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [lotus, tiny-temple, mental-health-by-happysteps, positive-affirmations, tinnitus-ai]
+related_apps: [lotus, tiny-temple, mental-health-happysteps, positive-affirmations, tinnitus-ai]
 ---
 
 ## Anxiety Is the Most Common Mental Health Condition on the Planet

@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [bible, quran, quotes, new-tab, inspiration]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [bible-tab, quran-tab, motivation-quotes-affirmations]
+related_apps: [bible-tab, quran-tab, motivation-quotes]
 ---
 
 ## You Open 30+ New Tabs Per Day — What If Each One Mattered?

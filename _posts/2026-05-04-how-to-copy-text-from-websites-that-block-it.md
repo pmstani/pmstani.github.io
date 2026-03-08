@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [copy-paste, restricted-sites, web-access, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [allow-copy-for-safari, copy-on-select]
+related_apps: [allow-copy, copy-on-select]
 ---
 
 ## Why Websites Block Text Selection in the First Place
@@ -150,7 +150,7 @@ Extensions provide the most reliable and user-friendly approach because they can
 
 [Allow Copy for Safari](/apps/allow-copy/) removes copy restrictions across websites with a single toggle. It intercepts and neutralizes the JavaScript event listeners and CSS properties that prevent text selection and copying, restoring normal browser behavior.
 
-{% include blog-cta.html app_slug="allow-copy-for-safari" %}
+{% include blog-cta.html app_slug="allow-copy" %}
 
 ### How It Works
 

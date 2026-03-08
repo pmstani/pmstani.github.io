@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari, extensions, hidden-gems, underrated, tips]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [universal-data-viewer, audit-plus-plus, auto-clicker, site-slurpr, link-gopher, is-it-down, copy-on-select, color-palette, food-scanner-for-safari]
+related_apps: [universal-data-viewer, audit-plus-plus, auto-clicker, site-slurpr, link-gopher, is-it-down, copy-on-select, color-palette, food-scanner]
 ---
 
 ## Beyond the Top 10 Lists
@@ -30,7 +30,7 @@ When you look at a website, you see the design. Under the surface, there is an e
 
 [Audit++](/apps/audit-plus-plus/) reveals this hidden architecture. Activate the extension on any page and see a comprehensive breakdown of the technologies, frameworks, and services the site uses. For web developers, this is a competitive analysis tool — understand what technologies successful competitors are using. For business owners, it is a due diligence tool — verify that a web development vendor is actually using the technologies they claim. For security-conscious users, it reveals which third-party services have access to a site's data.
 
-Read our deep dive on website analysis: [practical guide to on-page SEO analysis](/blog/safari-extensions/practical-guide-on-page-seo-analysis/).
+Read our deep dive on website analysis: [practical guide to on-page SEO analysis](/blog/developer-tools/practical-guide-on-page-seo-analysis/).
 
 ## 3. Auto Clicker: Automating Repetitive Browser Actions
 
@@ -70,7 +70,7 @@ Read the email and link extraction guide: [how to extract emails and links from 
 
 - **Content audit.** Site owners can quickly identify all outbound links on a page to verify they are current and pointing to the intended destinations.
 - **Research.** Academics can extract all citation links from a journal article's reference section rather than clicking each one individually.
-- **SEO analysis.** Marketers can analyze the internal linking structure of competitor pages or their own content. See our [SEO analysis guide](/blog/safari-extensions/practical-guide-on-page-seo-analysis/) for more on this.
+- **SEO analysis.** Marketers can analyze the internal linking structure of competitor pages or their own content. See our [SEO analysis guide](/blog/developer-tools/practical-guide-on-page-seo-analysis/) for more on this.
 - **Competitive research.** Extract links from a competitor's resource page to identify the sources and tools they recommend.
 
 ## 6. Is It Down: Checking Website Status Instantly
@@ -101,7 +101,7 @@ For designers creating work that needs to match an existing brand, this extensio
 
 Health-conscious consumers spend significant time researching food products online — reading ingredient lists, comparing nutritional values, and checking for allergens. This information is typically scattered across brand websites, grocery delivery platforms, and nutrition databases, requiring manual comparison and mental math.
 
-[Food Scanner for Safari](/apps/food-scanner-for-safari/) enhances this research by analyzing food and nutrition information directly in Safari. When browsing grocery sites, recipe pages, or food product listings, the extension provides quick access to nutritional analysis without switching to a separate app or database.
+[Food Scanner for Safari](/apps/food-scanner/) enhances this research by analyzing food and nutrition information directly in Safari. When browsing grocery sites, recipe pages, or food product listings, the extension provides quick access to nutritional analysis without switching to a separate app or database.
 
 For users with dietary restrictions — managing diabetes, counting macros, tracking sodium for hypertension, or avoiding allergens — having nutritional analysis integrated into the browsing experience where they are already shopping removes a friction point from an already demanding daily task.
 
