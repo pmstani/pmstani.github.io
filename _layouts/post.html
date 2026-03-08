@@ -16,7 +16,7 @@
   {% if page.image %}<meta property="og:image" content="{{ site.url }}{{ page.image }}">{% endif %}
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="Pierre Stanislas">
+  <meta property="article:author" content="Tenpercent Apps">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -35,11 +35,11 @@
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
     "author": {
       "@type": "Person",
-      "name": "Pierre Stanislas"
+      "name": "Tenpercent Apps"
     },
     "publisher": {
       "@type": "Person",
-      "name": "Pierre Stanislas"
+      "name": "Tenpercent Apps"
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
@@ -57,7 +57,7 @@
   <header>
     <div class="container">
       <nav class="blog-nav">
-        <a href="{{ '/' | relative_url }}" class="blog-nav-logo">Pierre Stanislas</a>
+        <a href="{{ '/' | relative_url }}" class="blog-nav-logo">Apps & Blog</a>
         <div class="blog-nav-links">
           <a href="{{ '/' | relative_url }}#apps">Apps</a>
           <a href="{{ '/blog/' | relative_url }}">Blog</a>

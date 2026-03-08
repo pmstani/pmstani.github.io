@@ -90,7 +90,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Pierre Stanislas"
+      author: "Tenpercent Apps"
   - scope:
       path: "_pillars"
       type: "pillars"
@@ -320,10 +320,10 @@ Each blog post includes:
   "@type": "BlogPosting",
   "headline": "...",
   "description": "...",
-  "author": { "@type": "Person", "name": "Pierre Stanislas" },
+  "author": { "@type": "Person", "name": "Tenpercent Apps" },
   "datePublished": "...",
   "dateModified": "...",
-  "publisher": { "@type": "Person", "name": "Pierre Stanislas" },
+  "publisher": { "@type": "Person", "name": "Tenpercent Apps" },
   "mainEntityOfPage": { "@type": "WebPage", "@id": "..." },
   "image": "..."
 }

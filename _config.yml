@@ -1,7 +1,7 @@
 # =============================================================================
 # Site Settings
 # =============================================================================
-title: "Pierre Stanislas - iOS & macOS App Developer"
+title: "iOS & macOS Apps"
 email: ps.applecontact@gmail.com
 description: >-
   Independent iOS and macOS app developer since 2007. Browse a collection of 70+
@@ -40,7 +40,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Pierre Stanislas"
+      author: "Tenpercent Apps"
 
 # =============================================================================
 # Exclude from processing
