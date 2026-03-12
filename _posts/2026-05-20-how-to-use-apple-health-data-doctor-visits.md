@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [apple-health, doctor, medical, health-data]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [health-export, mental-health-happysteps]
+related_apps: [health-export, mental-health-happysteps, symptom-log]
 ---
 
 The average primary care appointment lasts 18 minutes. In that window, the physician must review your chart, listen to your concerns, conduct an examination, formulate an assessment, discuss treatment options, write prescriptions, order tests, and document the encounter. A 2019 study in the *Annals of Internal Medicine* found that for every hour of direct patient care, physicians spend nearly two hours on documentation and administrative tasks. Time is the scarcest resource in medicine.
@@ -86,6 +86,8 @@ Not all health data is relevant to every appointment. Bringing 200 pages of step
 
 [HappySteps (Mental Health)](/apps/mental-health-happysteps/) provides mood tracking, mental health check-ins, and wellness assessments that complement the physiological data from Apple Health. Combining subjective mood data with objective health metrics gives your mental health provider a more complete picture than either alone.
 
+For patients managing chronic physical conditions alongside mental health, [SymptomLog](/apps/symptom-log/) provides dedicated symptom and medication tracking for chronic illness. Log symptoms with severity ratings, track medication adherence, identify triggers, and generate doctor-ready PDF reports that summarize your health patterns over any date range -- giving your physician structured data to complement the Apple Health metrics.
+
 ### Sleep Specialist Appointment
 
 **Bring:**
@@ -113,6 +115,8 @@ Raw Apple Health data is stored in an XML database that is essentially unreadabl
 6. Save the export to Files, email it to yourself, or print it.
 
 {% include blog-cta.html app_slug="health-export" %}
+
+For chronic illness patients, [SymptomLog](/apps/symptom-log/) offers another avenue for structured data: its built-in PDF report generation summarizes symptom patterns, medication adherence, and identified triggers over any date range, providing your doctor with a focused chronic condition overview alongside the broader Apple Health export.
 
 ### Creating an Effective Health Report
 

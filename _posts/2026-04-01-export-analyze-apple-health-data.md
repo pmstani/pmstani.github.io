@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [apple-health, data-export, health-tracking, analysis]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [health-export]
+related_apps: [health-export, symptom-log]
 ---
 
 # How to Export and Analyze Your Apple Health Data

@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mental-health, wellness, iphone, best-of, 2026]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export]
+related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export, symptom-log]
 ---
 
 # Best Mental Health and Wellness Apps for iPhone in 2026
@@ -133,6 +133,8 @@ Mood tracking -- the practice of logging your emotional state alongside contextu
 
 The real value emerges after two to four weeks of consistent tracking. Most users report at least one significant surprise -- a correlation they never would have identified without data. Maybe Sunday evenings consistently produce anxiety spikes (anticipation of Monday), or maybe skipping breakfast predicts afternoon mood crashes with startling reliability.
 
+If your wellness concerns extend beyond mood to physical symptoms, [SymptomLog](/apps/symptom-log/) provides dedicated chronic illness tracking with medication management and trigger identification. For conditions where mental and physical health intersect -- autoimmune disorders, chronic pain, migraines, or gut issues -- tracking physical symptoms alongside mood data reveals connections that neither dataset shows alone.
+
 For a detailed walkthrough on how to track effectively and what to do with the insights, read our guide on [how to track your mood and improve mental health with apps](/blog/health-wellness/track-mood-improve-mental-health-apps/).
 
 ## Physical Activity and Outdoor Wellness
@@ -212,6 +214,7 @@ The most effective approach to digital wellness is not picking one app but build
 4. **Check conditions** for outdoor activity using [Wave Surf Reports](/apps/wave-surf-kooks/) or your preferred activity planner
 5. **Midday check-in** with your mood tracker to catch stress patterns before they escalate
 6. **Use sound therapy** with [Tinnitus AI](/apps/tinnitus-ai/) if tinnitus is affecting your concentration
+7. **Log physical symptoms** with [SymptomLog](/apps/symptom-log/) if you manage a chronic condition -- tracking symptoms, medications, and potential triggers throughout the day builds the dataset that reveals patterns over time
 
 ### The Evening Wind-Down
 7. **Log your evening mood** and note what influenced it throughout the day

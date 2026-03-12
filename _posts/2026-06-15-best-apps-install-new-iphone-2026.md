@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [new-iphone, setup, essential-apps, iphone, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, the-done-list, positive-affirmations, local-weather-yawa, health-export, clean-genie, panicvault]
+related_apps: [my-agenda-planning, the-done-list, positive-affirmations, local-weather-yawa, health-export, clean-genie, panicvault, symptom-log]
 ---
 
 ## Your iPhone Setup Shapes Your Daily Habits
