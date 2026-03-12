@@ -224,4 +224,6 @@ This last finding points to an important strategy: design your routine to surviv
 
 8. **Anticipate and plan for disruptions.** Write down your "travel version" and "bad day version" before you need them.
 
+Habit stacking is particularly powerful for people managing chronic illness, where medication adherence can make the difference between stable health and a flare. The same principles covered here -- anchoring to existing behaviors, starting tiny, celebrating small wins -- apply directly to building medication routines that stick despite the fatigue and cognitive fog that chronic conditions create. For a detailed guide on applying habit science to medication management, read [how to build a medication routine that actually sticks](/blog/health-wellness/how-to-build-medication-routine-that-sticks/).
+
 The most powerful routines are not the ones with the most impressive individual habits. They are the ones that survive six months, a year, five years. The science of habit stacking gives you the architecture to build those durable routines, one tiny behavior at a time.

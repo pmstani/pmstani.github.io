@@ -181,6 +181,10 @@ Starting your day with a brief meditation followed by positive affirmations crea
 
 Tracking your mood before and after meditation sessions gives you direct feedback on the practice's impact. Over weeks, this data builds a personal evidence base that reinforces the habit. [Mental Health by HappySteps](/apps/mental-health-happysteps/) makes this easy with quick check-ins. Our guide on [tracking your mood to improve mental health](/blog/health-wellness/track-mood-improve-mental-health-apps/) explains the approach in detail.
 
+### Meditation + Chronic Pain Management
+
+Meditation has a strong and growing evidence base for chronic pain management. The 2014 JAMA Internal Medicine meta-analysis found a moderate effect size (0.33) for pain reduction from mindfulness programs. For people living with chronic pain conditions, meditation does not eliminate pain but changes the brain's relationship with it, reducing the suffering that amplifies the raw sensory signal. If you manage a chronic pain condition, our [chronic pain management toolkit](/blog/health-wellness/chronic-pain-management-toolkit-iphone-apps/) covers how meditation fits into a comprehensive pain management strategy alongside pacing, tracking, and data-driven care.
+
 ### Meditation + Physical Activity
 
 Meditation and exercise target different but complementary systems. Exercise reduces cortisol and produces endorphins; meditation trains the prefrontal cortex to regulate the stress response. People who do both report greater stress resilience than people who do either alone. Outdoor activities like surfing are particularly complementary because they require a meditative quality of present-moment focus. Our guide to [surf forecast apps](/blog/health-wellness/best-surf-forecast-wave-report-apps-surfers/) covers how to plan outdoor sessions.

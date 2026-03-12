@@ -116,7 +116,7 @@ Raw Apple Health data is stored in an XML database that is essentially unreadabl
 
 {% include blog-cta.html app_slug="health-export" %}
 
-For chronic illness patients, [SymptomLog](/apps/symptom-log/) offers another avenue for structured data: its built-in PDF report generation summarizes symptom patterns, medication adherence, and identified triggers over any date range, providing your doctor with a focused chronic condition overview alongside the broader Apple Health export.
+For chronic illness patients, [SymptomLog](/apps/symptom-log/) offers another avenue for structured data: its built-in PDF report generation summarizes symptom patterns, medication adherence, and identified triggers over any date range, providing your doctor with a focused chronic condition overview alongside the broader Apple Health export. For a complete guide to organizing your health data for medical appointments, see [how to prepare for doctor appointments with a chronic condition](/blog/health-wellness/how-to-prepare-doctor-appointments-chronic-condition/).
 
 ### Creating an Effective Health Report
 

@@ -162,7 +162,7 @@ Apple Health does have a built-in export function (Settings > Health > Export Al
 3. Email or print the summary and bring it to your appointment
 
 **Why this matters:**
-A standard doctor's visit captures a single blood pressure reading, a single heart rate reading, and your subjective impression of how you have been feeling. This is like judging a stock's performance by looking at its price at one random moment. Your exported data provides the equivalent of a 6-month stock chart -- the trend, the variance, and the context that a single measurement cannot provide.
+A standard doctor's visit captures a single blood pressure reading, a single heart rate reading, and your subjective impression of how you have been feeling. This is like judging a stock's performance by looking at its price at one random moment. Your exported data provides the equivalent of a 6-month stock chart -- the trend, the variance, and the context that a single measurement cannot provide. This kind of longitudinal data is particularly valuable for people managing chronic conditions, where trends over weeks and months drive treatment decisions. For a comprehensive look at tracking tools built for this purpose, see our guide to the [best apps for chronic illness symptom tracking](/blog/health-wellness/best-apps-chronic-illness-symptom-tracking-iphone/).
 
 Physicians increasingly value patient-collected longitudinal data. A 2022 survey in the *Journal of the American Medical Informatics Association* found that 73% of physicians considered patient-generated health data useful for clinical decision-making, with the strongest value seen in longitudinal trends that revealed changes invisible in single-visit measurements.
 

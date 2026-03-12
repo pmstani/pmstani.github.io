@@ -133,7 +133,7 @@ Mood tracking -- the practice of logging your emotional state alongside contextu
 
 The real value emerges after two to four weeks of consistent tracking. Most users report at least one significant surprise -- a correlation they never would have identified without data. Maybe Sunday evenings consistently produce anxiety spikes (anticipation of Monday), or maybe skipping breakfast predicts afternoon mood crashes with startling reliability.
 
-If your wellness concerns extend beyond mood to physical symptoms, [SymptomLog](/apps/symptom-log/) provides dedicated chronic illness tracking with medication management and trigger identification. For conditions where mental and physical health intersect -- autoimmune disorders, chronic pain, migraines, or gut issues -- tracking physical symptoms alongside mood data reveals connections that neither dataset shows alone.
+If your wellness concerns extend beyond mood to physical symptoms, [SymptomLog](/apps/symptom-log/) provides dedicated chronic illness tracking with medication management and trigger identification. For conditions where mental and physical health intersect -- autoimmune disorders, chronic pain, migraines, or gut issues -- tracking physical symptoms alongside mood data reveals connections that neither dataset shows alone. For a deeper exploration of this intersection, read our guide on [the mental health side of chronic illness](/blog/health-wellness/mental-health-and-chronic-illness-what-nobody-talks-about/).
 
 For a detailed walkthrough on how to track effectively and what to do with the insights, read our guide on [how to track your mood and improve mental health with apps](/blog/health-wellness/track-mood-improve-mental-health-apps/).
 

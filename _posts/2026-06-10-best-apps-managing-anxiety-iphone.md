@@ -119,6 +119,8 @@ These tools are genuinely helpful for managing everyday anxiety and mild to mode
 - **Severe generalized anxiety disorder.** If anxiety consistently prevents you from functioning — missing work, avoiding social situations, unable to sleep — professional help is the priority, not apps.
 - **Co-occurring conditions.** Anxiety that accompanies depression, substance use disorders, or other mental health conditions needs integrated treatment that addresses all conditions simultaneously.
 
+It is worth noting that chronic illness patients experience anxiety at two to three times the rate of the general population, according to research in *Psychosomatic Medicine*. The relationship is bidirectional: anxiety worsens symptom perception and inflammation, while chronic symptoms feed anxiety through uncertainty and loss of control. If you are managing a chronic condition alongside anxiety, our guide on [the mental health side of chronic illness](/blog/health-wellness/mental-health-and-chronic-illness-what-nobody-talks-about/) explores this intersection in depth.
+
 If you are unsure whether your anxiety warrants professional help, the benchmark is functional impairment. Is anxiety preventing you from doing things you need or want to do? Is it affecting your relationships, work, sleep, or physical health? If yes, see a professional. Apps can complement that care, but they should not substitute for it.
 
 For a comprehensive overview of mental health and wellness apps, see our guide on [best mental health and wellness apps for iPhone in 2026](/blog/health-wellness/best-mental-health-wellness-apps-iphone-2026/).

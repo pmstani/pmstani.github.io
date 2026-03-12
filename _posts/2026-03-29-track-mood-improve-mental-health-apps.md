@@ -206,6 +206,8 @@ For a broader view of digital privacy, our guide to the [best privacy and securi
 
 **Share your data with your therapist.** If you are in therapy, mood tracking data is extraordinarily valuable to your clinician. It replaces the subjective "how have you been since our last session?" question with objective trend data. Many therapists now incorporate patient-collected mood data into treatment planning.
 
+**Mood tracking is especially important for chronic illness.** People living with chronic health conditions experience depression and anxiety at two to three times the rate of the general population, yet the emotional dimension of chronic illness is frequently overlooked in treatment. If you are managing a chronic condition, tracking mood alongside physical symptoms reveals the bidirectional relationship between emotional and physical health. For more on this critical connection, read our guide on [the mental health side of chronic illness](/blog/health-wellness/mental-health-and-chronic-illness-what-nobody-talks-about/).
+
 **Weekdays and weekends need separate analysis.** Averaging your mood across all seven days obscures the most important patterns. Analyze weekday and weekend data separately to understand how your work life and personal life contribute to your emotional state independently.
 
 ## Frequently Asked Questions
