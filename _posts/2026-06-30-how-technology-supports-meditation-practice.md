@@ -247,4 +247,6 @@ Based on the available evidence:
 
 **Do not gamify your peace.** If streaks, badges, or competitive elements create stress, disable them. The purpose of meditation is to reduce stress, not to add a new category of performance anxiety.
 
+One area where the intersection of technology and meditation is particularly promising is chronic pain management. The 2014 JAMA Internal Medicine meta-analysis found a moderate effect size for pain reduction from mindfulness programs, and subsequent research has shown that app-based delivery can maintain these benefits for patients who cannot attend in-person programs. For people living with chronic pain, meditation apps combined with symptom tracking create a feedback loop: you can see whether your meditation practice correlates with reduced pain scores over weeks and months. Our [chronic pain management toolkit](/blog/health-wellness/chronic-pain-management-toolkit-iphone-apps/) covers how meditation fits into a comprehensive, technology-supported pain management strategy.
+
 The research is clear: meditation works. The research is also clear: apps are an imperfect but useful delivery mechanism. The technology is best understood not as a meditation practice but as a bridge to one. Cross the bridge, and the other side is quieter than you expect.

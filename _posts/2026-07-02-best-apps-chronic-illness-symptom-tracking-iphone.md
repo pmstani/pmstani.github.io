@@ -183,6 +183,21 @@ Start with symptom tracking alone. Use SymptomLog consistently for two weeks bef
 
 **Digital tracking complements professional care -- it does not replace it.** A symptom tracking app cannot diagnose you or adjust your medication. What it can do is give your healthcare team better information to work with.
 
+## Deep Dives by Condition
+
+This guide covers chronic illness management broadly. For condition-specific strategies, tracking setups, and detailed guides, explore these focused resources:
+
+- **Migraine:** [How to Track Migraine Triggers and Reduce Attack Frequency](/blog/health-wellness/how-to-track-migraine-triggers-reduce-attacks-iphone/) — covers weather, food, stress, and hormonal triggers with a systematic tracking approach
+- **IBS and Digestive Issues:** [Managing IBS: Food Triggers, Symptom Logging, and Pattern Detection](/blog/health-wellness/managing-ibs-iphone-food-triggers-symptom-tracking/) — the FODMAP approach, gut-brain connection, and gastroenterologist-ready data
+- **Chronic Pain:** [The Chronic Pain Management Toolkit](/blog/health-wellness/chronic-pain-management-toolkit-iphone-apps/) — biopsychosocial model, pacing strategies, meditation for pain, and pain specialist reports
+- **Medication Adherence:** [How to Build a Medication Routine That Actually Sticks](/blog/health-wellness/how-to-build-medication-routine-that-sticks/) — habit science, tracking systems, and adherence data
+- **Sleep Problems:** [Sleep and Chronic Illness: Breaking the Vicious Cycle](/blog/health-wellness/sleep-and-chronic-illness-breaking-the-cycle/) — the sleep-symptom feedback loop, sound therapy, and data-driven sleep improvement
+- **Mental Health:** [The Mental Health Side of Chronic Illness](/blog/health-wellness/mental-health-and-chronic-illness-what-nobody-talks-about/) — depression, anxiety, grief, identity loss, and tools for the emotional burden
+- **Doctor Appointments:** [How to Prepare for Doctor Appointments with a Chronic Condition](/blog/health-wellness/how-to-prepare-doctor-appointments-chronic-condition/) — maximizing your 18 minutes, building data dossiers, self-advocacy
+- **Autoimmune Diseases:** [Autoimmune Disease Management: Tracking Flares and Remission](/blog/health-wellness/autoimmune-disease-tracking-flares-remission-iphone/) — lupus, RA, MS, Crohn's, and multi-system tracking
+- **Fibromyalgia:** [Fibromyalgia and Fatigue: How Symptom Tracking Reveals Patterns](/blog/health-wellness/fibromyalgia-fatigue-how-symptom-tracking-reveals-patterns/) — pacing, energy accounting, and the invisible illness challenge
+- **Food Sensitivities:** [Food Sensitivity and Elimination Diets: A Digital Tracking Approach](/blog/health-wellness/food-sensitivity-elimination-diet-tracking-iphone/) — delayed reactions, elimination protocols, and dietitian-ready reports
+
 ## Frequently Asked Questions
 
 **What chronic conditions benefit most from symptom tracking?**
