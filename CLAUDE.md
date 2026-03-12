@@ -175,16 +175,32 @@ If any of these are missing, ask the user to provide them before proceeding.
 
 **Step 3: `apps/<slug>.md`** - Create the app page with front matter (layout: app-page, title, description, app_slug, permalink) and three sections: "About", "Who is [App] for?", "Why choose [App]?".
 
-**Step 4: New blog post** - Create `_posts/<date>-best-apps-<topic>-iphone.md` targeting the app's primary use case. Structure:
-- Front matter: layout, title, description, date, categories, tags, silo, pillar, related_apps (include the new app + 3-5 complementary apps)
+**Step 4: Content cluster** - Create a comprehensive set of blog posts forming an SEO content cluster around the app's domain. This is the most important step for organic traffic.
+
+**Step 4a: Hub post** - Create `_posts/<date>-best-apps-<topic>-iphone.md` as the pillar/hub post:
+- Front matter: layout, title, description, date, categories, tags, silo, pillar, related_apps (include the new app + 3-5 complementary apps from the site)
 - 2,500-3,000 words, evidence-based, with inline links to the new app page and related app pages
 - Include `{% include blog-cta.html app_slug="<slug>" %}` after the primary app section
 - Link to 3-4 existing blog posts (internal linking for SEO cocoon)
 - End with FAQ section
+- Add a "Deep Dives" section at the end linking to all spoke posts (Step 4b)
 
-**Step 5: Update existing blog posts** - Find 5-10 existing posts with related topics:
+**Step 4b: Spoke posts** - Create 5-10 additional posts targeting specific subtopics within the app's domain. Each post should:
+- Target a specific use case, condition, or workflow (e.g., for a health app: specific conditions, specific management strategies)
+- Be 2,500-3,000 words, evidence-based, referencing real research/statistics
+- Feature the new app as primary with `{% include blog-cta.html app_slug="<slug>" %}`
+- Link to 3-6 other apps from the site that are relevant (even from different categories — productivity apps for scheduling, accessibility apps, etc.)
+- Cross-link to the hub post and 2-3 other spoke posts
+- Cross-link to 2-4 existing blog posts on the site
+- End with FAQ section (5-7 questions)
+
+Think broadly about which existing apps on the site could be relevant — not just apps in the same category. For example, a health app's content cluster could link to: productivity apps (scheduling medications), accessibility apps (reading challenges), food apps (dietary triggers), privacy apps (health data security), transcription apps (recording doctor visits), weather apps (weather triggers).
+
+**Step 5: Update existing blog posts** - Update 10-15 existing posts with backlinks into the new cluster:
 - Add the new app slug to their `related_apps` front matter array
-- For the 2-3 most relevant posts, add inline mentions with links (`[App Name](/apps/<slug>/)`) where contextually appropriate
+- For the 3-5 most relevant posts, add contextual inline mentions with links to specific cluster posts (not just the app page)
+- For broader posts (e.g., "best apps for X"), add inline mentions of the new app with links
+- Update the hub post's "Deep Dives" section to link to all spoke posts
 - Do NOT force mentions where they don't fit naturally
 
 **Step 6: Commit and push** all changes.
