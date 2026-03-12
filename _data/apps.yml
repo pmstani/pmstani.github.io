@@ -1143,3 +1143,18 @@
   category: "utilities"
   platforms: ["iOS", "macOS"]
   keywords: ["password manager", "KeePass", "credential manager", "password storage", "encryption"]
+
+- name: "SymptomLog"
+  slug: "symptom-log"
+  id: "6760401211"
+  icon: "symptomlog.png"
+  tagline: "Medication & Trigger Tracker"
+  description: "SymptomLog is the symptom tracker built for people with chronic illness — one fair price, no subscriptions, no ads. Track symptoms, medications, and triggers in one private journal, then generate doctor-ready PDF reports for your next appointment."
+  features:
+    - "Quick-log symptoms with severity, timestamps, and photo attachments"
+    - "Medication tracking with reminders and adherence monitoring"
+    - "Smart correlation detection for triggers and patterns"
+    - "Doctor-ready PDF reports with charts and summaries"
+  category: "health-wellness"
+  platforms: ["iOS"]
+  keywords: ["symptom tracker", "chronic illness", "medication tracker", "health journal", "pain diary", "trigger tracker", "PDF report"]
