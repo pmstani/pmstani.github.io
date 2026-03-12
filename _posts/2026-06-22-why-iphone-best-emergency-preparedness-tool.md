@@ -7,7 +7,7 @@ categories: [education]
 tags: [emergency, iphone, preparedness, survival, safety]
 silo: education-learning
 pillar: education-learning
-related_apps: [survivalist, health-export, safe]
+related_apps: [survivalist, health-export, safe, symptom-log]
 ---
 
 ## The Device in Your Pocket Is Already an Emergency Kit

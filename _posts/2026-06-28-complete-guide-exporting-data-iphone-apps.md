@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [data-export, privacy, data-portability, iphone, gdpr]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [health-export, safe, the-done-list]
+related_apps: [health-export, safe, the-done-list, symptom-log]
 ---
 
 ## Your Data Is Yours. Getting It Out Should Not Be This Hard.
