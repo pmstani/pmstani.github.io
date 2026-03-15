@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [chronic-illness, symptom-tracker, medication, health-tracking, pain-diary, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, health-export, mental-health-happysteps, tinnitus-ai, lotus, food-scanner]
+related_apps: [symptom-log, health-export, mental-health-happysteps, tinnitus-ai, lotus, food-scanner, vetkit]
 ---
 
 # Best Apps for Chronic Illness and Symptom Tracking on iPhone
@@ -37,6 +37,8 @@ The case for structured self-monitoring in chronic disease management is well es
 - **Medication effectiveness monitoring.** Did that new prescription actually help, or did symptoms coincidentally improve? Six weeks of data answers that definitively.
 - **Trigger isolation.** When multiple potential triggers coexist, only systematic logging can separate correlation from coincidence.
 - **Doctor communication.** "I've had 14 moderate-to-severe headache days in the past 30, up from 8 last month" is vastly more useful than "my headaches have been bad lately."
+
+These same tracking principles apply beyond human health. Pet owners managing chronic conditions in dogs and cats face identical challenges with pattern detection and medication adherence. Our guide on [the best apps for pet health tracking and vet records](/blog/health-wellness/best-apps-pet-health-tracking-vet-records-iphone/) covers how structured logging helps pet owners and veterinarians make better care decisions.
 
 ## SymptomLog: The Comprehensive Symptom Journal
 

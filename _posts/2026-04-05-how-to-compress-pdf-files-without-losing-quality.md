@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [pdf, compression, file-size, documents]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [pdf-compressor]
+related_apps: [pdf-compressor, vetkit]
 ---
 
 A single scanned page at 300 DPI weighs roughly 3 to 8 MB depending on the content. A 20-page scanned contract hits 60 to 160 MB. A photo-heavy annual report can exceed 200 MB. Meanwhile, Gmail caps attachments at 25 MB, Outlook at 20 MB, and most web upload forms top out at 10 to 50 MB. The math does not work — and that mismatch between how documents are created and how they need to be shared is why PDF compression is one of the most commonly searched-for technical tasks on the internet.

@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [survival, emergency, preparedness, wilderness]
 silo: education-learning
 pillar: education-learning
-related_apps: [survivalist]
+related_apps: [survivalist, vetkit]
 ---
 
 On February 13, 2021, an unprecedented winter storm hit Texas. Temperatures dropped to single digits in a state where most homes have minimal insulation and are heated by electricity rather than gas. The power grid collapsed. Within 48 hours, 4.5 million households had lost power. Pipes froze and burst. Grocery stores emptied. Water treatment plants shut down, leaving 14.6 million people under boil-water advisories. By the time the crisis ended, at least 246 people had died — not from the cold itself, but from carbon monoxide poisoning (running cars in closed garages for warmth), house fires (using open flames indoors for heat), hypothermia (not knowing how to insulate a room without power), and waterborne illness (not knowing how to purify water).
@@ -153,7 +153,7 @@ A kit that you cannot find in an emergency is worse than no kit at all — it cr
 ### Situational Additions
 
 - **If you have children:** Games, comfort items, extra formula/diapers
-- **If you have pets:** 3 days of pet food, extra water, leash, carrier
+- **If you have pets:** 3 days of pet food, extra water, leash, carrier. Keep digital copies of vaccination records and medication lists on your phone so they are available during an evacuation — our guide on [pet emergency preparedness and first aid](/blog/health-wellness/pet-emergency-preparedness-first-aid-guide/) covers building a complete pet emergency plan
 - **If you live in earthquake country:** Wrench for gas shutoff, sturdy shoes near the bed (broken glass is the most common earthquake injury)
 - **If you live in hurricane/flood zones:** Waterproof bags for electronics and documents, emergency inflatable raft, hand-crank radio for NOAA weather alerts
 

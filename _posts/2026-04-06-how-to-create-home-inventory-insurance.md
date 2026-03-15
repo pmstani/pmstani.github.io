@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [home-inventory, insurance, asset-tracking, preparedness]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [safe, equipt]
+related_apps: [safe, equipt, vetkit]
 ---
 
 After a house fire in 2019, a family in Colorado filed an insurance claim for $150,000 in lost belongings. They received $47,000. Not because their policy was inadequate — the coverage limit was $200,000 — but because they could not prove what they owned. Without documentation, the adjuster estimated conservatively, disputed several high-value claims, and settled for less than a third of the actual loss. That gap — between what you own and what you can prove you own — is the core problem that a home inventory solves.
@@ -161,6 +161,7 @@ A home inventory is one component of a comprehensive preparedness strategy. Othe
 - **Photo library management.** A clean, organized photo library makes it easier to find and reference documentation photos. If your camera roll is cluttered with duplicates, our guide on [how to free up iPhone storage by removing duplicate photos](/blog/digital-privacy-security/how-to-free-up-iphone-storage-removing-duplicate-photos/) will help you clean house.
 - **Document management.** Compressing scanned insurance documents, receipts, and appraisals ensures they do not overwhelm your storage or exceed email attachment limits. See [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/) for practical techniques.
 - **Emergency preparedness.** Beyond property protection, having essential survival skills and supplies matters. Our guide on [emergency preparedness and essential survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) covers the physical readiness side of the equation.
+- **Pet records.** If you have pets, their vaccination records, medication schedules, and health histories are part of your household documentation. Keeping these digitized ensures they are accessible during emergencies and vet visits. See our guide on [how to keep pet vaccination records on your phone](/blog/health-wellness/how-to-keep-pet-vaccination-records-phone/) for a practical approach.
 - **Business equipment.** If you run a business from home or manage equipment for work, the same principles apply at a larger scale. Our guide on [best equipment and asset tracking apps for small business](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/) covers business-specific workflows including depreciation tracking.
 
 For a complete view of tools that protect your digital and physical assets, see our [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) roundup.

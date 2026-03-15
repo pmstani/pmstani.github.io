@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [small-business, entrepreneur, business-apps, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf]
+related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit]
 ---
 
 ## Small Business Owners Wear Every Hat

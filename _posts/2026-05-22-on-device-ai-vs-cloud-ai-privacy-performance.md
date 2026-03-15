@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [ai, privacy, on-device, cloud-computing, machine-learning]
 silo: productivity
 pillar: productivity
-related_apps: [extension-ai, transcribe, tinnitus-ai]
+related_apps: [extension-ai, transcribe, tinnitus-ai, vetkit]
 ---
 
 Two years ago, running a large language model on a smartphone was a research curiosity. Today, Apple Intelligence processes requests locally on the A17 Pro and M-series chips. Google's Gemini Nano runs on Pixel devices without touching a server. Samsung has embedded on-device AI into its Galaxy lineup. Meanwhile, cloud AI services from OpenAI, Anthropic, and Google continue to push the boundaries of what is possible with models too large to fit on any consumer device.
