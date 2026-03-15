@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [productivity, iphone, mac, best-of, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new]
+related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit]
 ---
 
 A 2023 study by the Harvard Business Review found that knowledge workers spend 58% of their workday on "work about work" — status updates, searching for files, switching between tools, and managing communication overhead. Only 33% goes toward skilled, meaningful tasks. The remaining 9% vanishes into strategic planning that rarely translates into action.

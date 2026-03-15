@@ -1158,3 +1158,18 @@
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["symptom tracker", "chronic illness", "medication tracker", "health journal", "pain diary", "trigger tracker", "PDF report"]
+
+- name: "VetKit"
+  slug: "vetkit"
+  id: "6760608165"
+  icon: "vetkit.png"
+  tagline: "Vaccination, Med & Vet Record"
+  description: "VetKit is the offline-first pet health journal that keeps your vaccination records, medication schedules, vet visit notes, and weight logs organized and accessible. Built for reliability — no account, no server, no subscription."
+  features:
+    - "Pet profiles with vaccination tracking and smart reminders"
+    - "Medication scheduling with reliable local notifications"
+    - "Vet visit log with cost tracking and photo attachments"
+    - "Weight trend charts and vet-ready PDF export"
+  category: "health-wellness"
+  platforms: ["iOS"]
+  keywords: ["pet health", "vaccination tracker", "vet records", "medication schedule", "dog health", "cat health", "pet journal"]

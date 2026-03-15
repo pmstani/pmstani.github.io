@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [weather, privacy, no-ads, forecast]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [local-weather-yawa]
+related_apps: [local-weather-yawa, vetkit]
 ---
 
 In January 2019, the Los Angeles city attorney filed a lawsuit against The Weather Channel app for secretly collecting, sharing, and profiting from users' location data. The lawsuit alleged that the app tracked users' movements 24 hours a day and sold that data to hedge funds and advertising firms — while telling users that location access was only needed for local forecasts. The case was eventually settled, but the underlying business model did not go away. It just got more sophisticated.

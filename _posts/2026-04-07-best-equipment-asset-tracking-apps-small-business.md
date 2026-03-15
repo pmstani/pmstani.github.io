@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [equipment, asset-tracking, business, inventory]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [equipt]
+related_apps: [equipt, vetkit]
 ---
 
 The U.S. Small Business Administration estimates that small businesses lose between 5% and 10% of their equipment value annually to mismanagement — tools that go missing from job sites, warranties that expire unused, maintenance that gets skipped until a $200 repair becomes a $2,000 replacement. For a contractor with $50,000 in tools and equipment, that is $2,500 to $5,000 in preventable losses every year. For a photography studio, an IT consultancy, or a food service operation, the numbers scale accordingly.

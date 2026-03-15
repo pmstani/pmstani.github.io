@@ -468,5 +468,11 @@
     "app_name": "SymptomLog",
     "app_description": "Medication & Trigger Tracker",
     "image_url": "https://pmstani.github.io/img/apps/symptomlog.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6760608165",
+    "app_name": "VetKit",
+    "app_description": "Vaccination, Med & Vet Record",
+    "image_url": "https://pmstani.github.io/img/apps/vetkit.png"
   }
 ]

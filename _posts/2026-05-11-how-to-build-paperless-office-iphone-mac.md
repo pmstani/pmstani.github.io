@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [paperless, office, documents, pdf, scanning]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, tidy-downloads]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, tidy-downloads, vetkit]
 ---
 
 The average American office worker uses 10,000 sheets of paper per year, according to a widely cited estimate from The Paperless Project. At roughly five cents per sheet — factoring in paper cost, printing, ink, and filing — that is $500 per person annually on a medium that becomes instantly unsearchable, takes up physical space, and degrades over time. For a 10-person office, paper costs can quietly exceed $5,000 per year before accounting for filing cabinets, storage rent, shredding services, and the hours spent looking for misfiled documents.
@@ -284,5 +284,7 @@ The technology is the easy part. The habit is what makes or breaks a paperless o
 - Review folder structure. Are new categories needed?
 - Check storage usage. Are old archives consuming excessive space?
 - Test a file restoration from backup to confirm recoverability.
+
+The paperless approach extends beyond traditional office documents. Pet owners, for example, accumulate stacks of vaccination certificates, lab results, and medication receipts that benefit from the same digitization workflow. Our guide on [the best apps for pet health tracking and vet records](/blog/health-wellness/best-apps-pet-health-tracking-vet-records-iphone/) covers how to keep pet health records organized digitally, including PDF export for sharing with veterinarians.
 
 The key insight from organizations that successfully go paperless is this: the system must be faster than the paper alternative. If scanning, naming, and filing a document takes more than 60 seconds, compliance drops and paper accumulates. Every tool and technique in this guide is designed to keep that total time under a minute per document — fast enough that going paperless is not discipline, but default behavior.

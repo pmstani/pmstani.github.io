@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [transcription, speech-to-text, ai, voice-notes]
 silo: productivity
 pillar: productivity
-related_apps: [transcribe]
+related_apps: [transcribe, vetkit]
 ---
 
 The average professional spends 31 hours per month in meetings, according to a 2024 survey by Atlassian. That is nearly four full workdays of spoken content — discussions, decisions, action items, context, and nuance — that exists only as ephemeral audio and the fragmented memories of attendees. Within 24 hours, participants in a one-hour meeting can typically recall less than 50% of what was discussed. Within a week, that drops to approximately 20%.

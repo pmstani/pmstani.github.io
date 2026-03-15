@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, workflows, documents, iphone, mac]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit]
 ---
 
 ## Why PDFs Still Dominate Document Workflows in 2026
@@ -296,5 +296,7 @@ Finder tags add a cross-cutting organizational layer. Tag PDFs by status (needs-
 macOS Spotlight indexes the text content of PDFs, including OCR text layers. Press Command+Space and search for any text within your PDF documents. This is one of the strongest arguments for applying OCR to all scanned documents: once OCR is applied, the document's contents are searchable system-wide.
 
 On iPhone, the Files app search indexes PDF content similarly, though the search is limited to files stored locally or in iCloud Drive.
+
+PDF generation is also valuable in specialized domains you might not expect. Pet owners, for instance, can generate vet-ready PDF health reports containing vaccination histories, medication schedules, and weight trends — useful when switching veterinarians or traveling with animals. Our guide on [how to share pet health records with your vet via PDF export](/blog/health-wellness/how-to-share-pet-health-records-vet-pdf-export/) walks through that workflow.
 
 The PDF has outlasted dozens of competing document formats over three decades, and its role in digital workflows shows no signs of diminishing. Mastering these workflows on the devices you already use saves time on tasks you already perform daily, which compounds into significant productivity gains over months and years.

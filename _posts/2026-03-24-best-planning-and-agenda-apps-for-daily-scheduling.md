@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [planning, agenda, scheduling, time-management]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, day-progress]
+related_apps: [my-agenda-planning, day-progress, vetkit]
 ---
 
 Benjamin Franklin divided every day into explicit time blocks. His daily schedule, reproduced in his autobiography, allocated specific hours to specific activities: "Rise, wash, and address Powerful Goodness" from 5-8 AM, "Work" from 8-12, "Read, or look over my accounts, and dine" from 12-2, more "Work" from 2-6, and "Put things in their places" from 6-10 PM. Each day ended with the question: "What good have I done today?"
