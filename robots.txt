@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://pmstani.github.io/sitemap.xml
