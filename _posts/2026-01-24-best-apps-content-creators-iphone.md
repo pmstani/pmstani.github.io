@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [content-creation, youtube, creators, video, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta]
+related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport]
 ---
 
 ## The Creator Economy Runs on Smartphones
@@ -116,6 +116,10 @@ The individual tools above are useful in isolation, but they deliver the most va
 6. **Repurposing.** Extract quotes for social media. Expand the transcript into a blog post. Pull timestamps for chapter markers.
 7. **Document conversion.** Digitize any physical production documents with [Photo to PDF](/apps/photo-to-pdf/).
 8. **Platform optimization.** Format ultra-wide content for Instagram with [Ultra Wide Insta](/apps/ultra-wide-insta/).
+
+### Tracking Content Production Time
+
+Creators who want to understand how long different types of content take to produce can export their calendar data with [CalXPort](/apps/calxport/). If you time-block your production schedule in Apple Calendar — scripting sessions, recording blocks, editing time — CalXPort exports those events to CSV or Excel for analysis. Over a few months, this reveals which content formats are most time-efficient and helps set realistic production schedules.
 
 ### The Consistency Advantage
 

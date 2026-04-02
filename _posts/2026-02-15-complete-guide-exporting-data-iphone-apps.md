@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [data-export, privacy, data-portability, iphone, gdpr]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [health-export, safe, the-done-list, symptom-log]
+related_apps: [health-export, safe, the-done-list, symptom-log, calxport]
 ---
 
 ## Your Data Is Yours. Getting It Out Should Not Be This Hard.
@@ -97,7 +97,7 @@ Apple Notes can be exported on a per-note basis (share sheet > PDF, text, or oth
 ### Contacts and Calendars
 
 - **Contacts:** On Mac, Contacts app > File > Export > Export vCard exports all contacts as a single .vcf file
-- **Calendars:** On Mac, Calendar app > File > Export > Export exports each calendar as an .ics file
+- **Calendars:** On Mac, Calendar app > File > Export > Export exports each calendar as an .ics file. However, the native ICS export preserves scheduling data but is not ideal for analysis in spreadsheets. [CalXPort](/apps/calxport/) fills this gap by exporting Apple Calendar events and reminders directly to CSV and Excel formats, making calendar data immediately usable for time tracking, billing, and schedule analysis. See the full guide on [how to export Apple Calendar events to Excel and CSV](/blog/productivity/how-to-export-apple-calendar-events-to-excel-csv/).
 - **Both:** Included in the iCloud data request from privacy.apple.com
 
 ## Health Data: The Most Valuable and Most Overlooked Export

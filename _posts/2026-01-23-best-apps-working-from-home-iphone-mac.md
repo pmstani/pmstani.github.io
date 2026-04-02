@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [remote-work, wfh, productivity, mac, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit]
+related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport]
 ---
 
 ## Remote Work Demands Different Software
@@ -65,6 +65,8 @@ Pair Day Progress with [My Agenda Planning](/apps/my-agenda-planning/) for a com
 {% include blog-cta.html app_slug="my-agenda-planning" %}
 
 The full comparison of planning methods is in our [best planning and agenda apps for daily scheduling](/blog/productivity/best-planning-and-agenda-apps-for-daily-scheduling/) guide.
+
+If your remote work involves tracking time across projects or clients, exporting your calendar data can reveal exactly how your hours are distributed. [CalXPort](/apps/calxport/) exports Apple Calendar events to CSV and Excel, which is useful for generating meeting reports, auditing time allocation, or simply understanding where each week goes. For a detailed guide on analyzing meeting schedules, see [how to analyze your meeting schedule with calendar data](/blog/productivity/how-to-analyze-meeting-schedule-calendar-data-export/).
 
 ### The Remote Worker's Daily Rhythm
 

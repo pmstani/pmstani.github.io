@@ -1173,3 +1173,18 @@
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["pet health", "vaccination tracker", "vet records", "medication schedule", "dog health", "cat health", "pet journal"]
+
+- name: "CalXPort"
+  slug: "calxport"
+  id: "6761520176"
+  icon: "calxport.png"
+  tagline: "Event & Reminder to Excel"
+  description: "CalXPort transforms your Apple Calendar into structured, analysis-ready spreadsheet data. Export events and reminders to CSV and Excel with 10 built-in templates, custom field parsing, and complete privacy — all processing happens on your device."
+  features:
+    - "10 built-in export templates for freelancers, lawyers, students, and more"
+    - "Custom template editor with regex-based field parsing"
+    - "CSV and Excel output with configurable formatting"
+    - "Date range filters, calendar selection, and built-in spreadsheet preview"
+  category: "productivity"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["calendar export", "CSV export", "Excel export", "timesheet", "spreadsheet", "meeting log", "billing", "data export", "template", "schedule"]

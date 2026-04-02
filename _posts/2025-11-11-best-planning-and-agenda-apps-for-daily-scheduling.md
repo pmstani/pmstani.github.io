@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [planning, agenda, scheduling, time-management]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, day-progress, vetkit]
+related_apps: [my-agenda-planning, day-progress, vetkit, calxport]
 ---
 
 Benjamin Franklin divided every day into explicit time blocks. His daily schedule, reproduced in his autobiography, allocated specific hours to specific activities: "Rise, wash, and address Powerful Goodness" from 5-8 AM, "Work" from 8-12, "Read, or look over my accounts, and dine" from 12-2, more "Work" from 2-6, and "Put things in their places" from 6-10 PM. Each day ended with the question: "What good have I done today?"
@@ -226,6 +226,7 @@ Pair your daily plan with an accomplishment tracker. [The Done List method](/blo
 
 Daily planning is one layer of a broader productivity stack. The most effective combination integrates complementary tools:
 
+- **Calendar data analysis:** If you use Apple Calendar for time blocking, [CalXPort](/apps/calxport/) exports your events to CSV and Excel so you can analyze how your planned time compares to actual time spent. This data is invaluable for improving your time estimates and identifying patterns in how you schedule your days.
 - **File organization:** A clean [Downloads folder](/blog/productivity/how-to-organize-your-downloads-folder-automatically-on-mac/) reduces the time you spend searching for files, freeing up time for planned work.
 - **Document creation:** When a task requires writing, [instant Google Doc creation](/blog/productivity/how-to-quickly-create-new-google-docs-from-anywhere/) removes the friction between "I need to write this" and "I am writing this."
 - **Meeting processing:** When your agenda includes meetings, [transcribe them](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/) to capture action items without splitting your attention during the discussion.

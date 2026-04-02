@@ -7,7 +7,7 @@ categories: [education]
 tags: [college, students, study, university, apps]
 silo: education-learning
 pillar: education-learning
-related_apps: [extension-ai, save-as-pdf, sticky-notes, translator-safari-extension, calcular, the-done-list, my-agenda-planning]
+related_apps: [extension-ai, save-as-pdf, sticky-notes, translator-safari-extension, calcular, the-done-list, my-agenda-planning, calxport]
 ---
 
 ## The Modern Student's Toolkit Is Broken
@@ -132,6 +132,10 @@ See the detailed methodology: [the Done List method: why tracking accomplishment
 11. Review the full week of Done List entries. Identify patterns.
 12. Plan the coming week's priorities based on deadlines and remaining work.
 13. Archive completed research PDFs into organized folders.
+
+## Exporting Your Class Schedule
+
+Students who want a spreadsheet view of their class schedule, exam dates, and study sessions can use [CalXPort](/apps/calxport/) to export Apple Calendar events to CSV or Excel. This is particularly useful at the start of each semester for creating a master schedule that integrates class times, assignment deadlines, and extracurricular commitments in a format you can print, share with study partners, or import into other planning tools.
 
 ## Beyond the Apps: Study Habits That Actually Work
 

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [commuting, transit, productivity, reading, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus]
+related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport]
 ---
 
 ## The Average American Spends 55 Minutes Commuting Every Day
@@ -109,6 +109,8 @@ Use the morning commute to review the week. What went well? What needs to change
 The biggest obstacle to a productive commute is not the tools — it is the gravitational pull of social media. Opening Instagram or TikTok is the path of least resistance because it requires zero planning and provides immediate (if shallow) engagement. Overcoming that pull requires two things: removing the trigger and providing an alternative.
 
 Remove social media apps from your home screen. Move them to the App Library so accessing them requires a conscious search rather than an automatic tap. Replace them on your home screen with the apps listed in this guide. When you pull out your phone at the start of your commute, the first thing you see should be your reading queue, your meditation app, or your planning tool — not an engagement-optimized infinite scroll.
+
+For commuters who track mileage for tax deductions or expense reports, exporting your calendar data with [CalXPort](/apps/calxport/) provides a record of work-related trips based on the appointments and meetings already in your schedule. Pair this with mileage data for a complete commute documentation trail.
 
 The compound impact of intentional commuting is substantial. A commuter who reads during 200 commutes per year completes 30-50 books' worth of content. A commuter who meditates during 200 commutes builds a deeply established mindfulness practice. A commuter who captures ideas via voice recording accumulates a personal knowledge base that would never exist otherwise. The time is there. The choice is what you do with it.
 
