@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [to-do, done-list, productivity, experiment, habits]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list, my-agenda-planning]
+related_apps: [the-done-list, my-agenda-planning, calxport]
 ---
 
 Most productivity advice is presented as established fact when it is actually untested personal preference. Someone tries a system, it works for them, and they write about it as though it will work for everyone. The to-do list vs done list debate is a prime example: advocates on each side present compelling arguments, cite psychology research, and claim superiority -- but rarely subject their preferred system to any structured comparison.

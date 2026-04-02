@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [digital-minimalism, simplify, iphone, focus, productivity]
 silo: productivity
 pillar: productivity
-related_apps: [clean-genie, tidy-downloads, local-weather-yawa, rss-reader, the-done-list]
+related_apps: [clean-genie, tidy-downloads, local-weather-yawa, rss-reader, the-done-list, calxport]
 ---
 
 ## The 80-App Problem
@@ -214,6 +214,10 @@ On the first of each month, open Settings > General > iPhone Storage. Sort by "L
 ### Quarterly Deep Audit (30 Minutes)
 
 Every three months, repeat the full audit process: review every app against your values, check notification settings, review Screen Time data trends, and make adjustments. Your values and needs evolve, and your digital tools should evolve with them.
+
+### Data Portability as a Minimalist Value
+
+One principle of digital minimalism that is often overlooked is data portability — the ability to take your data with you when you leave a tool. Apps that export your data in open formats (CSV, JSON, PDF) respect your ownership and reduce lock-in. For example, [CalXPort](/apps/calxport/) exports Apple Calendar events to CSV and Excel, ensuring your scheduling data is never trapped in a proprietary format. Choosing apps that let you own your data is itself a minimalist act.
 
 ### One-In-One-Out Rule
 

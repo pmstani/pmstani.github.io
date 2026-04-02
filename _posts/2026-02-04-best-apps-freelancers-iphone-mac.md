@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [freelance, self-employed, invoicing, productivity, apps]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress]
+related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport]
 ---
 
 ## Freelancing Is a Business With No Operations Team
@@ -127,6 +127,8 @@ The tools above address different facets of freelance operations. Here is how th
 **Throughout the day:** Log accomplishments in [The Done List](/apps/the-done-list/) as they happen. Record client meetings and transcribe them with [Transcribe](/apps/transcribe/).
 
 **As needed:** Compare contract revisions with [PDiff](/apps/pdiff/). Convert physical documents to PDFs with [Photo to PDF](/apps/photo-to-pdf/). Record client-facing videos with [CueVoice](/apps/cuevoice/).
+
+**End of week:** Export your calendar data with [CalXPort](/apps/calxport/) to generate client timesheets directly from the time blocks you already logged in Apple Calendar. Instead of manually reconstructing hours for each client, CalXPort exports your events to CSV or Excel, giving you a ready-made record of billable time organized by client and project. For a complete walkthrough of this workflow, see [how to create freelancer timesheets from Apple Calendar](/blog/productivity/freelancer-timesheet-from-apple-calendar-iphone/).
 
 **Evening (10 minutes):** Review the Done List. Send any needed client updates. Plan tomorrow's time blocks.
 

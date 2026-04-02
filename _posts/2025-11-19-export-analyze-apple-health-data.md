@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [apple-health, data-export, health-tracking, analysis]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [health-export, symptom-log]
+related_apps: [health-export, symptom-log, calxport]
 ---
 
 # How to Export and Analyze Your Apple Health Data
@@ -251,5 +251,7 @@ This single analysis will tell you whether your cardiovascular fitness is improv
 Once you are comfortable with this process, add sleep data, then exercise data, then HRV. Each layer adds insight without overwhelming the analysis.
 
 Your health data already exists. The insights it contains are waiting. All you need is a tool to unlock them.
+
+The same export-and-analyze approach applies beyond health. If you use Apple Calendar to schedule workouts, medical appointments, or therapy sessions, [CalXPort](/apps/calxport/) exports those calendar events to CSV and Excel — giving you a complementary view of how your schedule aligns with your health goals. Health Export shows what your body is doing; a calendar export shows what you planned to do about it.
 
 For more tools to support your health and wellness journey, explore our complete roundup of the [best mental health and wellness apps for iPhone in 2026](/blog/health-wellness/best-mental-health-wellness-apps-iphone-2026/).

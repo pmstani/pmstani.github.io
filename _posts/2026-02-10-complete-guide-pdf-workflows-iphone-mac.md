@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, workflows, documents, iphone, mac]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport]
 ---
 
 ## Why PDFs Still Dominate Document Workflows in 2026
@@ -232,6 +232,8 @@ The Shortcuts app on iPhone and Mac includes several PDF-related actions that en
 **Meeting Notes Workflow:** After a meeting, run a Shortcut that takes your meeting photos (whiteboard captures), converts them to a PDF, adds a cover page with the meeting date and attendees (from a text input), and saves the combined document to a shared folder.
 
 **Receipt Filing:** Automatically rename PDFs received by email from specific senders (utilities, subscriptions) with a standardized format (YYYY-MM-DD-vendor-receipt.pdf) and file them in the appropriate folder.
+
+**Time and Expense Reports:** Combine calendar export data from [CalXPort](/apps/calxport/) with scanned receipts to build comprehensive time-and-expense reports. Export your calendar events to a spreadsheet, match them against receipt PDFs, and compile everything into a single document for client billing or tax filing.
 
 **Weekly Report Compilation:** Combine multiple PDFs from a folder into a single document, add page numbers, and share via email.
 

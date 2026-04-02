@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [done-list, accomplishments, productivity, mindset]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list]
+related_apps: [the-done-list, calxport]
 ---
 
 In 1918, productivity consultant Ivy Lee walked into Bethlehem Steel Corporation and gave its president, Charles Schwab, a simple system: every evening, write down the six most important things you need to accomplish tomorrow. Prioritize them. Start with the first item the next morning and do not move to the second until the first is complete. Schwab paid Lee $25,000 for this advice — roughly $500,000 in today's money — and credited it with turning Bethlehem Steel into the largest independent steel producer in the world.
@@ -156,6 +156,7 @@ The Done List method becomes more powerful when integrated with complementary to
 - **[My Agenda Planning](/blog/productivity/best-planning-and-agenda-apps-for-daily-scheduling/)** handles the planning side. Structure your day in the morning, then log completions to your Done List throughout the day. The morning plan tells you where to focus; the Done List tells you what actually happened.
 - **[Day Progress](/apps/day-progress/)** provides visual time awareness that pairs naturally with accomplishment tracking. Seeing that 70% of your workday is gone while your Done List already has 10 entries creates a sense of earned satisfaction.
 - **[Transcribe](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/)** captures meeting work that might otherwise go unrecorded. After transcribing a meeting, you can add "led product strategy discussion" or "resolved budget allocation disagreement" to your Done List.
+- **[CalXPort](/apps/calxport/)** exports your Apple Calendar events to CSV or Excel, providing a complementary data source to your Done List. While the Done List captures what you accomplished, a calendar export shows where your time was allocated — comparing the two reveals how much of your productive output was planned versus spontaneous.
 - For additional tools that complement the Done List workflow, see our roundup of the [best productivity apps for iPhone and Mac in 2026](/blog/productivity/best-productivity-apps-iphone-mac-2026/).
 
 ## Things Most Guides Don't Tell You About Done Lists

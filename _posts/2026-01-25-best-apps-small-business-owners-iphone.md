@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [small-business, entrepreneur, business-apps, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit]
+related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit, calxport]
 ---
 
 ## Small Business Owners Wear Every Hat
@@ -111,6 +111,10 @@ Start with [PDF Compressor (ThinPDF)](/apps/pdf-compressor/) and [Photo to PDF](
 ### If Asset Management Is Your Gap
 
 Start with [Equipt](/apps/equipt/) for business equipment and [Safe](/apps/safe/) for home office or personal items. Spend 15 minutes per day building your inventory rather than attempting a marathon cataloging session. Within a month, you will have comprehensive documentation that serves both operational and insurance purposes.
+
+### If Billing and Time Documentation Are Your Challenge
+
+Start with [CalXPort](/apps/calxport/). If your business bills by the hour or needs to document time spent on client projects, CalXPort exports your Apple Calendar events to CSV and Excel, turning the schedule you already maintain into timesheets, billing records, and tax documentation. For more on how this fits into a small business workflow, see [best apps for calendar export and time tracking](/blog/productivity/best-apps-calendar-export-time-tracking-iphone/).
 
 ### If Time and Motivation Are Your Challenge
 

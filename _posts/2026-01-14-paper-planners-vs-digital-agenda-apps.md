@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [planner, digital, paper, productivity, comparison]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, day-progress, the-done-list]
+related_apps: [my-agenda-planning, day-progress, the-done-list, calxport]
 ---
 
 The paper planner market generated $1.4 billion in US revenue in 2024 -- up 22% from 2019 -- at the same time that digital productivity app revenue crossed $8 billion globally. These two numbers tell a story that neither paper nor digital advocates want to hear: people are spending more on both, which means neither format has definitively won, and the choice between them is genuinely preference-dependent rather than objectively decidable.
@@ -74,7 +74,7 @@ Digital planning tools can capture information that paper cannot:
 
 - **Location-based reminders**: "Remind me to buy milk when I am near the grocery store"
 - **Linked attachments**: Attach a PDF, photo, or link to a calendar event
-- **Time tracking integration**: Automatically log how long tasks actually took vs how long they were planned to take
+- **Time tracking integration**: Automatically log how long tasks actually took vs how long they were planned to take. Tools like [CalXPort](/apps/calxport/) can export your calendar events to spreadsheet formats, giving you hard data on how your planned schedule compares to reality
 - **Weather integration**: See weather forecasts alongside outdoor event plans
 - **Contact linking**: Associate events with contacts and pull up communication history
 

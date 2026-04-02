@@ -474,5 +474,11 @@
     "app_name": "VetKit",
     "app_description": "Vaccination, Med & Vet Record",
     "image_url": "https://pmstani.github.io/img/apps/vetkit.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6761520176",
+    "app_name": "CalXPort",
+    "app_description": "Event & Reminder to Excel",
+    "image_url": "https://pmstani.github.io/img/apps/calxport.png"
   }
 ]

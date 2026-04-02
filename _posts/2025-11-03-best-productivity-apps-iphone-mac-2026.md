@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [productivity, iphone, mac, best-of, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit]
+related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit, calxport]
 ---
 
 A 2023 study by the Harvard Business Review found that knowledge workers spend 58% of their workday on "work about work" — status updates, searching for files, switching between tools, and managing communication overhead. Only 33% goes toward skilled, meaningful tasks. The remaining 9% vanishes into strategic planning that rarely translates into action.
@@ -188,6 +188,7 @@ These tools work well independently, but they work even better together. A few n
 - **Content creation pipeline:** Write scripts in Google Docs ([New](/apps/new/)), deliver them with a teleprompter ([CueVoice](/apps/cuevoice/)), transcribe the recording for blog posts and show notes ([Transcribe](/apps/transcribe/)), and log production milestones in your [Done List](/apps/the-done-list/).
 - **Document review workflow:** Receive a contract revision, let [Tidy Downloads](/apps/tidy-downloads/) sort it into the right folder, compare it against the previous version with [PDiff](/apps/pdiff/), photograph and convert any handwritten markup to PDF with [Photo to PDF](/apps/photo-to-pdf/).
 - **Daily planning system:** Check [Day Progress](/apps/day-progress/) for time awareness, structure your day with [My Agenda Planning](/apps/my-agenda-planning/), track what you actually accomplish with [The Done List](/apps/the-done-list/).
+- **Time tracking and reporting:** Export your Apple Calendar events to CSV or Excel with [CalXPort](/apps/calxport/) to analyze where your hours actually go, generate timesheets, or prepare documentation for tax purposes. For the full breakdown of calendar export workflows, see [best apps for calendar export and time tracking](/blog/productivity/best-apps-calendar-export-time-tracking-iphone/).
 
 ### The One-Week Rule
 
