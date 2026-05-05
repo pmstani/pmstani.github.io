@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [commuting, transit, productivity, reading, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport]
+related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport, retrofoot]
 ---
 
 ## The Average American Spends 55 Minutes Commuting Every Day
@@ -121,3 +121,9 @@ The standard framing of commute time is negative: time wasted, time lost, time t
 Reframing the commute as a protected block of personal time changes its psychological character entirely. This is time that no one else can schedule over. No meetings, no emails, no interruptions. The constraints of the commute (fixed duration, limited activity options) actually work in your favor by eliminating the paradox of choice that makes unstructured free time unproductive.
 
 The apps in this guide provide the raw material for this reframing. [Auto Scroll](/apps/auto-scroll/) and [RSS Reader](/apps/rss-reader/) transform the commute into a learning opportunity. [Lotus](/apps/lotus/) and [Positive Affirmations](/apps/positive-affirmations/) transform it into a well-being practice. [Transcribe](/apps/transcribe/) transforms it into a creative capture session. The commute does not change. Your experience of it does.
+
+## Bounded Play as a Commute Reset
+
+Not every commute needs to be optimised for productivity. After a draining workday, the apps above can feel like another set of obligations rather than a reprieve. A short, bounded game — one with a definite end, no rewarded video ads, no notifications begging you back — works as a genuine commute reset in a way that infinite-scroll feeds do not.
+
+[Retrofoot](/apps/retrofoot/) is a top-down arcade football game built around three-minute halves and one-handed thumb controls — designed precisely for the seven minutes between subway stops or the bus-stop wait. One match, one result, then the screen goes back in your pocket. Our deep dive on [playing football games one-handed on the commute](/blog/entertainment/playing-football-games-one-handed-iphone-commuter/) covers the ergonomics of mobile gaming during transit, and [why 16-bit pixel art still wins in football games](/blog/entertainment/why-16-bit-pixel-art-still-wins-football-games/) explains why short, sharp arcade design beats long-session simulation games for fragmented commute time.

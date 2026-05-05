@@ -7,7 +7,7 @@ categories: [education]
 tags: [reflexes, reaction-time, brain-training, cognitive]
 silo: education-learning
 pillar: education-learning
-related_apps: [numzap, calcular]
+related_apps: [numzap, calcular, retrofoot]
 ---
 
 The average human visual reaction time — the delay between seeing a stimulus and initiating a physical response — is approximately 250 milliseconds. That quarter-second encompasses a remarkable chain of neural events: photons hit the retina, photoreceptor cells convert light into electrical signals, those signals travel via the optic nerve to the visual cortex for processing, the prefrontal cortex makes a decision, motor commands travel down the spinal cord to the appropriate muscles, and the muscles contract. All of that happens in about the time it takes to blink.

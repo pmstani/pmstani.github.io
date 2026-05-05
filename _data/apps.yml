@@ -1203,3 +1203,18 @@
   category: "education"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["CRR", "ANFR", "VHF marine", "permis bateau", "radio maritime", "DSC", "ASN", "MMSI", "détresse", "plaisance", "navigation", "examen radiotéléphoniste"]
+
+- name: "Retrofoot"
+  slug: "retrofoot"
+  id: "6766188907"
+  icon: "retrofoot.png"
+  tagline: "Top-Down Arcade Football"
+  description: "Retrofoot is a top-down arcade football game inspired by the late-80s and early-90s coin-op era — chunky 16-bit pixel art, tight twitchy controls, instant action, and zero modern bloat. Pick a country, pick a formation, and chase the trophy in a 16-team knockout, grind through a 12-club European league, or face a friend over local Wi-Fi. One single in-app purchase unlocks the full game forever."
+  features:
+    - "16-team knockout tournament and 12-club European league season"
+    - "Quick match with adjustable half length and three difficulty tiers"
+    - "Local two-device head-to-head over Wi-Fi or Bluetooth — no accounts, no online matchmaking"
+    - "Full MFi, PlayStation, and Xbox controller support; slow-motion goal replays; authentic football rules"
+  category: "entertainment"
+  platforms: ["iOS", "iPadOS"]
+  keywords: ["arcade football", "retro football", "pixel football", "16-bit soccer", "tournament", "league", "local multiplayer", "top-down", "controller support", "iPhone game", "iPad game"]
