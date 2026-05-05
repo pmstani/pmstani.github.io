@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mental-health, wellness, iphone, best-of, 2026]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export, symptom-log]
+related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export, symptom-log, retrofoot]
 ---
 
 # Best Mental Health and Wellness Apps for iPhone in 2026
@@ -212,6 +212,7 @@ The most effective approach to digital wellness is not picking one app but build
 
 ### The Active Day
 4. **Check conditions** for outdoor activity using [Wave Surf Reports](/apps/wave-surf-kooks/) or your preferred activity planner
+5. **Take a true play break** with a short, low-pressure mobile game like [Retrofoot](/apps/retrofoot/) — research on play and adult mental health (Stuart Brown, *Play: How It Shapes the Brain*) consistently finds that brief, voluntary, intrinsically-motivated play improves mood and cognitive flexibility. A three-minute arcade football match qualifies; doom-scrolling does not
 5. **Midday check-in** with your mood tracker to catch stress patterns before they escalate
 6. **Use sound therapy** with [Tinnitus AI](/apps/tinnitus-ai/) if tinnitus is affecting your concentration
 7. **Log physical symptoms** with [SymptomLog](/apps/symptom-log/) if you manage a chronic condition -- tracking symptoms, medications, and potential triggers throughout the day builds the dataset that reveals patterns over time

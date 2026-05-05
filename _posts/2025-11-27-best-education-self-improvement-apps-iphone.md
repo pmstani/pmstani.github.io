@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [education, self-improvement, learning, iphone, best-of]
 silo: education-learning
 pillar: education-learning
-related_apps: [karate, fight-iq, calcular, mythos, flash-card-boat, survivalist, bible-tab, quran-tab]
+related_apps: [karate, fight-iq, calcular, mythos, flash-card-boat, survivalist, bible-tab, quran-tab, retrofoot]
 ---
 
 A 2023 Pew Research study found that 58% of Americans believe their smartphone has been "mostly good" for learning new skills, yet the average person spends fewer than 12 minutes per day on educational apps versus nearly four hours on social media. The gap between intention and action is staggering — and it has almost nothing to do with willpower. The real bottleneck is structure. Most people open a learning app once, poke around for a few minutes, and never return because they lack a framework for what to practice, when to practice, and how to measure progress.

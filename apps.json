@@ -486,5 +486,11 @@
     "app_name": "CRR Maritime",
     "app_description": "Examen VHF & Permis Bateau",
     "image_url": "https://pmstani.github.io/img/apps/crr.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6766188907",
+    "app_name": "Retrofoot",
+    "app_description": "Top-Down Arcade Football",
+    "image_url": "https://pmstani.github.io/img/apps/retrofoot.png"
   }
 ]

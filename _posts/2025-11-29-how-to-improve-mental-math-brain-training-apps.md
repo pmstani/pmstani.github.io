@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [mental-math, brain-training, arithmetic, education]
 silo: education-learning
 pillar: education-learning
-related_apps: [calcular, crr]
+related_apps: [calcular, crr, retrofoot]
 ---
 
 In 2004, a Japanese researcher named Ryuta Kawashima published *Train Your Brain: 60 Days to a Better Brain*, which introduced millions of people to a simple claim: regular mental arithmetic practice keeps the brain young. The book sold over 3 million copies in Japan alone and spawned a Nintendo DS game that became one of the best-selling titles of all time. Kawashima's research, conducted at Tohoku University, used functional MRI scans to demonstrate that mental calculation activates the prefrontal cortex more broadly and intensely than almost any other cognitive activity — including reading, memory tasks, and logic puzzles.

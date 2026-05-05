@@ -7,7 +7,7 @@ categories: [education]
 tags: [martial-arts, cross-training, karate, mma, boxing, fitness]
 silo: education-learning
 pillar: education-learning
-related_apps: [karate, fight-iq]
+related_apps: [karate, fight-iq, retrofoot]
 ---
 
 ## The Case for Training More Than One Martial Art
