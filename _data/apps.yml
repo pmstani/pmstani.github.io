@@ -1188,3 +1188,18 @@
   category: "productivity"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["calendar export", "CSV export", "Excel export", "timesheet", "spreadsheet", "meeting log", "billing", "data export", "template", "schedule"]
+
+- name: "CRR Maritime"
+  slug: "crr"
+  id: "6766025734"
+  icon: "crr.png"
+  tagline: "Examen VHF & Permis Bateau"
+  description: "CRR Maritime transforms the official 2025 ANFR manual into a complete, interactive prep tool for the French Certificat Restreint de Radiotéléphoniste exam. Lessons, smart flashcards with spaced repetition, themed quizzes, and a 24-question timed mock exam matching the official 6/8/10 format — fully offline, no ads, no account."
+  features:
+    - "Structured lessons from the official ANFR 2025 manual (chapters 1-3)"
+    - "Smart flashcards with Leitner-style spaced repetition"
+    - "24-question timed mock exam with official 6/8/10 category split"
+    - "Theme quizzes, progress tracking, and weak-spot detection — 100% offline"
+  category: "education"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["CRR", "ANFR", "VHF marine", "permis bateau", "radio maritime", "DSC", "ASN", "MMSI", "détresse", "plaisance", "navigation", "examen radiotéléphoniste"]

@@ -480,5 +480,11 @@
     "app_name": "CalXPort",
     "app_description": "Event & Reminder to Excel",
     "image_url": "https://pmstani.github.io/img/apps/calxport.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6766025734",
+    "app_name": "CRR Maritime",
+    "app_description": "Examen VHF & Permis Bateau",
+    "image_url": "https://pmstani.github.io/img/apps/crr.png"
   }
 ]

@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [boating-license, flashcards, exam-prep, maritime]
 silo: education-learning
 pillar: education-learning
-related_apps: [flash-card-boat]
+related_apps: [flash-card-boat, crr]
 ---
 
 The U.S. Coast Guard's 2023 Recreational Boating Statistics report documented 4,040 boating accidents resulting in 636 deaths and 2,222 injuries in a single year. The most common contributing factor, cited in 77% of fatal accidents, was operator inexperience or lack of formal boating education. In response, 36 states now require some form of boating safety education before operating a vessel, and that number has been increasing steadily since the National Association of State Boating Law Administrators began advocating for universal education requirements in 2011.
@@ -160,3 +160,11 @@ Passing the boating license exam is a regulatory requirement, but it represents 
 The study techniques that work for the boating license exam — active recall, spaced repetition, and interleaved practice — are universally applicable to any knowledge-intensive exam. Whether you are studying for a professional certification, a school exam, or a technical qualification, the cognitive science is the same: test yourself, space your reviews, and mix your practice.
 
 For more on building effective learning habits, explore our [roundup of the best education and self-improvement apps](/blog/education-learning/best-education-self-improvement-apps-iphone/). The same principles of consistent, structured practice apply to [mental math training](/blog/education-learning/how-to-improve-mental-math-brain-training-apps/) and even physical skill development in [martial arts](/blog/education-learning/how-to-train-martial-arts-home-karate-mma-boxing/). Maritime safety knowledge also dovetails naturally with general [emergency preparedness and survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) — many of the same principles around safety equipment, signaling, and emergency protocols apply on land and at sea.
+
+## Specialized Maritime Radio Certification
+
+The boating license exam covers the rules of operating a vessel, but in most countries — and aboard any boat equipped with a marine VHF radio — there is a separate, mandatory certification for the radio itself. In France this is the **Certificat Restreint de Radiotéléphoniste (CRR)**, issued by the *Agence Nationale des Fréquences (ANFR)*. The CRR is recognised across CEPT countries (CEPT T/R 31-04) and is required for VHF use on any cruise outside French waters.
+
+The CRR exam is shorter than a boating exam (24 multiple-choice questions, 6/8/10 split across "généralités," "exploitation," and "réglementation," 22 seconds per question) but the material is dense: marine VHF channel plans, DSC/ASN distress procedures, MAYDAY/PAN-PAN/SÉCURITÉ phraseology, MMSI structure, and the CROSS coastal radio network. It is a textbook case where flashcards and spaced repetition outperform passive re-reading.
+
+[CRR Maritime](/apps/crr/) applies the same evidence-based study methods covered in this article to the official 2025 ANFR study manual. Structured lessons cover chapters 1 to 3 in full, Leitner-style flashcards target weak spots, themed quizzes reinforce specific chapters, and a 24-question timed mock exam reproduces the real test exactly. For French sailors, the natural sequence is permis bateau first, then CRR — our guide on [permis bateau and CRR: which to take first](/blog/education/permis-bateau-crr-quel-ordre-choisir/) walks through the order, costs, and licence requirements. For cruisers heading abroad, [why the CRR is mandatory for international sailing](/blog/education/naviguer-etranger-pourquoi-crr-obligatoire/) explains the ITU Radio Regulations Article 47 framework that makes the certification a hard requirement outside French waters.

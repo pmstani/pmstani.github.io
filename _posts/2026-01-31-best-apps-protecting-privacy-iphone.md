@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [privacy, security, iphone, data-protection, 2026]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [panicvault, local-weather-yawa, clean-genie, rss-reader]
+related_apps: [panicvault, local-weather-yawa, clean-genie, rss-reader, crr]
 ---
 
 ## Your iPhone Knows More About You Than You Think
