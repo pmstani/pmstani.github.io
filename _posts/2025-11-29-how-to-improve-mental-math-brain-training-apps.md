@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [mental-math, brain-training, arithmetic, education]
 silo: education-learning
 pillar: education-learning
-related_apps: [calcular]
+related_apps: [calcular, crr]
 ---
 
 In 2004, a Japanese researcher named Ryuta Kawashima published *Train Your Brain: 60 Days to a Better Brain*, which introduced millions of people to a simple claim: regular mental arithmetic practice keeps the brain young. The book sold over 3 million copies in Japan alone and spawned a Nintendo DS game that became one of the best-selling titles of all time. Kawashima's research, conducted at Tohoku University, used functional MRI scans to demonstrate that mental calculation activates the prefrontal cortex more broadly and intensely than almost any other cognitive activity — including reading, memory tasks, and logic puzzles.
@@ -177,3 +177,5 @@ Research from the University of British Columbia found that regular aerobic exer
 This has practical applications for structuring your self-improvement routine. Training martial arts before a mental math session is not just time management — it is cognitive optimization. Read our guide on [how to train martial arts at home](/blog/education-learning/how-to-train-martial-arts-home-karate-mma-boxing/) for structured physical training approaches, and see our article on [discovering your archetype through personality and mythology](/blog/education-learning/discover-archetype-personality-tests-mythology/) for another angle on cognitive self-improvement.
 
 For a comprehensive view of educational and self-improvement tools across all categories, see our [roundup of the best education and self-improvement apps for iPhone](/blog/education-learning/best-education-self-improvement-apps-iphone/). And if you are preparing for a specific exam and want to apply spaced repetition principles to study material, our guide on [preparing for the boating license exam with flashcards](/blog/education-learning/how-to-prepare-boating-license-exam-flashcards/) demonstrates how the same learning science behind mental math training applies to knowledge-based exam preparation.
+
+The same evidence base extends to professional certifications heavy on factual recall. The French *Certificat Restreint de Radiotéléphoniste* (CRR) — the certification required to operate a marine VHF radio — is a textbook example: VHF channel plans, MMSI structure, distress phraseology, and ITU regulations are exactly the kind of dense, rule-based material where spaced repetition beats passive re-reading. Our deep dive on [spaced repetition (Leitner method) for the CRR](/blog/education/repetition-espacee-leitner-reviser-crr/) walks through how the Ebbinghaus forgetting curve maps to certification study, and [CRR Maritime](/apps/crr/) implements the same Leitner system covered in this article on the official ANFR study material.

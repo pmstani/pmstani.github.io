@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [teachers, education, classroom, e-learning, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web2screen, image-downloader, save-as-pdf, make-it-dark-mode, read-easier]
+related_apps: [web2screen, image-downloader, save-as-pdf, make-it-dark-mode, read-easier, crr]
 ---
 
 A 2024 survey by the National Center for Education Statistics found that 94% of teachers use digital resources in lesson planning, and 73% create their own supplementary materials rather than relying exclusively on textbook publishers. The typical teacher spends 7 hours per week preparing materials outside of class time, according to the OECD's Teaching and Learning International Survey — and a growing proportion of that preparation happens in a web browser, pulling content from educational websites, news sources, academic databases, and multimedia platforms.

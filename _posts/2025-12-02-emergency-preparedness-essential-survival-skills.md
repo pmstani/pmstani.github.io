@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [survival, emergency, preparedness, wilderness]
 silo: education-learning
 pillar: education-learning
-related_apps: [survivalist, vetkit]
+related_apps: [survivalist, vetkit, crr]
 ---
 
 On February 13, 2021, an unprecedented winter storm hit Texas. Temperatures dropped to single digits in a state where most homes have minimal insulation and are heated by electricity rather than gas. The power grid collapsed. Within 48 hours, 4.5 million households had lost power. Pipes froze and burst. Grocery stores emptied. Water treatment plants shut down, leaving 14.6 million people under boil-water advisories. By the time the crisis ended, at least 246 people had died — not from the cold itself, but from carbon monoxide poisoning (running cars in closed garages for warmth), house fires (using open flames indoors for heat), hypothermia (not knowing how to insulate a room without power), and waterborne illness (not knowing how to purify water).
@@ -172,6 +172,12 @@ Reading about survival skills is a necessary first step, but it creates a danger
 [Survivalist](/apps/survivalist/) provides a comprehensive reference for all of these topics, with detailed instructions and checklists organized by skill category and scenario type. Having the information on your phone means it is accessible when you need it, but the real value comes from studying the material before an emergency occurs.
 
 {% include blog-cta.html app_slug="survivalist" %}
+
+### Emergency Communication Skills
+
+One survival skill that is routinely under-taught in general preparedness is two-way radio communication. When cell networks fail — during hurricanes, earthquakes, wildfires, or large-scale grid outages — VHF and HF radios remain operational, often providing the only link to rescue services and weather authorities. Marine VHF in particular has a structured emergency framework recognised internationally: distress calls (MAYDAY), urgency calls (PAN-PAN), and safety broadcasts (SÉCURITÉ), each with strict phraseology and a dedicated watch on channel 16.
+
+For households on the coast, boaters, or cruisers, learning the radio framework is part of emergency preparedness. In France, operating a marine VHF legally requires the *Certificat Restreint de Radiotéléphoniste* (CRR), issued by the ANFR. Our guide on [VHF distress procedures: MAYDAY, PAN-PAN and SÉCURITÉ explained](/blog/education/procedures-detresse-vhf-mayday-pan-pan-securite/) covers the exact wording and message structure rescuers expect. For exam preparation, [CRR Maritime](/apps/crr/) provides offline lessons, flashcards, and a 24-question timed mock exam matching the official format.
 
 ## Preparedness as an Ongoing Practice
 

@@ -7,7 +7,7 @@ categories: [education]
 tags: [emergency, preparedness, go-bag, survival, checklist]
 silo: education-learning
 pillar: education-learning
-related_apps: [survivalist]
+related_apps: [survivalist, crr]
 ---
 
 In September 2024, Hurricane Helene struck western North Carolina — a region that had not experienced a major hurricane in modern memory. Residents in Asheville, Chimney Rock, and surrounding communities had less than 12 hours between the final evacuation orders and catastrophic flooding that destroyed roads, bridges, and entire neighborhoods. Those who evacuated quickly grabbed what they could carry. Those who had a pre-packed emergency go-bag left with everything they needed for 72 hours of self-sufficiency. Those who did not spent the following days in shelters without medications, identification, phone chargers, or a change of clothes.
@@ -130,6 +130,7 @@ Store encrypted copies of all documents on a USB flash drive in your go-bag. [Su
 - **Portable battery/power bank:** A 20,000 mAh battery pack charges a phone 4-5 times. Include charging cables for every device in your household.
 - **Solar charger:** A foldable solar panel (Anker or similar, 15-20 watts) provides renewable charging capability when grid power is unavailable for extended periods.
 - **AM/FM/NOAA weather radio:** A hand-crank emergency radio provides weather alerts and emergency broadcasts when cell networks are down. The Eton or Midland models include a flashlight and USB charger.
+- **Marine VHF handheld (for coastal households and boaters):** A waterproof handheld VHF with DSC distress button is the gold standard for two-way emergency communication on the water and within VHF range of coastal monitoring stations. In France this falls under the *Certificat Restreint de Radiotéléphoniste* (CRR) framework — operating one legally requires the certification. For sailors, this is non-negotiable; for coastal residents, it is a serious upgrade over receive-only weather radios. Our guide on [how to choose between fixed and handheld VHF](/blog/education/vhf-fixe-vs-portable-plaisance-comment-choisir/) covers the trade-offs, and [CRR Maritime](/apps/crr/) is the offline app most candidates use to prepare for the certification exam.
 
 ## Category 7: Hygiene and Sanitation
 

@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [surfing, waves, forecast, ocean, outdoor]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [wave-surf-kooks]
+related_apps: [wave-surf-kooks, crr]
 ---
 
 # Best Surf Forecast and Wave Report Apps for Surfers
