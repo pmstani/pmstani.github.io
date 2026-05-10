@@ -31,6 +31,35 @@ layout: null
     <div class="hero-orb hero-orb--2"></div>
     <div class="hero-orb hero-orb--3"></div>
 
+    <div class="hero-constellation" aria-hidden="true">
+      {%- for app in site.data.apps -%}
+        {%- if app.slug and app.icon -%}
+          {%- assign seed1 = app.slug | size | times: 47 | plus: forloop.index | times: 13 -%}
+          {%- assign seed2 = app.slug | size | times: 31 | plus: forloop.index | times: 19 -%}
+          {%- assign x = seed1 | modulo: 90 | plus: 5 -%}
+          {%- assign y = seed2 | modulo: 80 | plus: 10 -%}
+          {%- assign layer_idx = forloop.index0 | modulo: 3 -%}
+          {%- case layer_idx -%}
+            {%- when 0 -%}{%- assign layer = 'back' -%}
+            {%- when 1 -%}{%- assign layer = 'mid' -%}
+            {%- when 2 -%}{%- assign layer = 'front' -%}
+          {%- endcase -%}
+          <a class="hero-icon hero-icon--{{ layer }}"
+             href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}"
+             tabindex="-1"
+             data-name="{{ app.name | escape }}"
+             style="--x:{{ x }}%; --y:{{ y }}%;">
+            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}"
+                 alt=""
+                 loading="{% if layer == 'front' %}eager{% else %}lazy{% endif %}"
+                 width="80" height="80">
+            <span class="hero-icon-tooltip">{{ app.name }}</span>
+          </a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+    <script defer src="{{ '/assets/js/hero-constellation.js' | relative_url }}"></script>
+
     <div class="hero-content">
       <h1 class="hero-title">
         Crafting apps that<br>
