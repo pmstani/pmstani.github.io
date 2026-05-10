@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [students, college, study, research, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [extension-ai, sticky-notes, save-as-pdf, translator-safari-extension, allow-copy, snapmark]
+related_apps: [extension-ai, sticky-notes, save-as-pdf, translator-safari-extension, allow-copy, snapmark, xlprinter]
 ---
 
 Between attending lectures, writing papers, studying for exams, and managing a social life, the average college student spends 5.4 hours per day on a computer or tablet, according to EDUCAUSE's 2024 Study of Undergraduate Students and Technology. A significant chunk of that time happens inside a web browser — reading journal articles, watching lecture recordings, researching for assignments, and navigating learning management systems like Canvas and Blackboard.

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [paperless, office, documents, pdf, scanning]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, tidy-downloads, vetkit]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, tidy-downloads, vetkit, xlprinter]
 ---
 
 The average American office worker uses 10,000 sheets of paper per year, according to a widely cited estimate from The Paperless Project. At roughly five cents per sheet — factoring in paper cost, printing, ink, and filing — that is $500 per person annually on a medium that becomes instantly unsearchable, takes up physical space, and degrades over time. For a 10-person office, paper costs can quietly exceed $5,000 per year before accounting for filing cabinets, storage rent, shredding services, and the hours spent looking for misfiled documents.
@@ -215,6 +215,10 @@ Some documents should be retained as physical originals regardless of your digit
 - Documents with raised seals or embossed notarizations.
 
 Keep these in a fireproof safe or safe deposit box. Scan them for your digital archive, but retain the originals.
+
+### Occasional Large-Format Output
+
+A paperless office reduces day-to-day printing to almost nothing, but a handful of jobs still require physical output at sizes a regular printer cannot handle in a single sheet — a project floor plan reviewed at 1:50, a wall-mounted reference chart for a workshop, a marketing one-sheet that needs to be A2 for a trade show. Rather than driving the file to a print shop, you can split the PDF across multiple Letter or A4 pages on your home printer and tape the result together. [XLPrinter](/apps/xlprinter/) handles this on Mac, compensating for non-printable margins so the seams line up cleanly; the [step-by-step guide on tiling PDF pages on Mac](/blog/utilities/how-to-tile-pdf-poster-pages-mac/) walks through the workflow end to end.
 
 ### Receipts and Expense Tracking
 

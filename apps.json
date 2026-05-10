@@ -492,5 +492,11 @@
     "app_name": "Retrofoot",
     "app_description": "Top-Down Arcade Football",
     "image_url": "https://pmstani.github.io/img/apps/retrofoot.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6767832316",
+    "app_name": "XLPrinter",
+    "app_description": "Print Posters & Blueprints, Tiled",
+    "image_url": "https://pmstani.github.io/img/apps/xlprinter.png"
   }
 ]

@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [parents, families, kids, safety, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [food-scanner, make-it-dark-mode, read-easier, motivation-quotes, retrofoot]
+related_apps: [food-scanner, make-it-dark-mode, read-easier, motivation-quotes, retrofoot, xlprinter]
 ---
 
 Parenting in the digital age means managing something no previous generation had to deal with: children who have access to essentially all human knowledge and all human commerce through a device in their pocket. According to Common Sense Media's 2024 report, children aged 8-12 spend an average of 5 hours and 33 minutes per day on screens, while teens average 8 hours and 39 minutes — numbers that have increased every year since tracking began. For parents, the question is not whether screens will be part of family life, but how to make screen time healthier, more intentional, and more aligned with family values.

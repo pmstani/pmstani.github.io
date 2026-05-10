@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [screenshots, full-page, safari, capture]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web2screen]
+related_apps: [web2screen, xlprinter]
 ---
 
 ## Why Standard Screenshots Only Capture a Fragment
@@ -132,6 +132,8 @@ If you are using the iOS built-in method and sticky elements are a problem, try 
 Pages exceeding 20,000 pixels in height push the limits of image file sizes and rendering memory. A PNG screenshot of a page that is 1440 pixels wide and 25,000 pixels tall produces a file of approximately 15-25 MB depending on content complexity. JPEG at 85% quality reduces this to 3-5 MB with acceptable visual fidelity for most purposes.
 
 Most screenshot extensions default to PNG for pixel-perfect accuracy but offer JPEG as an option when file size matters. If you are capturing extremely long pages (legal documents, API documentation, lengthy product comparison tables), JPEG is the pragmatic choice.
+
+If you eventually need a paper copy of one of these tall captures — for an annotated team review, a printed audit trail, or a wall-mounted reference — note that no consumer printer will fit a 25,000-pixel image on a single sheet. On Mac, [XLPrinter](/apps/xlprinter/) splits an oversized image or PDF across multiple Letter or A4 pages with proper margin handling so the printed sheets line up cleanly when you tape them together; see the [guide on enlarging an image to print across multiple pages](/blog/utilities/how-to-enlarge-photo-print-multiple-pages/) for the full workflow.
 
 ## Organizing Your Full Page Screenshots
 

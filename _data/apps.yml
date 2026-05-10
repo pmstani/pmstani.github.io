@@ -1218,3 +1218,18 @@
   category: "entertainment"
   platforms: ["iOS", "iPadOS"]
   keywords: ["arcade football", "retro football", "pixel football", "16-bit soccer", "tournament", "league", "local multiplayer", "top-down", "controller support", "iPhone game", "iPad game"]
+
+- name: "XLPrinter"
+  slug: "xlprinter"
+  id: "6767832316"
+  icon: "xlprinter.png"
+  tagline: "Print Posters & Blueprints, Tiled"
+  description: "XLPrinter splits oversized images and PDFs into perfectly aligned tiles you can print on Letter, A4, A3, Legal, Tabloid, or any custom paper size. Margin compensation is on by default, output size can be specified in pages or real inches/millimetres, and PDF input renders as vector at print resolution. Native Mac app — no account, no subscription, no telemetry, files never leave your Mac."
+  features:
+    - "Margin compensation on by default — non-printable strips shown in live preview, layout adjusts so nothing is lost when you trim and assemble"
+    - "Output size in pages, inches, millimetres, or fit modes (fit-to-width, fit-to-height, 100%)"
+    - "First-class PDF input — multi-page PDFs render as vector at print resolution for crisp blueprints and infographics at any scale"
+    - "Correct row-major page order for direct printing and Print-to-PDF; optional registration marks and overlap; export tiled layout as multi-page PDF"
+  category: "utilities"
+  platforms: ["macOS"]
+  keywords: ["poster printer", "blueprint printer", "tile printing", "print large image", "PDF tiling", "multi-page poster", "Mac printing", "poster maker", "print blueprint", "rasterbator alternative"]

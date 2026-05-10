@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [teachers, education, classroom, e-learning, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web2screen, image-downloader, save-as-pdf, make-it-dark-mode, read-easier, crr]
+related_apps: [web2screen, image-downloader, save-as-pdf, make-it-dark-mode, read-easier, crr, xlprinter]
 ---
 
 A 2024 survey by the National Center for Education Statistics found that 94% of teachers use digital resources in lesson planning, and 73% create their own supplementary materials rather than relying exclusively on textbook publishers. The typical teacher spends 7 hours per week preparing materials outside of class time, according to the OECD's Teaching and Learning International Survey — and a growing proportion of that preparation happens in a web browser, pulling content from educational websites, news sources, academic databases, and multimedia platforms.
@@ -50,7 +50,7 @@ Building engaging presentations, worksheets, and classroom displays requires ima
 
 **Creating vocabulary flashcards.** For language teachers, visual association dramatically improves vocabulary retention. Research published in the *Journal of Educational Psychology* found that words paired with relevant images were recalled 43% more accurately than words presented with text-only definitions. Batch downloading images from image search results or visual dictionary sites streamlines flashcard creation.
 
-**Classroom displays.** Science labs need safety poster images. History classrooms need timeline visuals. Art rooms need reference examples. Bulk downloading from curated image sources is vastly faster than searching for and saving images individually.
+**Classroom displays.** Science labs need safety poster images. History classrooms need timeline visuals. Art rooms need reference examples. Bulk downloading from curated image sources is vastly faster than searching for and saving images individually. When the resulting image needs to be readable from the back of the room — an alphabet wall, a periodic table, a labeled diagram of the water cycle — a single Letter or A4 page is rarely large enough; on Mac, [XLPrinter](/apps/xlprinter/) splits the image across multiple sheets so you can assemble a poster-sized version with a regular school printer (the [classroom-charts walkthrough](/blog/utilities/how-to-print-classroom-charts-alphabet-periodic-table/) covers the full process).
 
 **Printed worksheets.** When creating matching exercises, diagram labeling activities, or visual comprehension tasks, teachers need clean images extracted from web pages. Image Downloader preserves the original resolution, which matters for print quality.
 

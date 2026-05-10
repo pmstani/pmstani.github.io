@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [accessibility, dyslexia, low-vision, reading]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [dyslexia, presbyopia, read-easier]
+related_apps: [dyslexia, presbyopia, read-easier, xlprinter]
 ---
 
 ## 96% of Web Pages Fail Basic Accessibility Standards
