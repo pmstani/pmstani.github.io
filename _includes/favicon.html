@@ -1,6 +1,80 @@
 <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+<link id="favicon-32" rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+<link id="favicon-16" rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
 <link rel="manifest" href="img/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+<script>
+  window.__appIcons = [
+    {% for app in site.data.apps %}"{{ '/img/apps/' | append: app.icon | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+  ];
+</script>
+<script>
+(function () {
+  try {
+    var icons = (window.__appIcons || []).slice();
+    if (!icons.length || !document.createElement('canvas').getContext) return;
+    for (var i = icons.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = icons[i]; icons[i] = icons[j]; icons[j] = t;
+    }
+    var link32 = document.getElementById('favicon-32');
+    var link16 = document.getElementById('favicon-16');
+    if (!link32 || !link16) return;
+    var cache = {};
+    function render(src) {
+      if (cache[src]) return Promise.resolve(cache[src]);
+      return new Promise(function (resolve, reject) {
+        var img = new Image();
+        img.crossOrigin = 'anonymous';
+        img.onload = function () {
+          function draw(size, radius) {
+            var c = document.createElement('canvas');
+            c.width = size; c.height = size;
+            var ctx = c.getContext('2d');
+            ctx.beginPath();
+            ctx.moveTo(radius, 0);
+            ctx.lineTo(size - radius, 0);
+            ctx.quadraticCurveTo(size, 0, size, radius);
+            ctx.lineTo(size, size - radius);
+            ctx.quadraticCurveTo(size, size, size - radius, size);
+            ctx.lineTo(radius, size);
+            ctx.quadraticCurveTo(0, size, 0, size - radius);
+            ctx.lineTo(0, radius);
+            ctx.quadraticCurveTo(0, 0, radius, 0);
+            ctx.closePath();
+            ctx.clip();
+            ctx.drawImage(img, 0, 0, size, size);
+            return c.toDataURL('image/png');
+          }
+          cache[src] = { url32: draw(32, 6), url16: draw(16, 3) };
+          resolve(cache[src]);
+        };
+        img.onerror = reject;
+        img.src = src;
+      });
+    }
+    var idx = 0;
+    function apply(i) {
+      return render(icons[i % icons.length]).then(function (urls) {
+        link32.href = urls.url32;
+        link16.href = urls.url16;
+        render(icons[(i + 1) % icons.length]);
+      });
+    }
+    var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    apply(idx);
+    if (reduced) return;
+    var timer = null;
+    function start() {
+      if (timer) return;
+      timer = setInterval(function () { idx = (idx + 1) % icons.length; apply(idx); }, 2500);
+    }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+    document.addEventListener('visibilitychange', function () {
+      if (document.hidden) stop(); else start();
+    });
+    if (!document.hidden) start();
+  } catch (e) {}
+})();
+</script>
