@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [photo-to-pdf, image-converter, documents, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf]
+related_apps: [photo-to-pdf, xlprinter]
 ---
 
 The Portable Document Format was invented by Adobe co-founder John Warnock in 1993 to solve a specific problem: documents looked different on every computer, printer, and operating system. A report formatted perfectly on a Mac would arrive mangled on a Windows PC. A printed page would not match the screen preview. PDF fixed all of that by encoding the exact visual layout — fonts, images, spacing, colors — into a self-contained file that renders identically everywhere.

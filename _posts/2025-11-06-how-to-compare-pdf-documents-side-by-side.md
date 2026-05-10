@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, document-comparison, review, tools]
 silo: productivity
 pillar: productivity
-related_apps: [pdiff]
+related_apps: [pdiff, xlprinter]
 ---
 
 In 2017, a routine contract review at a mid-size law firm missed a single changed clause buried on page 47 of a 60-page agreement. The clause altered the liability cap from $5 million to $500,000 — a difference that would not surface until the contract was already executed and a dispute arose. The associate who reviewed the document had spent three hours reading both versions side by side. They still missed it.

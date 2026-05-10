@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [web-design, css, front-end, design-tools, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [color-palette, web-inspector, built-with, format-json, web2screen, auto-refresh]
+related_apps: [color-palette, web-inspector, built-with, format-json, web2screen, auto-refresh, xlprinter]
 ---
 
 Web designers spend their working lives in browsers. Not just visiting websites — examining them, dissecting their layouts, measuring their spacing, extracting their colors, inspecting their typography, evaluating their responsive behavior, and studying the decisions that make some sites feel polished while others feel amateur. A 2024 survey by the UX Collective found that 71% of web designers spend more than 5 hours daily in a browser for design-related work, and 34% described their browser as their most important design tool — ranking it above Figma, Sketch, and Adobe XD.

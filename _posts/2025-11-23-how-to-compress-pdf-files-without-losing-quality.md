@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [pdf, compression, file-size, documents]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [pdf-compressor, vetkit]
+related_apps: [pdf-compressor, vetkit, xlprinter]
 ---
 
 A single scanned page at 300 DPI weighs roughly 3 to 8 MB depending on the content. A 20-page scanned contract hits 60 to 160 MB. A photo-heavy annual report can exceed 200 MB. Meanwhile, Gmail caps attachments at 25 MB, Outlook at 20 MB, and most web upload forms top out at 10 to 50 MB. The math does not work — and that mismatch between how documents are created and how they need to be shared is why PDF compression is one of the most commonly searched-for technical tasks on the internet.
@@ -139,7 +139,7 @@ Applying compression twice does not meaningfully reduce file size further and ca
 
 ### Using Maximum Compression for Print Documents
 
-If a document needs to be printed at high quality — architectural drawings, medical imaging, photography portfolios — maximum compression will produce visible artifacts. Use light compression or skip compression entirely for print-critical materials.
+If a document needs to be printed at high quality — architectural drawings, medical imaging, photography portfolios — maximum compression will produce visible artifacts. Use light compression or skip compression entirely for print-critical materials. The same caution applies if you intend to enlarge a PDF across multiple sheets and assemble the result as a single oversized print: compression artifacts that are invisible on a single Letter page become very visible once a single tile is the size of a magazine spread. For that workflow, see our guide on [how to tile a PDF poster across multiple pages on Mac](/blog/utilities/how-to-tile-pdf-poster-pages-mac/).
 
 ### Forgetting to Check the Result
 
