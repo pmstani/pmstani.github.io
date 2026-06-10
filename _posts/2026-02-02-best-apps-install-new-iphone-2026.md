@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [new-iphone, setup, essential-apps, iphone, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, the-done-list, positive-affirmations, local-weather-yawa, health-export, clean-genie, panicvault, symptom-log]
+related_apps: [my-agenda-planning, the-done-list, positive-affirmations, local-weather-yawa, health-export, clean-genie, panicvault, symptom-log, biggerkeys]
 ---
 
 ## Your iPhone Setup Shapes Your Daily Habits
@@ -89,6 +89,12 @@ A new iPhone is an opportunity to establish proper handling of sensitive informa
 [PanicVault](/apps/panicvault/) provides encrypted storage for sensitive data with access controls separate from your iPhone passcode. Store passwords, financial information, recovery codes, document scans, and private notes in an encrypted vault that protects against unauthorized access even on an unlocked device.
 
 Read the password management guide: [how to manage passwords with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/).
+
+## Typing That Works for Your Hands
+
+Setting up a new iPhone is also the right moment to fix friction that you would otherwise just tolerate. If the stock keyboard is a daily source of typos and frustration -- because of a tremor, arthritis, aging eyes, or simply small keys -- a new phone is the natural time to install a keyboard that fits your hands instead of the other way around.
+
+[BiggerKeys](/apps/biggerkeys/) is a custom keyboard with large, adjustable keys and spacing, a high-contrast theme, and forgiving touch handling (lift-off actuation and debounce) that turns accidental double-taps into clean single letters. It runs fully offline, so your typing never leaves the device. Configure it during setup and every app you type in benefits from day one. For a broader look at typing aids and the conditions they help with, see our guide to the [best apps for hand tremors on iPhone](/blog/health-wellness/best-apps-hand-tremors-iphone/).
 
 ## The New iPhone Setup Sequence
 

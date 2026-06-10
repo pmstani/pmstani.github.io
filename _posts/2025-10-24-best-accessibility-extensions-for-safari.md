@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [accessibility, dyslexia, low-vision, reading]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [dyslexia, presbyopia, read-easier, xlprinter]
+related_apps: [dyslexia, presbyopia, read-easier, xlprinter, biggerkeys]
 ---
 
 ## 96% of Web Pages Fail Basic Accessibility Standards
@@ -152,6 +152,8 @@ Visual accessibility is one dimension of a larger challenge. Other Safari extens
 **Copy restrictions as accessibility barriers.** Websites that block text selection and copying do not just inconvenience general users. They actively harm users who need to copy text into assistive technology, such as screen readers with custom processing, text-to-speech engines, or language learning tools. [Allow Copy for Safari](/apps/allow-copy/) and [Copy on Select](/apps/copy-on-select/) override these restrictions. Read more in our [productivity extensions guide](/blog/safari-extensions/best-note-taking-and-productivity-safari-extensions/).
 
 **Content capture for offline accessibility.** Some users prefer to read downloaded content in dedicated accessible readers that offer better customization than web browsers. [Save as PDF](/apps/save-as-pdf/) and [Image Downloader](/apps/image-downloader/) enable content to be downloaded and consumed in the user's preferred environment. See our guides on [saving pages as PDFs](/blog/safari-extensions/how-to-save-any-web-page-as-a-pdf-in-safari/) and [downloading images from websites](/blog/safari-extensions/how-to-download-all-images-from-a-website-on-safari/).
+
+**Motor accessibility for typing.** Reading the web is only half the experience -- searching, filling forms, and replying require typing, and the standard on-screen keyboard is a barrier for anyone with a tremor, arthritis, or other motor-control condition. [BiggerKeys](/apps/biggerkeys/) is a system-wide custom keyboard with enlarged, adjustable keys, a high-contrast theme, and forgiving touch handling that makes accurate typing possible without constant corrections. It works in Safari and every other app, and it runs entirely offline. For the full picture of typing aids, see our guide to the [best apps for hand tremors on iPhone](/blog/health-wellness/best-apps-hand-tremors-iphone/).
 
 ## Built-In macOS and iOS Accessibility Features That Complement Extensions
 

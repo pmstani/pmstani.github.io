@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [autoimmune, lupus, rheumatoid-arthritis, crohns, ms, flare, remission, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, health-export, food-scanner, mental-health-happysteps, lotus, local-weather-yawa]
+related_apps: [symptom-log, health-export, food-scanner, mental-health-happysteps, lotus, local-weather-yawa, biggerkeys]
 ---
 
 More than 24 million Americans live with autoimmune diseases, according to the National Institute of Allergy and Infectious Diseases. Some estimates that include conditions still being reclassified as autoimmune put that number closer to 50 million. There are more than 80 distinct autoimmune conditions -- rheumatoid arthritis, lupus, multiple sclerosis, Crohn's disease, ulcerative colitis, psoriasis, Hashimoto's thyroiditis, type 1 diabetes, celiac disease, and dozens more -- each with its own constellation of symptoms, triggers, and treatment protocols.
@@ -70,7 +70,7 @@ The most effective tracking approach for autoimmune diseases combines speed (bec
 
 5. **Use photo documentation.** This is critically important for autoimmune conditions with visible manifestations. More on this in the photo documentation section below.
 
-The home screen widget is essential for autoimmune tracking. During a flare, navigating through multiple app screens to log a symptom is a barrier that will cause you to skip entries -- exactly when the data matters most. A single tap from the home screen to log a symptom with severity keeps the friction below the threshold where you stop tracking.
+The home screen widget is essential for autoimmune tracking. During a flare, navigating through multiple app screens to log a symptom is a barrier that will cause you to skip entries -- exactly when the data matters most. A single tap from the home screen to log a symptom with severity keeps the friction below the threshold where you stop tracking. For conditions like rheumatoid arthritis that attack the joints in the hands, even tapping and typing can become painful during a flare. Reducing that physical friction matters as much as reducing the number of taps -- a motor-friendly keyboard with larger keys can keep notes and medication entries within reach on bad days; our [guide to typing aids for hand tremors and motor conditions](/blog/health-wellness/best-apps-hand-tremors-iphone/) covers the options.
 
 {% include blog-cta.html app_slug="symptom-log" %}
 

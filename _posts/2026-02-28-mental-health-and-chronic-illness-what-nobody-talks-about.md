@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mental-health, chronic-illness, depression, anxiety, grief, coping, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, mental-health-happysteps, lotus, tiny-temple, positive-affirmations, health-export, the-done-list]
+related_apps: [symptom-log, mental-health-happysteps, lotus, tiny-temple, positive-affirmations, health-export, the-done-list, biggerkeys]
 ---
 
 ## The Diagnosis Nobody Gives You

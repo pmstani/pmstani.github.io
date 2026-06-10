@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [eye-health, screen-time, blue-light, digital-eye-strain]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [make-it-dark-mode, presbyopia, read-easier, dyslexia]
+related_apps: [make-it-dark-mode, presbyopia, read-easier, dyslexia, biggerkeys]
 ---
 
 ## A $14 Billion Industry Built on Questionable Science
@@ -145,6 +145,8 @@ The minimum recommended text size for comfortable extended reading on a smartpho
 A 2021 study in *Applied Ergonomics* found that increasing text size from 12pt to 16pt on mobile devices reduced eye strain symptoms by 32% and increased reading comprehension by 14%. The effect was consistent across age groups but most pronounced in users over 40.
 
 Tools that allow you to customize text presentation can significantly reduce eye strain. [Read Easier](/apps/read-easier/) adjusts font size, spacing, and contrast for web content, while [Presbyopia](/apps/presbyopia/) specifically addresses the near-vision challenges that become increasingly common after age 40.
+
+The same contrast-and-size logic applies to the keyboard you tap on dozens of times a day. The standard iOS keyboard uses low-contrast gray keys at a fixed small size, which is exactly the combination the research above flags as straining for older eyes. A high-contrast keyboard such as [BiggerKeys](/apps/biggerkeys/) enlarges the keys and uses a bold, high-contrast theme to reduce squinting while you type; see our guide to [high-contrast typing for low vision](/blog/health-wellness/low-vision-iphone-typing-high-contrast-keyboards/) for how to dial it in.
 
 {% include blog-cta.html app_slug="read-easier" %}
 

@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [doctor, appointment, chronic-illness, health-data, medical, advocacy, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, health-export, transcribe, my-agenda-planning, mental-health-happysteps]
+related_apps: [symptom-log, health-export, transcribe, my-agenda-planning, mental-health-happysteps, biggerkeys]
 ---
 
 The average specialist appointment lasts 15 to 20 minutes, according to research published in the *Annals of Internal Medicine*. The Agency for Healthcare Research and Quality (AHRQ) reports that people with chronic conditions see an average of four to seven different specialists. Do the math: if you see five specialists twice a year, that is roughly 100 to 200 minutes -- less than three and a half hours of total face time annually with the people responsible for managing your health.
@@ -166,7 +166,7 @@ These are systemic problems that individual preparation cannot fully solve. But 
 
 - **Use specific language, not vague descriptions.** "I've had 18 days with pain above a 6 out of 10 in the past 30 days, up from 11 days last month" cannot be dismissed as easily as "my pain has been worse." Data from SymptomLog gives you this language automatically.
 - **Request documentation.** If a doctor declines a test or referral, ask them to document the refusal and their reasoning in your medical record. This simple request often prompts reconsideration. It is also your legal right under most healthcare systems.
-- **Bring a support person.** Research in *Health Communication* shows that patients accompanied by an advocate receive more thorough explanations and are more likely to have their concerns investigated. Your support person can take notes, ask follow-up questions, and serve as a witness to what was discussed.
+- **Bring a support person.** Research in *Health Communication* shows that patients accompanied by an advocate receive more thorough explanations and are more likely to have their concerns investigated. Your support person can take notes, ask follow-up questions, and serve as a witness to what was discussed. If a tremor, arthritis, or another motor condition makes it hard to log symptoms or message your portal between visits, a caregiver can help set up assistive tools that keep you in control of your own record; our [caregiver guide to iPhone accessibility](/blog/health-wellness/caregiver-guide-setting-up-iphone-accessibility-seniors/) covers configuring larger, easier-to-tap typing alongside other supports.
 - **Name the pattern.** "I've seen three specialists over the past two years about these symptoms, and each has referred me to the next without a clear diagnosis. I need a coordinated approach." Naming the runaround breaks the cycle.
 - **Know your referral rights.** In most insurance plans, you have the right to request referrals to specialists. If your primary care provider is reluctant, ask specifically what criteria need to be met for a referral and document the conversation.
 - **Follow up in writing.** After an appointment, send a patient portal message summarizing your understanding of the plan. This creates a written record and catches misunderstandings early.
