@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [mental-health, wellness, iphone, best-of, 2026]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export, symptom-log, retrofoot]
+related_apps: [tinnitus-ai, lotus, mental-health-happysteps, positive-affirmations, tiny-temple, wave-surf-kooks, toomy, health-export, symptom-log, retrofoot, biggerkeys]
 ---
 
 # Best Mental Health and Wellness Apps for iPhone in 2026

@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [chronic-illness, symptom-tracker, medication, health-tracking, pain-diary, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, health-export, mental-health-happysteps, tinnitus-ai, lotus, food-scanner, vetkit]
+related_apps: [symptom-log, health-export, mental-health-happysteps, tinnitus-ai, lotus, food-scanner, vetkit, biggerkeys]
 ---
 
 # Best Apps for Chronic Illness and Symptom Tracking on iPhone
@@ -51,6 +51,8 @@ The second failure mode is fragmentation. Symptoms go in one app, medications in
 ### The Tool
 
 [SymptomLog](/apps/symptom-log/) solves both problems by combining symptom logging, medication tracking, and trigger identification in a single private journal with an interface designed for speed. The home screen widget enables one-tap symptom logging -- critical for those moments during a flare when every tap counts. Severity ratings, timestamps, and even photo attachments for visible symptoms (rashes, swelling, skin changes) are captured quickly and filed automatically.
+
+For the moments when you do need to type -- a free-text note about an unusual symptom, a question for your next appointment -- motor symptoms can make the standard keyboard its own barrier. Many chronic conditions (rheumatoid arthritis, lupus, MS, fibromyalgia, and the tremor that comes with several neurological diagnoses) directly affect the hands. A motor-friendly keyboard like [BiggerKeys](/apps/biggerkeys/), with large keys and forgiving touch handling, keeps that free-text option open even on a bad day, and it works fully offline so your notes stay private.
 
 What sets SymptomLog apart is its smart correlation detection. The app analyzes your logged data to reveal patterns: how often certain symptoms follow specific triggers, which medications correlate with improvement, and how external factors like sleep quality and step count relate to your symptom severity. The timeline view overlays symptoms, medications, and triggers on a single visual display, turning months of raw data into a coherent narrative.
 

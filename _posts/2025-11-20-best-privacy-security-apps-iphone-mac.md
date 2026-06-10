@@ -7,7 +7,7 @@ categories: [digital-privacy-security]
 tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa, vetkit, crr]
+related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa, vetkit, crr, biggerkeys]
 ---
 
 # Best Privacy and Security Apps for iPhone and Mac
@@ -233,6 +233,8 @@ Replace your weather app with [YAWA](/apps/local-weather-yawa/). Audit location 
 **Backups are a security measure, not just a convenience measure.** Ransomware encrypts your files and demands payment for the decryption key. If you have recent backups stored separately from your primary devices, ransomware loses its leverage. Test your backups regularly to ensure they actually work.
 
 **Physical security still matters.** The most sophisticated digital security is defeated by an unlocked phone left on a restaurant table. Use Face ID or a strong alphanumeric passcode (not a 4-digit PIN). Enable Auto-Lock at 30 seconds or 1 minute. Disable notification previews on the lock screen for sensitive apps.
+
+**Third-party keyboards can be quiet data leaks.** A custom keyboard granted "Full Access" can technically transmit everything you type -- passwords included -- off the device. Before trusting one, check whether it actually needs Full Access and whether it works entirely offline. The best accessibility and utility keyboards are built privacy-first: for example, [BiggerKeys](/apps/biggerkeys/) does all of its work on-device, with no network access and no logging, and asks for Full Access only as an option for haptics. Our explainer on [third-party keyboard privacy and what Full Access really grants](/blog/health-wellness/third-party-keyboard-privacy-full-access-explained/) is worth reading before you install any keyboard.
 
 ## The Summary Stack
 

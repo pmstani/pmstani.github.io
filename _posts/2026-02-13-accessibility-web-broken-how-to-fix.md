@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [accessibility, web, a11y, disabilities, assistive-technology]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [dyslexia, presbyopia, read-easier, make-it-dark-mode, auto-scroll, allow-copy]
+related_apps: [dyslexia, presbyopia, read-easier, make-it-dark-mode, auto-scroll, allow-copy, biggerkeys]
 ---
 
 ## 96.3% of the Web Fails Basic Accessibility Standards
@@ -184,7 +184,7 @@ These changes are universal. They are not disabilities. They are normal aging. A
 - **Increased reaction time:** Interfaces that time out, auto-advance, or require rapid interaction create barriers.
 - **Tremor:** Intentional tremor affects approximately 5% of people over 65, making precise touch interaction difficult.
 
-WCAG guideline 2.5.5 (Level AAA) recommends a minimum target size of 44x44 CSS pixels. Most website buttons and links are significantly smaller.
+WCAG guideline 2.5.5 (Level AAA) recommends a minimum target size of 44x44 CSS pixels. Most website buttons and links are significantly smaller. The same problem affects the iPhone's own on-screen keyboard, where standard keys are far smaller than 44 pixels and packed tightly together. For users with tremor or reduced fine motor precision, this turns typing into a series of accidental taps and corrections. A motor-friendly keyboard like [BiggerKeys](/apps/biggerkeys/) addresses this at the input layer, with enlarged keys, adjustable spacing, and lift-off actuation; our guide on [typing with essential tremor](/blog/health-wellness/how-to-type-with-essential-tremor-iphone/) walks through the specific settings that help.
 
 ### Cognitive Changes
 

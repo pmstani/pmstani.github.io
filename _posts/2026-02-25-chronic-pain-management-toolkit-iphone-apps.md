@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [chronic-pain, pain-management, fibromyalgia, arthritis, back-pain, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, lotus, tiny-temple, tinnitus-ai, mental-health-happysteps, health-export, positive-affirmations]
+related_apps: [symptom-log, lotus, tiny-temple, tinnitus-ai, mental-health-happysteps, health-export, positive-affirmations, biggerkeys]
 ---
 
 Chronic pain is not just a symptom. It is a condition in its own right, and its scale is difficult to overstate. The Centers for Disease Control and Prevention estimates that 50 million American adults -- roughly 20% of the adult population -- live with chronic pain. Of those, approximately 20 million have high-impact chronic pain that substantially restricts work, social activities, and self-care on most days. Globally, the International Association for the Study of Pain places chronic pain as the leading cause of disability worldwide.
@@ -50,7 +50,7 @@ Research on patient-reported outcomes has consistently shown that structured sel
 
 ## Building Your Pain Tracking System with SymptomLog
 
-The most important quality of a pain tracking system is that you will actually use it. During a severe pain flare, your cognitive function is reduced, your patience is thin, and your motor skills may be impaired. If logging pain requires typing paragraphs and navigating menus, you will not do it when it matters most -- and the data from your worst days is the most clinically important data you have.
+The most important quality of a pain tracking system is that you will actually use it. During a severe pain flare, your cognitive function is reduced, your patience is thin, and your motor skills may be impaired. If logging pain requires typing paragraphs and navigating menus, you will not do it when it matters most -- and the data from your worst days is the most clinically important data you have. For people whose pain involves the hands -- arthritis, fibromyalgia flares affecting the wrists, or pain that triggers tremor -- even a few words of free-text notes can feel impossible on the standard keyboard. A motor-friendly typing aid such as [BiggerKeys](/apps/biggerkeys/), with larger keys and forgiving touch handling, lowers that barrier; our [arthritis typing guide](/blog/health-wellness/typing-with-arthritis-iphone-keyboard-guide/) covers the settings that reduce strain on painful joints.
 
 [SymptomLog](/apps/symptom-log/) is built for this reality. The home screen widget enables one-tap symptom logging, which means capturing a pain entry takes seconds. For chronic pain management, configure the app to track:
 

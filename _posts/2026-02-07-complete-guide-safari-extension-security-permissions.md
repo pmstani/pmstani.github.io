@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [security, permissions, safari, extensions, privacy]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [make-it-dark-mode, extension-ai, web-inspector]
+related_apps: [make-it-dark-mode, extension-ai, web-inspector, biggerkeys]
 ---
 
 ## What Safari Extensions Can Actually Access on Your Device
@@ -98,6 +98,8 @@ An extension with DOM access can technically read input field values, including 
 Safari provides some protection here. Starting with Safari 17, Apple introduced Input Field Isolation, which prevents extensions from reading autofilled password values unless the extension is explicitly designated as a password manager. Credit card autofill fields receive similar protection.
 
 However, text you manually type into form fields remains accessible to extensions with page access. This is a fundamental architectural reality: if an extension can read the page DOM, it can read input fields within that DOM.
+
+The same trust question applies to custom keyboards, where it is even sharper: a third-party keyboard with "Full Access" enabled can, in principle, see every keystroke you type system-wide. The same scrutiny you apply to extension permissions belongs here too -- prefer keyboards that work fully offline and request Full Access only for non-essential extras like haptics. Our explainer on [third-party keyboard privacy and Full Access](/blog/health-wellness/third-party-keyboard-privacy-full-access-explained/) breaks down what the permission actually grants and how to evaluate a keyboard before you trust it.
 
 ### Network Requests
 
