@@ -1233,3 +1233,18 @@
   category: "utilities"
   platforms: ["macOS"]
   keywords: ["poster printer", "blueprint printer", "tile printing", "print large image", "PDF tiling", "multi-page poster", "Mac printing", "poster maker", "print blueprint", "rasterbator alternative"]
+
+- name: "BiggerKeys"
+  slug: "biggerkeys"
+  id: "6778718065"
+  icon: "biggerkeys.png"
+  tagline: "Steady keyboard for tremor"
+  description: "BiggerKeys is a custom iPhone keyboard built for hands that don't always cooperate — essential tremor, Parkinson's, arthritis, and low vision. Make the keys as large as you like, type on finger-lift instead of touch-down, and tune debounce so an accidental brush never types the wrong letter. Works in any app, collects no data, and never logs what you type."
+  features:
+    - "Adjustable key size and spacing with a live preview while you configure"
+    - "Keys trigger on finger lift, not touch-down, with tunable debounce for accidental double-taps"
+    - "Optional dwell-to-confirm mode and a press-preview magnifier that shows the touched key above your finger"
+    - "High-contrast theme and larger fonts; fully private — no network access, no tracking, nothing leaves the phone"
+  category: "health-wellness"
+  platforms: ["iOS"]
+  keywords: ["parkinson", "accessibility", "senior", "elderly", "vision", "motor", "dexterity", "shaky", "essential tremor", "arthritis", "assistive", "large keyboard", "tremor typing"]
