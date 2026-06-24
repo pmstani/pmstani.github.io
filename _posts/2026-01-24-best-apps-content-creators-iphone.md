@@ -7,14 +7,14 @@ categories: [productivity]
 tags: [content-creation, youtube, creators, video, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport]
+related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport, mitre]
 ---
 
 ## The Creator Economy Runs on Smartphones
 
 Goldman Sachs estimated the creator economy at $250 billion in 2025, projected to reach $480 billion by 2027. More notable than the headline number is the shift in where content gets produced. A 2025 Adobe Creator Survey found that 68% of creators use a smartphone as their primary production device, up from 41% in 2021. The iPhone, specifically, accounts for the majority of mobile-first content creation, thanks to its camera quality, app ecosystem, and tight integration between shooting, editing, and publishing.
 
-But a capable camera is just the starting point. The difference between a creator who posts consistently and one who burns out after three months often comes down to the production workflow between capture and publish. Scripting, recording, repurposing, branding, and distribution involve a chain of tasks that get tedious fast without the right tools. The apps in this guide address the specific bottlenecks that slow creators down, from teleprompting to transcription to visual branding.
+But a capable camera is just the starting point. The difference between a creator who posts consistently and one who burns out after three months often comes down to the production workflow between capture and publish. Scripting, recording, repurposing, branding, and distribution involve a chain of tasks that get tedious fast without the right tools. The apps in this guide address the specific bottlenecks that slow creators down, from teleprompting to transcription to visual branding. And for creators who monetize visual work directly — photographers and artists who sell prints, for instance — pricing and presenting a finished, framed piece is its own skill, one we cover in [how photographers and artists sell framed prints](/blog/productivity/how-photographers-artists-sell-framed-prints/).
 
 ## Voice-Paced Teleprompting: Deliver Scripts Without the Stiffness
 

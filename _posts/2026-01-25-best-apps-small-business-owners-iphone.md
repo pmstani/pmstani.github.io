@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [small-business, entrepreneur, business-apps, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit, calxport]
+related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit, calxport, mitre]
 ---
 
 ## Small Business Owners Wear Every Hat
@@ -16,7 +16,7 @@ The U.S. Small Business Administration reports that 33.3 million small businesse
 
 The iPhone has replaced a remarkable amount of office infrastructure for these owners. What used to require a filing cabinet, a fax machine, a desktop computer, and a physical inventory system can now fit in a pocket. But the App Store's productivity category is so crowded — over 400,000 apps — that finding tools purpose-built for small business operations requires wading through consumer-focused task managers, enterprise software scaled down poorly, and subscription-heavy platforms that cost more per month than some businesses spend on software all year.
 
-The tools in this guide are specifically useful for the operational demands of running a small business. They are not CRM platforms or accounting suites. They handle the practical, everyday tasks that eat into an owner's time: tracking physical assets, managing documents, comparing contracts, recording meetings, and maintaining a sense of progress when every day feels like a marathon.
+The tools in this guide are specifically useful for the operational demands of running a small business. They are not CRM platforms or accounting suites. They handle the practical, everyday tasks that eat into an owner's time: tracking physical assets, managing documents, comparing contracts, recording meetings, and maintaining a sense of progress when every day feels like a marathon. Specialist retail businesses often need niche, offline tools built for their exact workflow — a frame shop pricing custom jobs at the counter, for example, is better served by a purpose-built quoting app than a generic POS, as covered in our guide to [frame shop software and POS alternatives](/blog/productivity/frame-shop-software-pos-alternatives/).
 
 ## Equipment and Asset Tracking: Knowing What You Own
 

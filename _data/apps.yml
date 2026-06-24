@@ -1248,3 +1248,18 @@
   category: "health-wellness"
   platforms: ["iOS"]
   keywords: ["parkinson", "accessibility", "senior", "elderly", "vision", "motor", "dexterity", "shaky", "essential tremor", "arthritis", "assistive", "large keyboard", "tremor typing"]
+
+- name: "Mitre"
+  slug: "mitre"
+  id: "6783667539"
+  icon: "mitre.png"
+  tagline: "Picture framing quotes & proofs"
+  description: "Mitre is a custom picture-framing studio for iPhone, iPad and Mac. Compose a frame — artwork size, mats, glazing and moulding — and instantly get a true-to-life preview plus professional pricing from your own catalog. Hand customers a branded quote PDF and your bench a cut-sheet, fully offline with no subscription."
+  features:
+    - "Live, to-scale frame preview with real moulding profiles, mat reveals, glazing sheen and the customer's own photo"
+    - "Instant pricing from your own catalog — moulding footage, united-inch matting, glass area, backing and labour"
+    - "One-tap branded client quote PDF and a shop cut-sheet with every measurement (glass size, mat openings, chop length)"
+    - "Save jobs with customer and status; works fully offline with no account, no cloud and no subscription"
+  category: "productivity"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["picture framing", "frame shop", "framing software", "moulding", "mat board", "united inches", "frame pricing", "frame quote", "custom framing", "gallery"]

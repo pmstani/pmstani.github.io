@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [remote-work, wfh, productivity, mac, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter]
+related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter, mitre]
 ---
 
 ## Remote Work Demands Different Software

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [photo, pdf, iphone, comparison, conversion]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf]
+related_apps: [photo-to-pdf, mitre]
 ---
 
 Every iPhone can convert photos to PDF without installing anything. The capability has existed since iOS 9, buried inside the Print dialog behind a pinch-to-zoom gesture that Apple has never promoted in any user-facing documentation. For single-image conversions where you just need a quick PDF to email, this hidden feature works. But "works" and "works well" are different standards, and the gap between built-in methods and dedicated apps becomes obvious the moment you try to convert a batch of receipts, create a multi-page document with consistent formatting, or produce a PDF that needs to look professional.

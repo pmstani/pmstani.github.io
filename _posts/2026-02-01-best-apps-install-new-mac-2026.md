@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [new-mac, setup, essential-apps, mac, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, plain-paste, make-it-dark-mode, command-palette, panicvault, pdf-compressor]
+related_apps: [tidy-downloads, plain-paste, make-it-dark-mode, command-palette, panicvault, pdf-compressor, mitre]
 ---
 
 ## The Clean Slate Problem

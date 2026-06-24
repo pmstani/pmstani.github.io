@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [freelance, self-employed, invoicing, productivity, apps]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport]
+related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport, mitre]
 ---
 
 ## Freelancing Is a Business With No Operations Team
@@ -16,7 +16,7 @@ The freelance workforce in the United States reached 76.4 million in 2024, accou
 
 What the statistics do not capture is the operational reality of freelancing. A full-time employee has HR, IT, accounting, and administrative support functions built into their employer. A freelancer has none of these. Every administrative task — tracking hours, comparing contract revisions, creating client deliverables, recording meeting notes, managing a calendar with multiple client commitments — falls on the same person who is also doing the billable work. A 2024 Hive survey found that freelancers spend an average of 18 hours per week on non-billable administrative tasks: prospecting, invoicing, bookkeeping, communication, and project management.
 
-The apps in this guide target the specific administrative friction points that eat into freelancers' billable time. They are not project management platforms or accounting suites. They are personal productivity tools that handle the daily mechanics of freelance life so you can focus on the work that clients actually pay for.
+The apps in this guide target the specific administrative friction points that eat into freelancers' billable time. They are not project management platforms or accounting suites. They are personal productivity tools that handle the daily mechanics of freelance life so you can focus on the work that clients actually pay for. Some creative trades also have quoting needs all their own — photographers and artists selling framed prints, for instance, juggle sizing, materials, and pricing in ways a generic invoice cannot capture, a workflow we cover in [how photographers and artists sell framed prints](/blog/productivity/how-photographers-artists-sell-framed-prints/).
 
 ## Task and Achievement Tracking: Proving Your Value
 

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, workflows, documents, iphone, mac]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre]
 ---
 
 ## Why PDFs Still Dominate Document Workflows in 2026
@@ -299,6 +299,6 @@ macOS Spotlight indexes the text content of PDFs, including OCR text layers. Pre
 
 On iPhone, the Files app search indexes PDF content similarly, though the search is limited to files stored locally or in iCloud Drive.
 
-PDF generation is also valuable in specialized domains you might not expect. Pet owners, for instance, can generate vet-ready PDF health reports containing vaccination histories, medication schedules, and weight trends — useful when switching veterinarians or traveling with animals. Our guide on [how to share pet health records with your vet via PDF export](/blog/health-wellness/how-to-share-pet-health-records-vet-pdf-export/) walks through that workflow.
+PDF generation is also valuable in specialized domains you might not expect. Pet owners, for instance, can generate vet-ready PDF health reports containing vaccination histories, medication schedules, and weight trends — useful when switching veterinarians or traveling with animals. Our guide on [how to share pet health records with your vet via PDF export](/blog/health-wellness/how-to-share-pet-health-records-vet-pdf-export/) walks through that workflow. Small businesses lean on the same capability to produce branded quotes on the spot — a frame shop, for example, can hand a customer a printed quote PDF and a matching shop cut-sheet from a single counter conversation, a workflow detailed in [how to quote a custom frame at the counter](/blog/productivity/how-to-quote-custom-frame-at-the-counter/).
 
 The PDF has outlasted dozens of competing document formats over three decades, and its role in digital workflows shows no signs of diminishing. Mastering these workflows on the devices you already use saves time on tasks you already perform daily, which compounds into significant productivity gains over months and years.
