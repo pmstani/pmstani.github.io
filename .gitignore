@@ -11,3 +11,6 @@ vendor
 .claude/
 .claude-work/
 CLAUDE.md
+
+# SEO toolkit (local-only: GSC credentials + analytics — never commit)
+seo/
