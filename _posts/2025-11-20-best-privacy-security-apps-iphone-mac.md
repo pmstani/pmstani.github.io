@@ -3,6 +3,7 @@ layout: post
 title: "Best Privacy and Security Apps for iPhone and Mac"
 description: "Discover the top privacy and security apps for iPhone and Mac that protect your data, manage passwords, clean up storage, and keep your digital life safe without compromising usability."
 date: 2025-11-20
+last_modified_at: 2026-07-01
 categories: [digital-privacy-security]
 tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security
@@ -248,5 +249,7 @@ Replace your weather app with [YAWA](/apps/local-weather-yawa/). Audit location 
 | Surveillance reduction | Location tracking, ad targeting | [YAWA](/apps/local-weather-yawa/) | Ad-free, tracking-free weather |
 
 Each of these tools prioritizes local, on-device processing over cloud-based alternatives. This design philosophy keeps your data under your control and minimizes the number of third parties with access to your most sensitive information.
+
+If you are outfitting an iPhone specifically, our companion roundup of the [best privacy apps for iPhone](/blog/digital-privacy-security/best-apps-protecting-privacy-iphone/) walks through the same layers in an iPhone-only context.
 
 Start with passwords. Build from there. Every layer you add reduces your risk surface meaningfully.

@@ -3,6 +3,7 @@ layout: post
 title: "How to Audit Your Digital Privacy in 30 Minutes"
 description: "Run a complete digital privacy audit in 30 minutes. Covers password security, app permissions, location tracking, social media exposure, and browser privacy quick wins."
 date: 2026-01-05
+last_modified_at: 2026-07-01
 categories: [digital-privacy-security]
 tags: [privacy, audit, security, data-protection]
 silo: digital-privacy-security
@@ -203,6 +204,6 @@ Schedule this audit as a recurring event. Monthly is ideal, but even quarterly i
 - Follow this same checklist each time.
 - Track what you change and what you discover.
 
-For a comprehensive look at privacy and security tools available for iPhone and Mac, see the guide to the [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/) and the guide to [managing passwords with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/).
+For a comprehensive look at privacy and security tools available for iPhone and Mac, see the guide to the [best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/), the roundup of the [best privacy apps for iPhone](/blog/digital-privacy-security/best-apps-protecting-privacy-iphone/), and the guide to [managing passwords with KeePass on iPhone](/blog/digital-privacy-security/how-to-manage-passwords-keepass-iphone/).
 
 Thirty minutes, once a month, is less time than most people spend choosing what to watch on streaming services. But those 30 minutes directly reduce your vulnerability to identity theft, financial fraud, stalking, and the slow, invisible erosion of personal autonomy that happens when every company you interact with knows more about you than you know about what they know. The audit does not achieve perfect privacy — nothing does. It achieves informed privacy: knowing what you are sharing, with whom, and making that a deliberate choice rather than a default you never examined.

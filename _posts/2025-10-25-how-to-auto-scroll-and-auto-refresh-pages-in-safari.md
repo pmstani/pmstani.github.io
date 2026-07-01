@@ -3,11 +3,12 @@ layout: post
 title: "How to Auto-Scroll and Auto-Refresh Pages in Safari"
 description: "Learn how to automatically scroll through long web pages and auto-refresh pages on a schedule in Safari. Perfect for reading, monitoring dashboards, and tracking live content."
 date: 2025-10-25
+last_modified_at: 2026-07-01
 categories: [safari-extensions]
 tags: [auto-scroll, auto-refresh, automation, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [auto-scroll, auto-refresh]
+related_apps: [auto-scroll, auto-refresh, auto-clicker]
 ---
 
 ## The Hidden Cost of Manual Scrolling and Refreshing
@@ -200,6 +201,7 @@ Auto-Scroll and Auto-Refresh fit into a broader category of Safari extensions th
 - **[Copy on Select](/apps/copy-on-select/)** eliminates the Cmd+C step by automatically copying any highlighted text. See our [productivity extensions guide](/blog/safari-extensions/best-note-taking-and-productivity-safari-extensions/).
 - **[Save as PDF](/apps/save-as-pdf/)** captures pages for offline reading, useful when you want to save content discovered during an auto-scroll session. Read our [PDF saving guide](/blog/safari-extensions/how-to-save-any-web-page-as-a-pdf-in-safari/).
 - **[Make It Dark Mode](/apps/make-it-dark-mode/)** reduces eye strain during extended reading sessions, making auto-scroll more comfortable at night. See our [dark mode guide](/blog/safari-extensions/how-to-enable-dark-mode-on-every-website-in-safari/).
+- **[Auto Clicker](/apps/auto-clicker/)** automates repetitive clicking on web pages with custom intervals and element targeting — a natural companion to auto-refresh for hands-off, repetitive browser workflows.
 
 For a complete overview of every Safari extension category, see our [best Safari extensions for iPhone and Mac in 2026](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/) guide.
 

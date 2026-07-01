@@ -3,11 +3,12 @@ layout: post
 title: "Best Developer Tools and Extensions for Safari"
 description: "Discover the best developer tools and extensions for Safari. From web inspectors and JSON formatters to SEO analyzers and technology detectors, these tools supercharge your development workflow."
 date: 2025-10-26
+last_modified_at: 2026-07-01
 categories: [safari-extensions]
 tags: [developer-tools, web-inspector, json, seo]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web-inspector, format-json, built-with, html-to-markdown, link-gopher, seo-for-safari]
+related_apps: [web-inspector, format-json, built-with, html-to-markdown, link-gopher, seo-for-safari, auto-clicker]
 ---
 
 ## Safari's Developer Tooling Problem (and How Extensions Solve It)
@@ -253,6 +254,7 @@ Several non-developer extensions complement the developer toolkit:
 - **[Extension AI](/apps/extension-ai/)** can summarize technical documentation, explain code snippets, and assist with writing documentation. Read our guide on [using AI in Safari](/blog/safari-extensions/how-to-use-ai-in-safari-extensions-for-summarizing-writing-and-more/).
 - **[Image Downloader](/apps/image-downloader/)** extracts images from web pages, useful for capturing design references, competitor UI screenshots, and visual assets. See our guide on [downloading images from websites](/blog/safari-extensions/how-to-download-all-images-from-a-website-on-safari/).
 - **[Make It Dark Mode](/apps/make-it-dark-mode/)** reduces eye strain during long coding and debugging sessions, especially at night. Read our [dark mode guide](/blog/safari-extensions/how-to-enable-dark-mode-on-every-website-in-safari/).
+- **[Auto Clicker](/apps/auto-clicker/)** automates repetitive clicks with custom intervals and element targeting — handy for QA and smoke-testing UI that requires the same action fired again and again. See our guide on [automating repetitive clicking in Safari](/blog/safari-extensions/how-to-automate-repetitive-clicking-in-safari/).
 
 For a complete overview of every Safari extension category, see our [best Safari extensions for iPhone and Mac in 2026](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/) guide.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Best Safari Extensions for Privacy-Conscious Users"
 description: "Safari extensions for privacy-focused users covering tracker-free reading, fingerprint reduction, extension auditing, and Safari's built-in privacy features."
 date: 2025-12-17
+last_modified_at: 2026-07-01
 categories: [safari-extensions]
 tags: [privacy, security, tracking, data-protection, safari]
 silo: safari-extensions
@@ -170,6 +171,6 @@ The goal is not perfect anonymity — that requires Tor and significant usabilit
 - Review extension permissions after updates
 - Monitor Apple's privacy reports (Safari > Privacy Report) to see how many trackers were blocked
 
-For a comprehensive guide to privacy and security tools across iPhone and Mac — including password management, encrypted storage, and data hygiene — see our [guide to the best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/).
+For a comprehensive guide to privacy and security tools across iPhone and Mac — including password management, encrypted storage, and data hygiene — see our [guide to the best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/). For an iPhone-focused shortlist, see the [best privacy apps for iPhone](/blog/digital-privacy-security/best-apps-protecting-privacy-iphone/).
 
 The strongest privacy posture is the one you actually maintain. Four well-chosen extensions you keep installed and audited are better than twenty extensions you installed, forgot about, and never updated. Privacy is a practice, not a product — and the practice starts with understanding what your tools are doing with your data, choosing tools that process locally whenever possible, and minimizing the number of third parties in your browsing chain.
