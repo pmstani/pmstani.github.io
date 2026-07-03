@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [offline, website-download, archiving, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [website-downloader, site-slurpr]
+related_apps: [website-downloader, site-slurpr, ebouquin]
 ---
 
 ## 3.7 Billion People Are Still Offline — And the Rest of Us Sometimes Are Too

@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [dyslexia, fonts, accessibility, reading]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [dyslexia, read-easier, presbyopia, biggerkeys]
+related_apps: [dyslexia, read-easier, presbyopia, biggerkeys, ebouquin]
 ---
 
 ## The Typography Problem Affecting 780 Million Readers
@@ -59,6 +59,8 @@ Optimal line length for readability is between 50 and 75 characters per line. Ma
 ### Background Color
 
 Pure white backgrounds (#FFFFFF) create high contrast that can cause visual stress. A cream or light pastel background reduces this glare without sacrificing readability. The British Dyslexia Association recommends backgrounds of cream, soft yellow, or light blue. Individual preferences vary widely, and the ideal solution lets users choose their own background color.
+
+These principles are not limited to web pages. Ebooks in the reflowable EPUB format let you apply the same dyslexia-friendly typefaces, letter spacing, and background colors to entire books, and a native library manager like [eBouquin](/apps/ebouquin/) keeps that collection organized across your devices — our roundup of the [best ebook library manager apps](/blog/productivity/best-ebook-library-manager-apps-iphone-ipad-mac/) walks through the options.
 
 ## Method 1: Safari Reader Mode
 

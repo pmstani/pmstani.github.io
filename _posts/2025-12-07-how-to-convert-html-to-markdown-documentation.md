@@ -7,7 +7,7 @@ categories: [developer-tools]
 tags: [html, markdown, documentation, conversion]
 silo: developer-tools
 pillar: developer-tools
-related_apps: [html-to-markdown]
+related_apps: [html-to-markdown, ebouquin]
 ---
 
 John Gruber released the original Markdown specification in 2004 as a text-to-HTML conversion tool for web writers. Two decades later, Markdown has become the de facto standard for technical documentation across the software industry. GitHub README files, Confluence wikis, Notion pages, Jekyll and Hugo sites, Docusaurus documentation, Jupyter notebooks, Slack messages, Discord chats — all of them support Markdown as a primary input format. Stack Overflow's 2023 developer survey found that over 87% of developers use Markdown at least weekly.

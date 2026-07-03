@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [productivity, iphone, mac, best-of, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit, calxport, crr, retrofoot, xlprinter, mitre]
+related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit, calxport, crr, retrofoot, xlprinter, mitre, ebouquin]
 ---
 
 A 2023 study by the Harvard Business Review found that knowledge workers spend 58% of their workday on "work about work" — status updates, searching for files, switching between tools, and managing communication overhead. Only 33% goes toward skilled, meaningful tasks. The remaining 9% vanishes into strategic planning that rarely translates into action.
@@ -45,6 +45,8 @@ The key differentiator from macOS's built-in Smart Folders or Automator workflow
 {% include blog-cta.html app_slug="tidy-downloads" %}
 
 For a complete walkthrough of all available methods — including macOS built-in options, Automator, and Tidy Downloads — read [how to organize your Downloads folder automatically on Mac](/blog/productivity/how-to-organize-your-downloads-folder-automatically-on-mac/).
+
+Specialized collections benefit from the same single-purpose treatment. If you own a large ebook library, [eBouquin](/apps/ebouquin/) is a native, Calibre-compatible manager that organizes, converts, and sends your books across iPhone, iPad, and Mac — see our roundup of the [best ebook library manager apps](/blog/productivity/best-ebook-library-manager-apps-iphone-ipad-mac/).
 
 ### Expert Tips for File Organization
 

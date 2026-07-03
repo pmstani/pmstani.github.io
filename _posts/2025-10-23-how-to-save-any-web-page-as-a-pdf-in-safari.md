@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [pdf, save-page, safari, documents]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [save-as-pdf]
+related_apps: [save-as-pdf, ebouquin]
 ---
 
 ## The Average Web Page Has a Lifespan of 100 Days

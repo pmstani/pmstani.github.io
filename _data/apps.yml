@@ -1278,3 +1278,18 @@
   category: "education"
   platforms: ["iOS", "iPadOS"]
   keywords: ["PPL", "PPL avion", "pilote privé", "licence pilote", "examen théorique PPL", "DGAC", "EASA", "QCM aviation", "brevet pilote", "révision PPL", "aéronautique", "météorologie aéronautique"]
+
+- name: "eBouquin"
+  slug: "ebouquin"
+  id: "6787140235"
+  icon: "ebouquin.png"
+  tagline: "Convert & Send for Calibre"
+  description: "eBouquin is a beautifully native, Calibre-compatible ebook library manager for iPhone, iPad and Mac. Open your existing Calibre library exactly as it is — the same per-book folders and metadata.db — then organize it in a fast cover grid, convert between EPUB, MOBI, AZW3 and PDF, and send books straight to your Kindle. No account, no proprietary format, no lock-in; your library files never leave your devices."
+  features:
+    - "Opens your existing Calibre library (per-book folders + metadata.db) from local storage or iCloud Drive — reads and writes the standard format with no import, migration or lock-in"
+    - "Organize in a fast cover grid: edit rich metadata, tag books, build collections, mirror Calibre custom columns, and create smart shelves (saved searches) that update themselves"
+    - "Convert between EPUB, MOBI, AZW3 and PDF with sensible defaults, including batch conversion of a whole selection in one step"
+    - "Send any book to your Kindle email address or a connected device, bulk-send a stack at once, and track everything in the outbox"
+  category: "productivity"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["ebook manager", "calibre", "calibre for mac", "calibre iphone", "epub converter", "convert epub to mobi", "send to kindle", "azw3", "ebook library", "metadata editor", "ebook organizer", "kindle"]

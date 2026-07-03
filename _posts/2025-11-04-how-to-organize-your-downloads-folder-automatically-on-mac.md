@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [downloads, file-management, mac, organization]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads]
+related_apps: [tidy-downloads, ebouquin]
 ---
 
 The average knowledge worker downloads between 30 and 60 files per week. Browser downloads, email attachments, AirDrop transfers, Slack files, app exports — every one of them lands in the same undifferentiated pile in ~/Downloads. Within a month, you are looking at 150+ files with names like `Document (3).pdf`, `Screenshot 2026-03-14 at 10.42.17 AM.png`, and `final_final_v2_FINAL.docx`. Finding anything requires either a Spotlight search (assuming you remember the file name) or a painful manual scroll through a wall of cryptic filenames sorted by date.
@@ -197,6 +197,7 @@ A clean Downloads folder is a foundation for other productivity improvements:
 - Downloaded PDFs stay findable when you need to [compare document versions side by side](/blog/productivity/how-to-compare-pdf-documents-side-by-side/).
 - Organized image downloads are easier to batch-convert when you need to [turn photos into PDFs](/blog/productivity/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/).
 - Audio recordings downloaded from email or messaging apps can be quickly located for [AI transcription](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/).
+- Downloaded ebooks (EPUB, MOBI, AZW3) land in the same pile; once they are sorted out, a native Calibre-compatible manager like [eBouquin](/apps/ebouquin/) keeps a growing library in order — see [how to organize a large ebook library with metadata, tags, and series](/blog/productivity/organize-large-ebook-library-metadata-tags-series/).
 - For a broader view of tools that complement file organization, see our roundup of the [best productivity apps for iPhone and Mac in 2026](/blog/productivity/best-productivity-apps-iphone-mac-2026/).
 
 ## Things Most Guides Don't Tell You

@@ -8,7 +8,7 @@ categories: [digital-privacy-security]
 tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa, vetkit, crr, biggerkeys]
+related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa, vetkit, crr, biggerkeys, ebouquin]
 ---
 
 # Best Privacy and Security Apps for iPhone and Mac
@@ -236,6 +236,8 @@ Replace your weather app with [YAWA](/apps/local-weather-yawa/). Audit location 
 **Physical security still matters.** The most sophisticated digital security is defeated by an unlocked phone left on a restaurant table. Use Face ID or a strong alphanumeric passcode (not a 4-digit PIN). Enable Auto-Lock at 30 seconds or 1 minute. Disable notification previews on the lock screen for sensitive apps.
 
 **Third-party keyboards can be quiet data leaks.** A custom keyboard granted "Full Access" can technically transmit everything you type -- passwords included -- off the device. Before trusting one, check whether it actually needs Full Access and whether it works entirely offline. The best accessibility and utility keyboards are built privacy-first: for example, [BiggerKeys](/apps/biggerkeys/) does all of its work on-device, with no network access and no logging, and asks for Full Access only as an option for haptics. Our explainer on [third-party keyboard privacy and what Full Access really grants](/blog/health-wellness/third-party-keyboard-privacy-full-access-explained/) is worth reading before you install any keyboard.
+
+**Your reading library is a data-ownership question too.** Ebooks bought from major stores are often DRM-locked and tied to a single vendor's account, so keeping local, open-format copies in a manager that reads and writes your files in place and never uploads them — like [eBouquin](/apps/ebouquin/) — applies the same local-first principle to your reading. Our guide on [how to truly own your ebooks and escape DRM lock-in](/blog/productivity/own-your-ebooks-drm-lock-in/) covers the specifics.
 
 ## The Summary Stack
 

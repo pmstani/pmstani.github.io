@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, workflows, documents, iphone, mac]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre, ebouquin]
 ---
 
 ## Why PDFs Still Dominate Document Workflows in 2026
@@ -158,6 +158,8 @@ For better results, dedicated compression tools analyze each element of the PDF 
 {% include blog-cta.html app_slug="pdf-compressor" %}
 
 The ideal compression depends on the intended use. A PDF for screen viewing can use lower image resolution (150 DPI) than one intended for printing (300 DPI). Documents that will be archived should use minimal lossy compression to preserve quality for future use.
+
+PDF is also one of the most common ebook formats, and a fixed-layout PDF is not always the most comfortable way to read a book. Converting it to a reflowable format — or going the other way for printing and sharing — is often worth it; [eBouquin](/apps/ebouquin/) batch-converts between EPUB, MOBI, AZW3, and PDF on iPhone, iPad, and Mac, as our guide on [converting EPUB to MOBI, AZW3, and PDF](/blog/productivity/convert-epub-to-mobi-azw3-pdf/) explains.
 
 ## Comparing PDFs: Finding What Changed
 

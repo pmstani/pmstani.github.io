@@ -516,5 +516,11 @@
     "app_name": "PPL Théorique : Examen QCM",
     "app_description": "Examen QCM du PPL avion",
     "image_url": "https://pstan.fr/img/apps/ppl.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6787140235",
+    "app_name": "eBouquin",
+    "app_description": "Convert & Send for Calibre",
+    "image_url": "https://pstan.fr/img/apps/ebouquin.png"
   }
 ]

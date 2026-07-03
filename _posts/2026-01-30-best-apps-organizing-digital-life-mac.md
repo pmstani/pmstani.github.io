@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [organization, digital-life, mac, declutter, files]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, clean-genie, snapmark, safe, pdf-compressor, panicvault, mitre]
+related_apps: [tidy-downloads, clean-genie, snapmark, safe, pdf-compressor, panicvault, mitre, ebouquin]
 ---
 
 ## Digital Clutter Is the New Physical Clutter
@@ -89,6 +89,10 @@ Large PDFs cause practical problems: they are slow to email, expensive to store 
 [PDF Compressor (ThinPDF)](/apps/pdf-compressor/) reduces PDF file sizes while preserving visual quality. The compression happens locally, so you are not uploading sensitive documents to web-based compression services. For a Mac user with hundreds of PDFs accumulated over years, batch-compressing the archive can reclaim significant storage.
 
 Read the full guide: [how to compress PDF files without losing quality](/blog/digital-privacy-security/how-to-compress-pdf-files-without-losing-quality/).
+
+## Ebook Libraries: Organizing the Books You Own
+
+PDFs are not the only reading material that accumulates. If you keep a large ebook collection, [eBouquin](/apps/ebouquin/) is a native, Calibre-compatible library manager for iPhone, iPad, and Mac that organizes, converts, and sends your books without uploading them anywhere. Our roundup of the [best ebook library manager apps](/blog/productivity/best-ebook-library-manager-apps-iphone-ipad-mac/) compares the options.
 
 ## Home Inventory: Documenting Physical Assets
 
