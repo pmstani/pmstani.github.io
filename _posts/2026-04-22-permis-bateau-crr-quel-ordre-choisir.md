@@ -7,7 +7,7 @@ categories: [education]
 tags: [crr, vhf-marine, anfr, permis-bateau, plaisance, certification-maritime]
 silo: education
 pillar: education
-related_apps: [crr, calcular, save-as-pdf, my-agenda-planning]
+related_apps: [crr, ppl, calcular, save-as-pdf, my-agenda-planning]
 permalink: /blog/education/permis-bateau-crr-quel-ordre-choisir/
 ---
 
@@ -136,6 +136,8 @@ Pour le **permis côtier**, comptez 15 à 25 heures de préparation théorique c
 Pour le **CRR**, la préparation prend en moyenne 15 à 25 heures sur 2 à 4 semaines avec une méthode structurée. **CRR Maritime** vous permet d'organiser ce travail avec un système de progression visible (statistiques, flashcards révisées, quiz réussis), un peu comme [Calcular accompagne les apprenants en mathématiques](/apps/calcular/) avec une approche pédagogique progressive.
 
 Pour le **hauturier**, comptez 20 à 30 heures de préparation sur 1 à 2 mois, avec des exercices de traçage répétés sur cartes SHOM.
+
+Le même principe de préparation par QCM et révision espacée s'applique à d'autres examens théoriques exigeants. Un plaisancier qui vise aussi le ciel retrouvera une logique de révision très proche avec le [théorique du PPL, la licence de pilote privé avion](/blog/education/meilleures-applications-ppl-theorique-avion-2026/) : cours structurés, examen blanc au format officiel et fiches à répétition espacée.
 
 ## FAQ
 

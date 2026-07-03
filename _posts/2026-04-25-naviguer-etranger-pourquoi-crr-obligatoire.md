@@ -7,7 +7,7 @@ categories: [education]
 tags: [crr, vhf-marine, anfr, uit, cept, navigation-internationale, croisiere]
 silo: education
 pillar: education
-related_apps: [crr, local-weather-yawa, save-as-pdf, my-agenda-planning]
+related_apps: [crr, ppl, local-weather-yawa, save-as-pdf, my-agenda-planning]
 permalink: /blog/education/naviguer-etranger-pourquoi-crr-obligatoire/
 ---
 

@@ -7,7 +7,7 @@ categories: [education]
 tags: [flashcards, study, spaced-repetition, learning, cognitive-science]
 silo: education-learning
 pillar: education-learning
-related_apps: [flash-card-boat, calcular]
+related_apps: [flash-card-boat, calcular, ppl]
 ---
 
 Every semester, millions of students download flashcard apps, create decks of hundreds of cards, and study them with the conviction that they are using a scientifically-proven learning method. They are partly right. Spaced repetition -- the algorithm that powers most flashcard apps -- is one of the most robust findings in cognitive psychology, supported by over a century of research starting with Hermann Ebbinghaus's memory experiments in 1885. But the leap from "spaced repetition is effective" to "flashcard apps are the best way to study" skips over critical nuances that determine whether flashcards will actually help you learn.
@@ -44,7 +44,7 @@ The key word is "desirable." Not all difficulties improve learning. The difficul
 
 ### Factual, Discrete Knowledge
 
-Flashcards are optimally designed for learning paired associations: a question and its answer, a term and its definition, a word and its translation, a symbol and its meaning.
+Flashcards are optimally designed for learning paired associations: a question and its answer, a term and its definition, a word and its translation, a symbol and its meaning. This is exactly why they suit license theory exams packed with discrete facts — from maritime radio rules to the nine subjects of the [French PPL private-pilot theory exam](/blog/education/programme-theorique-ppl-9-matieres-easa/).
 
 Examples of knowledge that flashcard apps handle exceptionally well:
 

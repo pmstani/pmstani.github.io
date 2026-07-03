@@ -7,7 +7,7 @@ categories: [education]
 tags: [crr, examen-crr, anfr, vhf-marine, preparation-examen, revision, plaisance]
 silo: education
 pillar: education
-related_apps: [crr, calcular, the-done-list, lotus, my-agenda-planning, save-as-pdf]
+related_apps: [crr, ppl, calcular, the-done-list, lotus, my-agenda-planning, save-as-pdf]
 ---
 
 # Comment réussir l'examen CRR du premier coup : guide complet 2026

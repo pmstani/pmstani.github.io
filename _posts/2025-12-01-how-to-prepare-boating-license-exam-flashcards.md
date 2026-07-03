@@ -7,7 +7,7 @@ categories: [education-learning]
 tags: [boating-license, flashcards, exam-prep, maritime]
 silo: education-learning
 pillar: education-learning
-related_apps: [flash-card-boat, crr]
+related_apps: [flash-card-boat, crr, ppl]
 ---
 
 The U.S. Coast Guard's 2023 Recreational Boating Statistics report documented 4,040 boating accidents resulting in 636 deaths and 2,222 injuries in a single year. The most common contributing factor, cited in 77% of fatal accidents, was operator inexperience or lack of formal boating education. In response, 36 states now require some form of boating safety education before operating a vessel, and that number has been increasing steadily since the National Association of State Boating Law Administrators began advocating for universal education requirements in 2011.
@@ -157,7 +157,7 @@ Passing the boating license exam is a regulatory requirement, but it represents 
 
 ## Beyond the Boating Exam
 
-The study techniques that work for the boating license exam — active recall, spaced repetition, and interleaved practice — are universally applicable to any knowledge-intensive exam. Whether you are studying for a professional certification, a school exam, or a technical qualification, the cognitive science is the same: test yourself, space your reviews, and mix your practice.
+The study techniques that work for the boating license exam — active recall, spaced repetition, and interleaved practice — are universally applicable to any knowledge-intensive exam. Whether you are studying for a professional certification, a school exam, or a technical qualification, the cognitive science is the same: test yourself, space your reviews, and mix your practice. The same approach powers other license theory exams — for instance the French [private pilot licence (PPL) theory exam](/blog/education/meilleures-applications-ppl-theorique-avion-2026/), whose nine EASA subjects are a textbook case for spaced repetition.
 
 For more on building effective learning habits, explore our [roundup of the best education and self-improvement apps](/blog/education-learning/best-education-self-improvement-apps-iphone/). The same principles of consistent, structured practice apply to [mental math training](/blog/education-learning/how-to-improve-mental-math-brain-training-apps/) and even physical skill development in [martial arts](/blog/education-learning/how-to-train-martial-arts-home-karate-mma-boxing/). Maritime safety knowledge also dovetails naturally with general [emergency preparedness and survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) — many of the same principles around safety equipment, signaling, and emergency protocols apply on land and at sea.
 

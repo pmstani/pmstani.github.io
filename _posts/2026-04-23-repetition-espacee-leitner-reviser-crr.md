@@ -7,7 +7,7 @@ categories: [education]
 tags: [crr, vhf-marine, anfr, leitner, repetition-espacee, apprentissage, methode-revision]
 silo: education
 pillar: education
-related_apps: [crr, calcular, the-done-list, my-agenda-planning]
+related_apps: [crr, ppl, calcular, the-done-list, my-agenda-planning]
 permalink: /blog/education/repetition-espacee-leitner-reviser-crr/
 ---
 
@@ -151,7 +151,7 @@ Lire 5 manuels différents n'apporte rien de plus qu'en lire un seul de manière
 
 ## Au-delà du CRR : l'apprentissage tout au long de la vie
 
-Les techniques de répétition espacée ne sont pas spécifiques au CRR. Elles s'appliquent à toutes les disciplines factuelles : médecine, droit, langues étrangères, programmation, et bien d'autres. Une fois que vous aurez intégré le réflexe Leitner pendant votre préparation du CRR, vous pourrez le réutiliser pour le **permis hauturier**, pour apprendre l'anglais maritime, pour tout examen futur. Notre [article sur l'ordre permis bateau / CRR](/blog/education/permis-bateau-crr-quel-ordre-choisir/) suggère un parcours qui s'étale sur plusieurs mois — autant de bonnes occasions de capitaliser votre méthode d'apprentissage.
+Les techniques de répétition espacée ne sont pas spécifiques au CRR. Elles s'appliquent à toutes les disciplines factuelles : médecine, droit, langues étrangères, programmation, et bien d'autres. Une fois que vous aurez intégré le réflexe Leitner pendant votre préparation du CRR, vous pourrez le réutiliser pour le **permis hauturier**, pour apprendre l'anglais maritime, ou pour toute autre certification exigeante — y compris le [théorique du PPL, la licence de pilote privé avion](/blog/education/repetition-espacee-reviser-ppl-theorique/), dont les 9 matières se prêtent idéalement à la répétition espacée. Notre [article sur l'ordre permis bateau / CRR](/blog/education/permis-bateau-crr-quel-ordre-choisir/) suggère un parcours qui s'étale sur plusieurs mois — autant de bonnes occasions de capitaliser votre méthode d'apprentissage.
 
 ## FAQ
 

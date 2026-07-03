@@ -7,7 +7,7 @@ categories: [education]
 tags: [learning, skills, self-improvement, education, iphone]
 silo: education-learning
 pillar: education-learning
-related_apps: [karate, fight-iq, calcular, flash-card-boat, survivalist, mythos, retrofoot]
+related_apps: [karate, fight-iq, calcular, flash-card-boat, survivalist, mythos, retrofoot, ppl]
 ---
 
 ## The Skill Acquisition Gap
