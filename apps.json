@@ -510,5 +510,11 @@
     "app_name": "BiggerKeys",
     "app_description": "Steady keyboard for tremor",
     "image_url": "https://pstan.fr/img/apps/biggerkeys.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6786767734",
+    "app_name": "PPL Théorique : Examen QCM",
+    "app_description": "Examen QCM du PPL avion",
+    "image_url": "https://pstan.fr/img/apps/ppl.png"
   }
 ]

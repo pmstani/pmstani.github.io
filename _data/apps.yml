@@ -1263,3 +1263,18 @@
   category: "productivity"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["picture framing", "frame shop", "framing software", "moulding", "mat board", "united inches", "frame pricing", "frame quote", "custom framing", "gallery"]
+
+- name: "PPL Théorique"
+  slug: "ppl"
+  id: "6786767734"
+  icon: "ppl.png"
+  tagline: "Examen QCM du PPL avion"
+  description: "PPL Théorique est l'application premium pour préparer l'examen théorique du PPL(A), la licence de pilote privé avion, au standard EASA et au format DGAC. 579 QCM originaux couvrant les 9 matières, 85 cours structurés, examen blanc au format officiel et révision espacée — le tout 100 % hors-ligne, sans abonnement ni publicité."
+  features:
+    - "579 QCM originaux sur les 9 matières EASA, chacun avec une explication claire"
+    - "Examen blanc au format DGAC avec la règle des 75 % par matière"
+    - "Révision espacée (répétition espacée) et mode erreurs qui retravaille vos points faibles"
+    - "85 cours originaux avec recherche instantanée, glossaire et marque-pages — 100 % hors-ligne"
+  category: "education"
+  platforms: ["iOS", "iPadOS"]
+  keywords: ["PPL", "PPL avion", "pilote privé", "licence pilote", "examen théorique PPL", "DGAC", "EASA", "QCM aviation", "brevet pilote", "révision PPL", "aéronautique", "météorologie aéronautique"]
