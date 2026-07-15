@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [calendar-export, time-tracking, timesheet, csv-export, excel, billing, schedule, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [calxport, health-export, my-agenda-planning, day-progress, transcribe, the-done-list, equipt]
+related_apps: [calxport, health-export, my-agenda-planning, day-progress, transcribe, the-done-list, equipt, soiree]
 ---
 
 # Best Apps for Calendar Export and Time Tracking on iPhone in 2026

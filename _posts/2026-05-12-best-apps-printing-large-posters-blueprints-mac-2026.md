@@ -7,7 +7,7 @@ categories: [utilities]
 tags: [xlprinter, poster-printing, blueprint-printing, pdf-tiling, mac-printing, large-format, multi-page-poster, paper-sizes, print-shops]
 silo: utilities
 pillar: utilities
-related_apps: [xlprinter, pdf-compressor, pdiff, photo-to-pdf, save-as-pdf, web2screen, tidy-downloads]
+related_apps: [xlprinter, pdf-compressor, pdiff, photo-to-pdf, save-as-pdf, web2screen, tidy-downloads, soiree]
 ---
 
 # Best Apps for Printing Large Posters and Blueprints on Mac in 2026
@@ -76,7 +76,7 @@ XLPrinter is the right Mac app in 2026 for anyone whose printing needs occasiona
 - Architectural and engineering output: floor plans, elevations, structural drawings, MEP coordination prints.
 - Infographics and mind maps that designers want to print at A1 for a workshop.
 - Hiking and travel maps that you want at full national-park scale rather than crammed onto a single A4.
-- Party and event banners: birthday banners, wedding seating charts, conference signage.
+- Party and event banners: birthday banners, [wedding seating charts](/blog/productivity/print-wedding-seating-chart-place-cards-at-home/), conference signage.
 - Photo enlargements: family portraits, landscape photography, hand-drawn artwork blown up for an exhibition.
 - PDF posters and plans handed to you by a designer or architect when you have neither the right printer nor the budget for a print shop.
 

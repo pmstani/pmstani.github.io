@@ -7,7 +7,7 @@ categories: [utilities]
 tags: [xlprinter, poster-printing, tiled-printing, mac-printing, multi-page-poster, paper-sizes, how-to]
 silo: utilities
 pillar: utilities
-related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, web2screen, tidy-downloads]
+related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, web2screen, tidy-downloads, soiree]
 ---
 
 # How to Print a Large Poster Across Multiple Sheets on Mac
@@ -178,7 +178,7 @@ Technically possible but rarely useful. The complications outweigh any benefit. 
 You usually do not. If your design is bigger than the wall, scale the source down before tiling. Most tiling apps can handle this via the "fit to width" or "fit to height" mode — you set the maximum dimension and the app tiles to fit.
 
 **Is the result really comparable to a print-shop poster?**
-Honestly, no — a wide-format inkjet at a print shop produces a single-sheet poster with no seams, on heavy paper, with calibrated colour, for around €25-40 in 2026 prices. Tiled home printing produces a many-sheet poster with visible seams (however well-aligned) on standard paper. The home result is good for casual use, classroom materials, and anywhere the seams are acceptable; for archival or display-quality work, a print shop is still better.
+Honestly, no — a wide-format inkjet at a print shop produces a single-sheet poster with no seams, on heavy paper, with calibrated colour, for around €25-40 in 2026 prices. Tiled home printing produces a many-sheet poster with visible seams (however well-aligned) on standard paper. The home result is good for casual use, classroom materials, event pieces like a [DIY wedding seating chart](/blog/productivity/print-wedding-seating-chart-place-cards-at-home/), and anywhere the seams are acceptable; for archival or display-quality work, a print shop is still better.
 
 **How long does a typical poster job take to print?**
 On a typical home inkjet at high quality, plan on 1-2 minutes per A4 sheet. A 16-sheet poster takes 20-30 minutes of printer time, plus whatever assembly time you add at the end. Laser printers are faster (5-10 seconds per sheet at draft, 15-30 seconds at high quality) but typically less colour-accurate.

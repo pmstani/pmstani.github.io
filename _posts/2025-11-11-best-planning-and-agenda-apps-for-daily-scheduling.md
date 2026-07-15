@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [planning, agenda, scheduling, time-management]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, day-progress, vetkit, calxport]
+related_apps: [my-agenda-planning, day-progress, vetkit, calxport, soiree]
 ---
 
 Benjamin Franklin divided every day into explicit time blocks. His daily schedule, reproduced in his autobiography, allocated specific hours to specific activities: "Rise, wash, and address Powerful Goodness" from 5-8 AM, "Work" from 8-12, "Read, or look over my accounts, and dine" from 12-2, more "Work" from 2-6, and "Put things in their places" from 6-10 PM. Each day ended with the question: "What good have I done today?"
@@ -230,6 +230,7 @@ Daily planning is one layer of a broader productivity stack. The most effective 
 - **File organization:** A clean [Downloads folder](/blog/productivity/how-to-organize-your-downloads-folder-automatically-on-mac/) reduces the time you spend searching for files, freeing up time for planned work.
 - **Document creation:** When a task requires writing, [instant Google Doc creation](/blog/productivity/how-to-quickly-create-new-google-docs-from-anywhere/) removes the friction between "I need to write this" and "I am writing this."
 - **Meeting processing:** When your agenda includes meetings, [transcribe them](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/) to capture action items without splitting your attention during the discussion.
+- **One-off event planning:** Daily agendas handle your recurring days, but a large occasion like a wedding has a planning surface of its own — [Soirée](/apps/soiree/) builds the [seating chart](/blog/productivity/how-to-make-a-wedding-seating-chart/) and place cards that a general scheduling app is not designed for.
 - For a complete view of tools that complement daily planning, see the [best productivity apps for iPhone and Mac in 2026](/blog/productivity/best-productivity-apps-iphone-mac-2026/).
 
 The difference between a productive day and a busy day is not effort or time — it is intention. Five minutes of morning planning, a clear daily structure, and a brief evening review transform scattered effort into directed progress. The tools exist to make this easy. The habit is what makes it work.

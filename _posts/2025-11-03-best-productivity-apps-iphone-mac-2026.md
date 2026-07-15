@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [productivity, iphone, mac, best-of, 2026]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit, calxport, crr, retrofoot, xlprinter, mitre, ebouquin]
+related_apps: [tidy-downloads, the-done-list, pdiff, transcribe, cuevoice, photo-to-pdf, my-agenda-planning, day-progress, new, vetkit, calxport, crr, retrofoot, xlprinter, mitre, ebouquin, soiree]
 ---
 
 A 2023 study by the Harvard Business Review found that knowledge workers spend 58% of their workday on "work about work" — status updates, searching for files, switching between tools, and managing communication overhead. Only 33% goes toward skilled, meaningful tasks. The remaining 9% vanishes into strategic planning that rarely translates into action.
@@ -26,7 +26,7 @@ The most powerful productivity tool is one you never have to think about. If an 
 
 ### The Single-Purpose Advantage
 
-Research from the American Psychological Association on task switching shows that multitasking can reduce productivity by up to 40%. The same principle applies to software design. Apps that try to do everything — your calendar, your notes, your tasks, your email, your habit tracker — inevitably do each thing poorly. The tools below each solve one problem exceptionally well. You combine them based on your needs rather than forcing your workflow into a single app's rigid structure. The same single-purpose logic extends to vertical, profession-specific tools: a framer pricing custom jobs, for example, gets more from [Mitre](/apps/mitre/) — an offline app that quotes a frame, shows a to-scale proof, and prints a shop cut-sheet — than from a sprawling general-purpose business suite, as our roundup of [the best apps for picture framing and frame shops](/blog/productivity/best-apps-picture-framing-frame-shops-iphone/) explains.
+Research from the American Psychological Association on task switching shows that multitasking can reduce productivity by up to 40%. The same principle applies to software design. Apps that try to do everything — your calendar, your notes, your tasks, your email, your habit tracker — inevitably do each thing poorly. The tools below each solve one problem exceptionally well. You combine them based on your needs rather than forcing your workflow into a single app's rigid structure. The same single-purpose logic extends to vertical, profession-specific tools: a framer pricing custom jobs, for example, gets more from [Mitre](/apps/mitre/) — an offline app that quotes a frame, shows a to-scale proof, and prints a shop cut-sheet — than from a sprawling general-purpose business suite, as our roundup of [the best apps for picture framing and frame shops](/blog/productivity/best-apps-picture-framing-frame-shops-iphone/) explains. The same holds for someone planning a wedding or big event: a dedicated tool like [Soirée](/apps/soiree/) handles the seating chart and printed place cards a general planner never touches, as covered in our roundup of [the best wedding seating chart apps](/blog/productivity/best-wedding-seating-chart-apps-iphone-ipad-mac/).
 
 ### The Apple Ecosystem Multiplier
 

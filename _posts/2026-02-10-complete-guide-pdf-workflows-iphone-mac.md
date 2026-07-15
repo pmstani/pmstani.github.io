@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [pdf, workflows, documents, iphone, mac]
 silo: productivity
 pillar: productivity
-related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre, ebouquin]
+related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre, ebouquin, soiree]
 ---
 
 ## Why PDFs Still Dominate Document Workflows in 2026

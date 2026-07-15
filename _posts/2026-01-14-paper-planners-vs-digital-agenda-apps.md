@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [planner, digital, paper, productivity, comparison]
 silo: productivity
 pillar: productivity
-related_apps: [my-agenda-planning, day-progress, the-done-list, calxport]
+related_apps: [my-agenda-planning, day-progress, the-done-list, calxport, soiree]
 ---
 
 The paper planner market generated $1.4 billion in US revenue in 2024 -- up 22% from 2019 -- at the same time that digital productivity app revenue crossed $8 billion globally. These two numbers tell a story that neither paper nor digital advocates want to hear: people are spending more on both, which means neither format has definitively won, and the choice between them is genuinely preference-dependent rather than objectively decidable.

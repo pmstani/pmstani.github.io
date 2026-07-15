@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [mitre, picture-framing, photographers, artists, selling-art, framed-prints, pricing]
 silo: productivity
 pillar: productivity
-related_apps: [mitre, snapmark, photo-to-pdf, the-done-list, local-weather-yawa]
+related_apps: [mitre, snapmark, photo-to-pdf, the-done-list, local-weather-yawa, soiree]
 ---
 
 # How Photographers and Artists Can Sell Framed Prints (and Price Them Right)

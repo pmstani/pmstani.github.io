@@ -7,7 +7,7 @@ categories: [utilities]
 tags: [xlprinter, classroom-printing, teacher-resources, educational-charts, large-format, lamination, mac-printing, how-to]
 silo: utilities
 pillar: utilities
-related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, read-easier, dyslexia, presbyopia]
+related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, read-easier, dyslexia, presbyopia, soiree]
 ---
 
 # How to Print Classroom Charts: Alphabets, Periodic Tables, and More
