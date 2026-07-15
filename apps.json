@@ -522,5 +522,11 @@
     "app_name": "eBouquin",
     "app_description": "Convert & Send for Calibre",
     "image_url": "https://pstan.fr/img/apps/ebouquin.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6791276138",
+    "app_name": "Soirée: Wedding Seating Chart",
+    "app_description": "Wedding Seating Chart & Table Plan",
+    "image_url": "https://pstan.fr/img/apps/soiree.png"
   }
 ]

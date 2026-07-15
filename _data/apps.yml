@@ -1293,3 +1293,18 @@
   category: "productivity"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["ebook manager", "calibre", "calibre for mac", "calibre iphone", "epub converter", "convert epub to mobi", "send to kindle", "azw3", "ebook library", "metadata editor", "ebook organizer", "kindle"]
+
+- name: "Soirée"
+  slug: "soiree"
+  id: "6791276138"
+  icon: "soiree.png"
+  tagline: "Wedding Seating Chart & Table Plan"
+  description: "Soirée is the beautiful way to plan your wedding or event seating and turn it into print-ready stationery. Arrange tables on a drag-and-drop canvas, manage your whole guest list and RSVPs, and export gorgeous PDFs — seating chart posters, escort cards and place cards — on iPhone, iPad and Mac. Buy once, no subscription, no account, and works completely offline."
+  features:
+    - "Drag-and-drop floor plan with round, banquet, head, square, oval and sweetheart tables at real-world sizes and seat counts"
+    - "Full guest list with households, plus-ones, children, RSVP status and meal choices, plus keep-together and keep-apart rules with live conflict and capacity warnings"
+    - "Print Studio: seating chart posters (A2–A4, Letter, Tabloid), escort cards, tent-fold place cards and table number cards, exported as AirPrint-ready PDFs"
+    - "Private by design and fully offline — no sign-in, no cloud, no tracking, and no subscription"
+  category: "productivity"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["wedding seating chart", "table plan", "seating plan", "escort cards", "place cards", "guest list", "RSVP", "reception", "event planning", "floor plan", "banquet", "gala"]
