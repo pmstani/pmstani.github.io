@@ -1,9 +1,10 @@
 ---
 layout: app-page
-title: "Link Gopher - Extract & Export Links from Web Pages on Mac"
-description: "Extract all hyperlinks from any webpage, filter by domain, and export as CSV. Essential for SEO analysis and research. Available on the App Store."
+title: "Link Gopher for Safari - Extract & Export Every Link on a Page"
+description: "Extract every hyperlink on a web page, filter by domain or pattern, and export as CSV. Link Gopher is a Safari extension for macOS. Available on the App Store."
 app_slug: "link-gopher"
 permalink: /apps/link-gopher/
+last_modified_at: 2026-07-17
 ---
 
 ## About Link Gopher

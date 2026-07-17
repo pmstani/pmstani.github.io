@@ -29,6 +29,8 @@ Install these extensions from the Mac App Store before beginning your first audi
 
 Enable all extensions in Safari > Settings > Extensions. You are now ready to audit any site you visit.
 
+For more on what each of these does individually — and a shorter 20-minute pass when a full audit is more than you need — see our guide to the best [Safari SEO tools and extensions](/blog/safari-extensions/best-safari-seo-extensions-tools-mac/) for Mac.
+
 ## Part 1: SEO Audit
 
 SEO issues are the most common reason for website audits. These checks cover the technical and on-page factors that directly affect search visibility.

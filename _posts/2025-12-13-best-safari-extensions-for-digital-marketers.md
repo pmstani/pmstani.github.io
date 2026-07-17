@@ -24,6 +24,8 @@ SEO is not something you do once and forget. Google processes an estimated 8.5 b
 
 {% include blog-cta.html app_slug="seo-for-safari" %}
 
+On-page analysis is only one part of a browser SEO setup. If you are assembling the whole thing, we cover the full range of [Safari SEO extensions and tools](/blog/safari-extensions/best-safari-seo-extensions-tools-mac/) — on-page analysis, link auditing, technology detection, and markup inspection — in a dedicated guide, including a 20-minute audit workflow that ties them together.
+
 ### SEO Workflows for Marketers
 
 **Competitive SERP analysis.** When a competitor outranks you for a target keyword, visit their page and run SEO for Safari immediately. Check their title tag structure (is the keyword front-loaded?), their heading hierarchy (how many H2s and H3s, and what keywords do they target?), their meta description (what CTAs do they use?), and their use of structured data (are they getting rich snippets?). This five-minute analysis often reveals exactly why they rank higher.

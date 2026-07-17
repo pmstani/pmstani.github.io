@@ -198,7 +198,7 @@ Google Search Console alone provides real keyword data (what queries your site a
 | Technology detector | Identify CMS, frameworks, analytics |
 | Schema validator | Check structured data markup |
 
-These extensions provide real-time analysis on every page you visit, making SEO awareness a passive part of your browsing rather than a separate workflow requiring a dedicated platform login.
+These extensions provide real-time analysis on every page you visit, making SEO awareness a passive part of your browsing rather than a separate workflow requiring a dedicated platform login. On a Mac, our guide to the best [Safari SEO tools](/blog/safari-extensions/best-safari-seo-extensions-tools-mac/) covers which extension fills each row of this table and how they fit together.
 
 ### Optional Paid Tier: $20-$50/month
 

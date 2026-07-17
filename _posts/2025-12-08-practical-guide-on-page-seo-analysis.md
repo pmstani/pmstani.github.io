@@ -374,7 +374,7 @@ For every important page on your site, verify each element:
 
 Rather than manually checking each element on every page, build a systematic workflow:
 
-1. **Use browser-based analysis for spot checks.** [SEO for Safari](/apps/seo-for-safari/) lets you analyze any page instantly — your own or competitors'. Make it a habit to run a quick analysis on every page you publish.
+1. **Use browser-based analysis for spot checks.** [SEO for Safari](/apps/seo-for-safari/) lets you analyze any page instantly — your own or competitors'. Make it a habit to run a quick analysis on every page you publish. If you work on a Mac, our roundup of [Safari SEO extensions](/blog/safari-extensions/best-safari-seo-extensions-tools-mac/) covers the rest of the browser-side toolkit and where it stops being the right instrument.
 
 2. **Extract and audit links periodically.** [Link Gopher](/apps/link-gopher/) makes link extraction a one-click operation. Run it monthly on your most important pages to verify internal linking is healthy.
 
