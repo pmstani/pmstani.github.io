@@ -1,0 +1,49 @@
+{% comment %}
+  Compact bottom bar for viewports too narrow for the sidebar card. Slides in
+  once the reader is ~25% down the page and stays dismissed for the session.
+{% endcomment %}
+{% if include.app_slug %}
+  {% for app in site.data.apps %}
+    {% if app.slug == include.app_slug %}
+<div class="app-cta-bar" id="app-cta-bar" data-cta-key="app-cta-dismissed:{{ app.slug }}" role="complementary" aria-label="{{ app.name }}">
+  <img class="app-cta-bar-icon" src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="" width="40" height="40" loading="lazy">
+  <div class="app-cta-bar-text">
+    <span class="app-cta-bar-name">{{ app.name }}</span>
+    <span class="app-cta-bar-tagline">{{ app.tagline }}</span>
+  </div>
+  <a class="blog-cta-button app-cta-bar-button" href="https://apps.apple.com/app/id{{ app.id }}" target="_blank" rel="noopener noreferrer">Download</a>
+  <button class="app-cta-bar-dismiss" type="button" aria-label="Dismiss">&times;</button>
+</div>
+<script>
+(function () {
+  var bar = document.getElementById('app-cta-bar');
+  if (!bar) { return; }
+  var key = bar.getAttribute('data-cta-key');
+
+  /* sessionStorage throws in private-mode Safari and when storage is blocked,
+     so every access goes through here and a failure just means "not dismissed". */
+  function session(fn) {
+    try { return fn(window.sessionStorage); } catch (e) { return null; }
+  }
+
+  if (session(function (s) { return s.getItem(key); })) { bar.remove(); return; }
+
+  function onScroll() {
+    var max = document.documentElement.scrollHeight - window.innerHeight;
+    if (max <= 0 || window.pageYOffset / max < 0.25) { return; }
+    bar.classList.add('is-visible');
+    window.removeEventListener('scroll', onScroll);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
+  bar.querySelector('.app-cta-bar-dismiss').addEventListener('click', function () {
+    bar.classList.remove('is-visible');
+    session(function (s) { s.setItem(key, '1'); });
+    window.setTimeout(function () { bar.remove(); }, 400);
+  });
+}());
+</script>
+    {% endif %}
+  {% endfor %}
+{% endif %}

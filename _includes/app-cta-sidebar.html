@@ -1,0 +1,29 @@
+{% comment %}
+  Sticky desktop-only app card. Lives in the dead space beside the article
+  column so early-bouncing readers still get a Download link above the fold.
+  Hidden below the sidebar breakpoint — the mobile equivalent is
+  _includes/app-cta-sticky-bar.html.
+{% endcomment %}
+{% if include.app_slug %}
+  {% for app in site.data.apps %}
+    {% if app.slug == include.app_slug %}
+<aside class="app-cta-sidebar" aria-label="Featured app">
+  <div class="app-cta-sidebar-card">
+    <img class="app-cta-sidebar-icon" src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" width="76" height="76" loading="lazy">
+    <p class="app-cta-sidebar-eyebrow">Featured app</p>
+    <p class="app-cta-sidebar-name">{{ app.name }}</p>
+    <p class="app-cta-sidebar-tagline">{{ app.tagline }}</p>
+    {% if app.features %}
+    <ul class="app-cta-sidebar-features">
+      {% for feature in app.features limit: 3 %}
+      <li>{{ feature }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <a href="https://apps.apple.com/app/id{{ app.id }}" class="blog-cta-button app-cta-sidebar-button" target="_blank" rel="noopener noreferrer">Download</a>
+    <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" class="app-cta-sidebar-more">Learn more</a>
+  </div>
+</aside>
+    {% endif %}
+  {% endfor %}
+{% endif %}

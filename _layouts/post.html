@@ -74,6 +74,11 @@
     <div class="container">
       {% include breadcrumbs.html %}
 
+      {% comment %} The post's first related app is the one both CTAs promote. {% endcomment %}
+      {% assign featured_app = page.related_apps | first %}
+      {% comment %} The wrapper only becomes a two-column grid when there is a
+        card to put in the second column; otherwise the article stays centred. {% endcomment %}
+      <div class="post-layout{% if featured_app %} post-layout-cta{% endif %}">
       <article class="blog-post">
         <header class="blog-post-header">
           <div class="blog-post-meta">
@@ -104,6 +109,11 @@
         </div>
         {% endif %}
       </article>
+
+        {% if featured_app %}
+        {% include app-cta-sidebar.html app_slug=featured_app %}
+        {% endif %}
+      </div>
 
       {% assign silo_posts = site.posts | where: "silo", page.silo %}
       {% if silo_posts.size > 1 %}
@@ -140,5 +150,9 @@
       </div>
     </div>
   </footer>
+
+  {% if featured_app %}
+  {% include app-cta-sticky-bar.html app_slug=featured_app %}
+  {% endif %}
 </body>
 </html>
