@@ -1,9 +1,9 @@
-<link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
-<link id="favicon-32" rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
-<link id="favicon-16" rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
-<link rel="manifest" href="img/site.webmanifest">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/img/apple-touch-icon.png' | relative_url }}">
+<link id="favicon-32" rel="icon" type="image/png" sizes="32x32" href="{{ '/img/favicon-32x32.png' | relative_url }}">
+<link id="favicon-16" rel="icon" type="image/png" sizes="16x16" href="{{ '/img/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/img/site.webmanifest' | relative_url }}">
+<meta name="msapplication-TileColor" content="#8c3226">
+<meta name="theme-color" content="#f3e9d2">
 <script>
   window.__appIcons = [
     {% for app in site.data.apps %}"{{ '/img/apps/' | append: app.icon | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}

@@ -1,19 +1,19 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "iOS and Mac apps crafted with love",
+    "short_name": "PS Apps",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/img/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "/img/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#f3e9d2",
+    "background_color": "#f3e9d2",
     "display": "standalone"
 }
