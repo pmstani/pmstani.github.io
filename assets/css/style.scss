@@ -795,29 +795,16 @@ a.blog-cta-button,
   font-size: 0.72rem;
 }
 
-/* beat `.blog-post-content a` (seal + underline), which comes later in the cascade */
+/* The button pattern above is un-scoped so a CTA styles correctly wherever it lands.
+   Inside prose it needs these two back: `.blog-post-content a` (seal + underline) ties
+   on specificity with the shared button rules and wins on source order alone. Bumping
+   to (0,2,1) settles it. Only `color` and `text-decoration` collide — the shared
+   `:hover`/`:active` rules are already (0,2,1) and need no help here. */
 .blog-post-content a.blog-cta-button,
 .pillar-content a.blog-cta-button,
 .app-detail-seo-content a.blog-cta-button {
   color: var(--paper-light);
-  background: var(--ink);
-  border-color: var(--ink);
   text-decoration: none;
-}
-.blog-post-content a.blog-cta-button:hover,
-.pillar-content a.blog-cta-button:hover,
-.app-detail-seo-content a.blog-cta-button:hover {
-  background: var(--seal);
-  color: var(--paper-light);
-  border-color: var(--seal);
-  box-shadow: 2px 2px 0 var(--seal);
-  text-decoration: none;
-}
-.blog-post-content a.blog-cta-button:active,
-.pillar-content a.blog-cta-button:active,
-.app-detail-seo-content a.blog-cta-button:active {
-  transform: translate(2px, 2px);
-  box-shadow: 0 0 0 var(--seal);
 }
 
 /* ==========================================================================
