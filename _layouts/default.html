@@ -6,6 +6,9 @@
 
     {% seo %}
 
+    <!-- Match the homepage's warm day/night palette before paint -->
+    <script>(function(){var h=new Date().getHours();document.documentElement.setAttribute('data-time',(h>=20||h<6)?'night':'day');})();</script>
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% include favicon.html %}
     {% include google-analytics.html %}
