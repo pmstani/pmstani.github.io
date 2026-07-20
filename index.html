@@ -17,103 +17,114 @@ layout: null
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <!-- Set season + day/night before paint so the plate never flashes the wrong palette -->
+  <script>
+    (function () {
+      var d = new Date(), h = d.getHours(), m = d.getMonth();
+      var t = (h >= 20 || h < 6) ? 'night' : 'day';
+      var s = (m >= 2 && m <= 4) ? 'spring' : (m >= 5 && m <= 7) ? 'summer' : (m >= 8 && m <= 10) ? 'autumn' : 'winter';
+      var r = document.documentElement;
+      r.setAttribute('data-time', t);
+      r.setAttribute('data-season', s);
+    })();
+  </script>
+
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
   {% include favicon.html %}
   {% include google-analytics.html %}
 </head>
 <body>
+{%- assign safari_count = 0 -%}
+{%- for app in site.data.apps -%}{%- if app.category == "safari-extensions" -%}{%- assign safari_count = safari_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
 
   <!-- ====================================================================
-       Hero Section
+       PLATE I — Arbor Applicationum (the living tree hero)
        ==================================================================== -->
-  <section class="hero">
-    <div class="hero-orb hero-orb--1"></div>
-    <div class="hero-orb hero-orb--2"></div>
-    <div class="hero-orb hero-orb--3"></div>
-
-    <div class="hero-constellation" aria-hidden="true">
-      {%- for app in site.data.apps -%}
-        {%- if app.slug and app.icon -%}
-          {%- assign seed1 = app.slug | size | times: 47 | plus: forloop.index | times: 13 -%}
-          {%- assign seed2 = app.slug | size | times: 31 | plus: forloop.index | times: 19 -%}
-          {%- assign x = seed1 | modulo: 90 | plus: 5 -%}
-          {%- assign y = seed2 | modulo: 80 | plus: 10 -%}
-          {%- assign layer_idx = forloop.index0 | modulo: 3 -%}
-          {%- case layer_idx -%}
-            {%- when 0 -%}{%- assign layer = 'back' -%}
-            {%- when 1 -%}{%- assign layer = 'mid' -%}
-            {%- when 2 -%}{%- assign layer = 'front' -%}
-          {%- endcase -%}
-          <a class="hero-icon hero-icon--{{ layer }}"
-             href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}"
-             tabindex="-1"
-             data-name="{{ app.name | escape }}"
-             style="--x:{{ x }}%; --y:{{ y }}%;">
-            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}"
-                 alt=""
-                 loading="{% if layer == 'front' %}eager{% else %}lazy{% endif %}"
-                 width="80" height="80">
-            <span class="hero-icon-tooltip">{{ app.name }}</span>
-          </a>
-        {%- endif -%}
-      {%- endfor -%}
+  <section class="plate">
+    <div class="plate__scene">
+      <svg id="tree-root" class="tree" aria-hidden="true" focusable="false" role="presentation"></svg>
     </div>
-    <script defer src="{{ '/assets/js/hero-constellation.js' | relative_url }}"></script>
+    <div class="plate__particles" id="tree-particles" aria-hidden="true"></div>
 
-    <div class="hero-content">
-      <h1 class="hero-title">
-        Crafting apps that<br>
-        <span class="hero-title-accent">make a difference</span>
-      </h1>
-      <p class="hero-subtitle">
-        Independent iOS &amp; macOS developer since 2007 &mdash; {{ site.data.apps | size }}+ apps on the App Store
+    <div class="plate__heading">
+      <!-- engraved cumulus cartouche: scalloped outline + hatched underside -->
+      <svg class="plate__cloud" viewBox="-6 -10 612 424" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+        <path class="cloud__body" vector-effect="non-scaling-stroke" d="M 75 42
+          a 42 32 0 0 1 78 -3 a 52 40 0 0 1 96 1 a 38 30 0 0 1 68 -4 a 58 42 0 0 1 110 3 a 50 36 0 0 1 98 3
+          a 40 36 0 0 1 33 33
+          a 36 44 0 0 1 2 82 a 40 50 0 0 1 -3 92 a 34 42 0 0 1 1 81
+          a 38 34 0 0 1 -30 32
+          a 50 38 0 0 1 -95 2 a 55 40 0 0 1 -105 -3 a 40 32 0 0 1 -70 3 a 52 38 0 0 1 -100 -2 a 44 34 0 0 1 -80 0
+          a 38 36 0 0 1 -32 -30
+          a 36 46 0 0 1 -2 -88 a 40 50 0 0 1 3 -92 a 34 42 0 0 1 -1 -80
+          a 36 34 0 0 1 29 -30 Z"/>
+        <path class="cloud__hatch" vector-effect="non-scaling-stroke" d="M 96 336 l 30 12 M 140 342 l 30 12 M 186 346 l 30 11 M 232 349 l 30 10 M 280 350 l 30 9 M 328 350 l 30 9 M 376 348 l 30 10 M 424 344 l 30 11 M 470 338 l 28 12"/>
+      </svg>
+      <span class="plate__eyebrow smallcaps">Plate I. — Arbor Applicationum &middot; Est. 2007</span>
+      <h1 class="plate__title">Crafting apps that <span class="accent">make a difference</span></h1>
+      <p class="plate__subtitle">
+        Independent iOS &amp; macOS developer since 2007 &mdash;
+        <strong>{{ site.data.apps | size }}+</strong> apps on the App Store
       </p>
-      <div class="hero-buttons">
-        <a href="#apps" class="btn btn-primary">Browse Apps</a>
-        <a href="{{ '/blog/' | relative_url }}" class="btn btn-secondary">Read the Blog</a>
+      <div class="plate__actions">
+        <a href="#apps" class="letterpress letterpress--filled">Browse Apps</a>
+        <a href="{{ '/blog/' | relative_url }}" class="letterpress">Read the Blog</a>
+      </div>
+    </div>
+
+    <aside class="plate__legend" aria-hidden="true">
+      <p class="legend__title smallcaps">Index of Limbs</p>
+      <div id="tree-legend"></div>
+    </aside>
+
+    <div class="plate__specimen" aria-label="Collection at a glance">
+      <div class="specimen__cell">
+        <div class="specimen__num">{{ site.data.apps | size }}+</div>
+        <span class="specimen__lbl">Apps</span>
+      </div>
+      <div class="specimen__cell">
+        <div class="specimen__num">2007</div>
+        <span class="specimen__lbl">Since</span>
+      </div>
+      <div class="specimen__cell">
+        <div class="specimen__num">{{ safari_count }}</div>
+        <span class="specimen__lbl">Safari Extensions</span>
+      </div>
+      <div class="specimen__cell">
+        <div class="specimen__num">2</div>
+        <span class="specimen__lbl">Platforms</span>
       </div>
     </div>
   </section>
 
-  <!-- ====================================================================
-       Stats Bar
-       ==================================================================== -->
-  <section class="stats-bar">
-    <div class="container">
-      <div class="stats-grid">
-        <div class="stat-item">
-          <div class="stat-number">{{ site.data.apps | size }}+</div>
-          <div class="stat-label">Apps</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-number">2007</div>
-          <div class="stat-label">Since</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-number">{% assign safari_count = 0 %}{% for app in site.data.apps %}{% if app.category == "safari-extensions" %}{% assign safari_count = safari_count | plus: 1 %}{% endif %}{% endfor %}{{ safari_count }}</div>
-          <div class="stat-label">Safari Extensions</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-number">2</div>
-          <div class="stat-label">Platforms</div>
-        </div>
-      </div>
-    </div>
-  </section>
+  <p class="plate__caption">
+    <span class="fig">Fig. 1 &mdash;</span> The tree grows a new branch with every app published;
+    drawn afresh from living data.
+    <span class="plate__season-note" id="season-note"></span>
+  </p>
+
+  <!-- Data island consumed by tree.js. The `_first` flag guarantees commas fall
+       only between rendered entries, so the JSON stays valid even if a future
+       app row is missing a slug or icon. -->
+  <script id="orchard-data" type="application/json">
+[{% assign _first = true %}{% for app in site.data.apps %}{% if app.slug and app.icon %}{% unless _first %},{% endunless %}{"name": {{ app.name | jsonify }}, "slug": {{ app.slug | jsonify }}, "icon": {{ app.icon | jsonify }}, "tagline": {{ app.tagline | jsonify }}, "category": {{ app.category | jsonify }}}{% assign _first = false %}{% endif %}{% endfor %}]
+  </script>
 
   <!-- ====================================================================
-       App Grid Section
+       PLATE II — Index of Specimens (the app grid anchor)
        ==================================================================== -->
   <section class="apps-section section" id="apps">
     <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">Apps</h2>
-        <p class="section-subtitle">
+      <div class="plate-heading">
+        <span class="overline smallcaps">Plate II &mdash; Index of Specimens</span>
+        <h2>Apps</h2>
+        <p class="lede">
           A growing collection of carefully crafted iOS &amp; macOS applications, from Safari extensions to productivity tools and beyond.
         </p>
+        <div class="rule-orn">&#10086;</div>
       </div>
 
-      <!-- Category Filter Pills -->
+      <!-- Category filter (specimen tags) -->
       <div class="category-filters" role="tablist" aria-label="Filter apps by category">
         <button class="category-pill active" data-category="all" role="tab" aria-selected="true">All</button>
         <button class="category-pill" data-category="safari-extensions" role="tab" aria-selected="false">Safari Extensions</button>
@@ -126,12 +137,12 @@ layout: null
         <button class="category-pill" data-category="social-media" role="tab" aria-selected="false">Social Media</button>
       </div>
 
-      <!-- App Cards Grid -->
+      <!-- Herbarium specimen cards -->
       <div class="app-grid">
         {% for app in site.data.apps %}
         <div class="app-card" data-category="{{ app.category }}">
           <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" title="{{ app.name }}">
-            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-card-icon" loading="lazy" width="72" height="72">
+            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-card-icon" loading="lazy" width="60" height="60">
             <div class="app-card-name">{{ app.name }}</div>
             <div class="app-card-tagline">{{ app.tagline }}</div>
             <span class="app-card-category">{{ app.category | replace: '-', ' ' }}</span>
@@ -143,11 +154,13 @@ layout: null
   </section>
 
   <!-- ====================================================================
-       Privacy Section
+       PLATE III — On Privacy (colophon anchor)
        ==================================================================== -->
   <section class="privacy-section" id="privacy">
     <div class="container">
+      <div class="ornament" aria-hidden="true">&#8259;</div>
       <div class="privacy-content">
+        <span class="overline smallcaps" style="display:block;text-align:center;margin-bottom:.6rem;">Plate III &mdash; On Privacy</span>
         <h2>Privacy Policy</h2>
         <p class="privacy-intro">
           Your privacy is critically important to us. Your data is your own. We make no claims to it and will only use it according to the policies outlined below.
@@ -190,6 +203,7 @@ layout: null
   <footer class="site-footer">
     <div class="container">
       <div class="footer-content">
+        <div class="wax-seal" aria-hidden="true"><span>PS</span></div>
         <div class="footer-links">
           <a href="#privacy">Privacy Policy</a>
           <a href="mailto:ps.applecontact@gmail.com">Contact</a>
@@ -204,30 +218,25 @@ layout: null
     </div>
   </footer>
 
-  <!-- ====================================================================
-       Category Filter Script
-       ==================================================================== -->
-  <script>
-  (function() {
-    'use strict';
+  <!-- Grow the tree -->
+  <script defer src="{{ '/assets/js/tree.js' | relative_url }}"></script>
 
+  <!-- Category filter (unchanged behaviour) -->
+  <script>
+  (function () {
+    'use strict';
     var pills = document.querySelectorAll('.category-pill');
     var cards = document.querySelectorAll('.app-card');
-
-    pills.forEach(function(pill) {
-      pill.addEventListener('click', function() {
+    pills.forEach(function (pill) {
+      pill.addEventListener('click', function () {
         var category = this.getAttribute('data-category');
-
-        // Update active pill
-        pills.forEach(function(p) {
+        pills.forEach(function (p) {
           p.classList.remove('active');
           p.setAttribute('aria-selected', 'false');
         });
         this.classList.add('active');
         this.setAttribute('aria-selected', 'true');
-
-        // Filter cards
-        cards.forEach(function(card) {
+        cards.forEach(function (card) {
           if (category === 'all' || card.getAttribute('data-category') === category) {
             card.classList.remove('hidden');
           } else {
@@ -236,6 +245,19 @@ layout: null
         });
       });
     });
+  })();
+  </script>
+
+  <!-- Seasonal footnote under the plate -->
+  <script>
+  (function () {
+    var note = document.getElementById('season-note');
+    if (!note) return;
+    var r = document.documentElement;
+    var season = r.getAttribute('data-season');
+    var time = r.getAttribute('data-time');
+    var phrase = { spring: 'in first spring', summer: 'in high summer', autumn: 'in turning autumn', winter: 'in deep winter' }[season] || 'in season';
+    note.textContent = 'Observed ' + phrase + ', ' + (time === 'night' ? 'by lamplight.' : 'by day.');
   })();
   </script>
 

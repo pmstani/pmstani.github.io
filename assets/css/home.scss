@@ -1,0 +1,693 @@
+---
+---
+/* =============================================================================
+   Arbor Applicationum — The Living Tree Homepage
+   A 19th-century botanical engraving that is actually alive.
+   Scoped to the homepage only. Never imported by blog/app pages.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&display=swap');
+
+/* ---- Palette: iron-gall ink on warm aged paper -------------------------- */
+:root {
+  --paper:        #f3e9d2;
+  --paper-light:  #f7efdd;
+  --paper-shade:  #e7d9ba;
+  --ink:          #2b241c;
+  --ink-2:        #5a4c3a;
+  --ink-faint:    #8a795e;
+  --rule:         #c9b892;
+  --seal:         #8c3226;
+  --seal-deep:    #6f2419;
+  --moss:         #4a6741;
+  --ochre:        #c17817;
+
+  /* seasonal foliage (overridden per data-season below) */
+  --leaf:   #6b8f5a;
+  --leaf-2: #86a878;
+  --leaf-3: #4a6741;
+  --blossom:#e8b4b8;
+
+  --measure: 65ch;
+  --frame: clamp(12px, 2.2vw, 26px);
+
+  --font-display: 'Old Standard TT', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --font-body: 'Newsreader', Georgia, 'Times New Roman', serif;
+}
+
+/* ---- Seasons: leaf + blossom tints ------------------------------------- */
+:root[data-season="spring"] { --leaf:#8fae7a; --leaf-2:#a9c390; --leaf-3:#6f9a63; --blossom:#e8b4b8; }
+:root[data-season="summer"] { --leaf:#4a6741; --leaf-2:#6b8f5a; --leaf-3:#86a878; --blossom:#e8b4b8; }
+:root[data-season="autumn"] { --leaf:#c17817; --leaf-2:#a84b2f; --leaf-3:#d9a441; --blossom:#d98c3f; }
+:root[data-season="winter"] { --leaf:#9aa78c; --leaf-2:#b7bda9; --leaf-3:#8a795e; --blossom:#e7dcc4; }
+
+/* ---- Day / Night: night is warm lamplight, never blue ------------------- */
+:root[data-time="night"] {
+  --paper:        #1d1712;
+  --paper-light:  #241d15;
+  --paper-shade:  #150f0b;
+  --ink:          #e8dcc0;
+  --ink-2:        #c9b892;
+  --ink-faint:    #9c8a6c;
+  --rule:         #5a4a34;
+  --seal:         #d9694f;
+  --moss:         #8fa87e;
+  --ochre:        #e0a24a;
+}
+
+/* ---- Base --------------------------------------------------------------- */
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: clamp(17px, 1.6vw, 20px);
+  line-height: 1.65;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color .6s ease, color .6s ease;
+  /* faint paper grain + vignette */
+  background-image:
+    radial-gradient(120% 90% at 50% 0%, transparent 60%, rgba(43,36,28,.10) 130%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E");
+  background-attachment: fixed, scroll;
+}
+
+::selection { background: var(--seal); color: var(--paper-light); }
+
+a { color: var(--seal); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+.container { width: 92vw; max-width: 1180px; margin-inline: auto; }
+
+/* small-caps engraver's label */
+.smallcaps {
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: .22em;
+  font-size: .72rem;
+  font-weight: 500;
+  color: var(--ink-faint);
+}
+
+/* ============================================================================
+   PLATE I — the hero tree
+   ========================================================================== */
+.plate {
+  position: relative;
+  width: 100%;
+  /* one full plate view: frame, cloud, tree and its horizon all above the fold */
+  min-height: clamp(680px, 102vh, 1060px);
+  padding: var(--frame);
+  overflow: hidden;
+  isolation: isolate;
+}
+
+/* engraver's double-rule frame */
+.plate::before,
+.plate::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  z-index: 6;
+  border: 1px solid var(--ink);
+}
+.plate::before { inset: calc(var(--frame) * .5); }
+.plate::after  { inset: var(--frame); border-color: var(--ink-2); box-shadow: inset 0 0 0 1px var(--rule); }
+
+.plate__scene {
+  position: absolute;
+  inset: var(--frame);
+  z-index: 1;
+}
+/* on wide plates, push the tree right so the canopy stays clear of the cloud */
+@media (min-width: 701px) {
+  .plate__scene { left: calc(var(--frame) + clamp(0px, 15vw, 240px)); }
+}
+.plate__scene .tree {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* particles (leaves / snow) drift over the plate */
+.plate__particles {
+  position: absolute;
+  inset: var(--frame);
+  z-index: 4;
+  pointer-events: none;
+  overflow: hidden;
+}
+.particle {
+  position: absolute;
+  top: -6%;
+  will-change: transform;
+}
+.particle--leaf {
+  width: 11px; height: 11px;
+  border-radius: 0 100% 0 100%;
+  background: var(--leaf-2);
+  box-shadow: inset 0 0 0 1px rgba(43,36,28,.35);
+}
+.particle--snow {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--ink);
+  opacity: .55;
+}
+
+/* --- title cloud (top-left): an engraved cumulus carrying the cartouche --- */
+.plate__heading {
+  position: absolute;
+  top: calc(var(--frame) + clamp(34px, 4.5vw, 64px));
+  left: calc(var(--frame) + clamp(26px, 3.5vw, 60px));
+  z-index: 5;
+  max-width: 480px;
+  padding: clamp(20px, 2.2vw, 32px) clamp(24px, 2.7vw, 40px);
+  text-align: center;
+}
+.plate__cloud {
+  position: absolute;
+  top: -40px;
+  left: -45px;
+  width: calc(100% + 90px);
+  height: calc(100% + 80px);
+  z-index: -1;
+  pointer-events: none;
+  filter: drop-shadow(0 16px 26px rgba(43, 36, 28, .28));
+}
+.plate__cloud .cloud__body {
+  fill: var(--paper-light);
+  stroke: var(--ink);
+  stroke-width: 1.6;
+}
+.plate__cloud .cloud__hatch {
+  fill: none;
+  stroke: var(--ink-2);
+  stroke-width: 1;
+  stroke-linecap: round;
+  opacity: .4;
+}
+.plate__eyebrow { display: block; margin-bottom: .9rem; }
+
+.plate__title {
+  margin: 0 0 .5rem;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2.2rem, 4.6vw, 3.5rem);
+  line-height: 1.02;
+  letter-spacing: -.005em;
+  color: var(--ink);
+}
+.plate__title .accent { color: var(--seal); }
+
+.plate__subtitle {
+  margin: 0 auto 1.4rem;
+  font-size: 1.02rem;
+  color: var(--ink-2);
+  font-style: italic;
+  max-width: 42ch;
+}
+.plate__subtitle strong { font-style: normal; font-weight: 600; color: var(--ink); }
+
+/* letterpress buttons */
+.plate__actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .7rem; }
+.letterpress {
+  --_bg: var(--paper);
+  display: inline-block;
+  padding: .62rem 1.15rem;
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--_bg);
+  border: 1px solid var(--ink);
+  box-shadow: 2px 2px 0 var(--ink);
+  transition: transform .12s ease, box-shadow .12s ease, color .12s ease, background .12s ease;
+}
+.letterpress:hover { color: var(--seal); border-color: var(--seal); box-shadow: 2px 2px 0 var(--seal); }
+.letterpress:active { transform: translate(2px, 2px); box-shadow: 0 0 0 var(--seal); }
+.letterpress--filled { background: var(--ink); color: var(--paper-light); }
+.letterpress--filled:hover { background: var(--seal); color: var(--paper-light); border-color: var(--seal); }
+
+/* --- specimen label carrying the four stats (bottom-centre) --- */
+.plate__specimen {
+  position: absolute;
+  left: 50%;
+  bottom: calc(var(--frame) + clamp(20px, 4vh, 60px));
+  transform: translateX(-50%);
+  z-index: 5;
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  background: var(--paper-light);
+  border: 1px solid var(--ink);
+  box-shadow: 0 1px 0 var(--rule) inset, 0 12px 26px -18px rgba(43,36,28,.55);
+}
+.specimen__cell {
+  padding: .7rem clamp(.9rem, 1.6vw, 1.5rem);
+  text-align: center;
+  border-right: 1px solid var(--rule);
+}
+.specimen__cell:last-child { border-right: 0; }
+.specimen__num {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(1.3rem, 2.4vw, 1.9rem);
+  line-height: 1;
+  color: var(--ink);
+}
+.specimen__lbl {
+  display: block;
+  margin-top: .35rem;
+  font-size: .6rem;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  color: var(--ink-faint);
+}
+
+/* --- engraved category legend (top-right) --- */
+.plate__legend {
+  position: absolute;
+  top: calc(var(--frame) + clamp(18px, 3vw, 46px));
+  right: calc(var(--frame) + clamp(18px, 3vw, 52px));
+  z-index: 5;
+  min-width: 200px;
+  padding: .8rem 1rem 1rem;
+  background: var(--paper-light);
+  border: 1px solid var(--ink);
+  box-shadow: 0 1px 0 var(--rule) inset;
+}
+.plate__legend .legend__title {
+  margin: 0 0 .6rem;
+  padding-bottom: .45rem;
+  border-bottom: 1px solid var(--rule);
+}
+.legend__row {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  width: 100%;
+  padding: .28rem .2rem;
+  background: none;
+  border: 0;
+  font-family: var(--font-body);
+  color: var(--ink-2);
+  cursor: pointer;
+  text-align: left;
+}
+.legend__row:hover, .legend__row:focus-visible { color: var(--seal); outline: none; }
+.legend__swatch {
+  width: 12px; height: 12px; flex: none;
+  border-radius: 2px;
+  border: 1px solid var(--ink);
+}
+.legend__name {
+  flex: 1;
+  font-size: .78rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+.legend__count {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: .85rem;
+}
+
+/* figure caption under the frame */
+.plate__caption {
+  width: 92vw;
+  max-width: 1180px;
+  margin: 1.1rem auto 0;
+  font-style: italic;
+  font-size: .95rem;
+  color: var(--ink-2);
+  text-align: center;
+}
+.plate__caption .fig { font-style: normal; font-weight: 600; color: var(--ink); }
+.plate__season-note { color: var(--ink-faint); font-size: .85rem; }
+
+/* ============================================================================
+   The tree (SVG) — inked strokes, seasonal foliage, hanging fruit
+   ========================================================================== */
+.tree .branch { fill: var(--ink); stroke: none; }
+.tree .twig   { fill: none; stroke: var(--ink); stroke-linecap: round; }
+.tree .hatch  { stroke: var(--ink); stroke-width: 1; stroke-linecap: round; opacity: .5; fill: none; }
+.tree .ground { stroke: var(--ink); stroke-width: 2; fill: none; stroke-linecap: round; }
+
+.tree .leaf   { fill: var(--leaf); opacity: .9; stroke: var(--leaf-3); stroke-width: .6; }
+.tree .leaf--alt { fill: var(--leaf-2); }
+:root[data-season="winter"] .tree .leaf { opacity: .5; }
+
+.tree .fruit__stem { fill: none; stroke: var(--ink); stroke-width: 1.6; stroke-linecap: round; }
+.tree .fruit__ring { fill: none; stroke: var(--ink); stroke-width: 1.8; }
+.tree .fruit__halo { fill: var(--ochre); opacity: 0; }
+:root[data-time="night"] .tree .fruit__halo { opacity: .22; }
+.tree .fruit__blossom .petal { fill: var(--seal); opacity: .92; }
+.tree .fruit__blossom .pip { fill: var(--ochre); }
+
+/* fruit interaction: pendant bob on hover / focus */
+.tree .fruit { cursor: pointer; }
+.tree .fruit__body {
+  transform-box: fill-box;
+  transform-origin: 50% 8%;
+  transition: transform .28s cubic-bezier(.34,1.4,.5,1);
+}
+.tree .fruit:hover .fruit__body,
+.tree .fruit:focus-visible .fruit__body { transform: scale(1.15); }
+.tree .fruit:focus-visible .fruit__ring { stroke: var(--seal); stroke-width: 2.6; }
+
+/* night sky details */
+.tree .star    { fill: var(--ink-2); opacity: 0; }
+.tree .firefly { fill: var(--ochre); opacity: 0; }
+:root[data-time="night"] .tree .star { opacity: .5; }
+
+/* legend limb-highlight: fade everything but the focused category */
+.tree.has-focus .cat-group { opacity: .22; transition: opacity .3s ease; }
+.tree.has-focus .cat-group.is-focus { opacity: 1; }
+
+/* ============================================================================
+   MOTION — wind sway, growth, particles (all reduced-motion gated)
+   ========================================================================== */
+@media (prefers-reduced-motion: no-preference) {
+  .tree .sway {
+    animation: sway var(--dur, 8s) ease-in-out infinite alternate;
+    animation-delay: var(--delay, 0s);
+  }
+  @keyframes sway {
+    from { transform: rotate(calc(var(--amp, .6deg) * -1)); }
+    to   { transform: rotate(var(--amp, .6deg)); }
+  }
+
+  /* one-time growth: canopy sprouts up from the ground line */
+  .tree.is-growing #tree-canopy {
+    transform-box: view-box;
+    transform-origin: 0px 0px; /* trunk base sits at (0,0) in tree space */
+    animation: sprout 2.4s cubic-bezier(.18,.72,.24,1) forwards;
+  }
+  @keyframes sprout {
+    from { transform: scale(.62, .02); opacity: .15; }
+    60%  { opacity: 1; }
+    to   { transform: none; opacity: 1; }
+  }
+  /* fruits pop in with a little overshoot after their branch arrives */
+  .tree.is-growing .fruit__body {
+    animation: pop .5s var(--pop-delay, 1.5s) cubic-bezier(.2,1.5,.4,1) both;
+  }
+  @keyframes pop {
+    from { transform: scale(0); }
+    to   { transform: scale(1); }
+  }
+
+  @keyframes drift-leaf {
+    from { transform: translate(0, 0) rotate(0deg); }
+    to   { transform: translate(var(--dx, 40px), 112%) rotate(540deg); }
+  }
+  @keyframes drift-snow {
+    from { transform: translate(0,0); }
+    to   { transform: translate(var(--dx, 30px), 112%); }
+  }
+  .particle--leaf { animation: drift-leaf var(--dur, 9s) linear var(--delay, 0s) infinite; }
+  .particle--snow { animation: drift-snow var(--dur, 11s) linear var(--delay, 0s) infinite; }
+
+  @keyframes blink {
+    0%, 100% { opacity: 0; }
+    45%, 65% { opacity: .9; }
+  }
+  :root[data-time="night"] .tree .firefly {
+    animation: blink var(--dur, 5s) ease-in-out var(--delay, 0s) infinite;
+  }
+}
+
+/* reduced motion: fully grown, still, no particles */
+@media (prefers-reduced-motion: reduce) {
+  .plate__particles { display: none; }
+}
+
+/* ============================================================================
+   PLATE II — Index of Specimens (the app grid)
+   ========================================================================== */
+.section { padding: clamp(3.5rem, 8vw, 6.5rem) 0; }
+
+.plate-heading { text-align: center; margin-bottom: 2.6rem; }
+.plate-heading .overline { display: block; margin-bottom: .8rem; }
+.plate-heading h2 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--ink);
+}
+.plate-heading .lede {
+  max-width: 58ch;
+  margin: 1rem auto 0;
+  color: var(--ink-2);
+  font-style: italic;
+}
+.rule-orn {
+  display: flex; align-items: center; justify-content: center; gap: 1rem;
+  margin: 1.4rem auto 0;
+  color: var(--ink-faint);
+}
+.rule-orn::before, .rule-orn::after {
+  content: ""; height: 1px; width: 22vw; max-width: 120px; background: var(--rule);
+}
+
+/* specimen tags (category filters) */
+.category-filters {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: .55rem;
+  margin-bottom: 2.8rem;
+}
+.category-pill {
+  padding: .42rem .95rem;
+  font-family: var(--font-body);
+  font-size: .72rem;
+  text-transform: uppercase;
+  letter-spacing: .13em;
+  color: var(--ink-2);
+  background: var(--paper-light);
+  border: 1px solid var(--rule);
+  cursor: pointer;
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
+}
+.category-pill:hover { border-color: var(--ink); color: var(--ink); }
+.category-pill.active { color: var(--paper-light); background: var(--seal); border-color: var(--seal); }
+
+/* herbarium specimen cards */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: clamp(1rem, 2vw, 1.7rem);
+}
+.app-card { transition: transform .2s ease; }
+.app-card.hidden { display: none; }
+.app-card:nth-child(3n+1) { transform: rotate(-0.4deg); }
+.app-card:nth-child(3n+2) { transform: rotate(0.3deg); }
+.app-card:nth-child(4n)   { transform: rotate(0.5deg); }
+.app-card > a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+  padding: 1.15rem 1.15rem 1rem;
+  background: var(--paper-light);
+  border: 1px solid var(--rule);
+  text-decoration: none;
+  color: inherit;
+  transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease;
+}
+.app-card > a:hover {
+  transform: translateY(-2px);
+  border-color: var(--ink);
+  box-shadow: 0 10px 22px -16px rgba(43,36,28,.6);
+}
+.app-card-icon {
+  width: 60px; height: 60px;
+  border-radius: 13px;
+  border: 1px solid var(--rule);
+  margin-bottom: .85rem;
+}
+.app-card-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.08rem;
+  line-height: 1.15;
+  color: var(--ink);
+}
+.app-card-tagline {
+  margin-top: .3rem;
+  font-style: italic;
+  font-size: .92rem;
+  color: var(--ink-2);
+  flex: 1;
+}
+.app-card-category {
+  margin-top: .9rem;
+  font-size: .58rem;
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  color: var(--ink-faint);
+  padding-top: .55rem;
+  border-top: 1px solid var(--rule);
+  width: 100%;
+}
+
+/* ============================================================================
+   PLATE III — On Privacy (colophon)
+   ========================================================================== */
+.privacy-section { padding: clamp(3rem, 7vw, 5.5rem) 0 clamp(3.5rem, 8vw, 6rem); }
+.privacy-section .ornament {
+  text-align: center;
+  font-size: 1.6rem;
+  color: var(--ink-faint);
+  letter-spacing: .5em;
+  margin-bottom: 2rem;
+}
+.privacy-content {
+  max-width: var(--measure);
+  margin-inline: auto;
+}
+.privacy-content h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  text-align: center;
+  margin: 0 0 .4rem;
+}
+.privacy-content > .privacy-intro:first-of-type::first-letter {
+  font-family: var(--font-display);
+  float: left;
+  font-size: 3.6em;
+  line-height: .72;
+  padding: .06em .12em 0 0;
+  color: var(--seal);
+  font-weight: 700;
+  font-style: normal;
+}
+.privacy-content h3 {
+  margin: 2.2rem 0 .6rem;
+  padding-bottom: .4rem;
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  color: var(--ink);
+}
+.privacy-content p { margin: 0 0 1rem; color: var(--ink-2); }
+.privacy-content em { color: var(--ink-faint); }
+
+/* ============================================================================
+   Footer with wax seal
+   ========================================================================== */
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: clamp(2.4rem, 5vw, 3.6rem) 0 2.4rem;
+}
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+  text-align: center;
+}
+.wax-seal {
+  width: 76px; height: 76px;
+  display: grid; place-items: center;
+  border-radius: 50%;
+  color: var(--paper-light);
+  background:
+    radial-gradient(circle at 35% 30%, #b8543f, var(--seal) 45%, var(--seal-deep) 100%);
+  box-shadow:
+    0 0 0 2px var(--seal-deep),
+    0 0 0 4px transparent,
+    0 8px 16px -8px rgba(43,36,28,.6),
+    inset 0 -3px 6px rgba(0,0,0,.35),
+    inset 0 3px 5px rgba(255,255,255,.25);
+  font-family: var(--font-display);
+  position: relative;
+}
+.wax-seal::before {
+  content: "";
+  position: absolute; inset: 7px;
+  border-radius: 50%;
+  border: 1px dashed rgba(255,255,255,.4);
+}
+.wax-seal span {
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: .04em;
+  text-shadow: 0 1px 1px rgba(0,0,0,.35);
+}
+.footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.3rem; }
+.footer-links a {
+  color: var(--ink-2);
+  text-decoration: none;
+  font-size: .8rem;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+}
+.footer-links a:hover { color: var(--seal); }
+.footer-info { color: var(--ink-faint); font-size: .85rem; }
+.footer-copyright { font-style: italic; }
+.footer-tagline { margin-top: .2rem; letter-spacing: .05em; }
+
+/* ============================================================================
+   Responsive — mobile stacks the plate; tree never overflows horizontally
+   ========================================================================== */
+@media (max-width: 700px) {
+  .plate {
+    min-height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+    padding: calc(var(--frame) + .4rem);
+  }
+  .plate__heading,
+  .plate__legend,
+  .plate__specimen,
+  .plate__scene {
+    position: static;
+    inset: auto;
+    left: auto; right: auto; top: auto; bottom: auto;
+    transform: none;
+    max-width: 100%;
+    width: 100%;
+  }
+  /* relative, so the absolutely-inset svg fills the scene, not the plate;
+     height is a fallback — tree.js resizes the scene to the tree's aspect */
+  .plate__scene { order: 2; position: relative; height: 66vh; min-height: 240px; }
+  .plate__heading {
+    order: 1;
+    position: relative; /* keeps the absolute cloud anchored once the plate stacks */
+    max-width: 100%;
+    margin: 26px 4px 10px;
+    padding: 1.5rem 1.2rem 1.9rem;
+  }
+  .plate__cloud {
+    top: -24px;
+    left: -10px;
+    width: calc(100% + 20px);
+    height: calc(100% + 48px);
+  }
+  .plate__specimen { order: 3; align-self: center; }
+  .plate__legend { order: 4; }
+  .plate__particles { inset: var(--frame); }
+  .plate__title { font-size: clamp(2.2rem, 11vw, 3.2rem); }
+  .specimen__cell { padding: .55rem .7rem; }
+  .app-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+}
+
+@media (max-width: 420px) {
+  .plate__specimen { flex-wrap: wrap; }
+  .specimen__cell { flex: 1 1 40%; border-right: 0; border-bottom: 1px solid var(--rule); }
+}
