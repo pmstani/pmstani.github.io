@@ -777,11 +777,47 @@ a.blog-cta-button:hover,
   color: var(--ink);
 }
 
+/* the name + tagline live on their own line so the button can follow as a block */
+.blog-cta-text,
+.blog-post-content .blog-cta-text,
+.pillar-content .blog-cta-text,
+.app-detail-seo-content .blog-cta-text {
+  margin: 0 0 var(--space-sm);
+  font-size: inherit;
+  color: var(--ink-2);
+  line-height: 1.6;
+}
+
 a.blog-cta-button,
 .blog-cta-button {
-  margin-top: var(--space-sm);
+  display: inline-block;
   padding: 0.5rem 1.1rem;
   font-size: 0.72rem;
+}
+
+/* beat `.blog-post-content a` (seal + underline), which comes later in the cascade */
+.blog-post-content a.blog-cta-button,
+.pillar-content a.blog-cta-button,
+.app-detail-seo-content a.blog-cta-button {
+  color: var(--paper-light);
+  background: var(--ink);
+  border-color: var(--ink);
+  text-decoration: none;
+}
+.blog-post-content a.blog-cta-button:hover,
+.pillar-content a.blog-cta-button:hover,
+.app-detail-seo-content a.blog-cta-button:hover {
+  background: var(--seal);
+  color: var(--paper-light);
+  border-color: var(--seal);
+  box-shadow: 2px 2px 0 var(--seal);
+  text-decoration: none;
+}
+.blog-post-content a.blog-cta-button:active,
+.pillar-content a.blog-cta-button:active,
+.app-detail-seo-content a.blog-cta-button:active {
+  transform: translate(2px, 2px);
+  box-shadow: 0 0 0 var(--seal);
 }
 
 /* ==========================================================================
