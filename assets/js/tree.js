@@ -478,18 +478,45 @@
   tip.setAttribute('role', 'presentation');
   tip.style.cssText = 'position:fixed;z-index:50;pointer-events:none;opacity:0;transition:opacity .15s ease;' +
     'max-width:230px;padding:.5rem .7rem;background:var(--paper-light);border:1px solid var(--ink);' +
-    'box-shadow:0 8px 20px -12px rgba(43,36,28,.6);font-family:var(--font-body);line-height:1.35;' +
-    'transform:translate(-50%,-115%);';
+    'box-shadow:0 8px 20px -12px rgba(43,36,28,.6);font-family:var(--font-body);line-height:1.35;';
   document.body.appendChild(tip);
 
+  var TIP_GAP = 10;   /* clearance between the fruit and the tooltip */
+  var TIP_EDGE = 8;   /* minimum clearance kept from every viewport edge */
+
   function showTip(target, app) {
-    var rect = target.getBoundingClientRect();
     tip.innerHTML =
       '<strong style="font-family:var(--font-display);font-weight:700;color:var(--ink)">Fig. ' + app._fig + ' — ' + escapeHtml(app.name) + '</strong>' +
       '<br><em style="color:var(--ink-2)">' + escapeHtml(app.tagline || '') + '</em>' +
       (app._new ? '<br><span style="font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--seal)">Newly grafted</span>' : '');
-    tip.style.left = (rect.left + rect.width / 2) + 'px';
-    tip.style.top = (rect.top) + 'px';
+
+    /* park the box at x=0 so shrink-to-fit is measured against the whole
+       viewport rather than against whatever `left` the previous call left behind */
+    tip.style.left = '0px';
+
+    /* measure the target and the freshly filled tooltip in one read pass */
+    var rect = target.getBoundingClientRect();
+    var tipW = tip.offsetWidth;
+    var tipH = tip.offsetHeight;
+    var vw = window.innerWidth;
+    var vh = window.innerHeight;
+
+    /* vertical: above the fruit when it fits, otherwise flipped underneath */
+    var top = rect.top - tipH - TIP_GAP;
+    if (top < TIP_EDGE) {
+      top = rect.bottom + TIP_GAP;
+      if (top + tipH > vh - TIP_EDGE) top = vh - TIP_EDGE - tipH;
+      if (top < TIP_EDGE) top = TIP_EDGE;
+    }
+
+    /* horizontal: centred on the fruit, then clamped inside the viewport */
+    var left = rect.left + rect.width / 2 - tipW / 2;
+    var maxLeft = vw - TIP_EDGE - tipW;
+    if (left > maxLeft) left = maxLeft;
+    if (left < TIP_EDGE) left = TIP_EDGE;
+
+    tip.style.left = Math.round(left) + 'px';
+    tip.style.top = Math.round(top) + 'px';
     tip.style.opacity = '1';
   }
   function hideTip() { tip.style.opacity = '0'; }
