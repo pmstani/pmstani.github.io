@@ -1308,3 +1308,18 @@
   category: "productivity"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["wedding seating chart", "table plan", "seating plan", "escort cards", "place cards", "guest list", "RSVP", "reception", "event planning", "floor plan", "banquet", "gala"]
+
+- name: "SoundSpice"
+  slug: "soundspice"
+  id: "6794842042"
+  icon: "soundspice.png"
+  tagline: "Audio Enhancer & Noise Cleaner"
+  description: "SoundSpice takes a recording that sounds bad and hands it back clean. Drop in a file and it measures your audio, repairs what is actually wrong with it — mains hum, hiss, clipping, rumble, harsh sibilance, uneven levels — levels it to a loudness target, and shows you in real units exactly what it changed. Everything runs on your iPhone, iPad or Mac, with no networking code at all, and you buy it once."
+  features:
+    - "Automatic, analysis-driven repair: 50/60 Hz mains hum and its harmonics notched out, broadband noise and hiss reduced against a measured noise profile, clipped peaks reconstructed, rumble and DC offset removed, lopsided stereo repaired, sibilance tamed and tonal balance corrected by wide, gentle EQ"
+    - "Eight finishing blends — None, Natural, Voice, Warmth, Brightness, Punch, Depth and Vintage — each with Light, Medium and Strong intensity, switching instantly because the corrective pass is computed only once"
+    - "Measurements rather than adjectives: a log-axis spectrum comparison of original against processed, seven band levels over time with a live playhead, before-and-after integrated loudness (LUFS), true peak (dBTP), loudness range (LU) and noise floor (dBFS), and a plain-language report of what was found and applied"
+    - "Opens WAV, AIFF, CAF, MP3, AAC/M4A, ALAC, FLAC, Ogg Vorbis, Opus and the audio of MP4/MOV up to 192 kHz; exports M4A, ALAC, WAV, AIFF or FLAC with source metadata intact, normalized to −14 LUFS Streaming, −16 LUFS Podcast, −23 LUFS Broadcast or left as-is"
+  category: "utilities"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["audio enhancer", "remove background noise from audio", "noise reduction app", "podcast audio cleanup", "remove hum from recording", "voice memo cleanup", "audio repair", "loudness normalization", "LUFS", "declipper", "de-esser", "mastering app"]
