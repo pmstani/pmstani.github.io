@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [small-business, entrepreneur, business-apps, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit, calxport, mitre]
+related_apps: [equipt, safe, pdf-compressor, pdiff, transcribe, the-done-list, photo-to-pdf, vetkit, calxport, mitre, soundspice]
 ---
 
 ## Small Business Owners Wear Every Hat
@@ -83,6 +83,8 @@ Small business owners conduct a significant portion of their business through co
 The on-device processing is particularly important for business conversations. Client financial details, vendor pricing, and negotiation strategies are confidential. Processing this audio on your device, without uploading it to a cloud service, is a basic precaution that protects both your business and your clients.
 
 For detailed instructions, read [how to use AI to transcribe audio and voice notes on iPhone](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/).
+
+A phone left on a table across from a customer picks up the shop as much as the conversation: refrigeration units, extraction fans, the hum from overhead lighting. [SoundSpice](/apps/soundspice/) measures a recording like that, repairs the hum, hiss, and uneven levels it finds, and does it all on device, so a confidential conversation stays on the phone that recorded it. The walkthrough for a single phone recording is in [how to make a voice memo sound professional](/blog/utilities/make-voice-memo-sound-professional-iphone/).
 
 ### Legal Considerations for Recording
 

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [teleprompter, youtube, video, content-creation]
 silo: productivity
 pillar: productivity
-related_apps: [cuevoice]
+related_apps: [cuevoice, soundspice]
 ---
 
 Professional teleprompters used in broadcast news studios cost between $1,500 and $15,000. They consist of a monitor mounted below the camera lens, a sheet of beam-splitter glass angled at 45 degrees, and a hood that prevents ambient light from washing out the reflected text. The presenter reads the reflected script while looking directly into the camera lens — creating the impression of natural, unscripted delivery with perfect eye contact.
@@ -188,7 +188,7 @@ For a broader look at teleprompter options and content creation workflows, see t
 
 **Over-lighting the teleprompter screen.** A bright teleprompter screen can create visible reflections in your glasses (if you wear them) or cast a glow on your face. Reduce screen brightness to the minimum readable level.
 
-**Ignoring the audio pickup.** If your iPhone is running a voice-activated teleprompter, its microphone is picking up your voice. Your recording camera's microphone may also pick up ambient noise from the teleprompter iPhone. Use headphones or a directional microphone on your recording camera to prevent audio bleed.
+**Ignoring the audio pickup.** If your iPhone is running a voice-activated teleprompter, its microphone is picking up your voice. Your recording camera's microphone may also pick up ambient noise from the teleprompter iPhone. Use headphones or a directional microphone on your recording camera to prevent audio bleed. Deal with whatever still lands in the take before you edit: [a 50 or 60 Hz mains hum from your lighting](/blog/utilities/how-to-remove-hum-buzz-from-recording-50-60hz/) is one of the few audio problems that comes out almost completely after the fact, because it sits at known frequencies rather than across the whole recording.
 
 **Not rehearsing.** Reading a teleprompter script cold produces stilted delivery. Read through the entire script at least once — ideally twice — before recording. The first read-through catches tongue twisters, awkward phrasing, and pacing issues. The second builds familiarity so your delivery sounds conversational rather than first-read.
 

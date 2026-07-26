@@ -8,7 +8,7 @@ categories: [digital-privacy-security]
 tags: [privacy, audit, security, data-protection]
 silo: digital-privacy-security
 pillar: digital-privacy-security
-related_apps: [panicvault, local-weather-yawa, clean-genie]
+related_apps: [panicvault, local-weather-yawa, clean-genie, redirect-map-for-safari, soundspice]
 ---
 
 In 2024, the average person had 168 online accounts, according to NordPass's annual password report. Each account holds some combination of name, email address, phone number, physical address, payment information, browsing history, purchase history, location data, and behavioral patterns. When a single one of those accounts is breached, that data enters circulation in underground markets. When multiple accounts share the same password — which 65% of people admit to, according to a 2023 Google/Harris Poll survey — a single breach cascades into access to dozens of services.
@@ -82,6 +82,8 @@ Weather apps are among the worst offenders for unnecessary data collection. A 20
 2. Revoke access from any app that does not need it.
 3. Pay special attention to apps that have microphone access but are not audio or video apps — a note-taking app or shopping app with microphone access is a red flag.
 
+Permissions only govern capture. What happens to a recording afterward is a separate question: a browser-based tool that cleans up or converts audio uploads the whole file to someone else's server, which is a wider exposure than the microphone permission that produced it. [On-device audio processing vs cloud audio tools](/blog/utilities/on-device-audio-processing-vs-cloud-audio-tools-privacy/) covers how to tell which kind you are using.
+
 ### Contacts Access
 
 1. Go to **Settings > Privacy & Security > Contacts**.
@@ -101,6 +103,8 @@ Location data is the most sensitive category of personal data because it reveals
 2. **Google Account:** Visit myactivity.google.com in Safari. Review Location History, Web & App Activity, and YouTube History. Google aggregates this data across all its services to build a comprehensive profile.
 
 3. **Apple Maps:** Apple's approach is more privacy-focused — location data is processed on-device and not linked to your Apple ID. However, review **Settings > Privacy & Security > Location Services > System Services > Significant Locations** to see what Apple has recorded on your device.
+
+The specific differences between the two services are broken down in [Apple Maps vs Google Maps: privacy and data collection](/blog/safari-extensions/apple-maps-vs-google-maps-privacy-data-collection/). If much of your Google Maps use is involuntary — an address in an email, a search result that opens Google's map page the moment you tap it in Safari — [Redirect Map for Safari](/apps/redirect-map-for-safari/) opens those links in Apple Maps instead. It changes no system default and only affects links you tap inside Safari, but it stops a steady trickle of place lookups from reaching your Google account in the first place.
 
 ### Social Media Location Exposure
 

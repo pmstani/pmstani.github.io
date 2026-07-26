@@ -7,7 +7,7 @@ categories: [health-wellness]
 tags: [doctor, appointment, chronic-illness, health-data, medical, advocacy, iphone]
 silo: health-wellness
 pillar: health-wellness
-related_apps: [symptom-log, health-export, transcribe, my-agenda-planning, mental-health-happysteps, biggerkeys]
+related_apps: [symptom-log, health-export, transcribe, my-agenda-planning, mental-health-happysteps, biggerkeys, soundspice]
 ---
 
 The average specialist appointment lasts 15 to 20 minutes, according to research published in the *Annals of Internal Medicine*. The Agency for Healthcare Research and Quality (AHRQ) reports that people with chronic conditions see an average of four to seven different specialists. Do the math: if you see five specialists twice a year, that is roughly 100 to 200 minutes -- less than three and a half hours of total face time annually with the people responsible for managing your health.
@@ -124,6 +124,8 @@ The fix is simple: with your doctor's permission, record the appointment. Most p
 2. **Start recording before the discussion begins.** Do not fumble with the app mid-conversation.
 3. **Review the transcript within 24 hours.** Highlight action items: medication changes, tests ordered, referral instructions, lifestyle recommendations.
 4. **Share with caregivers if appropriate.** If a family member helps manage your care, the transcript ensures they have accurate information rather than your paraphrased recollection.
+
+Consultation rooms are not built for recording. Ventilation, corridor noise, and a clinician talking toward a screen rather than toward your phone all make a recording harder to follow on playback and harder to transcribe accurately. If a recording needs cleaning up before you can use it, where that processing happens matters as much as the result -- a consultation is not something to upload to a web audio tool, which is the argument for [on-device audio processing over cloud audio tools](/blog/utilities/on-device-audio-processing-vs-cloud-audio-tools-privacy/).
 
 Having a transcript also resolves a common source of frustration: conflicting instructions from multiple specialists. When Doctor A says one thing and Doctor B says another, you have documented records of both conversations to bring to the discussion.
 

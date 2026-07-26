@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [teleprompter, content-creation, public-speaking, video]
 silo: productivity
 pillar: productivity
-related_apps: [cuevoice]
+related_apps: [cuevoice, soundspice]
 ---
 
 When President Barack Obama delivered his 2009 inaugural address to an audience of 1.8 million people on the National Mall, he read every word from a teleprompter. The glass panels flanking the podium reflected scrolling text from monitors at the base, allowing him to maintain eye contact with the crowd while delivering a 2,400-word speech without a single visible glance at notes. The audience saw a leader speaking from the heart. The technology was invisible.
@@ -169,13 +169,14 @@ Divide long scripts into clearly marked sections separated by blank lines or hor
 
 **Forgetting to look natural.** New teleprompter users sometimes lock their gaze on the text and forget to blink, nod, gesture, or express emotion. Practice until you can read the text while maintaining natural facial expressions and body language.
 
-**Ignoring audio quality.** A teleprompter improves visual delivery but does nothing for audio. Pair your teleprompter setup with a decent external microphone — a $30 lavalier mic produces dramatically better audio than the phone's built-in microphone at recording distances.
+**Ignoring audio quality.** A teleprompter improves visual delivery but does nothing for audio. Pair your teleprompter setup with a decent external microphone — a $30 lavalier mic produces dramatically better audio than the phone's built-in microphone at recording distances. Whatever the room adds anyway — a refrigerator compressor, traffic through a window, a faint buzz from the lights — is usually easier to [remove from the recording afterward](/blog/utilities/how-to-remove-background-noise-from-audio-recording/) than to eliminate on the day.
 
 ## Integrating Teleprompting Into Your Content Workflow
 
 A teleprompter app fits naturally into a broader content creation pipeline:
 
 - **Script writing:** Draft your script in Google Docs — use [New](/blog/productivity/how-to-quickly-create-new-google-docs-from-anywhere/) to start a fresh document instantly — then import it into the teleprompter.
+- **Audio cleanup:** Before you publish or transcribe, run the recording through an audio enhancer. [SoundSpice](/apps/soundspice/) measures a finished file for hum, hiss, clipping and uneven loudness, repairs what it finds entirely on device, and shows you the before and after numbers — so a good take is not undone by the room it was recorded in.
 - **Post-recording transcription:** After recording, use [AI transcription](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/) to generate a text version of your delivered script. This captures the ad-libs and rephrasing you did during recording and makes a better basis for blog posts and show notes than the original script.
 - **Production tracking:** Log each completed recording session in your [Done List](/blog/productivity/the-done-list-method-why-tracking-accomplishments-beats-to-do-lists/) to maintain momentum on your publishing schedule.
 - **Document creation:** Turn transcripts into Google Docs for editing and collaboration, or [convert photos of storyboards and notes to PDF](/blog/productivity/how-to-convert-photos-to-pdf-on-iphone-without-extra-apps-and-with/) for reference during production.

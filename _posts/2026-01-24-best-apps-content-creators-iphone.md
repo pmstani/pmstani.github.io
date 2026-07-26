@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [content-creation, youtube, creators, video, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport, mitre]
+related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport, mitre, soundspice]
 ---
 
 ## The Creator Economy Runs on Smartphones
@@ -49,6 +49,7 @@ For detailed transcription techniques, see [how to use AI to transcribe audio an
 - **Record in a quiet environment.** Background noise below 40 dB produces the best results. Close windows, turn off fans, and move away from HVAC vents.
 - **Use an external microphone.** A $30 lavalier mic captures dramatically cleaner audio than the iPhone's built-in microphone. The investment pays for itself with the first transcript.
 - **Speak clearly but naturally.** Over-enunciation sounds robotic. Normal conversational clarity is sufficient for modern AI transcription.
+- **Repair the takes you cannot shoot again.** A conference interview or a one-take vlog gets no second attempt. [SoundSpice](/apps/soundspice/) measures a finished recording for hum, hiss, clipping and uneven loudness and repairs what it finds on device, which improves the transcript and the published audio in the same pass.
 
 ## Reference Image Display: Keeping Visual Guides on Screen
 
@@ -112,7 +113,7 @@ The individual tools above are useful in isolation, but they deliver the most va
 
 ### Post-Production
 
-5. **Transcription.** Run the recording through [Transcribe](/apps/transcribe/) to generate a text version of the content.
+5. **Transcription.** Run the recording through [Transcribe](/apps/transcribe/) to generate a text version of the content. If the room was noisy, [remove the background noise from the recording](/blog/utilities/how-to-remove-background-noise-from-audio-recording/) first — a cleaner file transcribes more accurately and sounds better in the published cut.
 6. **Repurposing.** Extract quotes for social media. Expand the transcript into a blog post. Pull timestamps for chapter markers.
 7. **Document conversion.** Digitize any physical production documents with [Photo to PDF](/apps/photo-to-pdf/).
 8. **Platform optimization.** Format ultra-wide content for Instagram with [Ultra Wide Insta](/apps/ultra-wide-insta/).

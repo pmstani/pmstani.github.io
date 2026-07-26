@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [ai, privacy, on-device, cloud-computing, machine-learning]
 silo: productivity
 pillar: productivity
-related_apps: [extension-ai, transcribe, tinnitus-ai, vetkit]
+related_apps: [extension-ai, transcribe, tinnitus-ai, vetkit, soundspice]
 ---
 
 Two years ago, running a large language model on a smartphone was a research curiosity. Today, Apple Intelligence processes requests locally on the A17 Pro and M-series chips. Google's Gemini Nano runs on Pixel devices without touching a server. Samsung has embedded on-device AI into its Galaxy lineup. Meanwhile, cloud AI services from OpenAI, Anthropic, and Google continue to push the boundaries of what is possible with models too large to fit on any consumer device.
@@ -183,6 +183,8 @@ This one is straightforward: on-device AI works without internet. Cloud AI does 
 The practical importance depends on your circumstances. If you reliably have fast internet, the offline advantage is minimal. If you frequently work in areas with poor connectivity -- aircraft, rural locations, underground transit, buildings with poor reception -- on-device AI is the only option that works consistently.
 
 For apps that process audio, this distinction matters particularly. An on-device transcription tool works in airplane mode. A cloud-based one requires you to record now and transcribe later. For [real-time audio processing](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/), on-device is often the only viable approach regardless of connectivity, because streaming audio to a cloud server and back introduces latency that breaks the real-time interaction.
+
+The same architectural argument holds for audio work that involves no machine learning at all. Repairing a recording -- measuring its noise floor, notching out a mains hum, restoring clipped peaks, normalizing loudness -- is classical signal processing, and it is cheap enough on a modern phone that there is no computational reason to send the file anywhere. That makes it a useful control case for the whole debate: when a tool of that kind still wants to upload your audio, the upload is a product decision rather than a technical necessity. [On-device audio processing vs cloud audio tools](/blog/utilities/on-device-audio-processing-vs-cloud-audio-tools-privacy/) works through where that line falls.
 
 ## A Decision Framework
 

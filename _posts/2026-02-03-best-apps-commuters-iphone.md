@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [commuting, transit, productivity, reading, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport, retrofoot]
+related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport, retrofoot, redirect-map-for-safari, soundspice]
 ---
 
 ## The Average American Spends 55 Minutes Commuting Every Day
@@ -56,7 +56,7 @@ Voice memos solve the capture problem, but they create a new one: reviewing and 
 
 [Transcribe](/apps/transcribe/) converts those voice recordings to searchable text using on-device AI. Record your thoughts during the drive (hands-free, using Siri or a steering wheel button to start recording), and after parking, run the recording through Transcribe to get a text version. Search the transcript for keywords, extract the useful segments, and discard the rest.
 
-The on-device processing is particularly relevant for commuters recording in the car. In-vehicle recordings often contain background noise from the engine, road surface, and climate control system. While these conditions reduce transcription accuracy somewhat, modern AI transcription handles them significantly better than older speech-to-text systems.
+The on-device processing is particularly relevant for commuters recording in the car. In-vehicle recordings often contain background noise from the engine, road surface, and climate control system. While these conditions reduce transcription accuracy somewhat, modern AI transcription handles them significantly better than older speech-to-text systems. When a drive recording does come back too noisy to follow, [removing the background noise from the recording](/blog/utilities/how-to-remove-background-noise-from-audio-recording/) before transcribing it usually recovers the words: engine rumble and tire noise are steady and continuous, which makes them far easier to separate from speech than the unpredictable noise of a busy office.
 
 Read the transcription guide: [how to use AI to transcribe audio and voice notes on iPhone](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/).
 
@@ -110,7 +110,7 @@ The biggest obstacle to a productive commute is not the tools — it is the grav
 
 Remove social media apps from your home screen. Move them to the App Library so accessing them requires a conscious search rather than an automatic tap. Replace them on your home screen with the apps listed in this guide. When you pull out your phone at the start of your commute, the first thing you see should be your reading queue, your meditation app, or your planning tool — not an engagement-optimized infinite scroll.
 
-For commuters who track mileage for tax deductions or expense reports, exporting your calendar data with [CalXPort](/apps/calxport/) provides a record of work-related trips based on the appointments and meetings already in your schedule. Pair this with mileage data for a complete commute documentation trail.
+For commuters who track mileage for tax deductions or expense reports, exporting your calendar data with [CalXPort](/apps/calxport/) provides a record of work-related trips based on the appointments and meetings already in your schedule. Pair this with mileage data for a complete commute documentation trail. Those trips tend to start with an address someone texted or emailed you, and tapping a Google Maps link on an iPhone opens Google's web page instead of a navigation app — [why map links open in the browser instead of the app](/blog/safari-extensions/why-google-maps-links-open-in-browser-instead-of-app/) explains the mechanism and how to route them to Apple Maps instead.
 
 The compound impact of intentional commuting is substantial. A commuter who reads during 200 commutes per year completes 30-50 books' worth of content. A commuter who meditates during 200 commutes builds a deeply established mindfulness practice. A commuter who captures ideas via voice recording accumulates a personal knowledge base that would never exist otherwise. The time is there. The choice is what you do with it.
 

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [transcription, speech-to-text, ai, voice-notes]
 silo: productivity
 pillar: productivity
-related_apps: [transcribe, vetkit]
+related_apps: [transcribe, vetkit, soundspice]
 ---
 
 The average professional spends 31 hours per month in meetings, according to a 2024 survey by Atlassian. That is nearly four full workdays of spoken content — discussions, decisions, action items, context, and nuance — that exists only as ephemeral audio and the fragmented memories of attendees. Within 24 hours, participants in a one-hour meeting can typically recall less than 50% of what was discussed. Within a week, that drops to approximately 20%.
@@ -113,6 +113,8 @@ Export options typically include:
 
 AI transcription accuracy is a direct function of audio quality. Investing a small amount of effort in recording conditions produces disproportionately better transcripts.
 
+When the recording already exists and cannot be redone — a meeting that happened once, a lecture you attended last week — the same logic applies in reverse. Repairing the file before you transcribe it recovers accuracy that editing the transcript afterward cannot: [removing the background noise from the recording](/blog/utilities/how-to-remove-background-noise-from-audio-recording/) lifts the speech out of the room tone, and evening out the levels stops quiet speakers from dropping below what the model can resolve.
+
 ### Room Acoustics
 
 Sound reflects off hard surfaces — glass, concrete, hardwood floors, bare walls — creating reverberation that degrades transcription accuracy. The ideal recording environment has:
@@ -168,7 +170,7 @@ The single most impactful improvement you can make to transcription accuracy is 
 ### Voice Memo Processing
 
 1. Throughout the day, capture ideas, observations, and tasks as voice memos instead of typing.
-2. At the end of the day, batch-process all voice memos through transcription.
+2. At the end of the day, batch-process all voice memos through transcription. If some were captured on a street or in a car, clean them up first — the same pass that [makes a voice memo sound professional](/blog/utilities/make-voice-memo-sound-professional-iphone/) also gives the transcription model less noise to fight through.
 3. Sort the transcribed notes into appropriate destinations: tasks to your planner, ideas to your notes system, observations to your journal.
 4. This approach leverages the fact that speaking is approximately 3x faster than typing for most people. Capture quickly by voice; process and organize in text.
 

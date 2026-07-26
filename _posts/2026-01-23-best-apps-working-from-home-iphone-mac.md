@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [remote-work, wfh, productivity, mac, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter, mitre]
+related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter, mitre, soundspice]
 ---
 
 ## Remote Work Demands Different Software
@@ -93,6 +93,7 @@ For setup instructions and tips on maximizing accuracy, see [how to use AI to tr
 - **Use headphones with a built-in microphone.** AirPods and similar earbuds capture your voice clearly and reduce echo from speakers.
 - **Record from a secondary device.** Place your iPhone near the laptop speaker rather than recording through the laptop itself. Dedicated device recordings are cleaner than screen-recorded audio.
 - **Speak names before key points.** Say "This is Sarah. I think we should..." rather than just starting to talk. This creates clear speaker attribution in the transcript.
+- **Clean the recording before you transcribe it.** Call audio arrives with laptop fan noise, room echo, and levels that swing wildly between the person on a headset and the person on speakerphone. The same pass used to [clean up a remote interview recording](/blog/utilities/how-to-clean-up-remote-podcast-interview-audio/) — noise reduction, level matching, loudness normalization — makes a meeting both easier to transcribe and easier to listen back to.
 
 ## Clipboard Management: Pasting Without the Mess
 

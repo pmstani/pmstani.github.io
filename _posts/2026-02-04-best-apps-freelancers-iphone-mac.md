@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [freelance, self-employed, invoicing, productivity, apps]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport, mitre]
+related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport, mitre, soundspice]
 ---
 
 ## Freelancing Is a Business With No Operations Team
@@ -76,6 +76,8 @@ Client meetings are where critical decisions happen. Scope is defined, timelines
 
 The on-device processing matters for freelancers who handle confidential client information. NDA-covered discussions, financial details, and strategic plans should not be uploaded to cloud-based transcription services.
 
+Client calls recorded over a laptop speaker or a phone on a desk are rarely clean, and a noisy file produces a transcript with gaps in exactly the places you will need later. Running the recording through an audio repair pass first — noise reduction, hum removal, level matching — closes most of those gaps; the [best audio enhancer and noise removal apps](/blog/utilities/best-audio-enhancer-noise-removal-apps-iphone-ipad-mac/) guide covers what each type of problem actually needs.
+
 Read the transcription guide: [how to use AI to transcribe audio and voice notes on iPhone](/blog/productivity/how-to-use-ai-to-transcribe-audio-and-voice-notes-on-iphone/).
 
 ### The Post-Meeting Protocol
@@ -105,6 +107,8 @@ Many freelancers create video content as part of their service delivery: trainin
 [CueVoice](/apps/cuevoice/) provides voice-paced teleprompter functionality. Write your script, load it into the app, and the text scrolls at your natural speaking pace. The voice-activated scrolling means you can pause for emphasis, speed up during transitions, and slow down for complex points without the text running away from you.
 
 For freelancers who regularly present to camera, CueVoice transforms video production from a multi-take, anxiety-filled process into a reliable one-take workflow. The time savings compound: a video that previously required 45 minutes of recording and editing can be captured in a single 10-minute take.
+
+Audio decides how professional the result sounds. [SoundSpice](/apps/soundspice/) measures a finished recording for hum, hiss, clipping, and uneven loudness, repairs what it finds on your Mac or iPhone, and normalizes the level so a series of training videos matches from one module to the next. It is the difference between a deliverable that sounds produced and one that sounds like a phone in a room.
 
 Read the teleprompter guide: [best teleprompter apps for content creators and public speakers](/blog/productivity/best-teleprompter-apps-for-content-creators-and-public-speakers/).
 
