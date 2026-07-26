@@ -7,7 +7,7 @@ categories: [education]
 tags: [emergency, iphone, preparedness, survival, safety]
 silo: education-learning
 pillar: education-learning
-related_apps: [survivalist, health-export, safe, symptom-log]
+related_apps: [survivalist, health-export, safe, symptom-log, redirect-map-for-safari]
 ---
 
 ## The Device in Your Pocket Is Already an Emergency Kit
@@ -126,6 +126,8 @@ Apple Maps allows you to download maps of specific regions for offline use. Befo
 Downloaded maps include roads, trails, topography, and points of interest. They do not include real-time traffic or transit data, but for navigation during emergencies, the road network and terrain information is what matters.
 
 Google Maps offers similar offline functionality for iPhone users.
+
+Downloading the maps is only half of the job. An address or a route you tap in Safari normally loads a Google Maps web page, which needs the live connection you may not have, rather than opening the maps app that holds the region you downloaded. A Safari extension can [send those taps to Apple Maps instead](/blog/safari-extensions/best-safari-extensions-travel-navigation-iphone-mac/), and if you are standardizing on Apple Maps for offline coverage, [an honest account of what switching does and does not cost you](/blog/safari-extensions/switch-from-google-maps-to-apple-maps/) is worth reading before an emergency makes the decision for you.
 
 ### Compass
 

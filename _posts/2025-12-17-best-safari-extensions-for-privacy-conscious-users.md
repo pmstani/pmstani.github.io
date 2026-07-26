@@ -8,7 +8,7 @@ categories: [safari-extensions]
 tags: [privacy, security, tracking, data-protection, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [make-it-dark-mode, is-it-down, rss-reader, allow-copy]
+related_apps: [make-it-dark-mode, is-it-down, rss-reader, allow-copy, redirect-map-for-safari]
 ---
 
 In 2024, the average person's web browsing session generated data collected by 6.7 different third-party trackers per page load, according to a study by the University of Pennsylvania's Annenberg School. Over the course of a year, that adds up to hundreds of thousands of data points — your interests, your location patterns, your purchasing intent, your health concerns, your political leanings, your relationship status — assembled into profiles that are bought and sold by a data broker industry worth $240 billion annually (Interactive Advertising Bureau estimates).
@@ -135,6 +135,8 @@ Every Safari extension requests permissions that determine what it can access. U
 **"Access browsing history"** — The extension can see your past browsing activity. Very few extensions legitimately need this. If an extension requests history access without a clear functional reason, do not install it.
 
 **"Access information about your tabs"** — The extension can see which pages are open in your tabs. Tab management extensions need this; most other extensions do not.
+
+Single-purpose extensions sometimes land in the all-websites category too, and those are the ones worth thinking about rather than approving or rejecting on reflex. [Redirect Map for Safari](/apps/redirect-map-for-safari/) exists only to turn a map link you tap in Safari into an Apple Maps hand-off, yet it asks for all sites, because Google serves map content across regional domains and subdomains and the link can turn up on any page. It reads the page in the browser and sends nothing off the device, and the practical effect is that a map link you tap opens in Apple Maps rather than loading a Google page at all — a narrower claim than "more private," but a real one, given [how much more the two companies' map products differ on data collection than on cartography](/blog/safari-extensions/apple-maps-vs-google-maps-privacy-data-collection/).
 
 ### How to Audit Your Extensions
 

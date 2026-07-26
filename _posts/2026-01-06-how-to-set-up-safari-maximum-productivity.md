@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari, setup, productivity, browser-optimization]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [command-palette, make-it-dark-mode, auto-scroll, plain-paste, sticky-notes, rss-reader, ebouquin]
+related_apps: [command-palette, make-it-dark-mode, auto-scroll, plain-paste, sticky-notes, rss-reader, ebouquin, redirect-map-for-safari]
 ---
 
 Safari is the default browser on every Mac, iPhone, and iPad. It is also the most underutilized. According to StatCounter, Safari holds 18.6% of the global desktop browser market and over 27% on mobile, yet most users interact with it at a surface level — typing URLs, clicking links, and opening new tabs. The deep productivity features that Apple has built into Safari over the past several years go largely unused: Tab Groups, Profiles, extension APIs, the Start Page system, keyboard shortcuts, and iCloud sync architecture.
@@ -124,6 +124,8 @@ Safari extensions are the customization layer that transforms Safari from a gene
 **[Sticky Notes for Safari](/apps/sticky-notes/)** — Adds persistent notes to any web page. Leave yourself reminders, annotations, or to-do items directly on the pages where they are relevant. The notes reappear when you revisit the page. For research workflows, this replaces the habit of keeping a separate document of notes alongside browser tabs.
 
 **[RSS Reader](/apps/rss-reader/)** — Provides RSS feed reading directly in Safari. Instead of checking 15 different websites for updates, subscribe to their RSS feeds and check one unified feed. This is the productivity win that RSS has always promised — centralized content consumption without the algorithmic manipulation of social media feeds. Follow blogs, news sources, changelogs, and publication feeds without visiting each site individually.
+
+**[Redirect Map for Safari](/apps/redirect-map-for-safari/)** — Sends map links you tap in Safari to Apple Maps instead of loading a Google Maps web page. Addresses arrive constantly — in search results, booking confirmations, venue listings — and each one normally costs you a page load, a copy, an app switch and a paste. The extension has no toolbar button and no settings screen; you enable it once and the tap simply lands in the right place. Its scope is narrower than [changing the default maps app on your device](/blog/safari-extensions/how-to-change-default-maps-app-iphone-ipad/), since it only touches links you tap inside Safari, but it is the only one of the two that does anything about a map URL, which no default setting rewrites.
 
 For a broader view of Safari extensions, see the guide to the [best Safari extensions for iPhone and Mac](/blog/safari-extensions/best-safari-extensions-iphone-mac-2026/) and the roundup of [best note-taking and productivity Safari extensions](/blog/safari-extensions/best-note-taking-and-productivity-safari-extensions/).
 

@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [security, permissions, safari, extensions, privacy]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [make-it-dark-mode, extension-ai, web-inspector, biggerkeys]
+related_apps: [make-it-dark-mode, extension-ai, web-inspector, biggerkeys, redirect-map-for-safari]
 ---
 
 ## What Safari Extensions Can Actually Access on Your Device
@@ -80,6 +80,8 @@ This is the broadest permission level. The extension can access and modify conte
 This level is necessary for extensions whose core function requires persistent, automatic operation across all websites: content blockers, privacy tools that strip tracking parameters from URLs, or extensions that modify all web page typography. But it is also the level that demands the most trust in the developer.
 
 **A critical detail many users miss:** even "All Websites" access does not give an extension access to Safari's private browsing tabs unless you explicitly enable it in Safari Settings > Extensions. Private browsing is a separate permission toggle.
+
+A narrow feature set does not automatically mean a narrow permission, and the mismatch is worth reasoning through rather than reacting to. [Redirect Map for Safari](/apps/redirect-map-for-safari/) does one small thing — it turns a map link you tap in Safari into an Apple Maps hand-off — and it still requests every site, because Google serves map content across regional top-level domains and subdomains that no fixed list would still describe correctly next year, and because the link itself can appear on any page. Against that, it reads the page in the browser and sends nothing off the device. That is the shape of a request you can evaluate: a stated purpose, a technical reason the narrower scope would not work, and [the reasoning written down where you can check it](/blog/safari-extensions/how-to-open-google-maps-links-in-apple-maps/). Broad access is not automatically a problem. Unexplained broad access is.
 
 ## Data Access Scope: What Extensions Can See Within a Page
 

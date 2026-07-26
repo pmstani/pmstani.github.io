@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari, extensions, hidden-gems, underrated, tips]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [universal-data-viewer, audit-plus-plus, auto-clicker, site-slurpr, link-gopher, is-it-down, copy-on-select, color-palette, food-scanner]
+related_apps: [universal-data-viewer, audit-plus-plus, auto-clicker, site-slurpr, link-gopher, is-it-down, copy-on-select, color-palette, food-scanner, redirect-map-for-safari]
 ---
 
 ## Beyond the Top 10 Lists
@@ -134,7 +134,7 @@ Extensions sync across devices via iCloud but must be manually enabled on each d
 
 ## The Hidden Gem Philosophy
 
-The extensions in this list are not household names. They will not appear in "Top 10 Safari Extensions" roundups because they serve specific, well-defined purposes rather than broad, universal ones. But that specificity is exactly what makes them valuable. A general-purpose "productivity booster" extension tries to do everything and does nothing well. An extension that extracts links, or checks site status, or formats JSON, does one thing and does it perfectly.
+The extensions in this list are not household names. They will not appear in "Top 10 Safari Extensions" roundups because they serve specific, well-defined purposes rather than broad, universal ones. But that specificity is exactly what makes them valuable. A general-purpose "productivity booster" extension tries to do everything and does nothing well. An extension that extracts links, or checks site status, or formats JSON, does one thing and does it perfectly. The same logic covers the extension whose entire job is [turning a Google Maps link you tap into an Apple Maps hand-off](/blog/safari-extensions/how-to-open-google-maps-links-in-apple-maps/): it has no interface, it will never headline a roundup, and it removes the copy-the-address-and-paste-it dance that [changing your default apps cannot fix on its own](/blog/safari-extensions/how-to-change-default-maps-app-iphone-ipad/).
 
 The best browser setup is not the one with the most extensions installed. It is the one where every installed extension solves a problem you actually encounter. Browse through this list, identify the two or three that address friction points in your specific workflow, and install those. Leave the rest for the day you encounter the problem they solve.
 

@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [mileage-log, tax-deduction, irs-compliance, calendar-export, business-travel, reimbursement, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [calxport, my-agenda-planning, equipt, save-as-pdf, safe]
+related_apps: [calxport, my-agenda-planning, equipt, save-as-pdf, safe, redirect-map-for-safari]
 ---
 
 The IRS standard mileage rate for 2026 is 70 cents per mile for business use. That number sounds modest until you multiply it across a year of driving. A real estate agent who drives 15,000 business miles annually is looking at a $10,500 deduction. A home health aide who visits patients across a metropolitan area and logs 20,000 miles can claim $14,000. A sales representative covering a multi-state territory at 25,000 miles per year has a potential deduction of $17,500.
@@ -72,6 +72,8 @@ Apple Calendar has a dedicated Location field that integrates with Apple Maps. W
 - It provides independent verification that the location was entered before the trip
 
 Always use the Location field rather than embedding the address only in the title. CalXPort's mileage template reads both the title and the location field, but having the address in the dedicated field produces cleaner exports.
+
+Client addresses often arrive as a Google Maps link rather than as plain text, and a link is not what the Location field wants. Our reference on [Apple Maps URL schemes and sharing locations between apps](/blog/safari-extensions/apple-maps-url-schemes-share-locations-between-apps/) covers converting between the two link formats by hand, and [Redirect Map for Safari](/apps/redirect-map-for-safari/) handles the everyday version: a map link you tap in Safari opens in Apple Maps, where the place card gives you a clean address to paste into the event.
 
 ### Adding Origin Information
 

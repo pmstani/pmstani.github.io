@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari-extensions, iphone, mac, best-of, 2026]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [make-it-dark-mode, translator-safari-extension, image-downloader, extension-ai]
+related_apps: [make-it-dark-mode, translator-safari-extension, image-downloader, extension-ai, redirect-map-for-safari]
 ---
 
 ## Safari Extensions Have Quietly Become Indispensable
@@ -208,6 +208,8 @@ Two extensions solve common friction points when shopping or researching product
 [Food Scanner for Safari](/apps/food-scanner/) analyzes nutritional information on food product pages. It surfaces calorie counts, macronutrient breakdowns, allergen information, and ingredient analysis, helping you make informed decisions when grocery shopping online. As online grocery shopping continues to grow (it represents approximately 12% of all grocery sales in the US as of 2025), having nutritional analysis built into the browsing experience removes a meaningful barrier to healthy eating.
 
 Read the full guide: [Safari extensions for smarter online shopping](/blog/safari-extensions/safari-extensions-for-smarter-online-shopping/)
+
+One more everyday friction point sits just outside shopping: map links. Tap a Google Maps link, a map thumbnail or a directions button on a restaurant listing or a booking confirmation and Safari loads a Google Maps web page rather than the Maps app you actually navigate with. [Redirect Map for Safari](/apps/redirect-map-for-safari/) rewrites that tap so the same address, place or route opens in Apple Maps instead. It acts only on links you tap inside Safari — it changes no system default and leaves links tapped in other apps alone — and it asks for broad host access because Google serves map content across a long tail of subdomains and country TLDs, reading each page locally and storing nothing. For the mechanics, see [how to open Google Maps links in Apple Maps](/blog/safari-extensions/how-to-open-google-maps-links-in-apple-maps/) and [why map links open in the browser instead of the app](/blog/safari-extensions/why-google-maps-links-open-in-browser-instead-of-app/).
 
 ## AI-Powered Browsing
 

@@ -7,7 +7,7 @@ categories: [safari-extensions]
 tags: [safari, chrome, extensions, browser-comparison]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [web-inspector, extension-ai, make-it-dark-mode]
+related_apps: [web-inspector, extension-ai, make-it-dark-mode, redirect-map-for-safari]
 ---
 
 The browser extension debate used to be simple: Chrome had the extensions, and everything else did not. For years, that was accurate enough to end the conversation. Chrome's Web Store launched in 2010 with a permissive development model, aggressive API support, and the backing of the world's largest advertising company. By 2018, it hosted over 180,000 extensions. Safari's extension story, by contrast, was a series of false starts -- the legacy Safari Extension Gallery, the brief experiment with .safariextz files, and a period where Apple seemed to actively discourage third-party browser modifications.
@@ -124,7 +124,7 @@ Chrome Web Store hosts approximately 125,000 extensions as of early 2026 (down f
 
 Raw numbers heavily favor Chrome. But raw numbers are misleading for several reasons:
 
-**Category coverage**: For mainstream use cases -- ad blocking, password management, dark mode, translation, tab management, developer tools, note-taking, shopping assistance -- Safari has mature, well-maintained options. The gaps are in niche categories: academic research tools, specialized web scraping, certain enterprise integrations, and highly specific workflow automation.
+**Category coverage**: For mainstream use cases -- ad blocking, password management, dark mode, translation, tab management, developer tools, note-taking, shopping assistance -- Safari has mature, well-maintained options. The gaps are in niche categories: academic research tools, specialized web scraping, certain enterprise integrations, and highly specific workflow automation. A smaller set of categories runs the other way. Extensions built to hand a page off to a native Apple app -- [one that sends a tapped Google Maps link to Apple Maps](/blog/safari-extensions/how-to-open-google-maps-links-in-apple-maps/), for example -- have little reason to exist on a browser that is not sitting beside those apps, and Chrome on iPhone and iPad has no extension platform at all.
 
 **Quality floor**: The App Store review process and $99 developer fee create a higher quality floor for Safari extensions. Chrome's Web Store contains thousands of low-quality clones, abandoned extensions, and extensions that exist solely to display ads or collect data. Finding a good Chrome extension often requires sorting through dozens of poor ones. Safari's smaller catalog is more curated by default.
 

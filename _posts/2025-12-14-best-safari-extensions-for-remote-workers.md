@@ -7,14 +7,14 @@ categories: [safari-extensions]
 tags: [remote-work, wfh, productivity, focus, safari]
 silo: safari-extensions
 pillar: safari-extensions
-related_apps: [make-it-dark-mode, sticky-notes, auto-refresh, command-palette, plain-paste, rss-reader]
+related_apps: [make-it-dark-mode, sticky-notes, auto-refresh, command-palette, plain-paste, rss-reader, redirect-map-for-safari]
 ---
 
 Remote work is no longer an experiment. As of early 2026, 38% of US knowledge workers work fully remote and another 24% work in a hybrid arrangement, according to data from the Bureau of Labor Statistics and validated by Stanford economist Nick Bloom's ongoing WFH Research project. That is nearly two-thirds of knowledge workers spending some or all of their working hours at home, in coffee shops, or in co-working spaces — environments they largely configure themselves.
 
 The browser has become the remote worker's primary interface to their job. Slack, Google Workspace, Notion, Jira, Salesforce, HubSpot, GitHub, Figma — the tools of modern knowledge work are overwhelmingly web-based. A 2024 Okta report found that the average organization deploys 93 SaaS applications, and the typical employee actively uses 16 of them. Nearly all of those are accessed through a browser.
 
-When your browser is essentially your office, optimizing it is not a nice-to-have — it is workspace ergonomics for the digital age. These six Safari extensions address the specific challenges remote workers face: eye strain from all-day screen use, the overhead of switching between web apps, the need to monitor multiple dashboards, and the information overload that comes from working across a dozen tools simultaneously.
+When your browser is essentially your office, optimizing it is not a nice-to-have — it is workspace ergonomics for the digital age. These six Safari extensions address the specific challenges remote workers face: eye strain from all-day screen use, the overhead of switching between web apps, the need to monitor multiple dashboards, and the information overload that comes from working across a dozen tools simultaneously. Hybrid workers who still travel to an office or to client sites have one more browser-side friction point worth fixing, covered separately in the [Safari extensions for travel and navigation](/blog/safari-extensions/best-safari-extensions-travel-navigation-iphone-mac/) roundup: a map link tapped in Safari loads a Google Maps web page rather than opening the maps app you will actually navigate with.
 
 ## Reducing Eye Strain Across All-Day Screen Sessions
 
