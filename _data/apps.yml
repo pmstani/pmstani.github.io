@@ -1323,3 +1323,18 @@
   category: "utilities"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["audio enhancer", "remove background noise from audio", "noise reduction app", "podcast audio cleanup", "remove hum from recording", "voice memo cleanup", "audio repair", "loudness normalization", "LUFS", "declipper", "de-esser", "mastering app"]
+
+- name: "Redirect Map for Safari"
+  slug: "redirect-map-for-safari"
+  id: "6752769090"
+  icon: "redirect.png"
+  tagline: "Send Google Maps links to Apple Maps"
+  description: "Redirect Map for Safari sends the Google Maps links you tap in Safari straight to Apple Maps. Tap a map result, an address card or a directions button and Apple Maps opens on the same place or route, with no copied address, no app switching and no Google Maps web page in between. It works across Google's regional domains, runs entirely on the page in front of you, and has no toolbar button to manage."
+  features:
+    - "Redirects Google Maps links, map thumbnails, address cards and directions buttons to Apple Maps carrying the same query, place or route across with them"
+    - "Works across Google TLDs, subdomains and regional variants — google.com, google.co.uk, google.ca, other country domains and googleusercontent hosts — instead of a single hard-coded domain"
+    - "Parses addresses, place names, lat/lng pairs, q= query parameters, place path segments, short URLs and @lat,long,z coordinate strings, and when it cannot resolve a destination confidently it opens the original link first to extract a clearer address before handing off to Apple Maps"
+    - "Reads only the page you are on to find map links, stores nothing and sends nothing off your device, and adds no toolbar UI to manage — you enable it once in Safari's extension settings and forget it"
+  category: "safari-extensions"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["open google maps in apple maps", "redirect google maps", "apple maps safari extension", "google maps to apple maps", "default maps app iphone", "safari extension maps", "apple maps links", "map link redirect", "navigation safari extension", "google maps alternative", "maps link opener", "apple maps directions"]
