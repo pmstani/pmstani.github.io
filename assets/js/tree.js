@@ -234,8 +234,11 @@
     body.appendChild(el('circle', { 'class': 'fruit__halo', r: R + 5 }));
     body.appendChild(el('circle', { 'class': 'fruit__ring', r: R }));
     var img = el('image', { x: -R, y: -R, width: 2 * R, height: 2 * R, 'clip-path': 'url(#fruitClip)' });
+    /* `href` alone: xlink:href is deprecated and SVG2 `href` covers every browser this
+       site targets. Note this is not what causes the handful of duplicate icon fetches
+       Lighthouse reports — those are a race between this <image> and the same icon's
+       <img> in the app grid below, and they land on different files on every run. */
     img.setAttribute('href', '/img/apps/' + app.icon);
-    img.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', '/img/apps/' + app.icon);
     img.setAttribute('preserveAspectRatio', 'xMidYMid slice');
     body.appendChild(img);
 
