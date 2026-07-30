@@ -200,7 +200,7 @@ It is worth noting that the formation system in modern arcade football is more s
 
 This is one of the ways the 2020s pixel renaissance is genuinely better than the 16-bit era: the visual language and design pacing are preserved, but the underlying systems are more sophisticated. The trade-off the original 16-bit-era classics had to make -- visual style versus AI depth -- no longer applies. We get both.
 
-For a fuller account of how arcade football has evolved across five decades, see our piece on [the evolution of arcade football games](/blog/entertainment/evolution-arcade-football-games-coin-op-mobile/). For the visual-and-aesthetic argument behind why pixel art still works for football, see [why 16-bit pixel art still wins](/blog/entertainment/why-16-bit-pixel-art-still-wins-football-games/). Apps like [Day Progress](/apps/day-progress/) help structure the kind of disciplined daily practice -- 15 minutes of formation drilling, twice a day -- that turns tactical knowledge into match performance.
+For a fuller account of how arcade football has evolved across five decades, see our piece on [the evolution of arcade football games](/blog/entertainment/evolution-arcade-football-games-coin-op-mobile/). For the visual-and-aesthetic argument behind why pixel art still works for football, see [why 16-bit pixel art still wins](/blog/entertainment/why-16-bit-pixel-art-still-wins-in-football-games/). Apps like [Day Progress](/apps/day-progress/) help structure the kind of disciplined daily practice -- 15 minutes of formation drilling, twice a day -- that turns tactical knowledge into match performance.
 
 ## FAQ
 

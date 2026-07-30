@@ -221,7 +221,7 @@ Your calendar-based expense records capture equipment purchases. But equipment t
 
 [Equipt](/apps/equipt/) provides dedicated asset tracking for equipment and business property. Combining Equipt's asset records with CalXPort's expense exports creates a complete equipment documentation package: when you bought it, what you paid, what it is worth now, and what the tax treatment is.
 
-For a comprehensive guide to asset tracking, see [the best equipment and asset tracking apps for small business](/blog/utilities/best-equipment-asset-tracking-apps-small-business/).
+For a comprehensive guide to asset tracking, see [the best equipment and asset tracking apps for small business](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/).
 
 ## Health Insurance Deduction (Self-Employed)
 

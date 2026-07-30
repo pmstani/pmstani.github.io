@@ -280,7 +280,7 @@ Your mileage records serve a secondary purpose: insurance documentation. Many au
 
 [Safe](/apps/safe/) helps you maintain a home inventory for insurance purposes. Combined with your CalXPort mileage records and Equipt's asset tracking, you have a comprehensive documentation system for insurance claims, vehicle depreciation, and equipment-in-transit coverage.
 
-For more on insurance documentation, see [how to create a home inventory for insurance](/blog/utilities/how-to-create-home-inventory-insurance/).
+For more on insurance documentation, see [how to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/).
 
 ## Building Your Mileage Tracking Habit
 

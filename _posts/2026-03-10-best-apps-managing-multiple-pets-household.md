@@ -83,7 +83,7 @@ Every pet comes with equipment: leashes, collars, crates, carriers, beds, bowls,
 
 [Equipt](/apps/equipt/) provides a clear record of equipment and supplies across all animals. Track which crate belongs to which dog (critical when crates are size-specific), when the cat carrier needs replacement, which leash is rated for the 80-pound dog versus the 25-pound dog, and when you last replaced the aquarium filter media.
 
-A single-pet household can track supplies mentally. A five-pet household with three species needs a system, or it ends up buying duplicates, using the wrong equipment for the wrong animal, or discovering that a critical item is broken when it is needed urgently. For more on how equipment tracking works across complex inventories, read our post on [the best equipment and asset tracking apps](/blog/productivity/best-equipment-asset-tracking-apps-small-business/).
+A single-pet household can track supplies mentally. A five-pet household with three species needs a system, or it ends up buying duplicates, using the wrong equipment for the wrong animal, or discovering that a critical item is broken when it is needed urgently. For more on how equipment tracking works across complex inventories, read our post on [the best equipment and asset tracking apps](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/).
 
 ## Managing Daily Routines Across Multiple Pets
 

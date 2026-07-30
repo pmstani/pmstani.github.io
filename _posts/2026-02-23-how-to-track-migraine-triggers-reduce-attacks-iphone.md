@@ -110,7 +110,7 @@ If weather is among your triggers, tracking atmospheric conditions alongside you
 
 The practical approach: when you log a migraine in SymptomLog and suspect weather involvement, check YaWa for the barometric pressure reading and note it in your trigger log. After several months, you will know your specific barometric pressure threshold -- many patients find that a drop of more than 6 millibars within 24 hours is their personal tipping point.
 
-For a broader look at weather apps that respect your privacy, read our comparison of [free weather apps focused on privacy and accuracy](/blog/health-wellness/free-weather-apps-comparison-privacy-accuracy/).
+For a broader look at weather apps that respect your privacy, read our comparison of [free weather apps focused on privacy and accuracy](/blog/digital-privacy-security/free-weather-apps-comparison-privacy-accuracy/).
 
 ## Food Triggers and Strategic Elimination
 

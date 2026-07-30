@@ -232,7 +232,7 @@ For students whose families are involved in academic planning, a semester schedu
 
 ### Recording Lectures
 
-For classes where recording is permitted, [Transcribe](/apps/transcribe/) provides audio transcription that pairs with your class schedule data. When you export both your schedule (from CalXPort) and your lecture transcripts (from Transcribe), you build a searchable archive organized by course, date, and topic. For more on lecture recording and transcription workflows, see the [best apps for college students on iPhone and Mac](/blog/productivity/best-apps-college-students-iphone-mac/).
+For classes where recording is permitted, [Transcribe](/apps/transcribe/) provides audio transcription that pairs with your class schedule data. When you export both your schedule (from CalXPort) and your lecture transcripts (from Transcribe), you build a searchable archive organized by course, date, and topic. For more on lecture recording and transcription workflows, see the [best apps for college students on iPhone and Mac](/blog/education/best-apps-college-students-iphone-mac/).
 
 ## Semester-Over-Semester Comparison
 

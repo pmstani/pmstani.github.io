@@ -148,7 +148,7 @@ Numbers opens both CSV and Excel files. Double-click the exported file or use Fi
 
 LibreOffice opens CSV files with an import dialog that lets you specify delimiter, encoding, and column types. Select UTF-8 encoding and comma delimiter. Excel files open directly.
 
-For a comprehensive overview of data export from iPhone apps, see the [complete guide to exporting data from iPhone apps](/blog/productivity/complete-guide-exporting-data-iphone-apps/).
+For a comprehensive overview of data export from iPhone apps, see the [complete guide to exporting data from iPhone apps](/blog/digital-privacy-security/complete-guide-exporting-data-iphone-apps/).
 
 ## Advanced: Custom Templates and Field Mapping
 

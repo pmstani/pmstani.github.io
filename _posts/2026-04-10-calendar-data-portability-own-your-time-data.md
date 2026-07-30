@@ -90,7 +90,7 @@ Calendar data is sensitive. It reveals your location patterns, your relationship
 
 [PanicVault](/apps/panicvault/) provides secure storage for sensitive credentials and information. The same principle of on-device security that PanicVault applies to passwords applies to calendar data: the most secure approach is to process sensitive data locally, without transmitting it to external servers.
 
-For a broader view of privacy and security tools, see [the best privacy and security apps for iPhone and Mac](/blog/utilities/best-privacy-security-apps-iphone-mac/).
+For a broader view of privacy and security tools, see [the best privacy and security apps for iPhone and Mac](/blog/digital-privacy-security/best-privacy-security-apps-iphone-mac/).
 
 ## Export Formats Compared: ICS vs. CSV vs. Excel
 
@@ -230,7 +230,7 @@ Once a quarter, open your exported data and scan it. Are your event titles struc
 
 For a comprehensive overview of how calendar export fits into broader productivity workflows, see [the best apps for calendar export and time tracking on iPhone](/blog/productivity/best-apps-calendar-export-time-tracking-iphone/). For meeting-specific analysis using exported data, read [how to analyze your meeting schedule with calendar data export](/blog/productivity/how-to-analyze-meeting-schedule-calendar-data-export/).
 
-For a broader perspective on data export across all iPhone apps, see our guide on [the complete guide to exporting data from iPhone apps](/blog/productivity/complete-guide-exporting-data-iphone-apps/).
+For a broader perspective on data export across all iPhone apps, see our guide on [the complete guide to exporting data from iPhone apps](/blog/digital-privacy-security/complete-guide-exporting-data-iphone-apps/).
 
 ## Frequently Asked Questions
 

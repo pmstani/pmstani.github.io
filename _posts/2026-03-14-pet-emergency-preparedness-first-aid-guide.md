@@ -83,7 +83,7 @@ Know your pet's baseline vitals so you can identify abnormalities and communicat
 
 FEMA data from Hurricane Katrina showed that 44% of people who refused to evacuate did so because they would not leave their pets behind. The PETS Act of 2006 subsequently required state and local emergency plans to accommodate companion animals, but the reality remains uneven.
 
-Your evacuation plan must explicitly include your pets -- knowing which shelters accept animals, identifying pet-friendly hotels along evacuation routes, and having contacts outside your area who can house your animals. Our guide on [emergency preparedness and essential survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) covers foundational planning for your entire household, and the [emergency go-bag checklist](/blog/education-learning/how-to-create-emergency-go-bag-checklist/) provides a framework adaptable for pets. [Survivalist](/apps/survivalist/) offers structured emergency preparedness checklists and offline survival guides that apply the same systematic approach to your animals.
+Your evacuation plan must explicitly include your pets -- knowing which shelters accept animals, identifying pet-friendly hotels along evacuation routes, and having contacts outside your area who can house your animals. Our guide on [emergency preparedness and essential survival skills](/blog/education-learning/emergency-preparedness-essential-survival-skills/) covers foundational planning for your entire household, and the [emergency go-bag checklist](/blog/education/how-to-create-emergency-go-bag-checklist/) provides a framework adaptable for pets. [Survivalist](/apps/survivalist/) offers structured emergency preparedness checklists and offline survival guides that apply the same systematic approach to your animals.
 
 **The pet go-bag** should include: 7-day supply of food and water, current medications with dosing instructions, printed health summary from VetKit (including vaccination proof -- critical for shelters requiring rabies and DHPP/FVRCP documentation), photos and microchip number, carrier, leash, sanitation supplies, and a familiar comfort item.
 
@@ -139,7 +139,7 @@ Very few. Plain diphenhydramine at 1 mg per pound is generally accepted for dogs
 
 ### How do I prepare my pet for an evacuation?
 
-Keep a pet go-bag packed alongside your household emergency kit with 7 days of food and medications, vaccination records, carrier, bowls, sanitation supplies, and comfort items. Identify pet-friendly shelters and hotels along evacuation routes. Ensure your pet is microchipped with current registration. The [emergency go-bag checklist](/blog/education-learning/how-to-create-emergency-go-bag-checklist/) provides a comprehensive framework adaptable for pets.
+Keep a pet go-bag packed alongside your household emergency kit with 7 days of food and medications, vaccination records, carrier, bowls, sanitation supplies, and comfort items. Identify pet-friendly shelters and hotels along evacuation routes. Ensure your pet is microchipped with current registration. The [emergency go-bag checklist](/blog/education/how-to-create-emergency-go-bag-checklist/) provides a comprehensive framework adaptable for pets.
 
 ### What information does an emergency vet need immediately?
 

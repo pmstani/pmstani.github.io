@@ -210,7 +210,7 @@ Under IRC Section 162, ordinary and necessary business expenses are fully deduct
 
 ### Tracking Equipment and Assets
 
-Business equipment purchases over $2,500 may need to be depreciated rather than expensed immediately (unless you elect Section 179 expensing or bonus depreciation). [Equipt](/apps/equipt/) tracks equipment and assets with purchase dates, costs, and depreciation schedules. For a comprehensive approach to asset management, see [the best equipment and asset tracking apps for small business](/blog/utilities/best-equipment-asset-tracking-apps-small-business/).
+Business equipment purchases over $2,500 may need to be depreciated rather than expensed immediately (unless you elect Section 179 expensing or bonus depreciation). [Equipt](/apps/equipt/) tracks equipment and assets with purchase dates, costs, and depreciation schedules. For a comprehensive approach to asset management, see [the best equipment and asset tracking apps for small business](/blog/digital-privacy-security/best-equipment-asset-tracking-apps-small-business/).
 
 ## Recurring Expenses: The Set-and-Forget Method
 
@@ -306,7 +306,7 @@ If you experience a loss -- theft of equipment, damage to inventory, business in
 
 [Safe](/apps/safe/) provides dedicated home and property inventory management for insurance documentation. Combining Safe's asset records with CalXPort's expense tracking creates a comprehensive paper trail for claims.
 
-For more on insurance documentation, see [how to create a home inventory for insurance](/blog/utilities/how-to-create-home-inventory-insurance/).
+For more on insurance documentation, see [how to create a home inventory for insurance](/blog/digital-privacy-security/how-to-create-home-inventory-insurance/).
 
 ### Audit Preparedness
 

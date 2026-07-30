@@ -193,7 +193,7 @@ Calendar Exports/
 
 [Tidy Downloads](/apps/tidy-downloads/) automatically organizes your Downloads folder, keeping your exported files sorted rather than accumulating in a disorganized pile. If you export reminders regularly, Tidy Downloads ensures the files are easy to find when you need them.
 
-For a complete guide to data export from iPhone apps, including strategies for maintaining portable data archives, read the [complete guide to exporting data from iPhone apps](/blog/productivity/complete-guide-exporting-data-iphone-apps/).
+For a complete guide to data export from iPhone apps, including strategies for maintaining portable data archives, read the [complete guide to exporting data from iPhone apps](/blog/digital-privacy-security/complete-guide-exporting-data-iphone-apps/).
 
 ## Advanced: Combining Reminders and Calendar Exports
 

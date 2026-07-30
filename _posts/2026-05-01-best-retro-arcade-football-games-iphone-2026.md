@@ -112,7 +112,7 @@ The following ten guides go deeper into specific aspects of retro arcade footbal
 
 - [How to Play Top-Down Arcade Football: A Beginner's Guide](/blog/entertainment/how-to-play-top-down-arcade-football-beginners-guide/) — reading the pitch, the three-button control layout, when to sprint, defensive positioning, and the goalkeeper basics that the AI handles for you.
 
-- [Why 16-Bit Pixel Art Still Wins in Football Games](/blog/entertainment/why-16-bit-pixel-art-still-wins-football-games/) — the cognitive science of visual abstraction, frame rate, readability, and why a fixed top-down camera beats cinematic 3D for actual gameplay.
+- [Why 16-Bit Pixel Art Still Wins in Football Games](/blog/entertainment/why-16-bit-pixel-art-still-wins-in-football-games/) — the cognitive science of visual abstraction, frame rate, readability, and why a fixed top-down camera beats cinematic 3D for actual gameplay.
 
 **Modes and strategy:**
 

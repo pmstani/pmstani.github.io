@@ -112,7 +112,7 @@ Calendar export is most powerful when it fits into a broader productivity system
 
 ### Exporting Other Data Types
 
-[Health Export](/apps/health-export/) applies the same principle to Apple Health that CalXPort applies to Apple Calendar: it unlocks data that your iPhone is already collecting but cannot natively export. If you track health metrics alongside work hours, combining health and calendar exports in a spreadsheet reveals correlations between work patterns and wellbeing that neither dataset shows alone. Read our [complete guide to exporting data from iPhone apps](/blog/productivity/complete-guide-exporting-data-iphone-apps/) for a broader look at data portability across the Apple ecosystem.
+[Health Export](/apps/health-export/) applies the same principle to Apple Health that CalXPort applies to Apple Calendar: it unlocks data that your iPhone is already collecting but cannot natively export. If you track health metrics alongside work hours, combining health and calendar exports in a spreadsheet reveals correlations between work patterns and wellbeing that neither dataset shows alone. Read our [complete guide to exporting data from iPhone apps](/blog/digital-privacy-security/complete-guide-exporting-data-iphone-apps/) for a broader look at data portability across the Apple ecosystem.
 
 ### Tracking Accomplishments
 
@@ -150,7 +150,7 @@ Calendar export serves a wide range of professional and personal needs. Each of 
 
 - **Tax preparation:** [How to Prepare Tax Documentation from Time Tracking Data](/blog/productivity/how-to-prepare-tax-documentation-time-tracking-iphone/) -- Schedule C documentation, home office hour calculations, and audit-ready records
 
-For broader productivity strategies, our guide on [the best apps for freelancers on iPhone and Mac](/blog/productivity/best-apps-freelancers-iphone-mac/) covers the full freelancer toolkit, and our [complete guide to exporting data from iPhone apps](/blog/productivity/complete-guide-exporting-data-iphone-apps/) addresses data portability across the Apple ecosystem.
+For broader productivity strategies, our guide on [the best apps for freelancers on iPhone and Mac](/blog/productivity/best-apps-freelancers-iphone-mac/) covers the full freelancer toolkit, and our [complete guide to exporting data from iPhone apps](/blog/digital-privacy-security/complete-guide-exporting-data-iphone-apps/) addresses data portability across the Apple ecosystem.
 
 ## Frequently Asked Questions
 

@@ -140,7 +140,7 @@ A few comparisons that explain why arcade football specifically fits the commute
 
 **vs. Puzzle games.** Puzzle games are excellent commute games and are arcade football's closest competitor. They share the short-session, instant-resume profile. The main difference is that arcade football offers a different cognitive feel -- spatial, fast-twitch, social-physical -- versus the abstract logical pattern matching of puzzles. Many commuters keep both in their rotation.
 
-The commute-specific case for arcade football builds on the broader argument we make in [why 16-bit pixel art still wins for football games](/blog/entertainment/why-16-bit-pixel-art-still-wins-football-games/) and [the evolution of arcade football](/blog/entertainment/evolution-arcade-football-games-coin-op-mobile/). The same design constraints that produced the 16-bit-era classics -- limited input, limited screen, limited session time -- now define mobile commute gaming.
+The commute-specific case for arcade football builds on the broader argument we make in [why 16-bit pixel art still wins for football games](/blog/entertainment/why-16-bit-pixel-art-still-wins-in-football-games/) and [the evolution of arcade football](/blog/entertainment/evolution-arcade-football-games-coin-op-mobile/). The same design constraints that produced the 16-bit-era classics -- limited input, limited screen, limited session time -- now define mobile commute gaming.
 
 ## A Note on Public-Setting Etiquette
 
