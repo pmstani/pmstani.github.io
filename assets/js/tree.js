@@ -454,6 +454,13 @@
       row.type = 'button';
       row.className = 'legend__row';
       row.setAttribute('data-cat', cat.key);
+      /* The legend is a visual key for a decorative SVG: these rows only highlight a
+         limb on hover, they carry no action. Their container is aria-hidden, so leaving
+         them tabbable created a focus trap where keyboard users landed on controls that
+         announce as nothing (Lighthouse aria-hidden-focus). Take them out of the tab
+         order but keep them hover- and click-focusable so the highlight still works.
+         `inert` would be wrong here — it also kills the mouseenter the highlight needs. */
+      row.tabIndex = -1;
       row.innerHTML =
         '<span class="legend__swatch" style="background:' + (CAT_COLORS[cat.key] || '#5a4c3a') + '"></span>' +
         '<span class="legend__name">' + (CAT_NAMES[cat.key] || cat.key.replace(/-/g, ' ')) + '</span>' +

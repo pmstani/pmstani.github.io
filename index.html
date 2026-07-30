@@ -37,6 +37,8 @@ layout: null
 {%- assign safari_count = 0 -%}
 {%- for app in site.data.apps -%}{%- if app.category == "safari-extensions" -%}{%- assign safari_count = safari_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
 
+  <main id="main">
+
   <!-- ====================================================================
        PLATE I — Arbor Applicationum (the living tree hero)
        ==================================================================== -->
@@ -196,6 +198,8 @@ layout: null
       </div>
     </div>
   </section>
+
+  </main>
 
   <!-- ====================================================================
        Footer
