@@ -238,7 +238,7 @@
        site targets. Note this is not what causes the handful of duplicate icon fetches
        Lighthouse reports — those are a race between this <image> and the same icon's
        <img> in the app grid below, and they land on different files on every run. */
-    img.setAttribute('href', '/img/apps/' + app.icon);
+    img.setAttribute('href', '/img/apps/' + app.icon.replace(/\.png$/, '.webp'));
     img.setAttribute('preserveAspectRatio', 'xMidYMid slice');
     body.appendChild(img);
 

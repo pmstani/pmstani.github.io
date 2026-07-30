@@ -144,7 +144,7 @@ layout: null
         {% for app in site.data.apps %}
         <div class="app-card" data-category="{{ app.category }}">
           <a href="{{ '/apps/' | append: app.slug | append: '/' | relative_url }}" title="{{ app.name }}">
-            <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-card-icon" loading="lazy" width="60" height="60">
+            <img src="{{ '/img/apps/' | append: app.icon | replace: '.png', '.webp' | relative_url }}" alt="{{ app.name }}" class="app-card-icon" loading="lazy" width="60" height="60">
             <div class="app-card-name">{{ app.name }}</div>
             <div class="app-card-tagline">{{ app.tagline }}</div>
             <span class="app-card-category">{{ app.category | replace: '-', ' ' }}</span>

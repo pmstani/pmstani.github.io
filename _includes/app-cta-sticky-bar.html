@@ -6,7 +6,7 @@
   {% for app in site.data.apps %}
     {% if app.slug == include.app_slug %}
 <div class="app-cta-bar" id="app-cta-bar" data-cta-key="app-cta-dismissed:{{ app.slug }}" role="complementary" aria-label="{{ app.name }}">
-  <img class="app-cta-bar-icon" src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="" width="40" height="40" loading="lazy">
+  <img class="app-cta-bar-icon" src="{{ '/img/apps/' | append: app.icon | replace: '.png', '.webp' | relative_url }}" alt="" width="40" height="40" loading="lazy">
   <div class="app-cta-bar-text">
     <span class="app-cta-bar-name">{{ app.name }}</span>
     <span class="app-cta-bar-tagline">{{ app.tagline }}</span>

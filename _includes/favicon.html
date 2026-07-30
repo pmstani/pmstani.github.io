@@ -7,7 +7,7 @@
 <meta name="theme-color" content="#f3e9d2">
 <script>
   window.__appIcons = [
-    {% for app in site.data.apps %}"{{ '/img/apps/' | append: app.icon | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+    {% for app in site.data.apps %}"{{ '/img/apps/' | append: app.icon | replace: '.png', '.webp' | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}
   ];
 </script>
 <script>

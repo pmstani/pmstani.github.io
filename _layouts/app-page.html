@@ -72,7 +72,7 @@
       {% if app %}
       <div class="app-detail">
         <div class="app-detail-header">
-          <img src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" class="app-detail-icon">
+          <img src="{{ '/img/apps/' | append: app.icon | replace: '.png', '.webp' | relative_url }}" alt="{{ app.name }}" class="app-detail-icon">
           <div class="app-detail-info">
             <h1>{{ app.name }}</h1>
             <p class="app-detail-tagline">{{ app.tagline }}</p>

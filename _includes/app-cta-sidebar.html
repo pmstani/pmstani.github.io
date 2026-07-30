@@ -9,7 +9,7 @@
     {% if app.slug == include.app_slug %}
 <aside class="app-cta-sidebar" aria-label="Featured app">
   <div class="app-cta-sidebar-card">
-    <img class="app-cta-sidebar-icon" src="{{ '/img/apps/' | append: app.icon | relative_url }}" alt="{{ app.name }}" width="76" height="76" loading="lazy">
+    <img class="app-cta-sidebar-icon" src="{{ '/img/apps/' | append: app.icon | replace: '.png', '.webp' | relative_url }}" alt="{{ app.name }}" width="76" height="76" loading="lazy">
     <p class="app-cta-sidebar-eyebrow">Featured app</p>
     <p class="app-cta-sidebar-name">{{ app.name }}</p>
     <p class="app-cta-sidebar-tagline">{{ app.tagline }}</p>
