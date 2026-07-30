@@ -663,9 +663,19 @@ a { color: var(--seal); text-decoration-thickness: 1px; text-underline-offset: 2
     max-width: 100%;
     width: 100%;
   }
-  /* relative, so the absolutely-inset svg fills the scene, not the plate;
-     height is a fallback — tree.js resizes the scene to the tree's aspect */
-  .plate__scene { order: 2; position: relative; height: 66vh; min-height: 240px; }
+  /* relative, so the absolutely-inset svg fills the scene, not the plate.
+     Sized by aspect-ratio rather than a viewport-height guess: the default below is the
+     current orchard's ratio, and tree.js overrides --tree-aspect with the real viewBox
+     ratio once it has laid the tree out. Because the default is already right, the box
+     is the correct height on first paint. This used to be `height: 66vh`, which tree.js
+     then rewrote to the aspect height after paint — a ~290px shrink that dragged
+     .plate__specimen up with it and accounted for all 0.094 of the mobile CLS. */
+  .plate__scene {
+    order: 2;
+    position: relative;
+    aspect-ratio: var(--tree-aspect, 1.4655);
+    min-height: 240px;
+  }
   .plate__heading {
     order: 1;
     position: relative; /* keeps the absolute cloud anchored once the plate stacks */

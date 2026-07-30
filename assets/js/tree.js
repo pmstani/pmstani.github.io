@@ -427,21 +427,19 @@
   svg.setAttribute('viewBox', n2(vx) + ' ' + n2(vy) + ' ' + n2(vw) + ' ' + n2(vh));
   svg.setAttribute('preserveAspectRatio', 'xMidYMax meet');
 
-  /* on the stacked mobile layout the scene sits in normal flow — match its
-     height to the tree's aspect so no blank sky opens above the canopy */
+  /* On the stacked mobile layout the scene sits in normal flow and its height has to
+     match the tree's aspect, or blank sky opens above the canopy. Publish that aspect
+     as a custom property and let CSS do the sizing — the mobile rule is
+     `aspect-ratio: var(--tree-aspect, ...)`, whose default already matches the current
+     orchard, so the box is the right height on the very first paint.
+
+     This replaces a `scene.style.height` write that read `scene.clientWidth` straight
+     back, which forced a synchronous layout, and whose result only landed after paint —
+     the scene shrank by ~290px and shoved `.plate__specimen` down the page for 0.094 CLS
+     on mobile. Letting CSS own the height also drops the matchMedia and resize
+     listeners: `aspect-ratio` recomputes on its own. */
   var scene = svg.parentElement;
-  var stackedMq = window.matchMedia && window.matchMedia('(max-width: 700px)');
-  function fitScene() {
-    if (!scene || !stackedMq) return;
-    if (stackedMq.matches) {
-      scene.style.height = Math.max(240, Math.round(scene.clientWidth * (vh / vw))) + 'px';
-    } else {
-      scene.style.height = '';
-    }
-  }
-  fitScene();
-  if (stackedMq && stackedMq.addEventListener) stackedMq.addEventListener('change', fitScene);
-  window.addEventListener('resize', fitScene);
+  if (scene) scene.style.setProperty('--tree-aspect', (vw / vh).toFixed(4));
 
   /* =========================================================================
      LEGEND — categories with counts; hover highlights a limb
