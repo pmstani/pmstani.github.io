@@ -47,7 +47,18 @@ defaults:
 # Exclude from processing
 # =============================================================================
 exclude:
+  # seo/ holds Google Search Console OAuth credentials (seo/secrets/*.json) plus
+  # private analytics. It is gitignored, so GitHub Pages never sees it — but a
+  # local `jekyll build` was copying seo/secrets/token.json and client_secret.json
+  # straight into _site/. Excluding here means the build itself refuses to emit
+  # them, even if the gitignore is ever changed or the site is deployed from a
+  # local _site/ rather than from the repo.
+  - seo/
+  - .claude/
   - .claude-work/
+  # Developer README, not a page. Was being published at /assets/fonts/ and
+  # listed in the sitemap as a thin, indexable page.
+  - assets/fonts/README.md
   - CLAUDE.md
   - .sass-cache/
   - .jekyll-cache/
