@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Third-Party Keyboard Privacy: What 'Allow Full Access' Really Means"
-description: "A clear explanation of how iOS sandboxes third-party keyboards, what the 'Allow Full Access' toggle actually grants, the difference between legitimate and concerning uses, real keyboard data-collection incidents, the questions to ask any keyboard vendor, and why a no-network-by-design keyboard is the strongest privacy guarantee."
+title: "'Allow Full Access' on iPhone Keyboards: What Apple's Warning Means"
+description: "Apple warns a keyboard with Full Access 'can transmit anything you type.' Here's what iOS really grants, what the sandbox still blocks, and how to judge one."
 date: 2026-06-18
+last_modified_at: 2026-08-10
 categories: [health-wellness]
 tags: [biggerkeys, privacy, security, ios-keyboards, full-access, data-protection, accessibility]
 silo: health-wellness

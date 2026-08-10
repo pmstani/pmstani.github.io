@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Best Apps for Freelancers on iPhone and Mac"
-description: "The best iPhone and Mac apps for freelancers in 2026. Task tracking, planning, document comparison, transcription, PDF creation, and time awareness."
+title: "Best Freelancer Apps for Mac and iPhone"
+description: "The best Mac and iPhone apps for freelancers in 2026: task tracking, planning, document comparison, transcription, PDF creation, and time awareness."
 date: 2026-02-04
+last_modified_at: 2026-08-10
 categories: [productivity]
 tags: [freelance, self-employed, invoicing, productivity, apps]
 silo: productivity
