@@ -8,6 +8,8 @@ tags: [meditation, mindfulness, beginners, relaxation]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [lotus, tiny-temple]
+noindex: true
+
 ---
 
 # A Beginner's Guide to Meditation with iPhone Apps

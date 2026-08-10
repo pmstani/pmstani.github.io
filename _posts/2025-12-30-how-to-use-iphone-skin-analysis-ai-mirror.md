@@ -8,6 +8,8 @@ tags: [skin-analysis, ai, health, dermatology, iphone]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [ai-mirror]
+noindex: true
+
 ---
 
 The American Academy of Dermatology estimates that one in five Americans will develop skin cancer during their lifetime. Melanoma, the most dangerous form, kills more than 7,990 Americans per year — yet when detected early (stage I), the five-year survival rate exceeds 99%. The gap between a curable early detection and a life-threatening late diagnosis often comes down to a single factor: whether someone noticed a change in their skin and acted on it.

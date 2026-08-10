@@ -8,6 +8,8 @@ tags: [retrofoot, league-mode, football-strategy, points-math, goal-difference, 
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, the-done-list, calcular, day-progress]
+noindex: true
+
 ---
 
 # Football League Mode Strategy Guide: 11 Matchdays, 12 Clubs, One Trophy

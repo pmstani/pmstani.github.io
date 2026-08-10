@@ -8,6 +8,8 @@ tags: [chronic-pain, pain-management, fibromyalgia, arthritis, back-pain, iphone
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, lotus, tiny-temple, tinnitus-ai, mental-health-happysteps, health-export, positive-affirmations, biggerkeys]
+noindex: true
+
 ---
 
 Chronic pain is not just a symptom. It is a condition in its own right, and its scale is difficult to overstate. The Centers for Disease Control and Prevention estimates that 50 million American adults -- roughly 20% of the adult population -- live with chronic pain. Of those, approximately 20 million have high-impact chronic pain that substantially restricts work, social activities, and self-care on most days. Globally, the International Association for the Study of Pain places chronic pain as the leading cause of disability worldwide.

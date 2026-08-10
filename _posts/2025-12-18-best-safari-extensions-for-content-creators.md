@@ -8,6 +8,8 @@ tags: [content-creation, youtube, social-media, creators, safari]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [image-downloader, web2screen, color-palette, extension-ai, prompt-wizard, html-to-markdown]
+noindex: true
+
 ---
 
 Content creation is a research-intensive profession disguised as a creative one. A 2024 survey by the Creator Economy Institute found that full-time content creators spend 38% of their working time on research and planning, 27% on production, 20% on editing and post-production, and 15% on distribution and engagement. That research phase — finding reference images, studying competitor content, extracting visual inspiration, researching topics, and building content briefs — happens overwhelmingly in a web browser.

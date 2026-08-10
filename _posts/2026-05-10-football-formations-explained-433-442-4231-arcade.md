@@ -8,6 +8,8 @@ tags: [retrofoot, arcade-football, retro-gaming, pixel-football, formations, tac
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, the-done-list, fight-iq, day-progress]
+noindex: true
+
 ---
 
 For most of football's history, formations were drawn on tactics boards in the dressing room and only occasionally translated into something a player on the pitch could feel directly. Pep Guardiola's Barcelona changed that in the late 2000s by demonstrating that a formation -- specifically, a heavily possession-oriented 4-3-3 -- could be the entire identity of a team. By the mid-2010s, every top-flight football club had a tactics director, every commentary team had a formation graphic, and football fans were expected to know whether their team was lining up in a 4-3-3, a 4-4-2, or a 4-2-3-1.

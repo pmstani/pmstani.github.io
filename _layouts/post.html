@@ -7,6 +7,12 @@
   <title>{{ page.title }} - {{ site.title }}</title>
   <meta name="description" content="{{ page.description }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {%- comment -%}
+    Pruned posts (see seo/content-queue.md) stay crawlable and stay in the sitemap on
+    purpose: Google has to re-crawl them to see this tag before it will drop them.
+    `follow` preserves the ~620 internal links pointing into this set.
+  {%- endcomment -%}
+  {% if page.noindex %}<meta name="robots" content="noindex,follow">{% endif %}
 
   <!-- Open Graph -->
   <meta property="og:title" content="{{ page.title }}">

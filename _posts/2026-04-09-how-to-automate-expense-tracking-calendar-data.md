@@ -8,6 +8,8 @@ tags: [expense-tracking, business-expenses, receipt-tracking, calendar-export, t
 silo: productivity
 pillar: productivity
 related_apps: [calxport, equipt, safe, save-as-pdf, photo-to-pdf]
+noindex: true
+
 ---
 
 Small business owners and freelancers spend an average of 5.2 hours per month on expense tracking. That figure comes from a 2024 survey by Xero, the cloud accounting platform, which analyzed time-use data from over 10,000 small business users. For sole proprietors, the number is even higher -- 6.8 hours per month -- because they lack dedicated accounting staff and handle every receipt, categorization, and reconciliation themselves.

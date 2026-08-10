@@ -8,6 +8,8 @@ tags: [apple-health, doctor, medical, health-data]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [health-export, mental-health-happysteps, symptom-log, biggerkeys]
+noindex: true
+
 ---
 
 The average primary care appointment lasts 18 minutes. In that window, the physician must review your chart, listen to your concerns, conduct an examination, formulate an assessment, discuss treatment options, write prescriptions, order tests, and document the encounter. A 2019 study in the *Annals of Internal Medicine* found that for every hour of direct patient care, physicians spend nearly two hours on documentation and administrative tasks. Time is the scarcest resource in medicine.

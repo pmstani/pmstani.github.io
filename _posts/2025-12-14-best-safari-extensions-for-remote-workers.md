@@ -8,6 +8,8 @@ tags: [remote-work, wfh, productivity, focus, safari]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [make-it-dark-mode, sticky-notes, auto-refresh, command-palette, plain-paste, rss-reader, redirect-map-for-safari]
+noindex: true
+
 ---
 
 Remote work is no longer an experiment. As of early 2026, 38% of US knowledge workers work fully remote and another 24% work in a hybrid arrangement, according to data from the Bureau of Labor Statistics and validated by Stanford economist Nick Bloom's ongoing WFH Research project. That is nearly two-thirds of knowledge workers spending some or all of their working hours at home, in coffee shops, or in co-working spaces — environments they largely configure themselves.

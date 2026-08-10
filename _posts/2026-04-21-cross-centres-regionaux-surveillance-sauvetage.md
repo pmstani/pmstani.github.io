@@ -9,6 +9,8 @@ silo: education
 pillar: education
 related_apps: [crr, local-weather-yawa, save-as-pdf, survivalist]
 permalink: /blog/education/cross-centres-regionaux-surveillance-sauvetage/
+noindex: true
+
 ---
 
 Lorsqu'un plaisancier appuie sur le bouton de détresse ASN de sa VHF marine au large des côtes françaises, il déclenche une chaîne d'alerte qui aboutit, en quelques secondes, dans la salle d'opération d'un CROSS. Ces **Centres Régionaux Opérationnels de Surveillance et de Sauvetage** constituent l'épine dorsale de la sécurité maritime en France. Comprendre leur organisation, leurs missions et leurs procédures de contact est non seulement essentiel pour réussir le **Certificat Restreint de Radiotéléphoniste (CRR)** délivré par l'**Agence Nationale des Fréquences (ANFR)**, mais aussi pour naviguer en sécurité.

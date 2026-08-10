@@ -8,6 +8,8 @@ tags: [home-inventory, insurance, asset-tracking, preparedness]
 silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [safe, equipt, vetkit]
+noindex: true
+
 ---
 
 After a house fire in 2019, a family in Colorado filed an insurance claim for $150,000 in lost belongings. They received $47,000. Not because their policy was inadequate — the coverage limit was $200,000 — but because they could not prove what they owned. Without documentation, the adjuster estimated conservatively, disputed several high-value claims, and settled for less than a third of the actual loss. That gap — between what you own and what you can prove you own — is the core problem that a home inventory solves.

@@ -8,6 +8,8 @@ tags: [fibromyalgia, fatigue, chronic-fatigue, pacing, symptom-tracker, chronic-
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, day-progress, mental-health-happysteps, lotus, tiny-temple, the-done-list]
+noindex: true
+
 ---
 
 # Fibromyalgia and Fatigue: How Symptom Tracking Reveals Hidden Patterns

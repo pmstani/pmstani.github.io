@@ -8,6 +8,8 @@ tags: [tax-documentation, tax-preparation, freelancer-taxes, time-tracking, cale
 silo: productivity
 pillar: productivity
 related_apps: [calxport, equipt, save-as-pdf, health-export, safe, photo-to-pdf]
+noindex: true
+
 ---
 
 Tax season for self-employed individuals is not a date on the calendar. It is a sustained period of data gathering, organization, and reconciliation that, according to the National Society of Accountants, takes the average small business owner 24 hours to complete -- not including the time spent by their tax preparer. The IRS Taxpayer Advocate Service reports that the estimated burden for a sole proprietor filing Schedule C is 12 hours for record-keeping, 5 hours for tax planning, 4 hours for form preparation, and 3 hours for form submission. And these are averages. Complex situations involving multiple clients, business travel, vehicle use, and home offices take significantly longer.

@@ -8,6 +8,8 @@ tags: [biggerkeys, arthritis, rheumatoid-arthritis, osteoarthritis, accessible-t
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, symptom-log, transcribe, my-agenda-planning, health-export]
+noindex: true
+
 ---
 
 # Typing with Arthritis on iPhone: A Complete Keyboard Guide

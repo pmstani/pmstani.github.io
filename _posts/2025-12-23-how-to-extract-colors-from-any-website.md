@@ -8,6 +8,8 @@ tags: [colors, design, css, branding]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [color-palette, web-inspector]
+noindex: true
+
 ---
 
 ## Why Extracting Website Colors Is a Core Design Skill

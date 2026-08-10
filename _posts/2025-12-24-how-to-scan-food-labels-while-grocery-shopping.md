@@ -8,6 +8,8 @@ tags: [nutrition, food-labels, grocery, health]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [food-scanner]
+noindex: true
+
 ---
 
 ## The 8-Second Decision That Shapes Your Diet

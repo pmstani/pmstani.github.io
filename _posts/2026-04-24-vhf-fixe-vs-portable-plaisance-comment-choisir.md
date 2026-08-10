@@ -9,6 +9,8 @@ silo: education
 pillar: education
 related_apps: [crr, survivalist, local-weather-yawa, save-as-pdf]
 permalink: /blog/education/vhf-fixe-vs-portable-plaisance-comment-choisir/
+noindex: true
+
 ---
 
 Au moment d'équiper son bateau d'une radio VHF marine, le plaisancier se trouve face à un choix souvent mal expliqué : faut-il opter pour une **VHF fixe** installée à demeure dans le carré ou la cabine, ou pour une **VHF portable** facilement transportable ? Les deux ont leurs avantages, leurs limitations et leurs cas d'usage. La réponse dépend du type de navigation envisagé, de la taille du bateau, du budget, et de la stratégie de redondance que vous souhaitez mettre en place.

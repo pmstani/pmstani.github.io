@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [cat-health, cat-care, feline-health, pet-health-tracking, cat-weight, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, health-export, food-scanner, lotus]
+noindex: true
+
 ---
 
 # Cat Health Tracking: What Every Cat Owner Should Monitor

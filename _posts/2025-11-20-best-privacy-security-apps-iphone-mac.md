@@ -9,6 +9,8 @@ tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [panicvault, safe, clean-genie, pdf-compressor, equipt, local-weather-yawa, vetkit, crr, biggerkeys, ebouquin]
+noindex: true
+
 ---
 
 # Best Privacy and Security Apps for iPhone and Mac

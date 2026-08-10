@@ -8,6 +8,8 @@ tags: [xlprinter, poster-assembly, tiling, registration-marks, framing, mac-prin
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, color-palette, tidy-downloads]
+noindex: true
+
 ---
 
 # How to Assemble a Multi-Page Poster: Clean Edges and Registration

@@ -8,6 +8,8 @@ tags: [xlprinter, classroom-printing, teacher-resources, educational-charts, lar
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, read-easier, dyslexia, presbyopia, soiree]
+noindex: true
+
 ---
 
 # How to Print Classroom Charts: Alphabets, Periodic Tables, and More

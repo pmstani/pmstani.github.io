@@ -8,6 +8,8 @@ tags: [sleep, chronic-illness, insomnia, fatigue, pain, symptom-tracker, iphone]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, tinnitus-ai, lotus, tiny-temple, mental-health-happysteps]
+noindex: true
+
 ---
 
 ## The Cycle That Keeps You Sick and Tired

@@ -8,6 +8,8 @@ tags: [calendar-export, csv, excel, apple-calendar, spreadsheet, data-export, ip
 silo: productivity
 pillar: productivity
 related_apps: [calxport, health-export, my-agenda-planning, universal-data-viewer, save-as-pdf]
+noindex: true
+
 ---
 
 Apple Calendar is one of the most widely used scheduling tools in the world. According to Apple's 2025 platform transparency report, over 900 million active devices run iOS or macOS, and Calendar ships pre-installed on every one. It syncs across devices, integrates with Siri, and handles multiple calendar accounts -- iCloud, Google, Exchange, CalDAV. For most people, it is the default place where life's structure lives: work meetings, doctor appointments, school events, travel plans, deadlines.

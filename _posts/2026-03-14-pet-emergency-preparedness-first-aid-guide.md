@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [pet-emergency, pet-first-aid, emergency-preparedness, pet-safety, pet-health, iphone]
 silo: health-wellness
 related_apps: [vetkit, survivalist, symptom-log, safe, transcribe, health-export]
+noindex: true
+
 ---
 
 # Pet Emergency Preparedness and First Aid Guide

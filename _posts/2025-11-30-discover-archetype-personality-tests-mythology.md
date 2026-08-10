@@ -8,6 +8,8 @@ tags: [archetype, personality, mythology, self-discovery]
 silo: education-learning
 pillar: education-learning
 related_apps: [mythos]
+noindex: true
+
 ---
 
 When Joseph Campbell published *The Hero with a Thousand Faces* in 1949, he documented something that anthropologists had been whispering about for decades: the same character types appear in the myths of every human culture. The Hero, the Sage, the Trickster, the Mother, the Shadow — they surface in ancient Sumerian tablets and modern Hollywood screenplays, in Aboriginal Dreamtime stories and Japanese anime, in Norse sagas and West African folklore. These recurring figures are not coincidences or cultural borrowings. They are, according to Jungian psychology, reflections of universal patterns in the human psyche itself.

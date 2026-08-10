@@ -8,6 +8,8 @@ tags: [retrofoot, pixel-art, 16-bit, retro-gaming, arcade-football, game-design,
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, mythos, lotus, calcular]
+noindex: true
+
 ---
 
 # Why 16-Bit Pixel Art Still Wins in Football Games

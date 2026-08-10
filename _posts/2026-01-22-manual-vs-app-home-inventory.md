@@ -8,6 +8,8 @@ tags: [home-inventory, insurance, comparison, organization]
 silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [safe, equipt]
+noindex: true
+
 ---
 
 The Insurance Information Institute recommends that every homeowner and renter maintain a home inventory. According to their data, fewer than half actually do. Among those who do maintain one, the quality varies enormously — from a vague mental list ("I think I had a KitchenAid mixer") to a detailed, photographed, receipted, and cloud-backed database that would satisfy the most skeptical insurance adjuster.

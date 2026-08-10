@@ -8,6 +8,8 @@ tags: [biggerkeys, hand-tremors, essential-tremor, parkinsons, arthritis, access
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, symptom-log, transcribe, my-agenda-planning, read-easier, presbyopia]
+noindex: true
+
 ---
 
 # Best iPhone Apps for Hand Tremors and Accessible Typing in 2026

@@ -8,6 +8,8 @@ tags: [rss, social-media, algorithms, information, news]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [rss-reader, tech-news-pro]
+noindex: true
+
 ---
 
 A 2023 study by the Reuters Institute for the Study of Journalism found that 38% of people across 46 countries actively avoid the news — a figure that has nearly doubled since 2017. The researchers did not attribute this to apathy. The most cited reasons were emotional exhaustion, a sense of powerlessness, and the feeling that news platforms prioritize outrage over information. People are not disengaged from the world. They are disengaged from the delivery mechanism.

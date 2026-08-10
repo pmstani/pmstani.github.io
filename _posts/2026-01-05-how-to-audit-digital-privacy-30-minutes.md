@@ -9,6 +9,8 @@ tags: [privacy, audit, security, data-protection]
 silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [panicvault, local-weather-yawa, clean-genie, redirect-map-for-safari, soundspice]
+noindex: true
+
 ---
 
 In 2024, the average person had 168 online accounts, according to NordPass's annual password report. Each account holds some combination of name, email address, phone number, physical address, payment information, browsing history, purchase history, location data, and behavioral patterns. When a single one of those accounts is breached, that data enters circulation in underground markets. When multiple accounts share the same password — which 65% of people admit to, according to a 2023 Google/Harris Poll survey — a single breach cascades into access to dozens of services.

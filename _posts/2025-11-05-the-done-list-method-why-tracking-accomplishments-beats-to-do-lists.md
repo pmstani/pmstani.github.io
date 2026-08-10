@@ -8,6 +8,8 @@ tags: [done-list, accomplishments, productivity, mindset]
 silo: productivity
 pillar: productivity
 related_apps: [the-done-list, calxport]
+noindex: true
+
 ---
 
 In 1918, productivity consultant Ivy Lee walked into Bethlehem Steel Corporation and gave its president, Charles Schwab, a simple system: every evening, write down the six most important things you need to accomplish tomorrow. Prioritize them. Start with the first item the next morning and do not move to the second until the first is complete. Schwab paid Lee $25,000 for this advice — roughly $500,000 in today's money — and credited it with turning Bethlehem Steel into the largest independent steel producer in the world.

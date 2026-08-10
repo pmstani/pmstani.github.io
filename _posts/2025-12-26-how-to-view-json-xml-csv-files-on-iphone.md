@@ -8,6 +8,8 @@ tags: [json, xml, csv, data-viewer, developer]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [universal-data-viewer, format-json, ebouquin]
+noindex: true
+
 ---
 
 ## The Problem with Structured Data on Apple Devices

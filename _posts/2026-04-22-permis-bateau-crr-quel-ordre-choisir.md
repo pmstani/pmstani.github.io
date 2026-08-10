@@ -9,6 +9,8 @@ silo: education
 pillar: education
 related_apps: [crr, ppl, calcular, save-as-pdf, my-agenda-planning]
 permalink: /blog/education/permis-bateau-crr-quel-ordre-choisir/
+noindex: true
+
 ---
 
 Vous voulez prendre la mer avec votre propre bateau et vous vous demandez quels titres obtenir, dans quel ordre, et à quel coût ? La question revient sans cesse parmi les futurs plaisanciers : faut-il d'abord passer le **permis bateau** ou directement le **Certificat Restreint de Radiotéléphoniste (CRR)** ? Les deux sont-ils obligatoires ? Que couvrent-ils exactement ?

@@ -8,6 +8,8 @@ tags: [tinnitus, white-noise, sound-therapy, comparison, hearing]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [tinnitus-ai]
+noindex: true
+
 ---
 
 Roughly 15% of the global adult population experiences tinnitus -- a persistent perception of sound (ringing, buzzing, hissing, humming) with no external source. For most, it is a mild nuisance. For approximately 2% of adults, it is severe enough to impair concentration, sleep, and emotional wellbeing. There is no cure. But among the management strategies that have accumulated clinical evidence, sound therapy stands out as the most consistently effective non-pharmacological approach.

@@ -8,6 +8,8 @@ tags: [surfing, waves, forecast, ocean, outdoor]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [wave-surf-kooks, crr, retrofoot]
+noindex: true
+
 ---
 
 # Best Surf Forecast and Wave Report Apps for Surfers

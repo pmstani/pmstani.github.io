@@ -8,6 +8,8 @@ tags: [morning-routine, dashboard, widgets, productivity]
 silo: productivity
 pillar: productivity
 related_apps: [day-progress, my-agenda-planning, local-weather-yawa, positive-affirmations]
+noindex: true
+
 ---
 
 A 2019 study published in *Social Psychological and Personality Science* found that the first decision you make each morning sets a cognitive trajectory for the rest of the day. Mornings that begin with clarity and intention produce measurably better focus and task completion rates than mornings that begin with reactive scanning — checking email, scrolling notifications, or opening social media to see what happened overnight.

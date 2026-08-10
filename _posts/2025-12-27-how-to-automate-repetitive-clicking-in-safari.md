@@ -8,6 +8,8 @@ tags: [automation, clicking, repetitive-tasks, safari]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [auto-clicker]
+noindex: true
+
 ---
 
 ## The Real Cost of Repetitive Web Tasks

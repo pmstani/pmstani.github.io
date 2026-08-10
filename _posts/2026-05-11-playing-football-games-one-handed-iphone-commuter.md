@@ -8,6 +8,8 @@ tags: [retrofoot, arcade-football, retro-gaming, pixel-football, mobile-gaming, 
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, day-progress, the-done-list, calcular]
+noindex: true
+
 ---
 
 The average commute in a major city in 2026 is 32 minutes each way, according to the latest data from the OECD's 2025 Better Life Index update. That is over an hour a day for most workers, two hundred and fifty hours a year, a non-trivial chunk of waking life spent on a bus, a train, a metro, or sitting in traffic. For a lot of people, that hour is the only meaningfully unstructured time they get -- not work, not family, not sleep -- and they want to spend it on something that feels like theirs.

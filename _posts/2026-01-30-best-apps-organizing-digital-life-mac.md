@@ -8,6 +8,8 @@ tags: [organization, digital-life, mac, declutter, files]
 silo: productivity
 pillar: productivity
 related_apps: [tidy-downloads, clean-genie, snapmark, safe, pdf-compressor, panicvault, mitre, ebouquin, soiree]
+noindex: true
+
 ---
 
 ## Digital Clutter Is the New Physical Clutter

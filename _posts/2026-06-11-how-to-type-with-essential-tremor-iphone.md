@@ -8,6 +8,8 @@ tags: [biggerkeys, essential-tremor, accessible-typing, iphone-accessibility, la
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, transcribe, symptom-log, my-agenda-planning, read-easier]
+noindex: true
+
 ---
 
 # How to Type with Essential Tremor on iPhone

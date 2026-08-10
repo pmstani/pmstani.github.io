@@ -8,6 +8,8 @@ tags: [biggerkeys, parkinsons-disease, accessible-typing, iphone-accessibility, 
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, symptom-log, my-agenda-planning, transcribe, health-export]
+noindex: true
+
 ---
 
 # iPhone Keyboard Settings for Parkinson's Disease

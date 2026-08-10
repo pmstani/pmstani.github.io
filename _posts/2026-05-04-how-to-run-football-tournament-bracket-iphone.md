@@ -8,6 +8,8 @@ tags: [retrofoot, tournament-mode, knockout-bracket, arcade-football, iphone-gam
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, the-done-list, day-progress, calcular]
+noindex: true
+
 ---
 
 # How to Run a Football Tournament Bracket on Your iPhone

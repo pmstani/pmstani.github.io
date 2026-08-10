@@ -8,6 +8,8 @@ tags: [psychology, quotes, affirmations, motivation, self-improvement]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [motivation-quotes, positive-affirmations, bible-tab, quran-tab]
+noindex: true
+
 ---
 
 ## The Billion-Dollar Affirmation Industry and the Science Beneath It

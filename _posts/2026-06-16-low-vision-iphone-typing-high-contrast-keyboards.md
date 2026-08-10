@@ -8,6 +8,8 @@ tags: [biggerkeys, low-vision, accessibility, presbyopia, high-contrast, large-k
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, read-easier, presbyopia, dyslexia, transcribe, symptom-log]
+noindex: true
+
 ---
 
 # Low-Vision Typing on iPhone: High-Contrast Keyboards and Beyond

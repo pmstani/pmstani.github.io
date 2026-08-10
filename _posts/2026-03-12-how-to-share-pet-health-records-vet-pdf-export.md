@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [pet-health-records, pdf-export, vet-records, pet-health-sharing, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, pdf-compressor, save-as-pdf, photo-to-pdf, transcribe]
+noindex: true
+
 ---
 
 # How to Export and Share Pet Health Records with Your Vet

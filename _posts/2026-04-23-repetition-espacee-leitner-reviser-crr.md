@@ -9,6 +9,8 @@ silo: education
 pillar: education
 related_apps: [crr, ppl, calcular, the-done-list, my-agenda-planning]
 permalink: /blog/education/repetition-espacee-leitner-reviser-crr/
+noindex: true
+
 ---
 
 Combien de fois avez-vous lu un chapitre du manuel ANFR pour le CRR, fermé le livre... et constaté quelques heures plus tard que vous ne pouviez plus restituer la fréquence du canal 16, la structure d'un MMSI, ou la procédure exacte d'un Mayday ? Cette **fragilité de la mémoire** n'est pas une faiblesse personnelle : c'est une réalité neurologique universelle, étudiée et quantifiée depuis plus de 130 ans par les sciences cognitives. Heureusement, des **techniques scientifiquement validées** existent pour contourner ce problème — et la plus efficace pour mémoriser durablement des faits, des règles et des procédures s'appelle la **répétition espacée**, popularisée sous la forme du **système Leitner**.

@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [pet-weight, weight-tracking, dog-health, cat-health, obesity, pet-health, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, health-export, food-scanner, mental-health-happysteps]
+noindex: true
+
 ---
 
 # How to Track Your Pet's Weight and Spot Health Problems Early

@@ -8,6 +8,8 @@ tags: [student, class-schedule, college, study-planning, calendar-export, spread
 silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, the-done-list, day-progress, transcribe]
+noindex: true
+
 ---
 
 The average college student juggles 5.2 courses per semester. That is the number from the National Center for Education Statistics, and it translates to roughly 15-16 credit hours per week spent in classrooms, lecture halls, and labs. But classroom time is only a fraction of the academic workload. The Bureau of Labor Statistics' American Time Use Survey found that full-time college students spend an average of 3.5 hours per day on educational activities -- a number that faculty consistently argue should be higher. The commonly cited guideline, endorsed by the Carnegie Unit standard that underlies the American credit hour system, recommends two to three hours of out-of-class study for every hour of in-class instruction. For a student taking 15 credit hours, that means 30 to 45 hours of study per week on top of the 15 hours of class time.

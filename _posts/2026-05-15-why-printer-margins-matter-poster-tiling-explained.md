@@ -8,6 +8,8 @@ tags: [xlprinter, printer-margins, poster-tiling, paper-sizes, iso-216, ansi-pap
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, pdiff, save-as-pdf, web2screen, color-palette]
+noindex: true
+
 ---
 
 # Why Printer Margins Matter for Poster Tiling, Explained

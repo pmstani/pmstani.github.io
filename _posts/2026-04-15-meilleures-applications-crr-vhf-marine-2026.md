@@ -8,6 +8,8 @@ tags: [crr, vhf-marine, anfr, asn-dsc, examen-crr, plaisance, securite-maritime,
 silo: education
 pillar: education
 related_apps: [crr, ppl, local-weather-yawa, calcular, save-as-pdf, the-done-list, my-agenda-planning, lotus]
+noindex: true
+
 ---
 
 # Meilleures applications pour préparer le CRR Maritime et la VHF marine en 2026

@@ -8,6 +8,8 @@ tags: [bible, quran, daily-reading, spiritual, safari]
 silo: education-learning
 pillar: education-learning
 related_apps: [bible-tab, quran-tab]
+noindex: true
+
 ---
 
 The Barna Group, one of the most respected religious research organizations in the United States, has been tracking Bible engagement since 2011. Their 2023 report found a striking paradox: 69% of Americans say they wish they read the Bible more often, yet only 11% read it daily. Among Muslims, the pattern is similar — surveys consistently show that the majority of practicing Muslims aspire to daily Quran engagement but struggle to maintain consistency, with Ramadan representing the only period of sustained daily reading for many.

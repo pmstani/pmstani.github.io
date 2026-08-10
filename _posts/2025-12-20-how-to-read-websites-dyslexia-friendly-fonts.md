@@ -8,6 +8,8 @@ tags: [dyslexia, fonts, accessibility, reading]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [dyslexia, read-easier, presbyopia, biggerkeys, ebouquin]
+noindex: true
+
 ---
 
 ## The Typography Problem Affecting 780 Million Readers

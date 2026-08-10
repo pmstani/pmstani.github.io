@@ -8,6 +8,8 @@ tags: [apple-health, data-export, health-tracking, analysis]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [health-export, symptom-log, calxport]
+noindex: true
+
 ---
 
 # How to Export and Analyze Your Apple Health Data

@@ -8,6 +8,8 @@ tags: [emergency, preparedness, go-bag, survival, checklist]
 silo: education-learning
 pillar: education-learning
 related_apps: [survivalist, crr]
+noindex: true
+
 ---
 
 In September 2024, Hurricane Helene struck western North Carolina — a region that had not experienced a major hurricane in modern memory. Residents in Asheville, Chimney Rock, and surrounding communities had less than 12 hours between the final evacuation orders and catastrophic flooding that destroyed roads, bridges, and entire neighborhoods. Those who evacuated quickly grabbed what they could carry. Those who had a pre-packed emergency go-bag left with everything they needed for 72 hours of self-sufficiency. Those who did not spent the following days in shelters without medications, identification, phone chargers, or a change of clothes.

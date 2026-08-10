@@ -8,6 +8,8 @@ tags: [aso, keyword-tracking, app-store, marketing]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [aso-widgets]
+noindex: true
+
 ---
 
 Apple reported over 650 million weekly visitors to the App Store in 2024. According to a widely cited Apple statistic, roughly 65% of all App Store downloads originate from search. That means for most indie developers, the difference between 50 downloads per day and 500 comes down to where their app appears for a handful of keywords. A shift from position 3 to position 8 on a moderate-volume keyword can cut organic installs by half overnight — and you might not notice for weeks unless you have a tracking system in place.

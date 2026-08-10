@@ -8,6 +8,8 @@ tags: [parents, baby, family, health, iphone]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [toomy, mental-health-happysteps, lotus, positive-affirmations, health-export, safe, symptom-log]
+noindex: true
+
 ---
 
 ## The First Year Changes Everything (Including Your Relationship With Your Phone)

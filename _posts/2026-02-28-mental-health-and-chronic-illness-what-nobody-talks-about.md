@@ -8,6 +8,8 @@ tags: [mental-health, chronic-illness, depression, anxiety, grief, coping, iphon
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, mental-health-happysteps, lotus, tiny-temple, positive-affirmations, health-export, the-done-list, biggerkeys]
+noindex: true
+
 ---
 
 ## The Diagnosis Nobody Gives You

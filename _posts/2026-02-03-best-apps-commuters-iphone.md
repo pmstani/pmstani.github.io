@@ -8,6 +8,8 @@ tags: [commuting, transit, productivity, reading, iphone]
 silo: productivity
 pillar: productivity
 related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport, retrofoot, redirect-map-for-safari, soundspice]
+noindex: true
+
 ---
 
 ## The Average American Spends 55 Minutes Commuting Every Day

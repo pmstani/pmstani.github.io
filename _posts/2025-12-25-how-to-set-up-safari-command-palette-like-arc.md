@@ -8,6 +8,8 @@ tags: [command-palette, arc-browser, productivity, keyboard-shortcuts]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [command-palette]
+noindex: true
+
 ---
 
 ## What Arc Got Right About Browser Navigation

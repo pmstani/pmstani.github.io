@@ -8,6 +8,8 @@ tags: [retrofoot, arcade-football, beginner-guide, top-down-football, pixel-foot
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, calcular, karate, fight-iq, lotus]
+noindex: true
+
 ---
 
 # How to Play Top-Down Arcade Football: A Beginner's Guide

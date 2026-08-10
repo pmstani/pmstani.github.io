@@ -8,6 +8,8 @@ tags: [rss, feeds, news, information-management]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [rss-reader, ebouquin]
+noindex: true
+
 ---
 
 ## The Year RSS "Died" and Why It Never Actually Did

@@ -8,6 +8,8 @@ tags: [data-portability, calendar-data, privacy, data-ownership, backup, export,
 silo: productivity
 pillar: productivity
 related_apps: [calxport, health-export, panicvault, universal-data-viewer, plain-paste]
+noindex: true
+
 ---
 
 You probably do not think of your calendar as a dataset. But it is one. If you have used Apple Calendar, Google Calendar, or Outlook for the past five years, your calendar contains somewhere between 5,000 and 15,000 events. Each event records when it happened, how long it lasted, where it took place, who was involved, and what it was about. Taken together, those events constitute one of the most detailed personal records in existence -- a timestamped, structured log of how you have spent a significant portion of your waking life.

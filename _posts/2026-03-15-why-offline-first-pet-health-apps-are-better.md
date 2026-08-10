@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [offline-first, data-privacy, pet-health-apps, pet-data, icloud-sync, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, panicvault, health-export, safe, equipt]
+noindex: true
+
 ---
 
 # Why Offline-First Pet Health Apps Are Better for Your Data

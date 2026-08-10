@@ -8,6 +8,8 @@ tags: [food-sensitivity, elimination-diet, allergy, fodmap, nutrition, chronic-i
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, food-scanner, health-export, mental-health-happysteps, my-agenda-planning]
+noindex: true
+
 ---
 
 # Food Sensitivity and Elimination Diets: A Digital Tracking Approach

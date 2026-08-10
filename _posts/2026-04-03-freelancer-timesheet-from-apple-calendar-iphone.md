@@ -8,6 +8,8 @@ tags: [freelancer, timesheet, billable-hours, invoicing, calendar-export, time-t
 silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, the-done-list, day-progress, equipt]
+noindex: true
+
 ---
 
 Freelancers lose money every day. Not from bad rates or missing clients, but from inaccurate time tracking. A 2024 report from the Freelancers Union found that independent workers leave an average of $8,000 per year in unbilled time on the table. A study by Harvest, a time tracking platform, analyzed over 100,000 freelancer accounts and concluded that the average freelancer captures only 67% of their actual billable hours. The remaining 33% vanishes -- brief client calls that were never logged, 20-minute email sessions that did not seem worth recording, research time that felt too short to track.

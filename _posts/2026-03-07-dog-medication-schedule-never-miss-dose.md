@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [dog-medication, pet-medication, medication-schedule, dose-tracking, pet-health, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, my-agenda-planning, day-progress, transcribe]
+noindex: true
+
 ---
 
 # Dog Medication Schedule: How to Never Miss a Dose

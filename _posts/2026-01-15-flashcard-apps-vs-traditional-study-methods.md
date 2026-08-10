@@ -8,6 +8,8 @@ tags: [flashcards, study, spaced-repetition, learning, cognitive-science]
 silo: education-learning
 pillar: education-learning
 related_apps: [flash-card-boat, calcular, ppl]
+noindex: true
+
 ---
 
 Every semester, millions of students download flashcard apps, create decks of hundreds of cards, and study them with the conviction that they are using a scientifically-proven learning method. They are partly right. Spaced repetition -- the algorithm that powers most flashcard apps -- is one of the most robust findings in cognitive psychology, supported by over a century of research starting with Hermann Ebbinghaus's memory experiments in 1885. But the leap from "spaced repetition is effective" to "flashcard apps are the best way to study" skips over critical nuances that determine whether flashcards will actually help you learn.

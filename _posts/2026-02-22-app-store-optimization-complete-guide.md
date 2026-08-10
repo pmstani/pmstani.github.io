@@ -8,6 +8,8 @@ tags: [aso, app-store, optimization, indie-developer, keywords]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [aso-widgets, seo-for-safari]
+noindex: true
+
 ---
 
 ## The Organic Discovery Problem Every Indie Developer Faces

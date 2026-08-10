@@ -8,6 +8,8 @@ tags: [xlprinter, photo-enlargement, photo-printing, dpi-math, upscaling, tiled-
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, photo-to-pdf, pdf-compressor, color-palette, web2screen, save-as-pdf]
+noindex: true
+
 ---
 
 # How to Enlarge a Photo to Print Across Multiple Pages

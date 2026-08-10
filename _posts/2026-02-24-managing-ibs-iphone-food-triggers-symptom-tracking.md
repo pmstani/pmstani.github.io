@@ -8,6 +8,8 @@ tags: [ibs, digestive-health, food-triggers, fodmap, chronic-illness, symptom-tr
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, food-scanner, health-export, mental-health-happysteps, lotus]
+noindex: true
+
 ---
 
 If you have irritable bowel syndrome, you already know what it is like to explain a condition that most people misunderstand. IBS is not a sensitive stomach. It is not something you can fix by "eating better" or "relaxing more." It is a chronic functional gastrointestinal disorder that affects 10-15% of the global population according to the American College of Gastroenterology -- roughly 25 to 45 million Americans. The International Foundation for Gastrointestinal Disorders reports that IBS is the most commonly diagnosed gastrointestinal condition, and it is second only to the common cold as a cause of workplace absenteeism.

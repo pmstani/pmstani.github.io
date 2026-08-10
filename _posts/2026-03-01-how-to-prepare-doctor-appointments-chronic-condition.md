@@ -8,6 +8,8 @@ tags: [doctor, appointment, chronic-illness, health-data, medical, advocacy, iph
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, transcribe, my-agenda-planning, mental-health-happysteps, biggerkeys, soundspice]
+noindex: true
+
 ---
 
 The average specialist appointment lasts 15 to 20 minutes, according to research published in the *Annals of Internal Medicine*. The Agency for Healthcare Research and Quality (AHRQ) reports that people with chronic conditions see an average of four to seven different specialists. Do the math: if you see five specialists twice a year, that is roughly 100 to 200 minutes -- less than three and a half hours of total face time annually with the people responsible for managing your health.

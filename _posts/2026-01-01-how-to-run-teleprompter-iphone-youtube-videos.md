@@ -8,6 +8,8 @@ tags: [teleprompter, youtube, video, content-creation]
 silo: productivity
 pillar: productivity
 related_apps: [cuevoice, soundspice]
+noindex: true
+
 ---
 
 Professional teleprompters used in broadcast news studios cost between $1,500 and $15,000. They consist of a monitor mounted below the camera lens, a sheet of beam-splitter glass angled at 45 degrees, and a hood that prevents ambient light from washing out the reflected text. The presenter reads the reflected script while looking directly into the camera lens — creating the impression of natural, unscripted delivery with perfect eye contact.

@@ -8,6 +8,8 @@ tags: [migraine, headache, triggers, chronic-illness, symptom-tracker, iphone]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, mental-health-happysteps, tinnitus-ai, lotus, food-scanner, local-weather-yawa]
+noindex: true
+
 ---
 
 Migraine is not a headache. It is a complex neurological disease that affects more than one billion people worldwide, making it the third most prevalent illness on the planet according to the World Health Organization. In the United States alone, the Migraine Research Foundation reports that 39 million people live with migraine -- roughly 12% of the population, including children. One in four American households includes someone with migraine.

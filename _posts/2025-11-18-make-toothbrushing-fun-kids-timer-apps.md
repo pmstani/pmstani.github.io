@@ -8,6 +8,8 @@ tags: [kids, dental, toothbrush, timer, family]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [toomy]
+noindex: true
+
 ---
 
 # How to Make Toothbrushing Fun for Kids with Timer Apps

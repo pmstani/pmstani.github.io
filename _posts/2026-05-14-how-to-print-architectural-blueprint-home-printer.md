@@ -8,6 +8,8 @@ tags: [xlprinter, blueprint-printing, architectural-plans, cad-printing, pdf-til
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, pdiff, audit-plus-plus, equipt, save-as-pdf]
+noindex: true
+
 ---
 
 # How to Print an Architectural Blueprint on a Home Printer

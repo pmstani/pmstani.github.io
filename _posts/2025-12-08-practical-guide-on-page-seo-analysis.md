@@ -8,6 +8,8 @@ tags: [seo, analysis, search-optimization, on-page]
 silo: developer-tools
 pillar: developer-tools
 related_apps: [seo-for-safari, link-gopher]
+noindex: true
+
 ---
 
 A 2024 study by Backlinko analyzing 11.8 million Google search results found that the #1 organic result has an average click-through rate of 27.6%, while the #10 result gets just 2.4%. Moving from the second page of results to position 5 on the first page can increase organic traffic by 10x or more. For most websites, organic search is the single largest traffic source, and on-page SEO is the set of optimizations you have the most direct control over.

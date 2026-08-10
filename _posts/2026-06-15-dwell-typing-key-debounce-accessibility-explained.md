@@ -8,6 +8,8 @@ tags: [biggerkeys, accessibility, essential-tremor, parkinsons, dwell-typing, de
 silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, symptom-log, transcribe, my-agenda-planning, health-export]
+noindex: true
+
 ---
 
 # Dwell Typing, Key Debounce, and Lift-Off Actuation Explained

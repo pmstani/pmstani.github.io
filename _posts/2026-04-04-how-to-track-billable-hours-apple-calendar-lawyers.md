@@ -8,6 +8,8 @@ tags: [billable-hours, legal-billing, lawyer, consultant, time-tracking, calenda
 silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, transcribe, save-as-pdf, plain-paste]
+noindex: true
+
 ---
 
 The legal profession has a billing problem. According to the American Bar Association's 2024 Legal Technology Survey Report, lawyers bill an average of 2.2 hours for every 8 hours worked. That is not a reflection of laziness -- it is a reflection of the reality that client development, administrative tasks, continuing education, and the mechanics of running a practice consume the majority of a lawyer's day. Of the hours that are billable, the ABA estimates that 10-30% go unrecorded due to contemporaneous recording failures. At an average partner billing rate of $450 per hour (Clio's 2024 Legal Trends Report), even a modest 15% leakage translates to over $100,000 in unrealized annual revenue for a single attorney.

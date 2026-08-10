@@ -8,6 +8,8 @@ tags: [boating-license, flashcards, exam-prep, maritime]
 silo: education-learning
 pillar: education-learning
 related_apps: [flash-card-boat, crr, ppl]
+noindex: true
+
 ---
 
 The U.S. Coast Guard's 2023 Recreational Boating Statistics report documented 4,040 boating accidents resulting in 636 deaths and 2,222 injuries in a single year. The most common contributing factor, cited in 77% of fatal accidents, was operator inexperience or lack of formal boating education. In response, 36 states now require some form of boating safety education before operating a vessel, and that number has been increasing steadily since the National Association of State Boating Law Administrators began advocating for universal education requirements in 2011.

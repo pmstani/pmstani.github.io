@@ -8,6 +8,8 @@ tags: [shopping, currency, nutrition, comparison]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [convert, food-scanner]
+noindex: true
+
 ---
 
 ## The Information Gap That Costs Online Shoppers Billions

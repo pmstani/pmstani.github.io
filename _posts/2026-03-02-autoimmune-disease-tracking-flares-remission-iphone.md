@@ -8,6 +8,8 @@ tags: [autoimmune, lupus, rheumatoid-arthritis, crohns, ms, flare, remission, ip
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, food-scanner, mental-health-happysteps, lotus, local-weather-yawa, biggerkeys]
+noindex: true
+
 ---
 
 More than 24 million Americans live with autoimmune diseases, according to the National Institute of Allergy and Infectious Diseases. Some estimates that include conditions still being reclassified as autoimmune put that number closer to 50 million. There are more than 80 distinct autoimmune conditions -- rheumatoid arthritis, lupus, multiple sclerosis, Crohn's disease, ulcerative colitis, psoriasis, Hashimoto's thyroiditis, type 1 diabetes, celiac disease, and dozens more -- each with its own constellation of symptoms, triggers, and treatment protocols.

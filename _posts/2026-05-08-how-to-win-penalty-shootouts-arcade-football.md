@@ -8,6 +8,8 @@ tags: [retrofoot, arcade-football, retro-gaming, pixel-football, penalty-shootou
 silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, calcular, lotus, fight-iq]
+noindex: true
+
 ---
 
 There is a particular cruelty to penalty shootouts. A team can play 120 minutes of disciplined football, dominate possession, hit the woodwork three times, only to lose because one of their players misjudged a single moment of timing under unbearable pressure. Sven-Göran Eriksson once called shootouts "a lottery." The data, it turns out, says he was wrong. Penalty shootouts are not random. They reward specific psychological skills, specific tactical preparation, and -- in arcade football games -- a specific understanding of timing meters and aim mechanics.

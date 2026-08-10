@@ -8,6 +8,8 @@ tags: [accessibility, web, a11y, disabilities, assistive-technology]
 silo: safari-extensions
 pillar: safari-extensions
 related_apps: [dyslexia, presbyopia, read-easier, make-it-dark-mode, auto-scroll, allow-copy, biggerkeys]
+noindex: true
+
 ---
 
 ## 96.3% of the Web Fails Basic Accessibility Standards

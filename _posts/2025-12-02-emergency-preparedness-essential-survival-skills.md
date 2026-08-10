@@ -8,6 +8,8 @@ tags: [survival, emergency, preparedness, wilderness]
 silo: education-learning
 pillar: education-learning
 related_apps: [survivalist, vetkit, crr]
+noindex: true
+
 ---
 
 On February 13, 2021, an unprecedented winter storm hit Texas. Temperatures dropped to single digits in a state where most homes have minimal insulation and are heated by electricity rather than gas. The power grid collapsed. Within 48 hours, 4.5 million households had lost power. Pipes froze and burst. Grocery stores emptied. Water treatment plants shut down, leaving 14.6 million people under boil-water advisories. By the time the crisis ended, at least 246 people had died — not from the cold itself, but from carbon monoxide poisoning (running cars in closed garages for warmth), house fires (using open flames indoors for heat), hypothermia (not knowing how to insulate a room without power), and waterborne illness (not knowing how to purify water).

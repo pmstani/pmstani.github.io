@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [vet-visit, pet-health-records, vet-appointment, pet-care, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, transcribe, photo-to-pdf, save-as-pdf, pdf-compressor]
+noindex: true
+
 ---
 
 # How to Prepare for a Vet Visit with Organized Health Records

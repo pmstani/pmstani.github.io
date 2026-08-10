@@ -8,6 +8,8 @@ tags: [xlprinter, pdf-tiling, vector-pdf, multi-page-pdf, mac-printing, print-sh
 silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, pdiff, save-as-pdf, photo-to-pdf, web2screen]
+noindex: true
+
 ---
 
 # How to Tile a PDF Poster Across Multiple Pages on Mac

@@ -8,6 +8,8 @@ tags: [affirmations, positive-thinking, mental-health, self-care]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [positive-affirmations]
+noindex: true
+
 ---
 
 # Daily Affirmations: The Science Behind Positive Self-Talk

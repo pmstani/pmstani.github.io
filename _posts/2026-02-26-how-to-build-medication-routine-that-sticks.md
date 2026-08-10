@@ -8,6 +8,8 @@ tags: [medication, adherence, chronic-illness, reminders, habit, routine, iphone
 silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, my-agenda-planning, day-progress, the-done-list, health-export, biggerkeys]
+noindex: true
+
 ---
 
 ## The $290 Billion Problem Nobody Wants to Talk About

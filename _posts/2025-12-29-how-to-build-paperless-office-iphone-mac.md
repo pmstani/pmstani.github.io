@@ -8,6 +8,8 @@ tags: [paperless, office, documents, pdf, scanning]
 silo: productivity
 pillar: productivity
 related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, tidy-downloads, vetkit, xlprinter, mitre]
+noindex: true
+
 ---
 
 The average American office worker uses 10,000 sheets of paper per year, according to a widely cited estimate from The Paperless Project. At roughly five cents per sheet — factoring in paper cost, printing, ink, and filing — that is $500 per person annually on a medium that becomes instantly unsearchable, takes up physical space, and degrades over time. For a 10-person office, paper costs can quietly exceed $5,000 per year before accounting for filing cabinets, storage rent, shredding services, and the hours spent looking for misfiled documents.

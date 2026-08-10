@@ -8,6 +8,8 @@ tags: [mileage-log, tax-deduction, irs-compliance, calendar-export, business-tra
 silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, equipt, save-as-pdf, safe, redirect-map-for-safari]
+noindex: true
+
 ---
 
 The IRS standard mileage rate for 2026 is 70 cents per mile for business use. That number sounds modest until you multiply it across a year of driving. A real estate agent who drives 15,000 business miles annually is looking at a $10,500 deduction. A home health aide who visits patients across a metropolitan area and logs 20,000 miles can claim $14,000. A sales representative covering a multi-state territory at 25,000 miles per year has a potential deduction of $17,500.

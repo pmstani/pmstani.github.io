@@ -8,6 +8,8 @@ tags: [asn, dsc, vhf-marine, crr, smdsm, gmdss, mmsi, canal-70, detresse, plaisa
 silo: education
 pillar: education
 related_apps: [crr, save-as-pdf, local-weather-yawa, the-done-list]
+noindex: true
+
 ---
 
 # ASN / DSC sur la VHF marine : guide complet pour le CRR

@@ -8,6 +8,8 @@ tags: [martial-arts, karate, mma, boxing, training]
 silo: education-learning
 pillar: education-learning
 related_apps: [karate, fight-iq, retrofoot]
+noindex: true
+
 ---
 
 Bruce Lee trained alone more than he trained with partners. So did Mas Oyama, the founder of Kyokushin karate, who famously spent 18 months in isolation on Mount Minobu perfecting his techniques through solo practice. The notion that martial arts can only be learned in a dojo is historically inaccurate — solo training has been a cornerstone of martial arts development for centuries, from the Shaolin monks who practiced forms in temple courtyards to Okinawan peasants who drilled kata on beaches before dawn.

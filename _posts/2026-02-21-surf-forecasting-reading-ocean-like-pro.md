@@ -8,6 +8,8 @@ tags: [surfing, forecast, ocean, waves, weather]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [wave-surf-kooks]
+noindex: true
+
 ---
 
 ## Why the Forecast Said 4 Feet and the Waves Were Flat

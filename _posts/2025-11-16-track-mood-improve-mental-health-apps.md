@@ -8,6 +8,8 @@ tags: [mood-tracker, mental-health, wellness, emotional-health]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [mental-health-happysteps, symptom-log]
+noindex: true
+
 ---
 
 # How to Track Your Mood and Improve Mental Health with Apps

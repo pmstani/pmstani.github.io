@@ -8,6 +8,8 @@ tags: [tinnitus, sound-therapy, ai, hearing-health]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [tinnitus-ai, symptom-log]
+noindex: true
+
 ---
 
 # How AI Sound Therapy Can Help Relieve Tinnitus

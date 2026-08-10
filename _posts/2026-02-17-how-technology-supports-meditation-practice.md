@@ -8,6 +8,8 @@ tags: [meditation, technology, mindfulness, research, apps]
 silo: health-wellness
 pillar: health-wellness
 related_apps: [lotus, tiny-temple, tinnitus-ai]
+noindex: true
+
 ---
 
 ## The Paradox Nobody in the Mindfulness Industry Wants to Discuss

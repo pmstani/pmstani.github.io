@@ -8,6 +8,8 @@ tags: [digital-minimalism, simplify, iphone, focus, productivity]
 silo: productivity
 pillar: productivity
 related_apps: [clean-genie, tidy-downloads, local-weather-yawa, rss-reader, the-done-list, calxport]
+noindex: true
+
 ---
 
 ## The 80-App Problem

@@ -7,6 +7,8 @@ categories: [health-wellness]
 tags: [pet-vaccination, vaccination-records, dog-vaccines, cat-vaccines, pet-health, iphone]
 silo: health-wellness
 related_apps: [vetkit, symptom-log, health-export, photo-to-pdf, safe]
+noindex: true
+
 ---
 
 # How to Keep Pet Vaccination Records on Your Phone

@@ -8,6 +8,8 @@ tags: [duplicate-photos, storage, iphone, comparison, cleanup]
 silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [clean-genie]
+noindex: true
+
 ---
 
 Apple's iOS 16 introduced a "Duplicates" album in the Photos app — the first time the operating system acknowledged what users had known for years: photo libraries are full of duplicates, and finding them manually is nearly impossible at scale. The feature was a welcome addition, but it surfaces only exact duplicates and a narrow category of near-duplicates. For a library with 5,000 photos, it might find 50 duplicates. A dedicated cleaner scanning the same library typically finds 300 to 800 duplicates and near-duplicates, because the definition of "duplicate" is broader than bit-for-bit identical files.
