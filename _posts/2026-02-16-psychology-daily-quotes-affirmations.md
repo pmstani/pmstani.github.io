@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [motivation-quotes, positive-affirmations, bible-tab, quran-tab]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

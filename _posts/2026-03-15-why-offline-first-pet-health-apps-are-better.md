@@ -8,6 +8,7 @@ tags: [offline-first, data-privacy, pet-health-apps, pet-data, icloud-sync, ipho
 silo: health-wellness
 related_apps: [vetkit, symptom-log, panicvault, health-export, safe, equipt]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

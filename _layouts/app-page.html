@@ -116,7 +116,7 @@
       {% if app %}
       {% assign app_related_posts = "" | split: "" %}
       {% for post in site.posts %}
-        {% if post.related_apps contains app.slug %}
+        {% if post.related_apps contains app.slug and post.noindex != true %}
           {% assign app_related_posts = app_related_posts | push: post %}
         {% endif %}
       {% endfor %}

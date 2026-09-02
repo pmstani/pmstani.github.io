@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [calxport, equipt, safe, save-as-pdf, photo-to-pdf]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

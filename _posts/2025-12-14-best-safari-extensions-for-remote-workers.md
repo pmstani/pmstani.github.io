@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [make-it-dark-mode, sticky-notes, auto-refresh, command-palette, plain-paste, rss-reader, redirect-map-for-safari]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

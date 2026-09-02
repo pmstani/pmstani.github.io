@@ -10,6 +10,7 @@ pillar: education
 related_apps: [crr, survivalist, local-weather-yawa, save-as-pdf]
 permalink: /blog/education/vhf-fixe-vs-portable-plaisance-comment-choisir/
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

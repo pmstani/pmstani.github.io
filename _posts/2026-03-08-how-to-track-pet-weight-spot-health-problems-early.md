@@ -8,6 +8,7 @@ tags: [pet-weight, weight-tracking, dog-health, cat-health, obesity, pet-health,
 silo: health-wellness
 related_apps: [vetkit, symptom-log, health-export, food-scanner, mental-health-happysteps]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

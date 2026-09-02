@@ -121,7 +121,7 @@
         {% endif %}
       </div>
 
-      {% assign silo_posts = site.posts | where: "silo", page.silo %}
+      {% assign silo_posts = site.posts | where: "silo", page.silo | where_exp: "p", "p.noindex != true" %}
       {% if silo_posts.size > 1 %}
       <div class="related-posts">
         <h3>More in {{ page.silo | replace: '-', ' ' | capitalize }}</h3>

@@ -9,6 +9,7 @@ silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, pdiff, save-as-pdf, web2screen, color-palette]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

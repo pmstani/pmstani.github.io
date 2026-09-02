@@ -10,6 +10,7 @@ pillar: education
 related_apps: [crr, ppl, calcular, the-done-list, my-agenda-planning]
 permalink: /blog/education/repetition-espacee-leitner-reviser-crr/
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

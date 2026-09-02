@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [dyslexia, presbyopia, read-easier, make-it-dark-mode, auto-scroll, allow-copy, biggerkeys]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

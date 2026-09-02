@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [toomy, mental-health-happysteps, lotus, positive-affirmations, health-export, safe, symptom-log]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

@@ -9,6 +9,7 @@ silo: utilities
 pillar: utilities
 related_apps: [xlprinter, pdf-compressor, photo-to-pdf, save-as-pdf, color-palette, tidy-downloads]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

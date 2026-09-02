@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [biggerkeys, symptom-log, transcribe, my-agenda-planning, read-easier, presbyopia]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

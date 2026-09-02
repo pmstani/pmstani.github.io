@@ -10,6 +10,7 @@ pillar: education
 related_apps: [crr, local-weather-yawa, save-as-pdf, survivalist]
 permalink: /blog/education/cross-centres-regionaux-surveillance-sauvetage/
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

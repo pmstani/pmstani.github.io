@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [tidy-downloads, clean-genie, snapmark, safe, pdf-compressor, panicvault, mitre, ebouquin, soiree]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

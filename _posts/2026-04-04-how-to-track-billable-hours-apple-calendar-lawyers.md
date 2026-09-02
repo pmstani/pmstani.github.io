@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, transcribe, save-as-pdf, plain-paste]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

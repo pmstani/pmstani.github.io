@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, lotus, tiny-temple, tinnitus-ai, mental-health-happysteps, health-export, positive-affirmations, biggerkeys]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

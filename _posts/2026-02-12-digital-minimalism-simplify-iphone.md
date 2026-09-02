@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [clean-genie, tidy-downloads, local-weather-yawa, rss-reader, the-done-list, calxport]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

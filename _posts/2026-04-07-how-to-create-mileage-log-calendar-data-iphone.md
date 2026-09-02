@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [calxport, my-agenda-planning, equipt, save-as-pdf, safe, redirect-map-for-safari]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

@@ -9,6 +9,7 @@ silo: digital-privacy-security
 pillar: digital-privacy-security
 related_apps: [pdf-compressor, vetkit, xlprinter, ebouquin]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

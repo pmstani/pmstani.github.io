@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, food-scanner, mental-health-happysteps, lotus, local-weather-yawa, biggerkeys]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

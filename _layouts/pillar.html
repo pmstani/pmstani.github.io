@@ -72,7 +72,7 @@
           {{ content }}
         </div>
 
-        {% assign silo_posts = site.posts | where: "silo", page.silo %}
+        {% assign silo_posts = site.posts | where: "silo", page.silo | where_exp: "p", "p.noindex != true" %}
         {% if silo_posts.size > 0 %}
         <div class="pillar-articles">
           <h2>All Articles</h2>

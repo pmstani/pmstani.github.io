@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [photo-to-pdf, save-as-pdf, pdf-compressor, pdiff, vetkit, calxport, mitre, ebouquin, soiree]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

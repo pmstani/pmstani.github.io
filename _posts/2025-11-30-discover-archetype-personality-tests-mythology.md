@@ -9,6 +9,7 @@ silo: education-learning
 pillar: education-learning
 related_apps: [mythos]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

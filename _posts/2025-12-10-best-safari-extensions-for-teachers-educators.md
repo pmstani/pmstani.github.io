@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [web2screen, image-downloader, save-as-pdf, make-it-dark-mode, read-easier, crr, xlprinter]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

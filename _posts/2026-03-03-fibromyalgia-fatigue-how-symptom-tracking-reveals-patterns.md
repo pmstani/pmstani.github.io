@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, health-export, day-progress, mental-health-happysteps, lotus, tiny-temple, the-done-list]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

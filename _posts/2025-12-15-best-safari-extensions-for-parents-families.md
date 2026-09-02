@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [food-scanner, make-it-dark-mode, read-easier, motivation-quotes, retrofoot, xlprinter]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

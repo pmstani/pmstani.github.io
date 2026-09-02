@@ -3,7 +3,7 @@ layout: post
 title: "How to Audit Your Digital Privacy in 30 Minutes"
 description: "Run a complete digital privacy audit in 30 minutes. Covers password security, app permissions, location tracking, social media exposure, and browser privacy quick wins."
 date: 2026-01-05
-last_modified_at: 2026-07-01
+last_modified_at: 2026-09-02
 categories: [digital-privacy-security]
 tags: [privacy, audit, security, data-protection]
 silo: digital-privacy-security

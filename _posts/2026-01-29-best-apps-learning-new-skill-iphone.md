@@ -9,6 +9,7 @@ silo: education-learning
 pillar: education-learning
 related_apps: [karate, fight-iq, calcular, flash-card-boat, survivalist, mythos, retrofoot, ppl]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

@@ -4,13 +4,17 @@ title: "Blog - Tips, Guides & Tutorials"
 description: "Explore guides, tips, and tutorials about Safari extensions, iPhone productivity, health & wellness apps, and more from an independent iOS developer."
 ---
 
+{% comment %} Posts flagged noindex: true are pruned for search; keep them out of
+   every listing so the index and silo pages only surface live articles. {% endcomment %}
+{% assign live_posts = site.posts | where_exp: "p", "p.noindex != true" %}
+
 <div class="blog-hero">
   <h1>Tips, Guides &amp; <span class="blog-hero-accent">Tutorials</span></h1>
   <p>Practical advice on getting the most from your iPhone and Mac — from Safari extensions to productivity workflows, health apps, and developer tools.</p>
 </div>
 
 <div class="silo-grid">
-  {% assign safari_posts = site.posts | where: "silo", "safari-extensions" %}
+  {% assign safari_posts = live_posts | where: "silo", "safari-extensions" %}
   <a href="{{ '/blog/safari-extensions/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x1F310;</span>
     <h3>Safari Extensions</h3>
@@ -18,7 +22,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
     <span class="silo-card-count">{{ safari_posts.size }} articles</span>
   </a>
 
-  {% assign productivity_posts = site.posts | where: "silo", "productivity" %}
+  {% assign productivity_posts = live_posts | where: "silo", "productivity" %}
   <a href="{{ '/blog/productivity/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x26A1;</span>
     <h3>Productivity</h3>
@@ -26,7 +30,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
     <span class="silo-card-count">{{ productivity_posts.size }} articles</span>
   </a>
 
-  {% assign health_posts = site.posts | where: "silo", "health-wellness" %}
+  {% assign health_posts = live_posts | where: "silo", "health-wellness" %}
   <a href="{{ '/blog/health-wellness/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x1F33F;</span>
     <h3>Health &amp; Wellness</h3>
@@ -34,7 +38,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
     <span class="silo-card-count">{{ health_posts.size }} articles</span>
   </a>
 
-  {% assign privacy_posts = site.posts | where: "silo", "digital-privacy-security" %}
+  {% assign privacy_posts = live_posts | where: "silo", "digital-privacy-security" %}
   <a href="{{ '/blog/digital-privacy-security/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x1F512;</span>
     <h3>Digital Privacy &amp; Security</h3>
@@ -42,7 +46,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
     <span class="silo-card-count">{{ privacy_posts.size }} articles</span>
   </a>
 
-  {% assign education_posts = site.posts | where: "silo", "education-learning" %}
+  {% assign education_posts = live_posts | where: "silo", "education-learning" %}
   <a href="{{ '/blog/education-learning/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x1F4DA;</span>
     <h3>Education &amp; Learning</h3>
@@ -50,7 +54,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
     <span class="silo-card-count">{{ education_posts.size }} articles</span>
   </a>
 
-  {% assign dev_posts = site.posts | where: "silo", "developer-tools" %}
+  {% assign dev_posts = live_posts | where: "silo", "developer-tools" %}
   <a href="{{ '/blog/developer-tools/' | relative_url }}" class="silo-card">
     <span class="silo-card-icon">&#x1F6E0;</span>
     <h3>Developer &amp; Tech Tools</h3>
@@ -64,7 +68,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Safari Extensions</h3>
   <div class="blog-latest-list">
-    {% assign safari_all = site.posts | where: "silo", "safari-extensions" %}
+    {% assign safari_all = live_posts | where: "silo", "safari-extensions" %}
     {% for post in safari_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
@@ -75,7 +79,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Productivity</h3>
   <div class="blog-latest-list">
-    {% assign prod_all = site.posts | where: "silo", "productivity" %}
+    {% assign prod_all = live_posts | where: "silo", "productivity" %}
     {% for post in prod_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
@@ -86,7 +90,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Health &amp; Wellness</h3>
   <div class="blog-latest-list">
-    {% assign health_all = site.posts | where: "silo", "health-wellness" %}
+    {% assign health_all = live_posts | where: "silo", "health-wellness" %}
     {% for post in health_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
@@ -97,7 +101,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Digital Privacy &amp; Security</h3>
   <div class="blog-latest-list">
-    {% assign privacy_all = site.posts | where: "silo", "digital-privacy-security" %}
+    {% assign privacy_all = live_posts | where: "silo", "digital-privacy-security" %}
     {% for post in privacy_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
@@ -108,7 +112,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Education &amp; Learning</h3>
   <div class="blog-latest-list">
-    {% assign edu_all = site.posts | where: "silo", "education-learning" %}
+    {% assign edu_all = live_posts | where: "silo", "education-learning" %}
     {% for post in edu_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>
@@ -119,7 +123,7 @@ description: "Explore guides, tips, and tutorials about Safari extensions, iPhon
 
   <h3 class="blog-section-heading">Developer &amp; Tech Tools</h3>
   <div class="blog-latest-list">
-    {% assign dev_all = site.posts | where: "silo", "developer-tools" %}
+    {% assign dev_all = live_posts | where: "silo", "developer-tools" %}
     {% for post in dev_all %}
     <a href="{{ post.url | relative_url }}" class="blog-latest-item">
       <h3>{{ post.title }}</h3>

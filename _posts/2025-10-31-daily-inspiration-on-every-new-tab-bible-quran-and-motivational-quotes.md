@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [bible-tab, quran-tab, motivation-quotes]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

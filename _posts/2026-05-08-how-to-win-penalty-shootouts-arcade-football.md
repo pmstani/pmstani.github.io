@@ -9,6 +9,7 @@ silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, calcular, lotus, fight-iq]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

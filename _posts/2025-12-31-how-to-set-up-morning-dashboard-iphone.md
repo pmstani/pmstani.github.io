@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [day-progress, my-agenda-planning, local-weather-yawa, positive-affirmations]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

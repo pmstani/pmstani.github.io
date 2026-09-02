@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [image-downloader, web2screen, color-palette, extension-ai, prompt-wizard, html-to-markdown]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

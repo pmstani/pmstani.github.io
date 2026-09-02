@@ -8,6 +8,7 @@ tags: [pet-emergency, pet-first-aid, emergency-preparedness, pet-safety, pet-hea
 silo: health-wellness
 related_apps: [vetkit, survivalist, symptom-log, safe, transcribe, health-export]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

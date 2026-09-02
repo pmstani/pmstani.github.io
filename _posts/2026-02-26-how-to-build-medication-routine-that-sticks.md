@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [symptom-log, my-agenda-planning, day-progress, the-done-list, health-export, biggerkeys]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

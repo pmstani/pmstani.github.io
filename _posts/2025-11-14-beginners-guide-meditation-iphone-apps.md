@@ -9,6 +9,7 @@ silo: health-wellness
 pillar: health-wellness
 related_apps: [lotus, tiny-temple]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

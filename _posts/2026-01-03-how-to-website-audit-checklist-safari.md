@@ -9,6 +9,7 @@ silo: developer-tools
 pillar: developer-tools
 related_apps: [seo-for-safari, web-inspector, built-with, link-gopher, audit-plus-plus, format-json]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

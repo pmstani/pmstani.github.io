@@ -8,6 +8,7 @@ tags: [cat-health, cat-care, feline-health, pet-health-tracking, cat-weight, iph
 silo: health-wellness
 related_apps: [vetkit, symptom-log, health-export, food-scanner, lotus]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

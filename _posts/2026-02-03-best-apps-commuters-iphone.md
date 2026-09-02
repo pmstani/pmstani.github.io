@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [auto-scroll, rss-reader, transcribe, positive-affirmations, lotus, calxport, retrofoot, redirect-map-for-safari, soundspice]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

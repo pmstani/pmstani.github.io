@@ -10,6 +10,7 @@ pillar: education
 related_apps: [crr, ppl, calcular, save-as-pdf, my-agenda-planning]
 permalink: /blog/education/permis-bateau-crr-quel-ordre-choisir/
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

@@ -9,6 +9,7 @@ silo: entertainment
 pillar: entertainment
 related_apps: [retrofoot, the-done-list, fight-iq, day-progress]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

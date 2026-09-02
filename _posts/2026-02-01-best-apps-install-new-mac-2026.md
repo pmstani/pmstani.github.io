@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [tidy-downloads, plain-paste, make-it-dark-mode, command-palette, panicvault, pdf-compressor, mitre]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

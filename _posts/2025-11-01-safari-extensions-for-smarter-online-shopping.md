@@ -9,6 +9,7 @@ silo: safari-extensions
 pillar: safari-extensions
 related_apps: [convert, food-scanner]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

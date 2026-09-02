@@ -3,7 +3,7 @@ layout: post
 title: "Best Privacy and Security Apps for iPhone and Mac"
 description: "Discover the top privacy and security apps for iPhone and Mac that protect your data, manage passwords, clean up storage, and keep your digital life safe without compromising usability."
 date: 2025-11-20
-last_modified_at: 2026-07-01
+last_modified_at: 2026-09-02
 categories: [digital-privacy-security]
 tags: [privacy, security, iphone, mac, best-of]
 silo: digital-privacy-security

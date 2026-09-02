@@ -8,6 +8,7 @@ tags: [dog-medication, pet-medication, medication-schedule, dose-tracking, pet-h
 silo: health-wellness
 related_apps: [vetkit, symptom-log, my-agenda-planning, day-progress, transcribe]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 

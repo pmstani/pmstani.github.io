@@ -9,6 +9,7 @@ silo: productivity
 pillar: productivity
 related_apps: [cuevoice, transcribe, photo-to-pdf, image-downloader, web2screen, color-palette, ultra-wide-insta, calxport, mitre, soundspice]
 noindex: true
+last_modified_at: 2026-09-02
 
 ---
 
