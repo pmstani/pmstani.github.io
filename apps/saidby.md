@@ -27,6 +27,8 @@ The result is a transcript you can work with rather than a wall of text. Every p
 - People with a video-call recording or a voice memo who want a readable transcript with names on it, not just words
 - Anyone who has ever come out of a meeting asking "who said that?"
 
+Saidby is built for conversations between several people, and it transcribes once the recording ends. To dictate notes on the go and watch the words appear as you speak, [Transcribe](/apps/transcribe/), our speech-to-text app for iPhone, is the better fit.
+
 ## Why choose Saidby?
 
 Most transcription services work by sending your audio to a server, and for a lot of conversations that is a non-starter: a client's voice, a medical consultation, an interview under embargo. Saidby takes the other route. Transcription uses Apple's on-device speech models, and speaker separation runs inside the app. Saidby has no networking code at all — no server, no cloud, no upload, no sync — and no account, no sign-in, no analytics and no advertising identifier. Its App Store privacy label reads "Data Not Collected", which is a fact about how the app is built rather than a promise. The recording and the transcript stay in Saidby's own folder on your device, and a transcript reaches another app only when you export or share it yourself.

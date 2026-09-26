@@ -22,6 +22,8 @@ Export your transcripts in multiple formats to use them wherever you need — in
 - Content creators who prefer speaking to typing
 - Anyone who wants fast, accurate voice-to-text conversion on iPhone
 
+If your recordings are meetings with several people and you need to know who said what, [Saidby](/apps/saidby/), our meeting transcriber for iPhone, iPad and Mac, is built for exactly that: it separates the voices and puts a name and a time on every paragraph.
+
 ## Why choose Transcribe?
 
 Transcribe's AI engine delivers accuracy that matches professional transcription services at a fraction of the cost and time. Multi-language support makes it versatile for international use, and the multiple export formats ensure your transcripts integrate into any workflow.
