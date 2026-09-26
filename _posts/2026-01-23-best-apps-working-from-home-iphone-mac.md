@@ -3,6 +3,7 @@ layout: post
 title: "Best Apps for Working From Home on iPhone and Mac"
 description: "The best iPhone and Mac apps for remote workers in 2026. Tools for focus, file management, planning, transcription, and clipboard control."
 date: 2026-01-23
+last_modified_at: 2026-09-26
 categories: [productivity]
 tags: [remote-work, wfh, productivity, mac, iphone]
 silo: productivity
