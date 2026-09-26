@@ -1338,3 +1338,18 @@
   category: "safari-extensions"
   platforms: ["iOS", "iPadOS", "macOS"]
   keywords: ["open google maps in apple maps", "redirect google maps", "apple maps safari extension", "google maps to apple maps", "default maps app iphone", "safari extension maps", "apple maps links", "map link redirect", "navigation safari extension", "google maps alternative", "maps link opener", "apple maps directions"]
+
+- name: "Saidby"
+  slug: "saidby"
+  id: "6815562869"
+  icon: "saidby.png"
+  tagline: "Private Meeting Transcriber: Who Said What"
+  description: "Saidby is a private meeting transcriber for iPhone, iPad and Mac. Record a meeting, or drop in a recording you already have, and get back a transcript that says who said what, with a name and a time on every paragraph. Transcription and speaker separation run entirely on your device, with no networking code, no account and nothing ever uploaded, and you buy it once."
+  features:
+    - "Who said what: tell it how many people were in the meeting (up to 20) and Saidby separates and labels the voices itself, introduces each one by its first sentence with a play button so naming it takes seconds, and merges a voice split in two with a tap"
+    - "Record in the app with the screen locked, in the background and through a phone call, from the built-in or a connected microphone, or import voice memos, video-call recordings, MP3, M4A, WAV, MP4 and MOV"
+    - "Choose each meeting's language from those your device transcribes offline, including English, French, German, Spanish, Italian, Portuguese, Japanese, Korean and Chinese, then tap any timestamp to hear that moment, edit lines, reassign paragraphs and export Markdown, plain text, SRT or JSON"
+    - "Private by construction: Apple's on-device speech models, no networking code, no account, no analytics and a Data Not Collected privacy label, for one price with no subscription, no in-app purchases and no minute limits"
+  category: "productivity"
+  platforms: ["iOS", "iPadOS", "macOS"]
+  keywords: ["meeting transcription", "meeting transcriber", "who said what", "speaker identification", "speaker diarization", "offline transcription app", "on-device speech to text", "transcribe voice memos", "interview transcription", "lecture transcription", "private meeting notes", "transcription no subscription"]

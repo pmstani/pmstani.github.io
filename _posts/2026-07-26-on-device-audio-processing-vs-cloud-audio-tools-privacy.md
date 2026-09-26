@@ -7,7 +7,7 @@ categories: [utilities]
 tags: [on-device-processing, audio-privacy, cloud-vs-local, data-not-collected, audio-enhancement, gdpr, recording-privacy]
 silo: audio-enhancement
 pillar: audio-enhancement
-related_apps: [soundspice, health-export, panicvault, transcribe, safe]
+related_apps: [soundspice, health-export, panicvault, transcribe, saidby, safe]
 ---
 
 You finish a forty-minute interview and the room was noisier than it sounded at the time. So you drag the file into a web tool that promises to clean it up, wait two minutes, and download something noticeably better. It works, you use the audio, and at no point do you register what happened: the recording left your computer and now exists on hardware you have never seen, under terms you did not read.

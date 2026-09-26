@@ -534,5 +534,11 @@
     "app_name": "SoundSpice: Audio Enhancer",
     "app_description": "Audio Enhancer & Noise Cleaner",
     "image_url": "https://pstan.fr/img/apps/soundspice.png"
+  },
+  {
+    "app_url": "https://apps.apple.com/app/6815562869",
+    "app_name": "Saidby: Meeting Transcriber",
+    "app_description": "Private Meeting Transcriber: Who Said What",
+    "image_url": "https://pstan.fr/img/apps/saidby.png"
   }
 ]

@@ -7,7 +7,7 @@ categories: [utilities]
 tags: [voice-memos, iphone-audio, audio-enhancement, noise-reduction, field-recording, transcription, audio-repair]
 silo: audio-enhancement
 pillar: audio-enhancement
-related_apps: [soundspice, transcribe, cuevoice, read-easier, tidy-downloads]
+related_apps: [soundspice, transcribe, saidby, cuevoice, read-easier, tidy-downloads]
 ---
 
 The recording existed before it had a job. You hit record in a lecture because the slides were going past too fast, caught a melody humming in the car, recorded the consultant explaining the treatment plan, or interviewed your grandmother on a kitchen table with a fridge behind you.

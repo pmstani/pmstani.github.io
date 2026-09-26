@@ -8,7 +8,7 @@ categories: [productivity]
 tags: [freelance, self-employed, invoicing, productivity, apps]
 silo: productivity
 pillar: productivity
-related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, photo-to-pdf, cuevoice, day-progress, calxport, mitre, soundspice]
+related_apps: [the-done-list, my-agenda-planning, pdiff, transcribe, saidby, photo-to-pdf, cuevoice, day-progress, calxport, mitre, soundspice]
 ---
 
 ## Freelancing Is a Business With No Operations Team
@@ -75,7 +75,7 @@ Client meetings are where critical decisions happen. Scope is defined, timelines
 
 [Transcribe](/apps/transcribe/) converts meeting recordings to searchable text using on-device AI. Record the client meeting, transcribe it afterward, and you have a verbatim record of everything discussed. Extract action items, document decisions, and send a summary to the client confirming what was agreed. This serves as both a project management tool (you know exactly what needs to happen) and a legal protection (the record is timestamped and comprehensive).
 
-The on-device processing matters for freelancers who handle confidential client information. NDA-covered discussions, financial details, and strategic plans should not be uploaded to cloud-based transcription services.
+The on-device processing matters for freelancers who handle confidential client information. NDA-covered discussions, financial details, and strategic plans should not be uploaded to cloud-based transcription services. When the record also has to show who agreed to what, [Saidby](/apps/saidby/) transcribes on device and separates the voices, so every paragraph carries a speaker's name and a timestamp.
 
 Client calls recorded over a laptop speaker or a phone on a desk are rarely clean, and a noisy file produces a transcript with gaps in exactly the places you will need later. Running the recording through an audio repair pass first — noise reduction, hum removal, level matching — closes most of those gaps; the [best audio enhancer and noise removal apps](/blog/utilities/best-audio-enhancer-noise-removal-apps-iphone-ipad-mac/) guide covers what each type of problem actually needs.
 

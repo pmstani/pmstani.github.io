@@ -7,7 +7,7 @@ categories: [productivity]
 tags: [remote-work, wfh, productivity, mac, iphone]
 silo: productivity
 pillar: productivity
-related_apps: [tidy-downloads, the-done-list, transcribe, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter, mitre, soundspice]
+related_apps: [tidy-downloads, the-done-list, transcribe, saidby, my-agenda-planning, day-progress, plain-paste, command-palette, vetkit, calxport, xlprinter, mitre, soundspice]
 ---
 
 ## Remote Work Demands Different Software
@@ -82,7 +82,7 @@ Remote meetings are a constant. The average remote worker attends 8 to 12 virtua
 
 The consequence is real. Action items get lost, decisions are remembered differently by different participants, and critical context disappears into the void. You end up scheduling follow-up meetings to recover information from the original meeting, which is both wasteful and demoralizing.
 
-[Transcribe](/apps/transcribe/) resolves this by converting audio recordings to text using on-device AI. Record the meeting on your iPhone (or import the recording from Zoom, Teams, or Google Meet), and the app produces an editable text transcript. Everything is processed locally, so confidential business discussions never leave your device.
+[Transcribe](/apps/transcribe/) resolves this by converting audio recordings to text using on-device AI. Record the meeting on your iPhone (or import the recording from Zoom, Teams, or Google Meet), and the app produces an editable text transcript. Everything is processed locally, so confidential business discussions never leave your device. If the problem is that people remember decisions differently, a transcript with names on it helps more than one without: [Saidby](/apps/saidby/) also works entirely on device, and labels each paragraph with the person who said it.
 
 The practical workflow is straightforward. Start recording at the beginning of the meeting. Focus entirely on listening and contributing. After the meeting, run the recording through Transcribe to generate a searchable text file. Pull out action items and decisions, share relevant sections with teammates, and archive the transcript for reference.
 
